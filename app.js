@@ -6,9 +6,9 @@ const FEEDS = [
   { id: "binnenland", label: "Binnenland", url: "https://feeds.nos.nl/nosnieuwsbinnenland" },
   { id: "buitenland", label: "Buitenland", url: "https://feeds.nos.nl/nosnieuwsbuitenland" },
   { id: "economie", label: "Economie", url: "https://feeds.nos.nl/nosnieuwseconomie" },
-  { id: "sport", label: "Sport", url: "https://feeds.nos.nl/nosnieuwssport" },
+  { id: "sport", label: "Sport", url: "https://feeds.nos.nl/nossportalgemeen" },
   { id: "cultuur", label: "Cultuur & Media", url: "https://feeds.nos.nl/nosnieuwscultuurenmedia" },
-  { id: "wetenschap", label: "Wetenschap", url: "https://feeds.nos.nl/nosnieuwswetenschap" },
+  { id: "tech", label: "Tech & Wetenschap", url: "https://feeds.nos.nl/nosnieuwstech" },
   { id: "bewaard", label: "Bewaard", special: true }
 ];
 
@@ -116,6 +116,17 @@ function haalFeedOp(feedUrl) {
   return pogingen.reduce((vorige, huidige) => vorige.catch(() => huidige));
 }
 
+function eigenNieuwsJson(ruw) {
+  if (!ruw) return null;
+  const t = ruw.trim();
+  if (!t.startsWith("{")) return null;
+  try {
+    const j = JSON.parse(t);
+    if (j.feeds && typeof j.feeds === "object") return j;
+  } catch (e) { /* andere json, negeren */ }
+  return null;
+}
+
 function ontvouwAntwoord(ruw) {
   const tekst = (ruw || "").trim();
   if (tekst.startsWith("{")) {
@@ -158,40 +169,33 @@ function parseFeed(ruw) {
 async function haalAlleFeedsOp() {
   staat.laadt = true;
   staat.fouten = {};
-  toonVoortgang(5);
+  toonVoortgang(10);
   updateStatus();
 
-  const doelwitten = FEEDS.filter(f => f.url);
-  let klaar = 0;
-
-  const resultaten = await Promise.all(doelwitten.map(async feed => {
-    let items = [];
-    let fout = null;
-    try {
-      const ruw = await haalFeedOp(feed.url);
-      items = parseFeed(ruw);
-      if (!items.length) throw new Error("Geen artikelen gevonden");
-    } catch (e) {
-      fout = e && e.message ? e.message : "Onbekende fout";
+  let gegenereerd = null;
+  try {
+    const antwoord = await fetch("data/nieuws.json", { cache: "no-store" });
+    if (antwoord.ok) {
+      const eigen = eigenNieuwsJson(await antwoord.text());
+      if (eigen) {
+        FEEDS.filter(f => f.url).forEach(feed => {
+          const items = eigen.feeds[feed.id] || [];
+          if (items.length) staat.feeds[feed.id] = items;
+        });
+        gegenereerd = eigen.gegenereerd || null;
+      }
     }
-    klaar++;
-    toonVoortgang(5 + Math.round((klaar / doelwitten.length) * 95));
-    return { id: feed.id, items, fout };
-  }));
+  } catch (e) { /* lokale data onbestaand, door naar proxies */ }
 
-  resultaten.forEach(r => {
-    if (r.fout && !(staat.feeds[r.id] || []).length) {
-      staat.feeds[r.id] = [];
-      staat.fouten[r.id] = r.fout;
-    } else if (r.fout) {
-      delete staat.fouten[r.id];
-    } else {
-      staat.feeds[r.id] = r.items;
-      delete staat.fouten[r.id];
-    }
-  });
+  toonVoortgang(60);
 
-  staat.verversedOp = new Date().toISOString();
+  const veroud = !gegenereerd || (Date.now() - new Date(gegenereerd).getTime()) > 3 * 3600000;
+  if (veroud) {
+    await haalFeedsViaProxies();
+    if (!Object.keys(staat.fouten).length) gegenereerd = new Date().toISOString();
+  }
+
+  staat.verversedOp = new Date(gegenereerd || Date.now()).toISOString();
   staat.laadt = false;
   slaCache();
   toonVoortgang(100);
@@ -199,6 +203,36 @@ async function haalAlleFeedsOp() {
   updateStatus();
   renderTabs();
   renderInhoud();
+}
+
+async function haalFeedsViaProxies() {
+  const doelwitten = FEEDS.filter(f => f.url);
+  let klaar = 0;
+
+  const resultaten = await Promise.all(doelwitten.map(async feed => {
+    let feedItems = [];
+    let fout = null;
+    try {
+      const ruw = await haalFeedOp(feed.url);
+      feedItems = parseFeed(ruw);
+      if (!feedItems.length) throw new Error("Geen artikelen gevonden");
+    } catch (e) {
+      fout = e && e.message ? e.message : "Onbekende fout";
+    }
+    klaar++;
+    toonVoortgang(60 + Math.round((klaar / doelwitten.length) * 40));
+    return { id: feed.id, items: feedItems, fout };
+  }));
+
+  resultaten.forEach(r => {
+    if (r.fout && !(staat.feeds[r.id] || []).length) {
+      staat.feeds[r.id] = [];
+      staat.fouten[r.id] = r.fout;
+    } else if (!r.fout && (r.items || []).length) {
+      staat.feeds[r.id] = r.items;
+      delete staat.fouten[r.id];
+    }
+  });
 }
 
 function geefHoogtepunten() {
@@ -460,8 +494,7 @@ function init() {
   renderInhoud();
   updateStatus();
 
-  if (!staat.verversedOp) verfris();
-  else el("datum-regel").textContent = el("datum-regel").textContent;
+  if (navigator.onLine !== false) verfris();
 }
 
 document.addEventListener("DOMContentLoaded", init);

@@ -2,38 +2,34 @@
 
 Een snelle, statische web-app die het belangrijkste actuele Nederlandse nieuws per categorie toont. Gebouwd rond de officiële RSS-feeds van de NOS.
 
+Live: **https://josbus1961.github.io/nl-nieuws-app/**
+
 ## Categorieën
 
 - **Hoogtepunten** — de twee nieuwste berichten per categorie, samengevoegd op tijdstip
-- **Algemeen**
-- **Binnenland**
-- **Buitenland**
-- **Economie**
-- **Sport**
-- **Cultuur & Media**
-- **Wetenschap**
+- **Algemeen**, **Binnenland**, **Buitenland**, **Economie**, **Sport**, **Cultuur & Media**, **Tech & Wetenschap**
 - **Bewaard** — door jou opgeslagen artikelen (lokaal in de browser)
 
-## Dagelijks verversen
+## Hoe het verversen werkt
 
-- Bij het openen op een nieuwe dag wordt automatisch vers nieuws opgehaald.
-- Handmatig verversen kan altijd via de rode **Verversen**-knop.
-- Berichten van dezelfde dag worden lokaal gecached, zodat de app meteen opent.
-- Relatieve tijden ("20 minuten geleden") per bericht en een tijdstip van laatste verversing bovenin.
+1. Een GitHub Action (`nieuws.yml`) haalt **elke 30 minuten** de NOS-feeds op en schrijft het resultaat als `data/nieuws.json` in deze repository.
+2. De site leest dat bestand van haar eigen domein — geen CORS-problemen, geen externe diensten nodig.
+3. Bij het openen haalt de app altijd de laatste `nieuws.json` op; is die ouder dan 3 uur (of afwezig), dan probeert hij het live via publieke CORS-proxies als noodval.
+4. Bij een nieuwe dag wordt de cache doorververst; de rode **Verversen**-knop haalt altijd opnieuw op.
 
-## Gebruik
+## Lokaal draaien
 
-Geen build-stap nodig. Open `index.html` direct in de browser, of host de map op een statische host (GitHub Pages, Netlify, enz.):
+Geen build-stap nodig:
 
 ```bash
 python3 -m http.server 8080
 ```
 
-ga dan naar http://localhost:8080.
+ga dan naar http://localhost:8080. (Wil je lokaal verse data? Run `node scripts/haal-nieuws.mjs`.)
 
 ## Technisch
 
 - Pure HTML/CSS/JS, geen dependencies en geen server.
-- De NOS-feeds bieden geen CORS-headers voor browsers; de app probeert eerst direct en valt daarna automatisch terug op publieke CORS-proxies (`allorigins`, `codetabs`, `corsproxy`).
-- Artikelen openen op nos.nl; de app zelf toont alleen koppen, samenvattingen en links.
-- Bewaarde artikelen en het donkere thema worden in `localStorage` bewaard.
+- `scripts/haal-nieuws.mjs` parseert de NOS-RSS met een kleine regex-parser en schrijft een compacte JSON (7 feeds × 25 items).
+- Gewijzigde data wordt door de Action automatisch gecommit; de Pages-build publiceert dan ~1 minuut later de nieuwe inhoud.
+- Bewaarde artikelen en het donkere thema staan in `localStorage`.
