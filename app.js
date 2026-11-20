@@ -15,6 +15,7 @@ const FEEDS = [
 const PROXIES = [
   url => url,
   url => "https://api.allorigins.win/raw?url=" + encodeURIComponent(url),
+  url => "https://api.allorigins.win/get?url=" + encodeURIComponent(url),
   url => "https://api.codetabs.com/v1/proxy?quest=" + encodeURIComponent(url),
   url => "https://corsproxy.io/?url=" + encodeURIComponent(url)
 ];
@@ -115,8 +116,19 @@ function haalFeedOp(feedUrl) {
   return pogingen.reduce((vorige, huidige) => vorige.catch(() => huidige));
 }
 
+function ontvouwAntwoord(ruw) {
+  const tekst = (ruw || "").trim();
+  if (tekst.startsWith("{")) {
+    try {
+      const j = JSON.parse(tekst);
+      if (typeof j.contents === "string") return j.contents;
+    } catch (e) { /* geen ingepakt JSON-antwoord */ }
+  }
+  return tekst;
+}
+
 function parseFeed(ruw) {
-  const doc = new DOMParser().parseFromString(ruw, "text/xml");
+  const doc = new DOMParser().parseFromString(ontvouwAntwoord(ruw), "text/xml");
   if (doc.querySelector("parsererror")) throw new Error("Ongeldig RSS-antwoord");
   const nodes = Array.from(doc.querySelectorAll("item, entry"));
   return nodes.slice(0, MAX_PER_FEED).map(node => {
