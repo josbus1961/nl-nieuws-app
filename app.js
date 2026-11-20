@@ -287,7 +287,7 @@ function nieuwsItemHtml(item, opties) {
     '<div class="item-labels">' + labels + "</div>" +
     '<h3 class="item-kop"><a href="' + encodeURI(item.link) + '" target="_blank" rel="noopener">' +
       escapeHtml(item.titel) + "</a></h3>" +
-    (item.samenvatting ? '<p class="item-samenvatting">' + escapeHtml(item.samenvatting) + "</p>" : "") +
+    (item.samenvatting ? '<p class="item-samenvatting">' + escapeHtml(stripHtml(item.samenvatting)) + "</p>" : "") +
     '<div class="item-meta"><span>' +
       escapeHtml(relatieveTijd(item.datum) || flexTijd(item.datum)) +
     "</span></div>";

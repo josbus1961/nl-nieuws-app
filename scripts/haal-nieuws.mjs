@@ -109,6 +109,23 @@ function dedupliceer(items) {
   return gehouden;
 }
 
+
+function stripTags(html) {
+  return cdata(html)
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&amp;/g, "&")
+    .replace(/<style[\s\S]*?<\/style>/gi, " ")
+    .replace(/<script[\s\S]*?<\/script>/gi, " ")
+    .replace(/<[^>]*>/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .slice(0, 300);
+}
+
 function parseAtomOfRss(xml, bron) {
   const isAtom = /<feed[\s>]/i.test(xml);
   const sep = isAtom ? "entry" : "item";
@@ -138,7 +155,7 @@ function parseAtomOfRss(xml, bron) {
       const d = new Date(ruweDatum);
       if (!isNaN(d)) iso = d.toISOString();
     }
-    const samenvatting = taginhoud(blok, "description");
+    const samenvatting = bron === "Google Nieuws" ? "" : stripTags(taginhoud(blok, "description"));
     if (!link) continue;
     items.push({ titel: titel, normalized: normaliseerTitel(titel), link, samenvatting, datum: iso, bron, foto: haalFoto(blok) });
   }
