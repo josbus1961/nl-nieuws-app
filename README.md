@@ -8,8 +8,8 @@ Live: **https://josbus1961.github.io/nl-nieuws-app/**
 
 **Landelijk** (NOS + NU.nl + RTL Nieuws):
 
-- Hoogtepunten — mix van landelijke en regionale koppen op tijdstip
-- Algemeen, Binnenland, Buitenland, Economie, Sport, Cultuur & Media, Tech & Wetenschap
+- Alles — alle binnengekomen berichten uit alle categorieën, nieuwste bovenaan (max. 120)
+- Algemeen, Binnenland, Buitenland, **Politiek** (NOS), Economie, Sport, Cultuur & Media, Tech & Wetenschap
 
 **Regionaal:**
 

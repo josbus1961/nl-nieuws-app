@@ -1,10 +1,11 @@
 "use strict";
 
 const FEEDS = [
-  { id: "hoogtepunten", label: "Hoogtepunten", special: true, centraal: true },
+  { id: "alles", label: "Alles", special: true },
   { id: "algemeen", label: "Algemeen" },
   { id: "binnenland", label: "Binnenland" },
   { id: "buitenland", label: "Buitenland" },
+  { id: "politiek", label: "Politiek" },
   { id: "economie", label: "Economie" },
   { id: "sport", label: "Sport" },
   { id: "cultuur", label: "Cultuur & Media" },
@@ -30,7 +31,7 @@ const MAX_PER_FEED = 25;
 const TOP_MARKERINGEN = 3;
 
 const staat = {
-  tab: "hoogtepunten",
+  tab: "alles",
   feeds: {},
   fouten: {},
   verversedOp: null,
@@ -219,22 +220,20 @@ async function haalAlleFeedsOp() {
   renderInhoud();
 }
 
-function geefHoogtepunten() {
-  const lijst = [];
-  FEEDS.filter(f => f.regio).forEach(feed => {
-    (staat.feeds[feed.id] || []).slice(0, 1).forEach(item => {
-      lijst.push({ ...item, categorieLabel: feed.label });
+const MAX_ALLES = 120;
+
+function geefAlles() {
+  const uniek = new Map();
+  FEEDS.filter(f => !f.special).forEach(feed => {
+    (staat.feeds[feed.id] || []).forEach(item => {
+      if (item.categorieLabel) return;
+      const sleutel = item.link.split("?")[0];
+      if (!uniek.has(sleutel)) uniek.set(sleutel, { ...item, categorieLabel: feed.label });
     });
   });
-  const centrale = FEEDS.filter(f => !f.special && !f.regio);
-  const perCentraal = Math.max(1, Math.floor((20 - lijst.length) / Math.max(1, centrale.length)));
-  centrale.forEach(feed => {
-    (staat.feeds[feed.id] || []).slice(0, perCentraal).forEach(item => {
-      lijst.push({ ...item, categorieLabel: feed.label });
-    });
-  });
+  const lijst = Array.from(uniek.values());
   lijst.sort((a, b) => new Date(b.datum) - new Date(a.datum));
-  return lijst.slice(0, 20);
+  return lijst.slice(0, MAX_ALLES);
 }
 
 function renderTabs() {
@@ -250,7 +249,8 @@ function renderTabs() {
         const n = laadBewaard().length;
         knop.innerHTML = "🔖 " + escapeHtml(feed.label) + (n ? ' <span class="teller">' + n + "</span>" : "");
       } else {
-        knop.innerHTML = "★ " + escapeHtml(feed.label);
+        const totaal = Object.values(staat.feeds).reduce((a, b) => a + b.length, 0);
+        knop.innerHTML = escapeHtml(feed.label) + (totaal ? ' <span class="teller">' + totaal + "</span>" : "");
       }
     } else {
       const n = (staat.feeds[feed.id] || []).length;
@@ -356,7 +356,7 @@ function toonLeeg(id, bericht) {
 }
 
 function geefActieveLijst() {
-  if (staat.tab === "hoogtepunten") return geefHoogtepunten();
+  if (staat.tab === "alles") return geefAlles();
   if (staat.tab === "bewaard") return laadBewaard();
   return staat.feeds[staat.tab] || [];
 }
@@ -399,11 +399,11 @@ function renderInhoud() {
     return;
   }
 
-  const isHoog = staat.tab === "hoogtepunten";
+  const alles = staat.tab === "alles";
   items.forEach((item, idx) => {
     inhoud.appendChild(nieuwsItemHtml(item, {
-      toonCategorie: isHoog ? item.categorieLabel : null,
-      top: !isHoog && idx < TOP_MARKERINGEN
+      toonCategorie: alles ? item.categorieLabel : null,
+      top: !alles && idx < TOP_MARKERINGEN
     }));
   });
 }

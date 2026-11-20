@@ -6,6 +6,7 @@ const BRONNEN = [
   { cat: "binnenland", bron: "NU.nl", url: "https://www.nu.nl/rss/Binnenland" },
   { cat: "buitenland", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwsbuitenland" },
   { cat: "buitenland", bron: "NU.nl", url: "https://www.nu.nl/rss/Buitenland" },
+  { cat: "politiek", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwspolitiek" },
   { cat: "economie", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwseconomie" },
   { cat: "economie", bron: "NU.nl", url: "https://www.nu.nl/rss/Economie" },
   { cat: "sport", bron: "NOS", url: "https://feeds.nos.nl/nossportalgemeen" },
