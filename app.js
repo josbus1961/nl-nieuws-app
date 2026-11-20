@@ -1,24 +1,27 @@
 "use strict";
 
 const FEEDS = [
-  { id: "hoogtepunten", label: "Hoogtepunten", special: true },
-  { id: "algemeen", label: "Algemeen", url: "https://feeds.nos.nl/nosnieuwsalgemeen" },
-  { id: "binnenland", label: "Binnenland", url: "https://feeds.nos.nl/nosnieuwsbinnenland" },
-  { id: "buitenland", label: "Buitenland", url: "https://feeds.nos.nl/nosnieuwsbuitenland" },
-  { id: "economie", label: "Economie", url: "https://feeds.nos.nl/nosnieuwseconomie" },
-  { id: "sport", label: "Sport", url: "https://feeds.nos.nl/nossportalgemeen" },
-  { id: "cultuur", label: "Cultuur & Media", url: "https://feeds.nos.nl/nosnieuwscultuurenmedia" },
-  { id: "tech", label: "Tech & Wetenschap", url: "https://feeds.nos.nl/nosnieuwstech" },
+  { id: "hoogtepunten", label: "Hoogtepunten", special: true, centraal: true },
+  { id: "algemeen", label: "Algemeen" },
+  { id: "binnenland", label: "Binnenland" },
+  { id: "buitenland", label: "Buitenland" },
+  { id: "economie", label: "Economie" },
+  { id: "sport", label: "Sport" },
+  { id: "cultuur", label: "Cultuur & Media" },
+  { id: "tech", label: "Tech & Wetenschap" },
+  { id: "zeeland", label: "Zeeland", regio: true },
+  { id: "brabant", label: "Brabant", regio: true },
+  { id: "borsele", label: "Borsele", regio: true },
+  { id: "kwadendamme", label: "Kwadendamme", regio: true },
+  { id: "roosendaal", label: "Roosendaal", regio: true },
   { id: "bewaard", label: "Bewaard", special: true }
 ];
 
-const PROXIES = [
-  url => url,
-  url => "https://api.allorigins.win/raw?url=" + encodeURIComponent(url),
-  url => "https://api.allorigins.win/get?url=" + encodeURIComponent(url),
-  url => "https://api.codetabs.com/v1/proxy?quest=" + encodeURIComponent(url),
-  url => "https://corsproxy.io/?url=" + encodeURIComponent(url)
-];
+const WEER_URL = "https://api.open-meteo.com/v1/forecast?latitude=51.4732&longitude=4.036" +
+  "&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max" +
+  "&timezone=Europe%2FAmsterdam&forecast_days=3";
+const WEER_CACHE_KEY = "nl-nieuws-weer-v1";
+const WEER_CACHETIJD = 30 * 60 * 1000;
 
 const CACHE_KEY = "nl-nieuws-cache-v1";
 const BEWAARD_KEY = "nl-nieuws-bewaard-v1";
@@ -107,13 +110,63 @@ function stripHtml(html) {
   return (t.value || "").replace(/\s+/g, " ").trim();
 }
 
-function haalFeedOp(feedUrl) {
-  const pogingen = PROXIES.map(proxy => (async () => {
-    const antwoord = await fetch(proxy(feedUrl), { cache: "no-store" });
+function weerOmschrijving(code) {
+  if (code === 0) return ["☀️", "Zonnig"];
+  if (code === 1) return ["🌤️", "Licht bewolkt"];
+  if (code === 2) return ["⛅", "Half bewolkt"];
+  if (code === 3) return ["☁️", "Bewolkt"];
+  if (code === 45 || code === 48) return ["🌫️", "Mist"];
+  if (code >= 51 && code <= 57) return ["🌦️", "Motregen"];
+  if (code >= 61 && code <= 67) return ["🌧️", "Regen"];
+  if (code >= 71 && code <= 77) return ["❄️", "Sneeuw"];
+  if (code >= 80 && code <= 82) return ["🌧️", "Buien"];
+  if (code === 85 || code === 86) return ["🌨️", "Sneeuwbuien"];
+  if (code >= 95) return ["⛈️", "Onweer"];
+  return ["🌡️", "Weer"];
+}
+
+function dagLabelW(i, iso) {
+  if (i === 0) return "Vandaag";
+  if (i === 1) return "Morgen";
+  const d = new Date(iso);
+  if (isNaN(d)) return "Dag " + (i + 1);
+  const naam = new Intl.DateTimeFormat("nl-NL", { weekday: "long" }).format(d);
+  return naam.charAt(0).toUpperCase() + naam.slice(1);
+}
+
+async function laadWeer() {
+  let data = null;
+  try {
+    const c = JSON.parse(localStorage.getItem(WEER_CACHE_KEY) || "null");
+    if (c && Date.now() - c.tijd < WEER_CACHETIJD && c.daily) data = c.daily;
+  } catch (e) { /* oude cache negeren */ }
+
+  if (!data) {
+    const antwoord = await fetch(WEER_URL, { cache: "no-store" });
     if (!antwoord.ok) throw new Error("HTTP " + antwoord.status);
-    return antwoord.text();
-  })());
-  return pogingen.reduce((vorige, huidige) => vorige.catch(() => huidige));
+    const j = await antwoord.json();
+    if (!j.daily) throw new Error("geen weerdata");
+    data = j.daily;
+    try { localStorage.setItem(WEER_CACHE_KEY, JSON.stringify({ tijd: Date.now(), daily: data })); } catch (e) { /* opslag vol */ }
+  }
+
+  const balk = el("weerbalk");
+  balk.hidden = false;
+  const rij = [0, 1, 2].map(i => {
+    const icoOmschr = weerOmschrijving(data.weather_code[i]);
+    const neerslag = (data.precipitation_sum[i] || 0).toFixed(1);
+    const wind = Math.round(data.wind_speed_10m_max[i] || 0);
+    return '<div class="weer-dag">' +
+      '<div class="weer-dagnaam">' + escapeHtml(dagLabelW(i, data.time[i])) + "</div>" +
+      '<div class="weer-icoon">' + icoOmschr[0] + "</div>" +
+      '<div class="weer-tekst">' + escapeHtml(icoOmschr[1]) + "</div>" +
+      '<div class="weer-temp"><strong>' + Math.round(data.temperature_2m_max[i]) + "°</strong> / " + Math.round(data.temperature_2m_min[i]) + "°</div>" +
+      '<div class="weer-extra">💧 ' + neerslag + " mm · 💨 " + wind + " km/h</div>" +
+    "</div>";
+  }).join("");
+  balk.innerHTML =
+    '<div class="weer-kop">🌦️ Weersverwachting Kwadendamme <span class="weer-bron">– Open-Meteo</span></div>' +
+    '<div class="weer-rij">' + rij + "</div>";
 }
 
 function eigenNieuwsJson(ruw) {
@@ -123,79 +176,40 @@ function eigenNieuwsJson(ruw) {
   try {
     const j = JSON.parse(t);
     if (j.feeds && typeof j.feeds === "object") return j;
-  } catch (e) { /* andere json, negeren */ }
+  } catch (e) { /* ongeldig json, negeren */ }
   return null;
-}
-
-function ontvouwAntwoord(ruw) {
-  const tekst = (ruw || "").trim();
-  if (tekst.startsWith("{")) {
-    try {
-      const j = JSON.parse(tekst);
-      if (typeof j.contents === "string") return j.contents;
-    } catch (e) { /* geen ingepakt JSON-antwoord */ }
-  }
-  return tekst;
-}
-
-function parseFeed(ruw) {
-  const doc = new DOMParser().parseFromString(ontvouwAntwoord(ruw), "text/xml");
-  if (doc.querySelector("parsererror")) throw new Error("Ongeldig RSS-antwoord");
-  const nodes = Array.from(doc.querySelectorAll("item, entry"));
-  return nodes.slice(0, MAX_PER_FEED).map(node => {
-    const titel = stripHtml(node.querySelector("title")?.textContent) || "";
-    const link =
-      (node.querySelector("link")?.textContent || "").trim() ||
-      node.querySelector("link[rel='alternate']")?.getAttribute("href") ||
-      "";
-    const samenvatting = stripHtml(
-      node.querySelector("description")?.textContent ||
-      node.querySelector("summary")?.textContent ||
-      ""
-    );
-    const ruweDatum = node.querySelector("pubDate")?.textContent ||
-      node.querySelector("published")?.textContent ||
-      node.querySelector("updated")?.textContent || "";
-    return {
-      titel,
-      link,
-      samenvatting,
-      datum: ruweDatum ? new Date(ruweDatum).toISOString() : "",
-      bron: "NOS"
-    };
-  }).filter(i => i.titel && i.link);
 }
 
 async function haalAlleFeedsOp() {
   staat.laadt = true;
   staat.fouten = {};
-  toonVoortgang(10);
+  toonVoortgang(25);
   updateStatus();
 
-  let gegenereerd = null;
+  let gelukt = false;
+  laadWeer().catch(() => {});
   try {
     const antwoord = await fetch("data/nieuws.json", { cache: "no-store" });
     if (antwoord.ok) {
       const eigen = eigenNieuwsJson(await antwoord.text());
       if (eigen) {
-        FEEDS.filter(f => f.url).forEach(feed => {
+        FEEDS.filter(f => !f.special).forEach(feed => {
           const items = eigen.feeds[feed.id] || [];
-          if (items.length) staat.feeds[feed.id] = items;
+          if (items.length) {
+            staat.feeds[feed.id] = items;
+            delete staat.fouten[feed.id];
+          }
         });
-        gegenereerd = eigen.gegenereerd || null;
+        gelukt = true;
+        staat.verversedOp = eigen.gegenereerd || new Date().toISOString();
       }
     }
-  } catch (e) { /* lokale data onbestaand, door naar proxies */ }
+  } catch (e) { /* offline of data onbestaand; cache blijft staan */ }
 
-  toonVoortgang(60);
-
-  const veroud = !gegenereerd || (Date.now() - new Date(gegenereerd).getTime()) > 3 * 3600000;
-  if (veroud) {
-    await haalFeedsViaProxies();
-    if (!Object.keys(staat.fouten).length) gegenereerd = new Date().toISOString();
+  if (!gelukt && !staat.verversedOp) {
+    staat.fouten[staat.tab] = "Kon het nieuws niet laden. Controleer je internetverbinding.";
   }
 
-  staat.verversedOp = new Date(gegenereerd || Date.now()).toISOString();
   staat.laadt = false;
   slaCache();
   toonVoortgang(100);
@@ -205,40 +219,17 @@ async function haalAlleFeedsOp() {
   renderInhoud();
 }
 
-async function haalFeedsViaProxies() {
-  const doelwitten = FEEDS.filter(f => f.url);
-  let klaar = 0;
-
-  const resultaten = await Promise.all(doelwitten.map(async feed => {
-    let feedItems = [];
-    let fout = null;
-    try {
-      const ruw = await haalFeedOp(feed.url);
-      feedItems = parseFeed(ruw);
-      if (!feedItems.length) throw new Error("Geen artikelen gevonden");
-    } catch (e) {
-      fout = e && e.message ? e.message : "Onbekende fout";
-    }
-    klaar++;
-    toonVoortgang(60 + Math.round((klaar / doelwitten.length) * 40));
-    return { id: feed.id, items: feedItems, fout };
-  }));
-
-  resultaten.forEach(r => {
-    if (r.fout && !(staat.feeds[r.id] || []).length) {
-      staat.feeds[r.id] = [];
-      staat.fouten[r.id] = r.fout;
-    } else if (!r.fout && (r.items || []).length) {
-      staat.feeds[r.id] = r.items;
-      delete staat.fouten[r.id];
-    }
-  });
-}
-
 function geefHoogtepunten() {
   const lijst = [];
-  FEEDS.filter(f => f.url).forEach(feed => {
-    (staat.feeds[feed.id] || []).slice(0, 2).forEach(item => {
+  FEEDS.filter(f => f.regio).forEach(feed => {
+    (staat.feeds[feed.id] || []).slice(0, 1).forEach(item => {
+      lijst.push({ ...item, categorieLabel: feed.label });
+    });
+  });
+  const centrale = FEEDS.filter(f => !f.special && !f.regio);
+  const perCentraal = Math.max(1, Math.floor((20 - lijst.length) / Math.max(1, centrale.length)));
+  centrale.forEach(feed => {
+    (staat.feeds[feed.id] || []).slice(0, perCentraal).forEach(item => {
       lijst.push({ ...item, categorieLabel: feed.label });
     });
   });

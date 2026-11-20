@@ -1,14 +1,25 @@
-const FEEDS = [
-  { id: "algemeen", url: "https://feeds.nos.nl/nosnieuwsalgemeen" },
-  { id: "binnenland", url: "https://feeds.nos.nl/nosnieuwsbinnenland" },
-  { id: "buitenland", url: "https://feeds.nos.nl/nosnieuwsbuitenland" },
-  { id: "economie", url: "https://feeds.nos.nl/nosnieuwseconomie" },
-  { id: "sport", url: "https://feeds.nos.nl/nossportalgemeen" },
-  { id: "cultuur", url: "https://feeds.nos.nl/nosnieuwscultuurenmedia" },
-  { id: "tech", url: "https://feeds.nos.nl/nosnieuwstech" }
+const BRONNEN = [
+  { cat: "algemeen", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwsalgemeen" },
+  { cat: "algemeen", bron: "NU.nl", url: "https://www.nu.nl/rss/Algemeen" },
+  { cat: "algemeen", bron: "RTL Nieuws", url: "https://www.rtlnieuws.nl/rss.xml" },
+  { cat: "binnenland", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwsbinnenland" },
+  { cat: "binnenland", bron: "NU.nl", url: "https://www.nu.nl/rss/Binnenland" },
+  { cat: "buitenland", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwsbuitenland" },
+  { cat: "buitenland", bron: "NU.nl", url: "https://www.nu.nl/rss/Buitenland" },
+  { cat: "economie", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwseconomie" },
+  { cat: "economie", bron: "NU.nl", url: "https://www.nu.nl/rss/Economie" },
+  { cat: "sport", bron: "NOS", url: "https://feeds.nos.nl/nossportalgemeen" },
+  { cat: "sport", bron: "NU.nl", url: "https://www.nu.nl/rss/Sport" },
+  { cat: "cultuur", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwscultuurenmedia" },
+  { cat: "tech", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwstech" },
+  { cat: "zeeland", bron: "Google Nieuws", url: "https://news.google.com/rss/search?q=Zeeland+nieuws&hl=nl&gl=NL&ceid=NL:nl" },
+  { cat: "brabant", bron: "Omroep Brabant", url: "https://www.omroepbrabant.nl/rss" },
+  { cat: "borsele", bron: "Google Nieuws", url: "https://news.google.com/rss/search?q=Borsele&hl=nl&gl=NL&ceid=NL:nl" },
+  { cat: "kwadendamme", bron: "Google Nieuws", url: "https://news.google.com/rss/search?q=Kwadendamme&hl=nl&gl=NL&ceid=NL:nl" },
+  { cat: "roosendaal", bron: "Google Nieuws", url: "https://news.google.com/rss/search?q=Roosendaal+nieuws&hl=nl&gl=NL&ceid=NL:nl" }
 ];
 
-const MAX_PER_FEED = 25;
+const MAX_PER_CAT = 30;
 
 function cdata(s) {
   return (s || "")
@@ -22,62 +33,85 @@ function taginhoud(itemXml, tag) {
   return m ? cdata(m[1]) : "";
 }
 
-function parseFeed(xml) {
+function schoonTitel(titel) {
+  const idx = titel.lastIndexOf(" - ");
+  if (idx > 20 && titel.length - idx <= 45) return titel.slice(0, idx).trim();
+  return titel;
+}
+
+function parseAtomOfRss(xml, bron) {
+  const isAtom = /<feed[\s>]/i.test(xml);
+  const sep = isAtom ? "entry" : "item";
   const items = [];
-  const re = /<item[ >]([\s\S]*?)<\/item>/g;
+  const re = new RegExp("<" + sep + "[ >]([\\s\\S]*?)</" + sep + ">", "g");
   let m;
-  while ((m = re.exec(xml)) && items.length < MAX_PER_FEED) {
+  while ((m = re.exec(xml)) && items.length < MAX_PER_CAT * 2) {
     const blok = m[1];
-    const titel = cdata((blok.match(/<title[^>]*>([\s\S]*?)<\/title>/) || [])[1] || "");
-    let link = cdata((blok.match(/<link[^>]*>([\s\S]*?)<\/link>/) || [])[1] || "");
-    if (!link) {
-      const cdataLink = blok.match(/<link[^>]*><!\[CDATA\[([\s\S]*?)\]\]>/);
-      if (cdataLink) link = cdataLink[1].trim();
+    let titel = taginhoud(blok, "title");
+    if (!titel) continue;
+    if (bron === "Google Nieuws") titel = schoonTitel(titel);
+    let link = "";
+    if (isAtom) {
+      const lm = blok.match(/<link[^>]*rel=["']alternate["'][^>]*href=["']([^"']+)["']/) ||
+        blok.match(/<link[^>]*href=["']([^"']+)["']/);
+      link = lm ? lm[1] : "";
+    } else {
+      link = taginhoud(blok, "link");
+      if (!link) {
+        const cd = blok.match(/<link[^>]*><!\[CDATA\[([\s\S]*?)\]\]>/);
+        if (cd) link = cd[1].trim();
+      }
     }
-    const ruweDatum = cdata((blok.match(/<pubDate[^>]*>([\s\S]*?)<\/pubDate>/) || [])[1] || "");
-    const samenvatting = cdata((blok.match(/<description[^>]*>([\s\S]*?)<\/description>/) || [])[1] || "");
-    if (!titel || !link) continue;
+    const ruweDatum = taginhoud(blok, "pubDate") || taginhoud(blok, "published") || taginhoud(blok, "updated");
     let iso = "";
     if (ruweDatum) {
       const d = new Date(ruweDatum);
       if (!isNaN(d)) iso = d.toISOString();
     }
-    items.push({ titel, link, samenvatting, datum: iso, bron: "NOS" });
+    const samenvatting = taginhoud(blok, "description");
+    if (!link) continue;
+    items.push({ titel, link, samenvatting, datum: iso, bron });
   }
   return items;
 }
 
-const feeds = {};
-for (const feed of FEEDS) {
+const categorieen = {};
+for (const b of BRONNEN) {
   try {
-    const r = await fetch(feed.url, { headers: { "User-Agent": "nl-nieuws-app/1.0 (GitHub Actions)" } });
+    const r = await fetch(b.url, { headers: { "User-Agent": "nl-nieuws-app/1.0 (GitHub Actions)" } });
     if (!r.ok) throw new Error("HTTP " + r.status);
-    const items = parseFeed(await r.text());
-    if (!items.length) throw new Error("geen items geparseerd");
-    feeds[feed.id] = items;
-    console.log(feed.id, "OK", items.length);
+    const xml = await r.text();
+    const items = parseAtomOfRss(xml, b.bron);
+    if (!items.length) throw new Error("geen items");
+    categorieen[b.cat] = categorieen[b.cat] || [];
+    categorieen[b.cat].push(...items);
+    console.log(b.cat.padEnd(13), b.bron.padEnd(15), items.length);
   } catch (e) {
-    console.error(feed.id, "FOUT", e.message);
-    if (feeds[feed.id] === undefined) feeds[feed.id] = [];
+    console.error(b.cat.padEnd(13), b.bron.padEnd(15), "FOUT", e.message);
   }
+}
+
+const feeds = {};
+for (const [cat, lijst] of Object.entries(categorieen)) {
+  const uniek = new Map();
+  for (const item of lijst) {
+    const sleutel = item.link.split("?")[0];
+    if (!uniek.has(sleutel)) uniek.set(sleutel, item);
+  }
+  feeds[cat] = Array.from(uniek.values())
+    .sort((a, b) => new Date(b.datum) - new Date(a.datum))
+    .slice(0, MAX_PER_CAT);
+  console.log("==", cat, "totaal:", feeds[cat].length);
 }
 
 const json = {
   gegenereerd: new Date().toISOString(),
-  bron: "https://feeds.nos.nl/",
+  bron: "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
   feeds
 };
 
-import { mkdirSync, writeFileSync, readFileSync, existsSync } from "node:fs";
+import { mkdirSync, writeFileSync } from "node:fs";
 mkdirSync("data", { recursive: true });
-const pad = "data/nieuws.json";
-if (existsSync(pad)) {
-  try {
-    const oud = JSON.parse(readFileSync(pad, "utf8"));
-    if (oud.gegenereerd === json.gegenereerd) {
-      console.log("ongewijzigd");
-    }
-  } catch (e) { /* herschrijven */ }
-}
-writeFileSync(pad, JSON.stringify(json, null, 1) + "\n");
-console.log("geschreven:", pad, "| feeds:", Object.keys(feeds).join(","), "| totaal items:", Object.values(feeds).reduce((a, b) => a + b.length, 0));
+writeFileSync("data/nieuws.json", JSON.stringify(json, null, 1) + "\n");
+console.log("geschreven:", "data/nieuws.json", "| cats:", Object.keys(feeds).join(","), "| totaal items:",
+  Object.values(feeds).reduce((a, b) => a + b.length, 0));

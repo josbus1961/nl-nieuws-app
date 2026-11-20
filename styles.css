@@ -163,6 +163,46 @@ button { font: inherit; cursor: pointer; }
   background: #f59e0b;
 }
 
+.weer {
+  max-width: 900px;
+  margin: 14px auto 0;
+  padding: 14px 18px;
+  background: linear-gradient(135deg, #4b9fe1 0%, #6db3e8 100%);
+  color: #fff;
+  border-radius: var(--radius);
+  box-shadow: var(--schaduw);
+}
+
+[data-thema="donker"] .weer {
+  background: linear-gradient(135deg, #1f3b52 0%, #2a4a66 100%);
+}
+
+.weer-kop {
+  font-size: 14.5px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.weer-bron { font-weight: 500; font-size: 12px; opacity: .8; }
+
+.weer-rij {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.weer-dag {
+  background: rgba(255, 255, 255, .14);
+  border-radius: 10px;
+  padding: 10px 12px;
+  text-align: center;
+}
+
+.weer-dagnaam { font-size: 13px; font-weight: 700; }
+.weer-icoon { font-size: 26px; margin: 4px 0 2px; }
+.weer-tekst { font-size: 12px; opacity: .95; margin-bottom: 4px; }
+.weer-temp { font-size: 14px; }
+.weer-extra { font-size: 11.5px; opacity: .85; margin-top: 3px; }
+
 .hoofd { max-width: 900px; margin: 0 auto; padding: 16px; }
 
 .paneel, .bewaard-paneel {
@@ -311,6 +351,8 @@ button { font: inherit; cursor: pointer; }
 }
 
 @media (max-width: 560px) {
+  .weer-rij { grid-template-columns: repeat(3, 1fr); gap: 6px; }
+  .weer-extra { display: none; }
   #zoeken { width: 100%; }
   .paneel-kop { padding: 14px; }
   .nieuws-item { padding: 12px 14px; }
