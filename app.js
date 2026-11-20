@@ -453,7 +453,7 @@ function zetThema(thema) {
 function initThema() {
   let opgeslagen = null;
   try { opgeslagen = localStorage.getItem(THEMA_KEY); } catch (e) { /* opslag geblokkeerd */ }
-  const donker = opgesladen === "donker" ||
+  const donker = opgeslagen === "donker" ||
     (!opgeslagen && window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
   zetThema(donker ? "donker" : "licht");
 }
