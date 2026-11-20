@@ -83,7 +83,7 @@ function wisselBewaar(item) {
   const lijst = laadBewaard();
   const idx = lijst.findIndex(b => b.link === item.link);
   if (idx >= 0) lijst.splice(idx, 1);
-  else lijst.unshift({ titel: item.titel, link: item.link, samenvatting: item.samenvatting, datum: item.datum, bron: item.bron, categorieLabel: item.categorieLabel });
+  else lijst.unshift({ titel: item.titel, link: item.link, samenvatting: item.samenvatting, datum: item.datum, bron: item.bron, categorieLabel: item.categorieLabel, foto: item.foto });
   slaBewaard(lijst);
   return idx < 0;
 }
@@ -291,6 +291,16 @@ function nieuwsItemHtml(item, opties) {
     '<div class="item-meta"><span>' +
       escapeHtml(relatieveTijd(item.datum) || flexTijd(item.datum)) +
     "</span></div>";
+
+  if (item.foto) {
+    const foto = document.createElement("img");
+    foto.className = "item-foto";
+    foto.loading = "lazy";
+    foto.alt = "";
+    foto.src = item.foto;
+    foto.addEventListener("error", () => foto.remove());
+    art.appendChild(foto);
+  }
 
   const knop = document.createElement("button");
   knop.className = "bewaar-knop" + (bewaard ? " actief" : "");

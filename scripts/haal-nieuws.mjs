@@ -39,6 +39,76 @@ function schoonTitel(titel) {
   return titel;
 }
 
+function haalFoto(blok) {
+  const enclosure = blok.match(/<enclosure[^>]*(?:type="image[^"]*"|type="image\/[^"]*")[^>]*url="([^"]+)"|<enclosure[^>]*url="([^"]+)"[^>]*type="image[^"]*"/);
+  if (enclosure) return (enclosure[1] || enclosure[2]);
+  const media = blok.match(/<media:(?:content|thumbnail)[^>]*url="([^"]+)"/);
+  if (media) return media[1];
+  return "";
+}
+
+function normaliseerTitel(t) {
+  return (t || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9 ]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function jaccard(a, b) {
+  const ta = new Set(a.split(" "));
+  const tb = new Set(b.split(" "));
+  let snit = 0;
+  for (const w of ta) if (tb.has(w)) snit++;
+  return snit / (ta.size + tb.size - snit);
+}
+
+function isDubbel(a, b) {
+  const na = a.normalized;
+  const nb = b.normalized;
+  if (na === nb) return true;
+  if (na.length >= 25 && nb.length >= 25 && (na.includes(nb) || nb.includes(na))) return true;
+  if (taSize(na) + taSize(nb) === 0) return false;
+  const gelijkenis = jaccard(na, nb);
+  if (a.bron !== b.bron) return gelijkenis >= 0.6 || (gelijkenis >= 0.5 && gedeeldeZeldzameWoorden(a, b));
+  return gelijkenis >= 0.7;
+}
+
+const STOPWOORDEN = new Set(["de","het","een","en","van","in","op","uit","met","voor","te","dat","dan","bij","naar","over","na","door"]);
+function gedeeldeZeldzameWoorden(a, b) {
+  const wa = new Set(a.normalized.split(" ").filter(w => w.length >= 5 && !STOPWOORDEN.has(w)));
+  const wb = new Set(b.normalized.split(" ").filter(w => w.length >= 5 && !STOPWOORDEN.has(w)));
+  let zelfde = 0;
+  for (const w of wa) if (wb.has(w)) zelfde++;
+  return zelfde >= 2;
+}
+
+const tokenCache = new Map();
+function taSize(n) {
+  if (!tokenCache.has(n)) tokenCache.set(n, n.split(" ").filter(Boolean).length);
+  return tokenCache.get(n);
+}
+
+function dedupliceer(items) {
+  const gehouden = [];
+  const verwijderen = new Set();
+  const gesorteerd = [...items].sort((a, b) => {
+    if (!!b.foto !== !!a.foto) return b.foto ? 1 : -1;
+    return new Date(b.datum) - new Date(a.datum);
+  });
+  for (let i = 0; i < gesorteerd.length; i++) {
+    if (verwijderen.has(i)) continue;
+    for (let j = i + 1; j < gesorteerd.length; j++) {
+      if (verwijderen.has(j)) continue;
+      if (isDubbel(gesorteerd[i], gesorteerd[j])) verwijderen.add(j);
+    }
+  }
+  gesorteerd.forEach((it, i) => { if (!verwijderen.has(i)) gehouden.push(it); });
+  return gehouden;
+}
+
 function parseAtomOfRss(xml, bron) {
   const isAtom = /<feed[\s>]/i.test(xml);
   const sep = isAtom ? "entry" : "item";
@@ -70,7 +140,7 @@ function parseAtomOfRss(xml, bron) {
     }
     const samenvatting = taginhoud(blok, "description");
     if (!link) continue;
-    items.push({ titel, link, samenvatting, datum: iso, bron });
+    items.push({ titel: titel, normalized: normaliseerTitel(titel), link, samenvatting, datum: iso, bron, foto: haalFoto(blok) });
   }
   return items;
 }
@@ -93,14 +163,7 @@ for (const b of BRONNEN) {
 
 const feeds = {};
 for (const [cat, lijst] of Object.entries(categorieen)) {
-  const uniek = new Map();
-  for (const item of lijst) {
-    const sleutel = item.link.split("?")[0];
-    if (!uniek.has(sleutel)) uniek.set(sleutel, item);
-  }
-  feeds[cat] = Array.from(uniek.values())
-    .sort((a, b) => new Date(b.datum) - new Date(a.datum))
-    .slice(0, MAX_PER_CAT);
+  feeds[cat] = dedupliceer(lijst).slice(0, MAX_PER_CAT);
   console.log("==", cat, "totaal:", feeds[cat].length);
 }
 

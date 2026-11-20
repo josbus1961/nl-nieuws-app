@@ -247,6 +247,15 @@ button { font: inherit; cursor: pointer; }
 .nieuws-item:last-child { border-bottom: none; }
 .nieuws-item:hover { background: var(--vlak-2); }
 
+.item-foto {
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+  border-radius: 8px;
+  flex-shrink: 0;
+  background: var(--vlak-2);
+}
+
 .item-tekst { flex: 1; min-width: 0; }
 
 .item-labels { display: flex; gap: 6px; margin-bottom: 5px; flex-wrap: wrap; }
@@ -351,6 +360,7 @@ button { font: inherit; cursor: pointer; }
 }
 
 @media (max-width: 560px) {
+  .item-foto { width: 68px; height: 68px; }
   .weer-rij { grid-template-columns: repeat(3, 1fr); gap: 6px; }
   .weer-extra { display: none; }
   #zoeken { width: 100%; }
