@@ -41,6 +41,6 @@ ga dan naar http://localhost:8080. Verse data genereren kan met `node scripts/ha
 ## Technisch
 
 - Pure HTML/CSS/JS, geen dependencies en geen server.
-- `scripts/haal-nieuws.mjs` parseert RSS/Atom met een kleine regex-parser,üm dedupliceert op link en sorteert op datum (18 bronnen, max. 30 items per categorie).
+- `scripts/haal-nieuws.mjs` parseert RSS/Atom met een kleine regex-parser, dedupliceert op link en sorteert op datum (18 bronnen, max. 30 items per categorie).
 - Gewijzigde data wordt door de Action automatisch gecommit; de Pages-build publiceert dan ~1 minuut later de nieuwe inhoud.
 - Bewaarde artikelen, het donkere thema en de weerscache staan in `localStorage`.
