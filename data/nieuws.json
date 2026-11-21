@@ -1,5 +1,5 @@
 {
- "gegenereerd": "2026-11-21T22:59:10.801Z",
+ "gegenereerd": "2026-11-21T23:24:36.823Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
@@ -1274,6 +1274,15 @@
   ],
   "sport": [
    {
+    "titel": "Real met moeizame zege op zak richting duel met PSV, Mbappé mist penalty",
+    "normalized": "real met moeizame zege op zak richting duel met psv mbappe mist penalty",
+    "link": "https://nos.nl/l/2640508",
+    "samenvatting": "Real Madrid heeft in de aanloop naar het Champions League-duel van dinsdag met PSV een moeizame overwinning geboekt in de Spaanse competitie. Tegen Celta de Vigo boog de Koninklijke een 0-1 achterstand om: 2-1. In de eerste helft was Real, dat de hele wedstrijd zonder Oranje-international Denzel Dum",
+    "datum": "2026-11-21T22:59:40.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/1/2/7/C/g/A/9VMDrYqQXRiGHQnC8dBJ9Tp5rrhsyWz56riEoWH/433x124x1248x702-1024x576.webp"
+   },
+   {
     "titel": "Pastoor debuteert bij PEC met zege op Telstar dankzij uitblinker Mbayo",
     "normalized": "pastoor debuteert bij pec met zege op telstar dankzij uitblinker mbayo",
     "link": "https://nos.nl/l/2640501",
@@ -1533,15 +1542,6 @@
     "datum": "2026-11-21T14:36:55.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/gzixp84a1znw_sqr256/495/0/2688/2688/city-zet-dramatische-reeks-voort-in-premier-league-met-gelijkspel-tegen-fulham.jpg"
-   },
-   {
-    "titel": "Brand moet zege aan indrukwekkende Italiaanse Casasola laten in zand van Lokeren",
-    "normalized": "brand moet zege aan indrukwekkende italiaanse casasola laten in zand van lokeren",
-    "link": "https://nos.nl/l/2640426",
-    "samenvatting": "De Italiaans kampioene was in de Rapencross in het Belgische Lokeren - een veldrit met hoogteverschil, glibberige paden en een fraaie zandpassage - een paar maten te sterk voor iedereen. Lucinda Brand werd tweede op bijna driekwart minuut, Ceylin del Carmen Alvarado werd derde op ruim een minuut. De",
-    "datum": "2026-11-21T14:25:04.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/1/4/n/F/r/A/vBYLvtG9vZFbbwJZ9r7KbMgUGNZcTxFeniD1Qg8/8x131x3984x2241-1024x576.webp"
    }
   ],
   "cultuur": [
@@ -1912,7 +1912,7 @@
    {
     "titel": "Serooskerker (33) die tijdens ruzie over vriendin man in het gezicht sneed, pleegde zware mishandeling, geen poging tot doodslag",
     "normalized": "serooskerker 33 die tijdens ruzie over vriendin man in het gezicht sneed pleegde zware mishandeling geen poging tot doodslag",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUnVkOGRuM0F4WWdKR2x5OEtKdlVSeUxqa0tKOEhaT0ROeXI1Sk13ZFJlek5Wc1VMRVBvaWE0X3JDX09FWVpraHdmR1lEQU55NHpvVmNrMVlEM3QyVVN1UWpxSVI0T2ktV2taM3FodXVLY2YxdHFLZjl5SmVod0lmcFVRd1VLejktazlBdEV5QWRRQ3k0WTAtU0dJLVlQVnV0azl6dmFtLVMzQzFJM0ZYYnB1d3RBSDVHTnloSV9VODQ4OGtNb2NYWEVyNkszLXJjcjNPUVZWOHRiUjBVUmRSOUEzQWU3ZG16U1NPMzd0WVk?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWUx0bjE5eldNb3BuQjlPMHhVcnFtcWVCM2tDWkRjTDZYT2xWUFc4SDE3eFZ1QV90T3oyaWlHb2trRDZLR3JtRFNiYmItVVB5bHpZU0JNQVJSMmJDVE1uVmJYTXZBZ2VwZndQLS1PRTRSNjREbmtXSGp6cVEtODJmQWg0eGEyRTE4Y2pOLW4xQUQtSEpzeXpYLUhmTFRaLUY3bEN5YUVIdlBvS1pnbDBFNk0tdUVMaDhsV1VoQzdvLVBQSkVYVnFjdndEcmFBZ243dnZJTnNYZmM2VjBibXp0cm5ZZnhISGJ2LTRQYUp3bnpPSmdnTHFTNDBn?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T20:48:18.000Z",
     "bron": "Google Nieuws",
@@ -1948,7 +1948,7 @@
    {
     "titel": "‘Nare droom’ duurt voort: Zeeland kan niks doen om groei van scheepvaart naar Antwerpen af te remmen",
     "normalized": "nare droom duurt voort zeeland kan niks doen om groei van scheepvaart naar antwerpen af te remmen",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdDJoS0lldXAwVzJlVGpQME9UUkYyNkNiTHBMUHZrSU9zMmZ3Vk9wRGY5ZUFmUWtjT0FCZl9HTHFpQUY3b0RxRjJ3SC1DMW9YTjVaMGVwc1RkNEt1VVpEa3B0VkRXazNBRUp1NjFzaEtWcE9UaDdGRnRreEtMOFZmaUJvWm5lTWFLS3RuekZUU3NWTUZ0YVdTQzRtdU9wTGZyTXV2a1lqRjJUcDNRV2VyOTZsbTJ1czVMcjMxRExrMVhDNlZBblZmTklxU2N4a2ZHY01DV09RRHg?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZHFGM1ZrTERmUGlfSzMwYmtmV3NPWkVpSmJWVVRGUU5ZY19tRHl5ZWdKY0JsejM3UjZqeTNOemg4Zkt1NFpHaG9tLU5RNEtnX1B4cmpScHJoQXUtTmgzZExYdmFKcVQxRmxJb25oTzRuT3RjekN3dFZwSUdIc2tYVnFiVDZZakVMU1F5NW01WDIyOGloY3NmZXpJM2VFZkpmVUpacjFySU9RSmhWb0pxUklzY0ozeG54U0R5RWFqb0xVeWlSRnRrMExaa0RMd0pGb19z?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T17:09:01.000Z",
     "bron": "Google Nieuws",
@@ -2041,6 +2041,15 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX0dZRGEzSHNWclJjd0pMWjdTYV9oLWx4TDBneFpycUdwSFo5T3pOQURfT0tVYjVudVliNGNHRDFrbDJOblJZQ29wTEZTaHpIZ3RxTFlEbDAwNWE4bUF1c1ZwNFFMRzRoNzdkdGhXa0pSZnUwWjc5QTFsWFVqU19XMk5QanJWemJwSm9Ec1BicXdjSnU0b0Jzb3ZIZHFXdmQ1WlJOTUhDWWd2bjA2UWEtOGdTLS03M1R0aXJpVVViQQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T12:59:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Piet ruilt een woonwijk in voor een bedrijventerrein en heeft daar geen seconde spijt van",
+    "normalized": "piet ruilt een woonwijk in voor een bedrijventerrein en heeft daar geen seconde spijt van",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSm5iaGpac0tzckxtQzFpazU5WDBERi1yZkt1TUl6ZFQyejIzT0FHTWptczBHSlV2ZG1YQXI2dnk1ak1KWjIyUjhsUk43bkpnRUNUclBXaWdTVkphYXRFelNjT1pQQ1g0dzFrX09tUDh5bG1Eel91dVJlbGxIcnhUbVBPSjRSNVNjZi16NklSMUgxRlduS25DWTVjNEdLNzVtNDBtTm1rTTVNVGFzck1WYWFCcWlUbnhYa3hsSzFlRG8wcXphUXFhNkhJNEhHVFNPTHhV?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T12:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2167,15 +2176,6 @@
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVmlaamk2SnpELW43aFRfM2FLZUl1ejhyYnl5T2x4cG5nd0VDd0NPUC1yR3ppRl9VeVY0dlRxcy1KWlhZQkZlUEZ1c0tKVzltRUV4MEVBclZmU0pwRFcwaDJ6dFc1Tm5uT2RvVk02ZzQwLUo0aF9kWW9BRHVRaU12UlBxQ3B5d2c5a05VRzEzTkptMkti?oc=5",
     "samenvatting": "",
     "datum": "2026-11-20T18:57:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Firas (36) hoopt op meer begrip voor asielzoekers: ‘Er zijn veel meer goede verhalen’",
-    "normalized": "firas 36 hoopt op meer begrip voor asielzoekers er zijn veel meer goede verhalen",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQjFGbkJZcXc3WU4yaFBYS0tQaU81REF4OVg2V19hNmk4Ri11UnJKQmJRQk1LNXJoQmFldUlWbkxEWVhCNXlzMTREN3Z6dUpkNnhtUzV3X2szdHFHYnBINTZlZkJIODlMcjlXd1JyU0JyelA3ZnJzYmd3akJldVlvbzBTM3Zpclh2aXU5UVg3UkdxSmdUZFpJWDlBdjIwX3ZrbWViZklSX1E5RXZzVm52aE1OcFQ2bnNLdXlhYQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T18:30:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
