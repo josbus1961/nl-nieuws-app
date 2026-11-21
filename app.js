@@ -422,7 +422,7 @@ async function haalAlleFeedsOp(opties = {}) {
 
 function autoVerfris() {
   if (staat.laadt || staat.liveBezig || navigator.onLine === false) return;
-  haalAlleFeedsOp().catch(() => {});
+  lopendeVervressing = haalAlleFeedsOp().catch(() => {});
 }
 
 const MAX_ALLES = 120;
@@ -676,12 +676,17 @@ function initThema() {
   zetThema(donker ? "donker" : "licht");
 }
 
+let lopendeVervressing = null;
+
 function verfris() {
-  if (staat.laadt) return;
   const knop = el("ververs-knop");
+  if (!lopendeVervressing) {
+    lopendeVervressing = haalAlleFeedsOp({ forceerLive: true });
+  }
   knop.disabled = true;
   knop.classList.add("spinnend");
-  haalAlleFeedsOp({ forceerLive: true }).finally(() => {
+  lopendeVervressing.finally(() => {
+    lopendeVervressing = null;
     knop.disabled = false;
     knop.classList.remove("spinnend");
   });
