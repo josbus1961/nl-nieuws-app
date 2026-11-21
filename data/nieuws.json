@@ -1,8 +1,26 @@
 {
- "gegenereerd": "2026-11-21T21:17:54.214Z",
+ "gegenereerd": "2026-11-21T21:43:14.838Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Tennisser Zverev naar eindstrijd ATP Finals, treft daar Alcaraz",
+    "normalized": "tennisser zverev naar eindstrijd atp finals treft daar alcaraz",
+    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666480/tennisser-zverev-naar-eindstrijd-atp-finals-treft-daar-alcaraz",
+    "samenvatting": "Tennisser Alexander Zverev heeft de finale van de ATP Finals gehaald. In de halve finale was de Duitse nummer 1 van de wereldranglijst in twee sets te sterk voor de Rus Daniil Medvedev: 7-6 (0) 6-4. In de finale staat Zverev zondag tegenover de Spaanse nummer 3 van de wereld Carlos Alcaraz, die eerd",
+    "datum": "2026-11-21T21:38:15.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP211126151-1.jpg?itok=6kEhWIlL&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Carys Douglas door ouders gewaarschuwd voor 'nepo baby'-label",
+    "normalized": "carys douglas door ouders gewaarschuwd voor nepo baby label",
+    "link": "https://www.rtl.nl/boulevard/artikel/5666478/carys-douglas-door-ouders-gewaarschuwd-voor-nepo-baby-label",
+    "samenvatting": "Carys Douglas, de dochter van acteurs Michael Douglas en Catherine Zeta-Jones, is door haar ouders gewaarschuwd dat mensen vooroordelen over haar kunnen hebben vanwege haar beroemde familie. De 23-jarige actrice vertelt in een interview met Elle Spain dat haar ouders haar leerden haar eigen identite",
+    "datum": "2026-11-21T21:17:23.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP211126150-1.jpg?itok=VDpTXOI-&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
    {
     "titel": "Jada Borsato heeft vader Marco nog niet horen zingen: 'Kan niet wachten'",
     "normalized": "jada borsato heeft vader marco nog niet horen zingen kan niet wachten",
@@ -254,24 +272,6 @@
     "datum": "2026-11-21T19:03:13.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://redactie.rtl.nl/sites/default/files/ANP211126138-1.jpg?itok=V_jm2lzD&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Video | Badeendjesrace mislukt: zesduizend eendjes blijven stil liggen in water",
-    "normalized": "video badeendjesrace mislukt zesduizend eendjes blijven stil liggen in water",
-    "link": "https://www.nu.nl/332508/video/badeendjesrace-mislukt-zesduizend-eendjes-blijven-stil-liggen-in-water.html",
-    "samenvatting": "",
-    "datum": "2026-11-21T18:59:01.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/sxyxvs7aydp7_sqr256/0/0/1078/1078/badeendjesrace-mislukt-zesduizend-eendjes-blijven-stil-liggen-in-water.jpg"
-   },
-   {
-    "titel": "Maandag alle Belgische vluchten geannuleerd wegens staking",
-    "normalized": "maandag alle belgische vluchten geannuleerd wegens staking",
-    "link": "https://nos.nl/l/2640473",
-    "samenvatting": "Maandag worden alle vluchten van en naar België geschrapt vanwege een landelijke staking. Die staking is in diverse sectoren. Omdat een deel van de luchtverkeersleiding eraan meedoet, is besloten uit veiligheidsoverwegingen alle vluchten te annuleren tussen 07.00 en 21.00 uur. De luchthaven Brussel ",
-    "datum": "2026-11-21T18:58:06.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/2/5/7/1/c/A/nVBB7Z28ULWSkfBha8WokPmTyswKKRMiw5mtxG/334x640x3120x1755-1024x576.webp"
    }
   ],
   "binnenland": [
@@ -321,8 +321,8 @@
     "foto": "https://images.nu.nl/m/vojxbqfaw65l_sqr256/347/0/1080/1080/wapenfabrikant-hengelo-werd-wereldnieuws-en-verzet-zich-al-langer-tegen-poetin.jpg"
    },
    {
-    "titel": "Afgebrande school Deurne waarschijnlijk nog maanden dicht",
-    "normalized": "afgebrande school deurne waarschijnlijk nog maanden dicht",
+    "titel": "Door brand getroffen school Deurne waarschijnlijk nog maanden dicht",
+    "normalized": "door brand getroffen school deurne waarschijnlijk nog maanden dicht",
     "link": "https://nos.nl/l/2640434",
     "samenvatting": "De school in Deurne waar gisteravond een brand uitbrak blijft waarschijnlijk nog maanden dicht, zegt directeur Pleun van Genugten tegen de NOS. De bijna 300 leerlingen zullen de komende tijd ergens anders moeten worden ondergebracht. Volgens Van Genugten is het de vraag \"of de school überhaupt nog o",
     "datum": "2026-11-21T15:12:27.000Z",
@@ -1002,6 +1002,15 @@
   ],
   "economie": [
    {
+    "titel": "Italiaanse juwelier en zakenman Paolo Bulgari op 89-jarige leeftijd overleden",
+    "normalized": "italiaanse juwelier en zakenman paolo bulgari op 89 jarige leeftijd overleden",
+    "link": "https://www.nu.nl/economie/6417375/italiaanse-juwelier-en-zakenman-paolo-bulgari-op-89-jarige-leeftijd-overleden.html",
+    "samenvatting": "De Italiaanse juwelier en zakenman Paolo Bulgari is op 89-jarige leeftijd overleden, maakt zijn familie zaterdag bekend. Bulgari is de kleinzoon van Sotirio Bulgari, die in 1884 het gelijknamige juweliersbedrijf oprichtte.",
+    "datum": "2026-11-21T21:27:23.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/ls1xiwwa3h3d_sqr256/646/0/2593/2593/italiaanse-juwelier-en-zakenman-paolo-bulgari-op-89-jarige-leeftijd-overleden.jpg"
+   },
+   {
     "titel": "Klimaattop zit muurvast, onduidelijk of er überhaupt nog een besluit komt",
     "normalized": "klimaattop zit muurvast onduidelijk of er uberhaupt nog een besluit komt",
     "link": "https://www.nu.nl/klimaat/6417367/klimaattop-zit-muurvast-onduidelijk-of-er-uberhaupt-nog-een-besluit-komt.html",
@@ -1261,18 +1270,27 @@
     "datum": "2026-11-20T05:31:22.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/aynx7s0ati1y_sqr256/999/0/3546/3546/nieuwbouw-levert-meer-huizen-op-maar-dreigt-stil-te-vallen.jpg"
-   },
-   {
-    "titel": "Britten willen Brexit-schade herstellen, maar dat heeft een prijs",
-    "normalized": "britten willen brexit schade herstellen maar dat heeft een prijs",
-    "link": "https://www.nu.nl/economie/6417016/britten-willen-brexit-schade-herstellen-maar-dat-heeft-een-prijs.html",
-    "samenvatting": "Brexit moest het Verenigd Koninkrijk meer vrijheid geven, maar heeft de economie ook flink afgeremd. De Britten willen daarom weer makkelijker zaken doen met de Europese Unie. Maar daarvoor moeten ze wel weer een deel van die vrijheid inleveren.",
-    "datum": "2026-11-20T05:05:28.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/ihdx6g5aslqy_sqr256/574/0/1080/1080/britten-willen-brexit-schade-herstellen-maar-dat-heeft-een-prijs.jpg"
    }
   ],
   "sport": [
+   {
+    "titel": "Harde woorden bij Feyenoord na pijnlijk verlies: 'We doen dit onszelf aan'",
+    "normalized": "harde woorden bij feyenoord na pijnlijk verlies we doen dit onszelf aan",
+    "link": "https://www.nu.nl/voetbal/6417377/harde-woorden-bij-feyenoord-na-pijnlijk-verlies-we-doen-dit-onszelf-aan.html",
+    "samenvatting": "De 2-3-nederlaag tegen Excelsior is zaterdag hard aangekomen bij Feyenoord, dat steeds verder wegzakt in de Eredivisie. De ploeg van trainer Giovanni van Bronckhorst heeft inmiddels al meer dan een maand niet gewonnen.",
+    "datum": "2026-11-21T21:31:00.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/14axypmagl10_sqr256/0/393/3881/3881/harde-woorden-bij-feyenoord-na-pijnlijk-verlies-we-doen-dit-onszelf-aan.jpg"
+   },
+   {
+    "titel": "Feyenoorders zoeken naar woorden na nieuw dieptepunt: 'Hoe is dit mogelijk?'",
+    "normalized": "feyenoorders zoeken naar woorden na nieuw dieptepunt hoe is dit mogelijk",
+    "link": "https://nos.nl/l/2640491",
+    "samenvatting": "Feyenoord hoopte zich na een matige fase voor de interlandperiode te herpakken tegen Excelsior, maar niets was minder waar. Het werd een historische thuisnederlaag in de derby (2-3) , de eerste sinds 1980. \"Na die slechte fase voor de interlandbreak wil je met winst beginnen\", aldus Feyenoord-coach ",
+    "datum": "2026-11-21T21:29:39.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/3/A/r/D/6/i/EPV44ogiYAMa6RzMpcggAVzmG64Tbr6HnmVAYDG/0x417x4000x2250-1024x576.webp"
+   },
    {
     "titel": "Van de Donk draagt met twee treffers bij aan ruime zege London City Lionesses",
     "normalized": "van de donk draagt met twee treffers bij aan ruime zege london city lionesses",
@@ -1298,7 +1316,7 @@
     "samenvatting": "FC Utrecht is zaterdagavond dieper in de problemen geraakt na een thuisnederlaag tegen Cambuur. Het werd 2-3 voor de Friezen. Het duel werd na zo'n tien minuten gestaakt omdat een toeschouwer een rookbom op het veld had gegooid.",
     "datum": "2026-11-21T20:10:46.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/1pmxma5ahdg4_sqr256/453/0/4000/4000/dolend-fc-utrecht-verliest-na-onderbreking-door-vuurwerk-ook-van-cambuur.jpg"
+    "foto": "https://images.nu.nl/m/67sxiuva2f0b_sqr256/208/356/3545/3545/dolend-fc-utrecht-verliest-na-onderbreking-door-vuurwerk-ook-van-cambuur.jpg"
    },
    {
     "titel": "Van Gerwen plaatst zich na negendartershow voor halve finales Grand Slam of Darts",
@@ -1346,6 +1364,15 @@
     "foto": "https://images.nu.nl/m/89dxvbpaepbv_sqr256/390/0/2362/2362/psv-vreest-lange-absentie-aanvoerder-mauro-junior-het-is-duidelijk-ernstig.jpg"
    },
    {
+    "titel": "Video | Kenneth Taylor geeft assist met de hak op Noslin die scoort voor Lazio",
+    "normalized": "video kenneth taylor geeft assist met de hak op noslin die scoort voor lazio",
+    "link": "https://www.nu.nl/332506/video/kenneth-taylor-geeft-assist-met-de-hak-op-noslin-die-scoort-voor-lazio.html",
+    "samenvatting": "",
+    "datum": "2026-11-21T18:19:12.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/300xipsaqqq8_sqr256/763/0/2047/2047/kenneth-taylor-geeft-assist-met-de-hak-op-noslin-die-scoort-voor-lazio.jpg"
+   },
+   {
     "titel": "Effectief PSV heeft aan een helft genoeg tegen NEC en blijft Eredivisie-koploper",
     "normalized": "effectief psv heeft aan een helft genoeg tegen nec en blijft eredivisie koploper",
     "link": "https://www.nu.nl/voetbal/6417358/effectief-psv-heeft-aan-een-helft-genoeg-tegen-nec-en-blijft-eredivisie-koploper.html",
@@ -1382,10 +1409,10 @@
     "foto": "https://images.nu.nl/m/oguxihaavrp3_sqr256/850/0/3000/3000/kluivert-helpt-bournemouth-aan-zege-pijnlijke-middag-chelsea-na-goal-emegha.jpg"
    },
    {
-    "titel": "Topscorer Malen steelt show bij Roma met vier goals, Noslin goud waard voor koploper Lazio",
-    "normalized": "topscorer malen steelt show bij roma met vier goals noslin goud waard voor koploper lazio",
+    "titel": "Topscorer Malen steelt show bij Roma met vier goals en treedt in voetsporen Van Basten",
+    "normalized": "topscorer malen steelt show bij roma met vier goals en treedt in voetsporen van basten",
     "link": "https://nos.nl/l/2640449",
-    "samenvatting": "Donyell Malen heeft wederom grote indruk gemaakt bij AS Roma door vier keer te scoren tijdens de 1-5 zege op bezoek bij Parma. De Oranje-international is niet voor het eerst dit seizoen de grote man bij de Romeinse ploeg. Malen heeft deze jaargang al vijftien doelpunten gemaakt in de Italiaanse comp",
+    "samenvatting": "Donyell Malen heeft wederom grote indruk gemaakt bij AS Roma door vier keer te scoren tijdens de 1-5 zege op bezoek bij Parma. De Oranje-international is niet voor het eerst dit seizoen de grote man bij de Romeinse ploeg. Met zijn vier doelpunten trad hij in de voetsporen van Marco van Basten. De dr",
     "datum": "2026-11-21T16:55:07.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/6/F/M/q/C/C/Zd3A2HeXu9dcaSQtYX2fQNrP9tJ8ctj3bgcv3eK/833x538x2960x1665-1024x576.webp"
@@ -1418,15 +1445,6 @@
     "foto": "https://images.cdn.nos.nl/3/9/D/w/Q/n/8pN2U3mdZueAu5NMuywgdM4Qs7Sma2cvgW7mfqD/0x168x2544x1431-1024x576.webp"
    },
    {
-    "titel": "Malen schittert met vier goals voor AS Roma en treedt in voetsporen Van Basten",
-    "normalized": "malen schittert met vier goals voor as roma en treedt in voetsporen van basten",
-    "link": "https://www.nu.nl/voetbal/6417351/malen-schittert-met-vier-goals-voor-as-roma-en-treedt-in-voetsporen-van-basten.html",
-    "samenvatting": "Donyell Malen heeft zaterdag een bijzondere prestatie geleverd in de Serie A. De Oranje-international scoorde vier keer voor AS Roma in de uitwedstrijd tegen Parma (1-5) en trad zo in de voetsporen van Marco van Basten.",
-    "datum": "2026-11-21T16:10:10.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/6h6xa3vagt84_sqr256/1329/0/3415/3415/malen-schittert-met-vier-goals-voor-as-roma-en-treedt-in-voetsporen-van-basten.jpg"
-   },
-   {
     "titel": "Motorcoureur Márquez valt met achtste wereldtitel in zicht",
     "normalized": "motorcoureur marquez valt met achtste wereldtitel in zicht",
     "link": "https://nos.nl/l/2640435",
@@ -1445,13 +1463,13 @@
     "foto": "https://images.cdn.nos.nl/1/F/2/t/o/n/BThUT3j1TKssFvRh7L7nvrBucCeFQKsMEL9Tf2C/0x201x4000x2250-1024x576.webp"
    },
    {
-    "titel": "Live | Eredivisie | Vormcrisis Feyenoord irriteert Valente, Utrecht staat weer achter",
-    "normalized": "live eredivisie vormcrisis feyenoord irriteert valente utrecht staat weer achter",
-    "link": "https://www.nu.nl/voetbal/6417345/eredivisie-vormcrisis-feyenoord-irriteert-valente-utrecht-staat-weer-achter.html",
-    "samenvatting": "Goedendag en welkom in dit liveblog! Mijn naam is Jeroen van Barneveld en ik hou je op de hoogte van de Eredivisie, met onder meer NEC-PSV en Feyenoord-Excelsior. Veel plezier!",
+    "titel": "Live | Eredivisie | Groningen-keeper weer in de fout: Heerenveen leidt in derby",
+    "normalized": "live eredivisie groningen keeper weer in de fout heerenveen leidt in derby",
+    "link": "https://www.nu.nl/voetbal/6417345/eredivisie-groningen-keeper-weer-in-de-fout-heerenveen-leidt-in-derby.html",
+    "samenvatting": "Goedendag en welkom in dit liveblog! Mijn naam is Jeroen van Barneveld en ik hou je op de hoogte van de Eredivisie. Veel plezier!",
     "datum": "2026-11-21T14:41:37.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/2wfxg5ka6d2d_sqr256/291/0/3996/3996/eredivisie-vormcrisis-feyenoord-irriteert-valente-utrecht-staat-weer-achter.jpg"
+    "foto": "https://images.nu.nl/m/rq9xbunarrny_sqr256/223/266/2094/2094/eredivisie-groningen-keeper-weer-in-de-fout-heerenveen-leidt-in-derby.jpg"
    },
    {
     "titel": "Emegha en Kluivert scoren in Premier League, vormcrisis Manchester City houdt aan",
@@ -1524,24 +1542,6 @@
     "datum": "2026-11-21T11:17:22.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/pjxxrema1f35_sqr256/1374/8/4585/4585/hamilton-en-leclerc-beleven-hopeloze-kwalificatie-in-vegas-een-nachtmerrie.jpg"
-   },
-   {
-    "titel": "Antonelli begon nét op tijd aan poleronde: 'Leek wel kwalificatie met 60 minikarts'",
-    "normalized": "antonelli begon net op tijd aan poleronde leek wel kwalificatie met 60 minikarts",
-    "link": "https://www.nu.nl/formule-1/6417310/antonelli-begon-net-op-tijd-aan-poleronde-leek-wel-kwalificatie-met-60-minikarts.html",
-    "samenvatting": "Kimi Antonelli begon door drukte op het circuit in Las Vegas net op tijd aan zijn laatste ronde in de kwalificatie. De twintigjarige wereldkampioen dacht terug aan zijn tijd bij de minikarts en zette alsnog de snelste tijd neer.",
-    "datum": "2026-11-21T10:03:19.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/frpxpamahw2e_sqr256/927/0/4979/4979/antonelli-begon-net-op-tijd-aan-poleronde-leek-wel-kwalificatie-met-60-minikarts.jpg"
-   },
-   {
-    "titel": "Promovendus De Graafschap verrast zichzelf: 'Zitten op een roze wolk'",
-    "normalized": "promovendus de graafschap verrast zichzelf zitten op een roze wolk",
-    "link": "https://nos.nl/l/2640398",
-    "samenvatting": "Voetbalclub De Graafschap kent een periode met twee gezichten. Terwijl fans van de mannenploeg uit het stadion worden geweerd na het blokkeren van de eigen spelersbus, staat de vrouwenploeg op een verrassende vierde plek. Zondag spelen de vrouwen tegen Ajax, de nummer drie. \"We zitten een beetje op ",
-    "datum": "2026-11-21T09:21:27.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/6/3/X/n/R/o/Hty3jgkgf2nWNXDkFug1ujsru5HiKgHyJAWSN64/222x134x3680x2070-1024x576.webp"
    }
   ],
   "cultuur": [
@@ -1928,15 +1928,6 @@
     "foto": ""
    },
    {
-    "titel": "Hij ging al ‘undercover’ zijn nieuwe gemeente Reimerswaal verkennen: waarom Wouter van den Berg burgemeester wordt in Zeeland",
-    "normalized": "hij ging al undercover zijn nieuwe gemeente reimerswaal verkennen waarom wouter van den berg burgemeester wordt in zeeland",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVnpZU2ZiLVRfLWZodndzdWMyY25KdG9sMDNMMDFjZTVaREx0aC1PVUw0YVhJMG4xbFJLMjV1X3JMQWU5bnVIN1BKcklPVUZHWlpqNVEzdjFJa2JhX2I5SFdLaGNRcWlPWDQzUWJkd25qRVlSNnhnNU82X3FXOGgzSkxmVG15TWpfTHZ1RU9LVERESlI3M3ZYcUR6d1cwWnRQOEZxdEgwclc3MXpHdlg1c0o4VGFuUVZwR0l1X2xNSEVoS3NtcDdZNUFmTE41NXZzdHZIV1BRR0VKdklZYXBFa3lERTJhRldrdk1zS0Q1LTlMY0hRZzZz?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T17:51:40.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "‘Nare droom’ duurt voort: Zeeland kan niks doen om groei van scheepvaart naar Antwerpen af te remmen",
     "normalized": "nare droom duurt voort zeeland kan niks doen om groei van scheepvaart naar antwerpen af te remmen",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZHFGM1ZrTERmUGlfSzMwYmtmV3NPWkVpSmJWVVRGUU5ZY19tRHl5ZWdKY0JsejM3UjZqeTNOemg4Zkt1NFpHaG9tLU5RNEtnX1B4cmpScHJoQXUtTmgzZExYdmFKcVQxRmxJb25oTzRuT3RjekN3dFZwSUdIc2tYVnFiVDZZakVMU1F5NW01WDIyOGloY3NmZXpJM2VFZkpmVUpacjFySU9RSmhWb0pxUklzY0ozeG54U0R5RWFqb0xVeWlSRnRrMExaa0RMd0pGb19z?oc=5",
@@ -2000,11 +1991,38 @@
     "foto": ""
    },
    {
+    "titel": "LEES TERUG | Zuur gelijkspel voor gehavend Hoek in thuiswedstrijd tegen GVVV: 1-1",
+    "normalized": "lees terug zuur gelijkspel voor gehavend hoek in thuiswedstrijd tegen gvvv 1 1",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2YweXo1Ri1OUXF4ams1LVI4c2tNWTJjVGVnakdLWVIteHNfM0V3djhDaldfaUliN0pWOEgtcW5hQS1nSFE1aTFZQ2pOekRpRTF6bUhjeXV5ejAyZ3lkZXpsSEtyVFl6ejB3WHFjMkJtSkFJRnZZT2o3YkZGaVM4akVOcVdLYTZ2YlRoYU1hUU9lWGQ2VzJtVnNxVmstUkRXYm4xYWc2RjhzS2FldUZhdE9lY1RhZnFjeFdsYUUtVQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T13:10:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Livestream Orange the World in Zeeland gaat over geweld tegen vrouwen en meisjes",
     "normalized": "livestream orange the world in zeeland gaat over geweld tegen vrouwen en meisjes",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX0dZRGEzSHNWclJjd0pMWjdTYV9oLWx4TDBneFpycUdwSFo5T3pOQURfT0tVYjVudVliNGNHRDFrbDJOblJZQ29wTEZTaHpIZ3RxTFlEbDAwNWE4bUF1c1ZwNFFMRzRoNzdkdGhXa0pSZnUwWjc5QTFsWFVqU19XMk5QanJWemJwSm9Ec1BicXdjSnU0b0Jzb3ZIZHFXdmQ1WlJOTUhDWWd2bjA2UWEtOGdTLS03M1R0aXJpVVViQQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWHdPT1g5ME1walZrRVVBelhkV0JGRzFJR3dyT1ZFSmMzNzJ4MGJyUEFnMjR2cVp3b2NaWHAzeXk0RkxCeGt2VVF5R2F0eG5nRkJhNE9ndU41NVM2VFZOWVdqZEZLRFdsaWRGMGpROU9fMkl3bUpPdmdmOWl2YzNPYThZTkhKa1ljYktWU3lyMDQ0THNqQXJBOUxLUVVHYkFGdlFaaXpIVlRQMzc5Qm00UE8ycU1FdmI3RWU1NA?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T12:59:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Hoek-AZ in 29 minuten uitverkocht, club hoopt capaciteit nog te kunnen uitbreiden",
+    "normalized": "hoek az in 29 minuten uitverkocht club hoopt capaciteit nog te kunnen uitbreiden",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX0w0b0tveXgybnp0N25BbGgwQUdVRHVaeUp3M0lXX3hLelVuSjF6X0JBWFZTODU5Zm5kUG1zcGZNZHM2Ql9FaDFvU1h4UUFyNTU0WktIbEE0YS1YZ19KbGxWQXMwbmZ5Q2xYY1lGbnVGTjllalRLQkN1ZHc1Vnp2THo3cjVGVEp1VDQwY2Z6VlVoZF9WbTNsZFk0QlpmTDhzSW56cERHclJ1OUpaVDl2cXNzcVFCd2p1M2JBVnNvXzZNdw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T12:53:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Vijftal demonstranten laat zich zien bij sinterklaasintocht in Arnemuiden",
+    "normalized": "vijftal demonstranten laat zich zien bij sinterklaasintocht in arnemuiden",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT3pCeUx3ZTMwZkRKTWVGckZPYzFId0xIVF9iaHdzV2FuS2hYRTV3TjFmRU56ZXJvZTViVFduTXFFMVZ6Yy1kdUFUZVVLT19MUERiWUlIMG1LTnkxa1RuYU40cGcyOXVVeDlnS1U4QmlnZzFhNDA4d0lCdE9tcG4zMWNwZHFDNkFpODA3MkZ6ZVQzNDhSMlU2SFNtUjR1MnBVYzNxNWQ2VEQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T11:32:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2054,15 +2072,6 @@
     "foto": ""
    },
    {
-    "titel": "SGP vreest ‘boerenmolens’ in Zeeland nu regels kleine windmolens naar 23 meter gaan",
-    "normalized": "sgp vreest boerenmolens in zeeland nu regels kleine windmolens naar 23 meter gaan",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1NXZmd2R0R6QUlKX3dNYU4xLUxOcm9sdkR0VE5INk4yM25mMkFfVXlRRHpLdWw2X1NhTVk1VjJidGozWHFmUDJ5TlFnLWwyOXdyZzhpeUZsTG5PT0Y4Q0dUMlRnLU5LTjU0S01rX09jV1pXcFFGYV9pT1M4T3J6SEdvNzExQTk2LXJkZGk1TXR2UE1SRGJ3X213UnYtM2hjLVRiRWxnMC16RzBRVTJITFZYSmt0cTFLTmN4bQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T06:30:35.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Rel bij Zeeuwse huisartsen lijkt bedaard: meerderheid steunt ingreep om praktijken overeind te houden",
     "normalized": "rel bij zeeuwse huisartsen lijkt bedaard meerderheid steunt ingreep om praktijken overeind te houden",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYW5LXzNXazVZQ2Ntd0ZtdnJJZVRBY2I1SWxkejVFVDNJQnZfTFpabkdfOWpFekRJdE5yMEJfelM3RkZGcmYyalBldnE5TmV1NjE3NDI0MlV4WjR6aDdHeHp5Yk9kSTRJTHhhc3FiZUtZWHRacU1uMkk0dEdTVHo2cFdVOG9uMk93N1E5WVh5VEUyOG5NRnAwVy1WdDhOb29EOXlZRk5VcWJUVEFFTHBreUxrRk5tdWo3MTYyN3YzLUxfc1NIdWR1MjQ2WXVVQ1FJ?oc=5",
@@ -2077,6 +2086,15 @@
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc0padVhUN3JwRkRwYXFYU2RaWnZGUzg3Z3E1TG5JR0lvcEhtaTYtdXVNQWNzbXpkV2cyZW4yQ3ZQTDR0VXdoLWtxVUg3aXdISGJmSWdTd05QMENpR2Q0aWNRb19lUlZ2OElHNlF2Ml9LY015V09zaUpfVkd4cUt2VHF1ZGNUQVotVk9mMGhISkE?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T03:19:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Nieuws: Grote online pokeroperators stoppen in Nieuw-Zeeland",
+    "normalized": "nieuws grote online pokeroperators stoppen in nieuw zeeland",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcUlkM0NvQVpseGNBR2EtTjk4Vmd0Q2pnVkt1OXdXS1R6NnFONGlOZHZWY2xUcjZQTmV3MFEtTW5ZajNjdUpBSTU4T1VIek1ldmRsRGpNWEpzZkhJMVl4bUp5Z3FpZUFRTFV4TkNBUXBUNzM5QVc5ZHZ0Vi15cTNsY2ZzUmtNcUd4QW15YW83aXJXMkIzdnV0Qk1EQVJHTHl1OEtGUFY2VXN1QQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T01:52:28.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2135,15 +2153,6 @@
     "foto": ""
    },
    {
-    "titel": "Firas (36) hoopt op meer begrip voor asielzoekers: ‘Er zijn veel meer goede verhalen’",
-    "normalized": "firas 36 hoopt op meer begrip voor asielzoekers er zijn veel meer goede verhalen",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQjFGbkJZcXc3WU4yaFBYS0tQaU81REF4OVg2V19hNmk4Ri11UnJKQmJRQk1LNXJoQmFldUlWbkxEWVhCNXlzMTREN3Z6dUpkNnhtUzV3X2szdHFHYnBINTZlZkJIODlMcjlXd1JyU0JyelA3ZnJzYmd3akJldVlvbzBTM3Zpclh2aXU5UVg3UkdxSmdUZFpJWDlBdjIwX3ZrbWViZklSX1E5RXZzVm52aE1OcFQ2bnNLdXlhYQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T18:30:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Tranen bij Rita als er na veertig jaar een plaquette bij de Oosterscheldekering komt voor haar overleden man Cornelis",
     "normalized": "tranen bij rita als er na veertig jaar een plaquette bij de oosterscheldekering komt voor haar overleden man cornelis",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdmFTeUNLVGtJTlM3X19YS2Q2VnhnbEVtRG4zcjRHUEdRVXVuN0g3TTNxTGh1WGsyWGxuSGJ2YTJGckhXSm5nNWdqRnYxMUpFVEhmQ2JGLTJDVmhnRjhMYy0xN1U4SlBPSEEtUUdKM1ZHbGZmOFZaNndzdEFjRFUtY2R4TVZBZkxkdFBBNk9CVjl4amhaNnBzdlQ4QVltUzJuYmhNUGtmTWlVckNUWlRMWHptZ0gxLTFPOGNMaTRoQkVKQ1BTOWpiQkN3VFVsY2ZFUEhRWG9YNkU4YzZMcTU3SlZaR0RULXc?oc=5",
@@ -2169,27 +2178,9 @@
     "datum": "2026-11-20T16:40:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
-   },
-   {
-    "titel": "Na jarenlange discussie wordt dit de nieuwe reling van de boulevard Vlissingen",
-    "normalized": "na jarenlange discussie wordt dit de nieuwe reling van de boulevard vlissingen",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzBCRWk3MEdpUGZDakNQbU1ZZjJkX3pTQzB6NzRxdlNnQ2dKY0dlYVp5WlRNSUd4M0JFZUR3a25qa2ozMkxacXM4UlN1dGpNSGU3V3Y3aG5SQ1AtYUFQMnN1TlRLUlliWkNOYXliREQxQVp5Q21SNGpEcFhrQWNDNXZlS201RE4zNXk3ZW1uSDhvRTRvNjVGVEl3MU0wSHBTU0dfOTNGcDVTaW1YY1c5M3FodFVwM2ktUjFScHVMTDU?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T16:29:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
    }
   ],
   "brabant": [
-   {
-    "titel": "Meisje op fatbike aangereden door auto in Breda, traumahelikopter geland",
-    "normalized": "meisje op fatbike aangereden door auto in breda traumahelikopter geland",
-    "link": "https://www.omroepbrabant.nl/nieuws/6035680/meisje-op-fatbike-aangereden-door-auto-in-breda-traumahelikopter-geland",
-    "samenvatting": "Een meisje op een fatbike is zaterdagmiddag aangereden door een auto in Breda. Ze is daarbij gewond geraakt. In de buurt is een traumahelikopter geland. &#xD;&#xA; Het ongeluk gebeurde rond drie uur op de kruising van de Allerheiligenweg met de Bavelselaan. Waarschijnlijk heeft een van de twee geen ",
-    "datum": "2026-11-21T21:03:00.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTI5OTctMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1Gd2twajFUJTJGNW9vb0pXaEhuJTJCQlBVd1V1eU85Tmw4Q2dPVHQ0TzdueW1sTSUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
-   },
    {
     "titel": "Van Gerwen naar halve finale op Grand Slam na pot met dubbele negendarter",
     "normalized": "van gerwen naar halve finale op grand slam na pot met dubbele negendarter",
@@ -2261,6 +2252,15 @@
     "datum": "2026-11-21T15:34:00.000Z",
     "bron": "Omroep Brabant",
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTE1NzUtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1ZcGR2RHVveGFtJTJGRW56MXhFV2JuTzhUOWc2a3pkN1RPUWNiWE5uRyUyQmhqQSUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
+   },
+   {
+    "titel": "Meisje op fatbike aangereden door auto in Breda, traumahelikopter geland",
+    "normalized": "meisje op fatbike aangereden door auto in breda traumahelikopter geland",
+    "link": "https://www.omroepbrabant.nl/nieuws/6035695/meisje-op-fatbike-aangereden-door-auto-in-breda-traumahelikopter-geland",
+    "samenvatting": "Een meisje op een fatbike is zaterdagmiddag aangereden door een auto in Breda. Ze is daarbij gewond geraakt. In de buurt is een traumahelikopter geland. &#xD;&#xA; Het ongeluk gebeurde rond drie uur op de kruising van de Allerheiligenweg met de Bavelselaan. Waarschijnlijk heeft een van de twee geen ",
+    "datum": "2026-11-21T14:47:00.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTI5OTctMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1Gd2twajFUJTJGNW9vb0pXaEhuJTJCQlBVd1V1eU85Tmw4Q2dPVHQ0TzdueW1sTSUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
    },
    {
     "titel": "Wethouder Jeroen van den Bosch (58) overleden, &#39;Missen hem om wie hij was&#39;",
@@ -2553,15 +2553,6 @@
     "foto": ""
    },
    {
-    "titel": "Borsele zet in op 750.000 euro uit de provincie voor woningbouw op zwaar vervuild terrein in Lewedorp: ‘Er is geen doorstroming meer’",
-    "normalized": "borsele zet in op 750 000 euro uit de provincie voor woningbouw op zwaar vervuild terrein in lewedorp er is geen doorstroming meer",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdC1oODhSaTlqNmtHb28yS0dkT0RkRDZrSkZuRnA5OTNOTjVlV25LMlJMRlRxMFYwdC1JWVB1aGl4S1dWODhwN2V6WkZOUzRfNmtoMERMVWUtcVI5ekY5LU9WZUpyVWRqakpMUDg3alh0YXh4NjYxRXBSb01FUXlhYTZmV1gwVkVCUmxQdzhKRDBfQ0xoSzk3cVNpb3d0d3pCVlBWV2pIek4zYUlrR1p1THpreEtEaE95SmxMLXYtdU5YYmx3MTh0X2pwYVpVdTliT2hLb3Bib0lWZUkzUnY4Uml2SzlfLUhrY2ZYY3lhdHRwbWUtUEt0LTVB?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-03T08:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "PRO Borsele niet blij met burgemeester: 'Raad hoort dit niet via de media te vernemen'",
     "normalized": "pro borsele niet blij met burgemeester raad hoort dit niet via de media te vernemen",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOXE2UHRrNFh1Um1mX085MVRpRVZfTk5HRHhxX2VzaVpHdFpucDNYdVllNkJVSmVMRlNMRHI3QjA2TG0xWDA4Q0tySTY0c3Z3ZjBVeFZrM2dycmVOTUpoV2ktdWZQVWg5UDVYVjRLb3ozWF9JN1RFb3BJSmVjblZwVGYyMzZtcEs3cEI3TFctOWtyQ3Bxb19mc3kwSnJBX2pkR3JBcG5uUEhGU0pmcVNuR0tKRDdYc2NnMFZnb1NYU0QyUnE3UDA0?oc=5",
@@ -2675,6 +2666,15 @@
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG4ycHRUR2hHcFpMQzc2dTZMTHlXajJDTGFDLXZHUGYtM1hyZExsYW1fd1BGTDZKLVZTWHRnQ3VEX2gzbXd1QmZ0ZzRTUUlvY1BpVmtCM2RQMFNNSFFicVE2bjZxREZDajg5LTZlUnJBeGRwdWNmd1JYZE1PVGxRUUNOZWpZMV9YV2hNcjg4QlNXSnRYMS11dU1ONUwzUmZ3Z2xNbWpIZTc?oc=5",
     "samenvatting": "",
     "datum": "2026-07-01T07:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Gemeente Borsele trekt nu bijna half miljoen uit voor drukke Stenevate: fietsers en voetgangers ‘heel kwetsbaar’",
+    "normalized": "gemeente borsele trekt nu bijna half miljoen uit voor drukke stenevate fietsers en voetgangers heel kwetsbaar",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObmVTbFd6MGE3b0x0TGZyRmRVdHJaVm5IbDBRUmVqY2hncWRDTkV1V3dJc2RfYzRlUGRDOFg5VTNVRjQwOThob3o4TXN1TUpHUTh4dEEyMGRCSFZocWhONnBjMTJaMUtTODBHenBNVXFFU1lFdjNGekxBSTZQNEJqcUpINFNSNkRfS1g0UEhjclBtQjl3S21VUzJxSVhUUmt3WjNnZUJ0ZmVkY1VYSVAydnQ3TjhFLTBhVXBfUWx0T2FYZHVBV3JXOEVLdk9wTU93VGVBaTluQ1VaMGZvUXlF?oc=5",
+    "samenvatting": "",
+    "datum": "2026-05-28T07:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
