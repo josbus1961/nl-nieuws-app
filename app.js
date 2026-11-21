@@ -30,12 +30,42 @@ const THEMA_KEY = "nl-nieuws-thema";
 const MAX_PER_FEED = 25;
 const TOP_MARKERINGEN = 3;
 
+const RSS2JSON_URL = "https://api.rss2json.com/v1/api.json?rss_url=";
+const LIVE_CACHE_KEY = "nl-nieuws-live-v1";
+const LIVE_STALE_TIJD = 45 * 60 * 1000;
+const LIVE_CACHE_TIJD = 10 * 60 * 1000;
+const LIVE_GELIJKTIJDIG = 3;
+
+const LIVE_BRONNEN = [
+  { cat: "algemeen", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwsalgemeen" },
+  { cat: "algemeen", bron: "NU.nl", url: "https://www.nu.nl/rss/Algemeen" },
+  { cat: "algemeen", bron: "RTL Nieuws", url: "https://www.rtlnieuws.nl/rss.xml" },
+  { cat: "binnenland", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwsbinnenland" },
+  { cat: "binnenland", bron: "NU.nl", url: "https://www.nu.nl/rss/Binnenland" },
+  { cat: "buitenland", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwsbuitenland" },
+  { cat: "buitenland", bron: "NU.nl", url: "https://www.nu.nl/rss/Buitenland" },
+  { cat: "politiek", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwspolitiek" },
+  { cat: "economie", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwseconomie" },
+  { cat: "economie", bron: "NU.nl", url: "https://www.nu.nl/rss/Economie" },
+  { cat: "sport", bron: "NOS", url: "https://feeds.nos.nl/nossportalgemeen" },
+  { cat: "sport", bron: "NU.nl", url: "https://www.nu.nl/rss/Sport" },
+  { cat: "cultuur", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwscultuurenmedia" },
+  { cat: "tech", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwstech" },
+  { cat: "zeeland", bron: "Google Nieuws", url: "https://news.google.com/rss/search?q=Zeeland+nieuws&hl=nl&gl=NL&ceid=NL:nl" },
+  { cat: "brabant", bron: "Omroep Brabant", url: "https://www.omroepbrabant.nl/rss" },
+  { cat: "borsele", bron: "Google Nieuws", url: "https://news.google.com/rss/search?q=Borsele&hl=nl&gl=NL&ceid=NL:nl" },
+  { cat: "kwadendamme", bron: "Google Nieuws", url: "https://news.google.com/rss/search?q=Kwadendamme&hl=nl&gl=NL&ceid=NL:nl" },
+  { cat: "roosendaal", bron: "Google Nieuws", url: "https://news.google.com/rss/search?q=Roosendaal+nieuws&hl=nl&gl=NL&ceid=NL:nl" }
+];
+
 const staat = {
   tab: "alles",
   feeds: {},
   fouten: {},
   verversedOp: null,
   laadt: false,
+  liveBezig: false,
+  live: false,
   zoek: ""
 };
 
@@ -181,7 +211,148 @@ function eigenNieuwsJson(ruw) {
   return null;
 }
 
-async function haalAlleFeedsOp() {
+function decodeEntities(s) {
+  const t = document.createElement("textarea");
+  t.innerHTML = s || "";
+  return t.value;
+}
+
+function maakSamenvatting(html) {
+  return decodeEntities(html || "")
+    .replace(/<style[\s\S]*?<\/style>/gi, " ")
+    .replace(/<script[\s\S]*?<\/script>/gi, " ")
+    .replace(/<[^>]*>/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .slice(0, 300);
+}
+
+function schoonGoogleTitel(titel) {
+  const idx = titel.lastIndexOf(" - ");
+  if (idx > 20 && titel.length - idx <= 45) return titel.slice(0, idx).trim();
+  return titel;
+}
+
+function normaliseerTitel(t) {
+  return (t || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9 ]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function jaccard(a, b) {
+  const ta = new Set(a.split(" ").filter(Boolean));
+  const tb = new Set(b.split(" ").filter(Boolean));
+  let snit = 0;
+  for (const w of ta) if (tb.has(w)) snit++;
+  return snit / (ta.size + tb.size - snit);
+}
+
+function isDubbelTitel(a, b) {
+  const na = normaliseerTitel(a.titel);
+  const nb = normaliseerTitel(b.titel);
+  if (!na || !nb) return false;
+  if (na === nb) return true;
+  if (na.length >= 25 && nb.length >= 25 && (na.includes(nb) || nb.includes(na))) return true;
+  const g = jaccard(na, nb);
+  return a.bron === b.bron ? g >= 0.7 : g >= 0.6 || (g >= 0.5 && gedeeldeKernwoorden(na, nb));
+}
+
+function gedeeldeKernwoorden(na, nb) {
+  const stop = new Set(["de", "het", "een", "en", "van", "in", "op", "uit", "met", "voor", "te", "dat", "dan", "bij", "naar", "over", "na", "door"]);
+  const wa = new Set(na.split(" ").filter(w => w.length >= 5 && !stop.has(w)));
+  const wb = new Set(nb.split(" ").filter(w => w.length >= 5 && !stop.has(w)));
+  let zelfde = 0;
+  for (const w of wa) if (wb.has(w)) zelfde++;
+  return zelfde >= 2;
+}
+
+function rss2jsonItem(it, bron, isGoogle) {
+  let d = null;
+  if (it.pubDate && /^\d{4}-\d{2}-\d{2} /.test(it.pubDate)) d = new Date(it.pubDate.replace(" ", "T") + "Z");
+  else if (it.pubDate) d = new Date(it.pubDate);
+  let foto = it.thumbnail || (it.enclosure && it.enclosure.link) || "";
+  if (foto) foto = decodeEntities(foto);
+  let titel = (it.title || "").trim();
+  if (isGoogle) titel = schoonGoogleTitel(titel);
+  return {
+    titel,
+    link: decodeEntities(it.link || "").trim(),
+    samenvatting: isGoogle ? "" : maakSamenvatting(it.description),
+    datum: d && !isNaN(d) ? d.toISOString() : "",
+    bron,
+    foto
+  };
+}
+
+async function haalLiveBron(bron) {
+  const r = await fetch(RSS2JSON_URL + encodeURIComponent(bron.url), { cache: "no-store" });
+  if (!r.ok) throw new Error("HTTP " + r.status);
+  const j = await r.json();
+  if (j.status !== "ok" || !Array.isArray(j.items)) throw new Error("rss2json: " + (j.message || j.status));
+  const isGoogle = bron.url.includes("news.google.com");
+  return j.items.map(it => rss2jsonItem(it, bron.bron, isGoogle)).filter(it => it.titel && it.link);
+}
+
+function voegLiveSamen(cat, liveItems) {
+  const bestaand = (staat.feeds[cat] || []).slice(0, MAX_PER_FEED);
+  const kandidaten = [...liveItems, ...bestaand].sort((a, b) => new Date(b.datum) - new Date(a.datum));
+  const gehouden = [];
+  const links = new Set();
+  for (const k of kandidaten) {
+    const basis = k.link.split("?")[0];
+    if (links.has(basis)) continue;
+    if (gehouden.some(g => isDubbelTitel(g, k))) continue;
+    gehouden.push(k);
+    links.add(basis);
+  }
+  staat.feeds[cat] = gehouden.slice(0, MAX_PER_FEED + 10);
+}
+
+async function verfrisLive() {
+  let liveCache = null;
+  try { liveCache = JSON.parse(localStorage.getItem(LIVE_CACHE_KEY) || "null"); } catch (e) { /* negeren */ }
+  if (liveCache && liveCache.tijd && Date.now() - liveCache.tijd < LIVE_CACHE_TIJD) return 0;
+
+  staat.liveBezig = true;
+  updateStatus();
+  const perCat = {};
+  const wachtrij = [...LIVE_BRONNEN];
+  let klaar = 0;
+  let gelukt = 0;
+  const werker = async () => {
+    while (wachtrij.length) {
+      const bron = wachtrij.shift();
+      try {
+        const items = await haalLiveBron(bron);
+        if (items.length) {
+          (perCat[bron.cat] = perCat[bron.cat] || []).push(...items);
+          gelukt++;
+        }
+      } catch (e) { /* deze bron overslaan */ }
+      klaar++;
+      toonVoortgang(30 + Math.round(60 * klaar / LIVE_BRONNEN.length));
+    }
+  };
+  try {
+    await Promise.all(Array.from({ length: LIVE_GELIJKTIJDIG }, werker));
+    Object.keys(perCat).forEach(cat => voegLiveSamen(cat, perCat[cat]));
+    if (gelukt) {
+      staat.verversedOp = new Date().toISOString();
+      staat.live = true;
+    }
+  } finally {
+    staat.liveBezig = false;
+    try { localStorage.setItem(LIVE_CACHE_KEY, JSON.stringify({ tijd: Date.now() })); } catch (e) { /* opslag vol */ }
+  }
+  return gelukt;
+}
+
+async function haalAlleFeedsOp(opties = {}) {
+  const forceerLive = !!opties.forceerLive;
   staat.laadt = true;
   staat.fouten = {};
   toonVoortgang(25);
@@ -203,12 +374,18 @@ async function haalAlleFeedsOp() {
         });
         gelukt = true;
         staat.verversedOp = eigen.gegenereerd || new Date().toISOString();
+        staat.live = false;
       }
     }
   } catch (e) { /* offline of data onbestaand; cache blijft staan */ }
 
   if (!gelukt && !staat.verversedOp) {
     staat.fouten[staat.tab] = "Kon het nieuws niet laden. Controleer je internetverbinding.";
+  }
+
+  const verouderd = !staat.verversedOp || Date.now() - new Date(staat.verversedOp).getTime() > LIVE_STALE_TIJD;
+  if ((gelukt || Object.keys(staat.feeds).length) && (forceerLive || verouderd)) {
+    try { await verfrisLive(); } catch (e) { /* live verversen mislukt; JSON-data blijft staan */ }
   }
 
   staat.laadt = false;
@@ -421,6 +598,11 @@ function renderBewaard(container) {
 
 function updateStatus() {
   const status = el("update-status");
+  status.classList.toggle("oud", false);
+  if (staat.liveBezig) {
+    status.textContent = "Live verversen…";
+    return;
+  }
   if (staat.laadt) {
     status.textContent = "Bezig met verversen…";
     return;
@@ -430,7 +612,14 @@ function updateStatus() {
 
   if (staat.verversedOp) {
     const t = new Date(staat.verversedOp);
-    status.textContent = "Laatst ververst " + new Intl.DateTimeFormat("nl-NL", { hour: "2-digit", minute: "2-digit" }).format(t);
+    let tekst = "Laatst ververst " + new Intl.DateTimeFormat("nl-NL", { hour: "2-digit", minute: "2-digit" }).format(t);
+    if (staat.live) tekst += " (live)";
+    const urenOud = (Date.now() - t.getTime()) / 3600000;
+    if (urenOud >= 2) {
+      tekst += " · " + relatieveTijd(staat.verversedOp);
+      status.classList.toggle("oud", true);
+    }
+    status.textContent = tekst;
   } else {
     status.textContent = "Nog niet ververst";
   }
@@ -460,16 +649,21 @@ function initThema() {
 }
 
 function verfris() {
+  if (staat.laadt) return;
   const knop = el("ververs-knop");
   knop.disabled = true;
   knop.classList.add("spinnend");
-  haalAlleFeedsOp().finally(() => {
+  haalAlleFeedsOp({ forceerLive: true }).finally(() => {
     knop.disabled = false;
     knop.classList.remove("spinnend");
   });
 }
 
+let opgestart = false;
+
 function init() {
+  if (opgestart) return;
+  opgestart = true;
   initThema();
 
   el("thema-knop").addEventListener("click", () => {
@@ -495,7 +689,7 @@ function init() {
   renderInhoud();
   updateStatus();
 
-  if (navigator.onLine !== false) verfris();
+  if (navigator.onLine !== false) haalAlleFeedsOp().catch(() => {});
 }
 
 document.addEventListener("DOMContentLoaded", init);

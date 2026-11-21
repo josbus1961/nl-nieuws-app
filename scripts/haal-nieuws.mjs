@@ -163,12 +163,25 @@ function parseAtomOfRss(xml, bron) {
   return items;
 }
 
+async function haalFeedXml(url) {
+  let laatsteFout;
+  for (let poging = 1; poging <= 3; poging++) {
+    try {
+      const r = await fetch(url, { headers: { "User-Agent": "nl-nieuws-app/1.0 (GitHub Actions)" } });
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return await r.text();
+    } catch (e) {
+      laatsteFout = e;
+      if (poging < 3) await new Promise(res => setTimeout(res, 1500 * poging));
+    }
+  }
+  throw laatsteFout;
+}
+
 const categorieen = {};
 for (const b of BRONNEN) {
   try {
-    const r = await fetch(b.url, { headers: { "User-Agent": "nl-nieuws-app/1.0 (GitHub Actions)" } });
-    if (!r.ok) throw new Error("HTTP " + r.status);
-    const xml = await r.text();
+    const xml = await haalFeedXml(b.url);
     const items = parseAtomOfRss(xml, b.bron);
     if (!items.length) throw new Error("geen items");
     categorieen[b.cat] = categorieen[b.cat] || [];
