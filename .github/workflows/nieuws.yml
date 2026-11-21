@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: nieuws
@@ -15,7 +16,7 @@ concurrency:
 jobs:
   ophalen:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
 
@@ -24,9 +25,11 @@ jobs:
           node-version: 20
 
       - name: Feeds ophalen en nieuws.json bouwen
+        continue-on-error: true
         run: node scripts/haal-nieuws.mjs
 
       - name: Commit en push bij wijzigingen
+        continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -35,5 +38,14 @@ jobs:
             echo "Geen wijzigingen"
           else
             git commit -m "Nieuws ververst: $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
           fi
+          git pull --rebase origin main
+          git push
+
+      - name: Pauzeer en start de volgende verversing
+        if: always()
+        run: |
+          sleep 1500
+          gh api -X POST "repos/josbus1961/nl-nieuws-app/actions/workflows/nieuws.yml/dispatches" -f ref=main
+        env:
+          GH_TOKEN: ${{ github.token }}
