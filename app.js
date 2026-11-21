@@ -34,29 +34,30 @@ const RSS2JSON_URL = "https://api.rss2json.com/v1/api.json?rss_url=";
 const LIVE_CACHE_KEY = "nl-nieuws-live-v1";
 const LIVE_STALE_TIJD = 45 * 60 * 1000;
 const LIVE_CACHE_TIJD = 10 * 60 * 1000;
-const LIVE_GELIJKTIJDIG = 3;
 
 const LIVE_BRONNEN = [
   { cat: "algemeen", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwsalgemeen" },
-  { cat: "algemeen", bron: "NU.nl", url: "https://www.nu.nl/rss/Algemeen" },
-  { cat: "algemeen", bron: "RTL Nieuws", url: "https://www.rtlnieuws.nl/rss.xml" },
   { cat: "binnenland", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwsbinnenland" },
-  { cat: "binnenland", bron: "NU.nl", url: "https://www.nu.nl/rss/Binnenland" },
   { cat: "buitenland", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwsbuitenland" },
-  { cat: "buitenland", bron: "NU.nl", url: "https://www.nu.nl/rss/Buitenland" },
-  { cat: "politiek", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwspolitiek" },
-  { cat: "economie", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwseconomie" },
-  { cat: "economie", bron: "NU.nl", url: "https://www.nu.nl/rss/Economie" },
+  { cat: "zeeland", bron: "Google Nieuws", url: "https://news.google.com/rss/search?q=Zeeland+nieuws&hl=nl&gl=NL&ceid=NL:nl" },
+  { cat: "kwadendamme", bron: "Google Nieuws", url: "https://news.google.com/rss/search?q=Kwadendamme&hl=nl&gl=NL&ceid=NL:nl" },
+  { cat: "brabant", bron: "Omroep Brabant", url: "https://www.omroepbrabant.nl/rss" },
+  { cat: "roosendaal", bron: "Google Nieuws", url: "https://news.google.com/rss/search?q=Roosendaal+nieuws&hl=nl&gl=NL&ceid=NL:nl" },
   { cat: "sport", bron: "NOS", url: "https://feeds.nos.nl/nossportalgemeen" },
+  { cat: "politiek", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwspolitiek" },
+  { cat: "borsele", bron: "Google Nieuws", url: "https://news.google.com/rss/search?q=Borsele&hl=nl&gl=NL&ceid=NL:nl" },
+  { cat: "algemeen", bron: "NU.nl", url: "https://www.nu.nl/rss/Algemeen" },
+  { cat: "binnenland", bron: "NU.nl", url: "https://www.nu.nl/rss/Binnenland" },
+  { cat: "buitenland", bron: "NU.nl", url: "https://www.nu.nl/rss/Buitenland" },
+  { cat: "economie", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwseconomie" },
   { cat: "sport", bron: "NU.nl", url: "https://www.nu.nl/rss/Sport" },
+  { cat: "economie", bron: "NU.nl", url: "https://www.nu.nl/rss/Economie" },
   { cat: "cultuur", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwscultuurenmedia" },
   { cat: "tech", bron: "NOS", url: "https://feeds.nos.nl/nosnieuwstech" },
-  { cat: "zeeland", bron: "Google Nieuws", url: "https://news.google.com/rss/search?q=Zeeland+nieuws&hl=nl&gl=NL&ceid=NL:nl" },
-  { cat: "brabant", bron: "Omroep Brabant", url: "https://www.omroepbrabant.nl/rss" },
-  { cat: "borsele", bron: "Google Nieuws", url: "https://news.google.com/rss/search?q=Borsele&hl=nl&gl=NL&ceid=NL:nl" },
-  { cat: "kwadendamme", bron: "Google Nieuws", url: "https://news.google.com/rss/search?q=Kwadendamme&hl=nl&gl=NL&ceid=NL:nl" },
-  { cat: "roosendaal", bron: "Google Nieuws", url: "https://news.google.com/rss/search?q=Roosendaal+nieuws&hl=nl&gl=NL&ceid=NL:nl" }
+  { cat: "algemeen", bron: "RTL Nieuws", url: "https://www.rtlnieuws.nl/rss.xml" }
 ];
+
+const AUTO_VERFRIS_TIJD = 10 * 60 * 1000;
 
 const staat = {
   tab: "alles",
@@ -288,13 +289,31 @@ function rss2jsonItem(it, bron, isGoogle) {
   };
 }
 
+function slaap(ms) {
+  return new Promise(res => setTimeout(res, ms));
+}
+
 async function haalLiveBron(bron) {
-  const r = await fetch(RSS2JSON_URL + encodeURIComponent(bron.url), { cache: "no-store" });
-  if (!r.ok) throw new Error("HTTP " + r.status);
-  const j = await r.json();
-  if (j.status !== "ok" || !Array.isArray(j.items)) throw new Error("rss2json: " + (j.message || j.status));
-  const isGoogle = bron.url.includes("news.google.com");
-  return j.items.map(it => rss2jsonItem(it, bron.bron, isGoogle)).filter(it => it.titel && it.link);
+  let fout = null;
+  for (let poging = 0; poging < 2; poging++) {
+    try {
+      const r = await fetch(RSS2JSON_URL + encodeURIComponent(bron.url), { cache: "no-store" });
+      if (r.status === 429) {
+        fout = new Error("429");
+      } else if (!r.ok) {
+        throw new Error("HTTP " + r.status);
+      } else {
+        const j = await r.json();
+        if (j.status !== "ok" || !Array.isArray(j.items)) throw new Error("rss2json: " + (j.message || j.status));
+        const isGoogle = bron.url.includes("news.google.com");
+        return j.items.map(it => rss2jsonItem(it, bron.bron, isGoogle)).filter(it => it.titel && it.link);
+      }
+    } catch (e) {
+      fout = e;
+    }
+    if (poging === 0) await slaap(30000);
+  }
+  throw fout || new Error("onbekende fout");
 }
 
 function voegLiveSamen(cat, liveItems) {
@@ -319,31 +338,35 @@ async function verfrisLive() {
 
   staat.liveBezig = true;
   updateStatus();
-  const perCat = {};
   const wachtrij = [...LIVE_BRONNEN];
+  const totaal = wachtrij.length;
   let klaar = 0;
   let gelukt = 0;
-  const werker = async () => {
+  let limiettreffers = 0;
+  try {
     while (wachtrij.length) {
       const bron = wachtrij.shift();
       try {
         const items = await haalLiveBron(bron);
         if (items.length) {
-          (perCat[bron.cat] = perCat[bron.cat] || []).push(...items);
+          voegLiveSamen(bron.cat, items);
           gelukt++;
+          renderTabs();
+          if (staat.tab === bron.cat || staat.tab === "alles") renderInhoud();
         }
-      } catch (e) { /* deze bron overslaan */ }
+      } catch (e) {
+        if (String(e.message).includes("429")) limiettreffers++;
+        if (limiettreffers >= 3) break;
+      }
       klaar++;
-      toonVoortgang(30 + Math.round(60 * klaar / LIVE_BRONNEN.length));
+      toonVoortgang(30 + Math.round(60 * klaar / totaal));
+      if (wachtrij.length) await slaap(1500);
     }
-  };
-  try {
-    await Promise.all(Array.from({ length: LIVE_GELIJKTIJDIG }, werker));
-    Object.keys(perCat).forEach(cat => voegLiveSamen(cat, perCat[cat]));
     if (gelukt) {
       staat.verversedOp = new Date().toISOString();
       staat.live = true;
     }
+    slaCache();
   } finally {
     staat.liveBezig = false;
     try { localStorage.setItem(LIVE_CACHE_KEY, JSON.stringify({ tijd: Date.now() })); } catch (e) { /* opslag vol */ }
@@ -395,6 +418,11 @@ async function haalAlleFeedsOp(opties = {}) {
   updateStatus();
   renderTabs();
   renderInhoud();
+}
+
+function autoVerfris() {
+  if (staat.laadt || staat.liveBezig || navigator.onLine === false) return;
+  haalAlleFeedsOp().catch(() => {});
 }
 
 const MAX_ALLES = 120;
@@ -690,6 +718,11 @@ function init() {
   updateStatus();
 
   if (navigator.onLine !== false) haalAlleFeedsOp().catch(() => {});
+
+  setInterval(autoVerfris, AUTO_VERFRIS_TIJD);
+  document.addEventListener("visibilitychange", () => {
+    if (!document.hidden) autoVerfris();
+  });
 }
 
 document.addEventListener("DOMContentLoaded", init);
