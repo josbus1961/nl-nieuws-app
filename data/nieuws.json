@@ -1,8 +1,17 @@
 {
- "gegenereerd": "2026-11-21T22:33:51.909Z",
+ "gegenereerd": "2026-11-21T22:59:10.801Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Nieuwe Hunger Games-film stevent af op succesvol openingsweekend",
+    "normalized": "nieuwe hunger games film stevent af op succesvol openingsweekend",
+    "link": "https://www.rtl.nl/boulevard/artikel/5666488/nieuwe-hunger-games-film-stevent-af-op-succesvol-openingsweekend",
+    "samenvatting": "De nieuwe Hunger Games-film Sunrise on the Reaping lijkt een groot bioscoopsucces te worden. De film bracht vrijdag in Noord-Amerika al 56 miljoen dollar op, inclusief de voorpremières van donderdag. Volgens The Hollywood Reporter stevent de productie af op een opbrengst van meer dan 120 miljoen dol",
+    "datum": "2026-11-21T22:52:58.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP211126158-1.jpg?itok=rDFkDg-N&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
    {
     "titel": "Zeker 24 doden nadat boot in Nigeria onderweg naar begrafenis kapseist",
     "normalized": "zeker 24 doden nadat boot in nigeria onderweg naar begrafenis kapseist",
@@ -263,15 +272,6 @@
     "datum": "2026-11-21T19:54:54.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=78940b42-3008-4e63-b73d-5798c349c78d"
-   },
-   {
-    "titel": "Dagelijkse programmering Boer zoekt vrouw oogst succes: liefde moet nog ontkiemen",
-    "normalized": "dagelijkse programmering boer zoekt vrouw oogst succes liefde moet nog ontkiemen",
-    "link": "https://www.rtl.nl/boulevard/video/ba750b1c-21de-461a-a3ab-ce1900564af0/dagelijkse-programmering-boer-zoekt-vrouw",
-    "samenvatting": "De laatste week van 'Boer zoekt vrouw' is alweer aangebroken en de liefde moet nu echt geoogst worden! De eerste knopen zijn doorgehakt en er zijn nog maar twee logees over per boerderij. De spanning stijgt, want wie vindt de liefde en wie blijft er alsnog met lege handen achter?",
-    "datum": "2026-11-21T19:52:59.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=ba750b1c-21de-461a-a3ab-ce1900564af0"
    }
   ],
   "binnenland": [
@@ -1312,7 +1312,7 @@
    {
     "titel": "Zverev wint en treft Alcaraz in gedroomde finale ATP Finals om 5 miljoen dollar",
     "normalized": "zverev wint en treft alcaraz in gedroomde finale atp finals om 5 miljoen dollar",
-    "link": "https://www.nu.nl/tennis/6417341/zverev-wint-en-treft-alcaraz-in-gedroomde-finale-atp-finals-om-5-miljoen-dollar.html",
+    "link": "https://www.nu.nl/sport-overig/6417341/zverev-wint-en-treft-alcaraz-in-gedroomde-finale-atp-finals-om-5-miljoen-dollar.html",
     "samenvatting": "Carlos Alcaraz en Alexander Zverev vormen zondag het droomaffiche voor de eindstrijd van de ATP Finals in Turijn. Alcaraz won zaterdagmiddag in de halve finale met 3-6, 6-3 en 7-6 (1) van Ben Shelton en Zverev was zaterdagavond in de andere halve finale Daniil Medvedev de baas: 7-6 (0) en 6-4.",
     "datum": "2026-11-21T21:47:13.000Z",
     "bron": "NU.nl",
@@ -1912,7 +1912,7 @@
    {
     "titel": "Serooskerker (33) die tijdens ruzie over vriendin man in het gezicht sneed, pleegde zware mishandeling, geen poging tot doodslag",
     "normalized": "serooskerker 33 die tijdens ruzie over vriendin man in het gezicht sneed pleegde zware mishandeling geen poging tot doodslag",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWUx0bjE5eldNb3BuQjlPMHhVcnFtcWVCM2tDWkRjTDZYT2xWUFc4SDE3eFZ1QV90T3oyaWlHb2trRDZLR3JtRFNiYmItVVB5bHpZU0JNQVJSMmJDVE1uVmJYTXZBZ2VwZndQLS1PRTRSNjREbmtXSGp6cVEtODJmQWg0eGEyRTE4Y2pOLW4xQUQtSEpzeXpYLUhmTFRaLUY3bEN5YUVIdlBvS1pnbDBFNk0tdUVMaDhsV1VoQzdvLVBQSkVYVnFjdndEcmFBZ243dnZJTnNYZmM2VjBibXp0cm5ZZnhISGJ2LTRQYUp3bnpPSmdnTHFTNDBn?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUnVkOGRuM0F4WWdKR2x5OEtKdlVSeUxqa0tKOEhaT0ROeXI1Sk13ZFJlek5Wc1VMRVBvaWE0X3JDX09FWVpraHdmR1lEQU55NHpvVmNrMVlEM3QyVVN1UWpxSVI0T2ktV2taM3FodXVLY2YxdHFLZjl5SmVod0lmcFVRd1VLejktazlBdEV5QWRRQ3k0WTAtU0dJLVlQVnV0azl6dmFtLVMzQzFJM0ZYYnB1d3RBSDVHTnloSV9VODQ4OGtNb2NYWEVyNkszLXJjcjNPUVZWOHRiUjBVUmRSOUEzQWU3ZG16U1NPMzd0WVk?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T20:48:18.000Z",
     "bron": "Google Nieuws",
@@ -1960,6 +1960,15 @@
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWxlNnVZYXhac1puVm9JUXpUcG1vMThZaXczQlk2UDlNMTJJLU1uM19QRWVZQm53eDZpR3h1aU5obkllSTc5cXlRUmlCWC02TmZ0TmpEdW1YSmQzdVBRc3huMFdZS0FCME9IWEFPdk5hMzNhck54czZBZzBwWjhnTFdadzdzX0RFOGZ5MG1LSGpyMkZUZThEaVhKX01CRWF3T2tLcHFfTG40bVc3UHo3X0lhMmFWUjBoa1d2ZmdFaEwtOHV1WGxz?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T17:04:02.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Eieren gegooid in Arnemuiden bij anti-zwartepietprotest, demonstranten bleven weg in Axel en Goes",
+    "normalized": "eieren gegooid in arnemuiden bij anti zwartepietprotest demonstranten bleven weg in axel en goes",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWFl0amVQVUxPbExVSWhEM21OV2tmUEhUUGloa2JicC1CSVRCaUVUU3VpQ3g0QWNtSUlHcFRKTVFocFB1YnFOemxHTENleWU2SnJLYjN1OUxjaTlsYV83dFV1TEVRbHEyVlRQUTRsLVNqSjFvSFUweXFZU25WVVVRU2laOF8wd3F1ZTc3MnNEZUFHdnBab29FdExGWEpLQi03emVYdGttYXA1dXpfQ0V2VFNUZ1dRR2tnaGx2ajE4ejEtX3B6aTUtaDBiNlVxVGZhbzJQSm5wYXo?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T16:11:21.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2050,15 +2059,6 @@
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMF9BNFJhT2NDbDlMeW1UMnlBVEhJZkdnQms5cGxNS3JVUXBYZjhPUXhzUl9NUWZVdk5QSmJtTGFKYVVidThrN1owTGRzMC1vQVZ1Ty1pTWtjWjJWekFZTUJaTk52VVJlekpoZHV6MHdYcnRZcnJFM1UyVDFxUEdoNk5RSGZ4RFkwWndwaVN5Z0dzQ01HMHNySjlrcE1jOFhiam9jTVl1WkxZS0d5ek5rbDh6UFlTZlZXbFpoX3gxWVFQYWdhZmtMNmtR?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T11:00:58.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Von der Leyen: dreigingen van Rusland steeds minder hybride",
-    "normalized": "von der leyen dreigingen van rusland steeds minder hybride",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXdRMlFFS2JpbE42azZBanowQUw2VFVGNzBMMkZKUExjVHIxS1dHZm5mMFRLOU1ueHRaUEdoUDZXcVktLU5OTl9tQWZ5Sm9PUUZCRmFkLWRRR0lLbVV3UWUtSjhySUdTT2ljLXIwbk1Hanp6Z0U3eFJwdjBjQWoxcWRWTURqMWNrX3VrYl9aeGJtQWpHYWc?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T10:00:50.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2182,10 +2182,10 @@
   ],
   "brabant": [
    {
-    "titel": "Van Gerwen naar halve finale op Grand Slam na pot met dubbele negendarter",
-    "normalized": "van gerwen naar halve finale op grand slam na pot met dubbele negendarter",
-    "link": "https://www.omroepbrabant.nl/nieuws/6035690/van-gerwen-naar-halve-finale-op-grand-slam-na-pot-met-dubbele-negendarter",
-    "samenvatting": "Michael van Gerwen heeft de kwartfinale van de Grand Slam of Darts gewonnen. De darter uit Vlijmen begon de wedstrijd met een zogenoemde negendarter, de snelste manier om een leg te winnen. Opvallend genoeg deed zijn Britse tegenstander Tom Sykes dat &oacute;&oacute;k. Twee negendarters in een wedst",
+    "titel": "Van Gerwen treft Van Veen in halve finale Grand Slam na negendarter",
+    "normalized": "van gerwen treft van veen in halve finale grand slam na negendarter",
+    "link": "https://www.omroepbrabant.nl/nieuws/6035690/van-gerwen-treft-van-veen-in-halve-finale-grand-slam-na-negendarter",
+    "samenvatting": "Michael van Gerwen heeft de kwartfinale van de Grand Slam of Darts gewonnen. De darter uit Vlijmen begon de wedstrijd met een zogenoemde negendarter, de snelste manier om een leg te winnen. In de halve finale treft Van Gerwen een andere Brabantse darter: Gian van Veen. Ook hij won zaterdagavond.&nbs",
     "datum": "2026-11-21T20:19:06.000Z",
     "bron": "Omroep Brabant",
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzQ5OTY2MzgtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1XMmpaYnNPelk3VTFGUGVXZ3N4JTJCREh3dEFIbndjJTJCMmhIJTJGM3U5aEJFVGcwJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
