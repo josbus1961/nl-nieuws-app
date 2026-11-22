@@ -1,8 +1,53 @@
 {
- "gegenereerd": "2026-11-22T08:17:01.467Z",
+ "gegenereerd": "2026-11-22T08:42:20.291Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Paris Saint-Germain vreest lange uitschakeling geblesseerde Doué",
+    "normalized": "paris saint germain vreest lange uitschakeling geblesseerde doue",
+    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666513/paris-saint-germain-vreest-lange-uitschakeling-geblesseerde-doue",
+    "samenvatting": "PARIJS (ANP/DPA) - Paris Saint-Germain vreest dat Désiré Doué lange tijd is uitgeschakeld. De Franse international heeft vermoedelijk een zware knieblessure opgelopen in de wedstrijd van zaterdag tegen OGC Nice.",
+    "datum": "2026-11-22T08:34:51.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126068-1.jpg?itok=QMzkCnZq&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Jennifer Lopez hint op vervolg komedie Monster-in-Law",
+    "normalized": "jennifer lopez hint op vervolg komedie monster in law",
+    "link": "https://www.rtl.nl/boulevard/artikel/5666512/jennifer-lopez-hint-op-vervolg-komedie-monster-law",
+    "samenvatting": "Jennifer Lopez en Jane Fonda keren mogelijk terug in een vervolg op de romantische komedie Monster-in-Law uit 2005. Dat vertelde de 57-jarige zangeres en actrice tijdens een interview in The Drew Barrymore Show.",
+    "datum": "2026-11-22T08:24:14.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126065-1.jpg?itok=zkbLe-YT&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Video | Gemaskerde ICE-agenten slepen reizigers weg op luchthaven Seattle",
+    "normalized": "video gemaskerde ice agenten slepen reizigers weg op luchthaven seattle",
+    "link": "https://www.nu.nl/332511/video/gemaskerde-ice-agenten-slepen-reizigers-weg-op-luchthaven-seattle.html",
+    "samenvatting": "",
+    "datum": "2026-11-22T08:20:31.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/1ncxn78amwr3_sqr256/504/0/1080/1080/gemaskerde-ice-agenten-slepen-reizigers-weg-op-luchthaven-seattle.jpg"
+   },
+   {
+    "titel": "Influencer Vera Dijkmans terug in Nederland na detentie in VS",
+    "normalized": "influencer vera dijkmans terug in nederland na detentie in vs",
+    "link": "https://nos.nl/l/2640542",
+    "samenvatting": "De Nederlandse influencer Vera Dijkmans is terug in Nederland. Vanmorgen kwam ze aan op Schiphol, na elf dagen in een Amerikaanse cel, meldt Omroep Brabant . Dijkmans (29) werd anderhalve week geleden opgepakt door immigratiedienst ICE omdat ze zich niet aan de voorwaarden van haar visum had gehoude",
+    "datum": "2026-11-22T08:19:08.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/1/8/1/B/e/f/DJ1g8srbZaqsmmsqMqSwopSquYZS8PKX13qeZH5/0x508x1536x864-1024x576.webp"
+   },
+   {
+    "titel": "Ferrari-baas hekelt Leclerc na nieuwe clash: gebrek aan respect",
+    "normalized": "ferrari baas hekelt leclerc na nieuwe clash gebrek aan respect",
+    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666511/ferrari-baas-hekelt-leclerc-na-nieuwe-clash-gebrek-aan-respect",
+    "samenvatting": "LAS VEGAS (ANP/RTR) - Teambaas Fred Vasseur van Ferrari heeft Charles Leclerc scherp bekritiseerd na de Grote Prijs van Las Vegas. De Monegask veroorzaakte opnieuw een aanrijding met teamgenoot Lewis Hamilton. \"Eerlijk gezegd vind ik dit volstrekt onaanvaardbaar en het getuigt van gebrek aan respect",
+    "datum": "2026-11-22T08:16:55.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126064-1.jpg?itok=E0q3PC99&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
    {
     "titel": "Schaatsster Daleman boekt vierde zege op rij op de 500 meter",
     "normalized": "schaatsster daleman boekt vierde zege op rij op de 500 meter",
@@ -13,13 +58,13 @@
     "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126058-1.jpg?itok=o_tJW9s4&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    },
    {
-    "titel": "VS zet Vera Dijkmans uit: influencer weer terug in Nederland na 11 dagen in Amerikaanse cel",
-    "normalized": "vs zet vera dijkmans uit influencer weer terug in nederland na 11 dagen in amerikaanse cel",
-    "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5666508/vera-dijkmans-weer-nederland-ice",
-    "samenvatting": "Influencer Vera Dijkmans is weer in Nederland. Dat laat haar moeder weten aan RTL Nieuws. Ze landde vanochtend op Schiphol, nadat ze ruim een week had vastgezeten in de Verenigde Staten.",
-    "datum": "2026-11-22T07:52:16.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/16/WhatsApp%20Image%202026-11-16%20at%2013.07.16.jpeg?itok=50ve_73i&amp;offsetX=0&amp;offsetY=592&amp;cropWidth=1333&amp;cropHeight=750&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+    "titel": "Daleman pakt weer goud op 500 meter bij vierde clean sweep voor Nederland",
+    "normalized": "daleman pakt weer goud op 500 meter bij vierde clean sweep voor nederland",
+    "link": "https://www.nu.nl/schaatsen/6417395/daleman-pakt-weer-goud-op-500-meter-bij-vierde-clean-sweep-voor-nederland.html",
+    "samenvatting": "Angel Daleman heeft zondag in Obihiro haar vierde wereldbekerzege op de 500 meter geboekt. De negentienjarige schaatsster voerde wederom een Nederlands podium aan. Suzanne Schulting pakte zilver door Femke Kok te verslaan. Bij de mannen was er geen Nederlandse medaille.",
+    "datum": "2026-11-22T07:53:58.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/75exu7hapsm0_sqr256/732/4/3627/3627/daleman-pakt-weer-goud-op-500-meter-bij-vierde-clean-sweep-voor-nederland.jpg"
    },
    {
     "titel": "Shorttracker Van 't Wout wint opnieuw 1000 meter in World Tour",
@@ -31,13 +76,13 @@
     "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126057-1.jpg?itok=G-nPMv_e&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    },
    {
-    "titel": "Regisseur Luca Guadagnino gaat niet door met American Psycho",
-    "normalized": "regisseur luca guadagnino gaat niet door met american psycho",
+    "titel": "Tegenslag voor nieuwe American Psycho-film: regisseur stopt",
+    "normalized": "tegenslag voor nieuwe american psycho film regisseur stopt",
     "link": "https://www.rtl.nl/boulevard/artikel/5666506/regisseur-luca-guadagnino-gaat-niet-door-met-american-psycho",
-    "samenvatting": "Luca Guadagnino werkt niet langer aan een nieuwe American Psycho-film. \"Scott Z. Burns heeft een fantastisch script geschreven\", zei Guadagnino zaterdag in een podcast van Deadline. \"Helaas voor mij gaat het op dit moment niet door.\"",
+    "samenvatting": "Luca Guadagnino (55) werkt niet langer aan een nieuwe 'American Psycho'-film. \"Scott Z. Burns (64) heeft een fantastisch script geschreven\", zei Luca zaterdag in een podcast van Deadline. \"Helaas voor mij gaat het op dit moment niet door.\"",
     "datum": "2026-11-22T07:41:24.000Z",
     "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126056-1.jpg?itok=3cwBjfIL&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/ANP-575872436.jpg?itok=hYw8dTc_&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1997&amp;cropHeight=1123&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    },
    {
     "titel": "Remi zette de turnwereld op z'n kop: 'Mijn verhaal moet verteld worden'",
@@ -67,22 +112,22 @@
     "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126055-1.jpg?itok=57ZcK9s1&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    },
    {
-    "titel": "Verstappen genoot van mislukte actie Russell: 'Mijn dag werd alleen maar beter'",
-    "normalized": "verstappen genoot van mislukte actie russell mijn dag werd alleen maar beter",
-    "link": "https://www.nu.nl/formule-1/6417393/verstappen-genoot-van-mislukte-actie-russell-mijn-dag-werd-alleen-maar-beter.html",
-    "samenvatting": "Max Verstappen genoot van de dramatische race die George Russell in Las Vegas had. De Mercedes-coureur haalde een dag eerder had uit naar Verstappen. \"Dit was perfecte karma.\"",
+    "titel": "Verstappen slaat terug naar Russell: 'Grote mond, maar zijn seizoen is aanfluiting'",
+    "normalized": "verstappen slaat terug naar russell grote mond maar zijn seizoen is aanfluiting",
+    "link": "https://www.nu.nl/formule-1/6417393/verstappen-slaat-terug-naar-russell-grote-mond-maar-zijn-seizoen-is-aanfluiting.html",
+    "samenvatting": "Max Verstappen genoot van de dramatische race die George Russell in Las Vegas had. De Mercedes-coureur haalde een dag eerder hard uit naar Verstappen. \"Dit was perfecte karma.\"",
     "datum": "2026-11-22T07:31:42.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/1ssx02barzw6_sqr256/434/3/2282/2282/verstappen-genoot-van-mislukte-actie-russell-mijn-dag-werd-alleen-maar-beter.jpg"
+    "foto": "https://images.nu.nl/m/1ssx02barzw6_sqr256/434/3/2282/2282/verstappen-slaat-terug-naar-russell-grote-mond-maar-zijn-seizoen-is-aanfluiting.jpg"
    },
    {
-    "titel": "De broeikas | Misschien hebben de klimaattoppen juist een totale mislukking nodig",
-    "normalized": "de broeikas misschien hebben de klimaattoppen juist een totale mislukking nodig",
-    "link": "https://www.nu.nl/de-broeikas/6417318/misschien-hebben-de-klimaattoppen-juist-een-totale-mislukking-nodig.html",
+    "titel": "De broeikas | Misschien hebben klimaattoppen juist totale mislukking nodig",
+    "normalized": "de broeikas misschien hebben klimaattoppen juist totale mislukking nodig",
+    "link": "https://www.nu.nl/de-broeikas/6417318/misschien-hebben-klimaattoppen-juist-totale-mislukking-nodig.html",
     "samenvatting": "In de rubriek De broeikas schrijft klimaatverslaggever Jeroen Kraan elke zondag over wat hem opvalt. Deze week: meer dan piepkleine stapjes kun je momenteel niet verwachten van de jaarlijkse VN-klimaattoppen. Is het tijd om dit proces eens écht te laten mislukken?",
     "datum": "2026-11-22T07:28:02.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/t1jxufmaqhjb_sqr256/426/0/1077/1077/misschien-hebben-de-klimaattoppen-juist-een-totale-mislukking-nodig.jpg"
+    "foto": "https://images.nu.nl/m/t1jxufmaqhjb_sqr256/426/0/1077/1077/misschien-hebben-klimaattoppen-juist-totale-mislukking-nodig.jpg"
    },
    {
     "titel": "Doden en tientallen vermisten door brand in snoepfabriek in Indonesië",
@@ -94,13 +139,13 @@
     "foto": "https://images.nu.nl/m/b4axqbja9l4n_sqr256/375/0/2000/2000/doden-en-tientallen-vermisten-door-brand-in-snoepfabriek-in-indonesie.jpg"
    },
    {
-    "titel": "Miley Cyrus trouwt met muzikant Maxx Morando",
-    "normalized": "miley cyrus trouwt met muzikant maxx morando",
-    "link": "https://www.nu.nl/entertainment/6417391/miley-cyrus-trouwt-met-muzikant-maxx-morando.html",
-    "samenvatting": "Zangeres Miley Cyrus is zaterdag getrouwd in Palm Springs met haar partner Maxx Morando. De bruiloft vond plaats in intieme kring, meldt entertainmentblad People .",
+    "titel": "Miley Cyrus getrouwd met muzikant Maxx Morando",
+    "normalized": "miley cyrus getrouwd met muzikant maxx morando",
+    "link": "https://www.nu.nl/entertainment/6417391/miley-cyrus-getrouwd-met-muzikant-maxx-morando.html",
+    "samenvatting": "Miley Cyrus is zaterdag getrouwd met haar partner Maxx Morando. De bruiloft vond plaats in besloten kring, meldt entertainmentblad People .",
     "datum": "2026-11-22T07:17:03.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/ay6xsp9azfbe_sqr256/836/0/3403/3403/miley-cyrus-trouwt-met-muzikant-maxx-morando.jpg"
+    "foto": "https://images.nu.nl/m/ay6xsp9azfbe_sqr256/836/0/3403/3403/miley-cyrus-getrouwd-met-muzikant-maxx-morando.jpg"
    },
    {
     "titel": "Rob Goossens zet vraagtekens bij militaire opleiding Máxima: 'Veterstrikdiploma'",
@@ -205,7 +250,7 @@
     "titel": "Democraten woest over hardhandige arrestaties van ICE op luchthaven Seattle",
     "normalized": "democraten woest over hardhandige arrestaties van ice op luchthaven seattle",
     "link": "https://www.nu.nl/buitenland/6417387/democraten-woest-over-hardhandige-arrestaties-van-ice-op-luchthaven-seattle.html",
-    "samenvatting": "De Amerikaanse immigratiedienst (ICE) heeft zaterdag twee passiers op de luchthaven van Seattle hardhandig opgepakt. Zij zouden volgens de dienst niet de juiste visa hebben. De democratische gouverneur Bob Ferguson haalde fel uit naar ICE.",
+    "samenvatting": "De Amerikaanse immigratiedienst (ICE) heeft zaterdag twee passagiers op de luchthaven van Seattle hardhandig opgepakt. Zij zouden volgens de dienst niet de juiste visa hebben. De democratische gouverneur Bob Ferguson haalde fel uit naar ICE.",
     "datum": "2026-11-22T06:20:43.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/dvlx93zaescy_sqr256/907/0/3600/3600/democraten-woest-over-hardhandige-arrestaties-van-ice-op-luchthaven-seattle.jpg"
@@ -227,54 +272,18 @@
     "datum": "2026-11-22T06:01:06.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126033-1.jpg?itok=CEccMUNq&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "AfD won ruim in Saksen-Anhalt, maar route naar macht nog steeds niet duidelijk",
-    "normalized": "afd won ruim in saksen anhalt maar route naar macht nog steeds niet duidelijk",
-    "link": "https://nos.nl/l/2640519",
-    "samenvatting": "De verwachtingen bij de AfD waren hooggespannen, na de historische zege van de partij in de Duitse deelstaat Saksen-Anhalt. In honderd dagen zou een reeks omstreden plannen worden doorgevoerd. 2,5 maand na de verkiezingen is echter nog niet eens een begin van een formatie zichtbaar. Dat moet volgens",
-    "datum": "2026-11-22T06:00:01.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/2/2/j/w/q/L/c1DPG9kiiWf8YWzpyRKs6BDWU2x8JfwzfMS6qyc/8x192x3600x2025-1024x576.webp"
-   },
-   {
-    "titel": "Tijd dringt op klimaattop, vraag is of nieuwe tekst het haalt",
-    "normalized": "tijd dringt op klimaattop vraag is of nieuwe tekst het haalt",
-    "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5666495/tijd-dringt-op-klimaattop-vraag-nieuwe-tekst-het-haalt",
-    "samenvatting": "Op de VN-klimaattop in Antalya blijft het tot het laatste moment spannend of landen zullen instemmen met een nieuwe versie van de tekst voor de slotverklaring. Voorzitters Turkije en Australië publiceerden afgelopen nacht een nieuwe tekst, maar het is nog maar de vraag of die op voldoende steun kan ",
-    "datum": "2026-11-22T05:42:31.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/ANP-576394958.jpg?itok=4sByy7HK&amp;offsetX=0&amp;offsetY=297&amp;cropWidth=1746&amp;cropHeight=982&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
-   },
-   {
-    "titel": "Max Verstappen viert in spannende Grote Prijs van Las Vegas 75ste zege in Formule 1",
-    "normalized": "max verstappen viert in spannende grote prijs van las vegas 75ste zege in formule 1",
-    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666494/max-verstappen-viert-spannende-grote-prijs-van-las-vegas-75e-zege",
-    "samenvatting": "Max Verstappen is weer een zege rijker in de Formule 1. De viervoudig wereldkampioen reed na een spannende race vol inhaalacties als eerste langs de finishvlag in de Grote Prijs van Las Vegas.",
-    "datum": "2026-11-22T05:36:09.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/ANP-576486148.jpg?itok=VpUOJrIO&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Verstappen boekt in spectaculaire GP van Las Vegas vierde zege van het jaar",
-    "normalized": "verstappen boekt in spectaculaire gp van las vegas vierde zege van het jaar",
-    "link": "https://www.nu.nl/formule-1/6417385/verstappen-boekt-in-spectaculaire-gp-van-las-vegas-vierde-zege-van-het-jaar.html",
-    "samenvatting": "Max Verstappen heeft zaterdag (lokale tijd) de Grand Prix van Las Vegas gewonnen. De Red Bull-coureur bleef in een spectaculaire race die bol stond van de inhaalacties McLaren-coureurs Lando Norris (tweede) en Oscar Piastri (derde) nipt voor.",
-    "datum": "2026-11-22T05:32:48.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/2zoxtuuamng5_sqr256/1264/0/5762/5762/verstappen-boekt-in-spectaculaire-gp-van-las-vegas-vierde-zege-van-het-jaar.jpg"
-   },
-   {
-    "titel": "Jeroen en Jan-Willem presenteren Top 4000-quiz, maar luisteren ook naar Top 2000",
-    "normalized": "jeroen en jan willem presenteren top 4000 quiz maar luisteren ook naar top 2000",
-    "link": "https://www.rtl.nl/boulevard/video/video/43f14a4a-4bd0-46de-821a-588ce4bd637a/jeroen-en-jan-willem-presenteren-top",
-    "samenvatting": "Ze zijn nog maar net gewend aan hun nieuwe ochtendshow bij Radio 10, of Jeroen Kijk in de Vegte (52) en Jan-Willem Roodbeen (49) mogen alweer aan de bak. Dit keer tegenover elkaar als teamcaptains in de ‘Top 4000 Muziekquiz’. En dat is toch even andere koek.",
-    "datum": "2026-11-22T05:30:33.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=43f14a4a-4bd0-46de-821a-588ce4bd637a"
    }
   ],
   "binnenland": [
+   {
+    "titel": "Influencer Vera Dijkmans terug in Nederland na detentie in VS",
+    "normalized": "influencer vera dijkmans terug in nederland na detentie in vs",
+    "link": "https://nos.nl/l/2640542",
+    "samenvatting": "De Nederlandse influencer Vera Dijkmans is terug in Nederland. Vanmorgen kwam ze aan op Schiphol, na elf dagen in een Amerikaanse cel, meldt Omroep Brabant . Dijkmans (29) werd anderhalve week geleden opgepakt door immigratiedienst ICE omdat ze zich niet aan de voorwaarden van haar visum had gehoude",
+    "datum": "2026-11-22T08:19:08.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/1/8/1/B/e/f/DJ1g8srbZaqsmmsqMqSwopSquYZS8PKX13qeZH5/0x508x1536x864-1024x576.webp"
+   },
    {
     "titel": "Verslavingsproblemen rond chemseks nemen toe, passende hulp moeilijk te vinden",
     "normalized": "verslavingsproblemen rond chemseks nemen toe passende hulp moeilijk te vinden",
@@ -535,15 +544,6 @@
     "datum": "2026-11-20T17:41:38.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/7/C/k/T/U/w/R5ThWWVtiTPWotbwyhqhzQ73qruJty3a1FmCXKH/8x165x3984x2241-1024x576.webp"
-   },
-   {
-    "titel": "Betrokkenen neonazidocu lopen leeg in media: 'Niet iedereen een platform geven'",
-    "normalized": "betrokkenen neonazidocu lopen leeg in media niet iedereen een platform geven",
-    "link": "https://www.nu.nl/binnenland/6417194/betrokkenen-neonazidocu-lopen-leeg-in-media-niet-iedereen-een-platform-geven.html",
-    "samenvatting": "De personen die te zien zijn in de Zembla -documentaire over neonazistische groeperingen in Nederland kregen deze week van verschillende media de ruimte om hun verhaal te doen. Experts zijn kritisch op het geven van zulke aandacht en stellen dat dit bijdraagt aan de normalisering van extreemrechts.",
-    "datum": "2026-11-20T16:41:21.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/qxlxhthabeh1_sqr256/0/0/1080/1080/betrokkenen-neonazidocu-lopen-leeg-in-media-niet-iedereen-een-platform-geven.jpg"
    }
   ],
   "buitenland": [
@@ -1274,6 +1274,24 @@
   ],
   "sport": [
    {
+    "titel": "Verstappen sneert naar Russell na zege in Las Vegas: 'Hij zit ver onder mijn niveau'",
+    "normalized": "verstappen sneert naar russell na zege in las vegas hij zit ver onder mijn niveau",
+    "link": "https://nos.nl/l/2640546",
+    "samenvatting": "Max Verstappen heeft na zijn zege in de Grand Prix van Las Vegas hard uitgehaald naar George Russell. In een chaotische race, met in totaal 352 inhaalacties, greep Verstappen een zwaarbevochten zege , terwijl Russell in de slotfase de barrière raakte. \"Dit is perfecte karma\", aldus Verstappen. Een d",
+    "datum": "2026-11-22T08:33:16.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/8/8/Y/5/1/a/F86a1ohwzkgbxqNGtJdyRYQHaPkENxcVehnuaDe/8x132x3984x2241-1024x576.webp"
+   },
+   {
+    "titel": "Italië viert feest met eerste medaille sinds 1998 op 500 meter, Stolz weer de sterkste",
+    "normalized": "italie viert feest met eerste medaille sinds 1998 op 500 meter stolz weer de sterkste",
+    "link": "https://nos.nl/l/2640543",
+    "samenvatting": "Jeffrey Rosanelli heeft Italië de eerste wereldbekermedaille op de 500 meter sinds 1998 bezorgd. De 28-jarige schaatser, die een Nederlandse moeder heeft en prima Nederlands praat, pakte het brons achter winnaar Jordan Stolz en de Chinees Gao Tingyu. Rosanelli werd meteen na de laatste rit bejubeld ",
+    "datum": "2026-11-22T08:22:34.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/2/F/6/b/t/z/u5n1SAT5dVQQKioNRvYt5x6Kx2MFmDaju74Tv1p/0x0x3840x2160-1024x576.webp"
+   },
+   {
     "titel": "Daleman pakt weer goud op 500 meter bij vierde clean sweep voor Nederland",
     "normalized": "daleman pakt weer goud op 500 meter bij vierde clean sweep voor nederland",
     "link": "https://www.nu.nl/schaatsen/6417395/daleman-pakt-weer-goud-op-500-meter-bij-vierde-clean-sweep-voor-nederland.html",
@@ -1331,7 +1349,7 @@
     "titel": "Daleman breidt winstreeks uit, opnieuw Nederlands podium op 500 meter",
     "normalized": "daleman breidt winstreeks uit opnieuw nederlands podium op 500 meter",
     "link": "https://nos.nl/l/2640526",
-    "samenvatting": "Na twee wereldbekerweekenden blijft Angel Dalman de te kloppen vrouw op de 500 meter. Ook in het Japanse Obihiro bleef de Nederlandse haar concurrentie voor. De winnende tijd was 37,56. En zo breidde ze haar winstreeks nog wat verder uit. Na zes wereldbekerwedstrijden heeft de 19-jarige schaatsster ",
+    "samenvatting": "Na twee wereldbekerweekenden blijft Angel Daleman de te kloppen vrouw op de 500 meter. Ook in het Japanse Obihiro bleef de Nederlandse haar concurrentie voor. De winnende tijd was 37,56. En zo breidde ze haar winstreeks nog wat verder uit. Na zes wereldbekerwedstrijden heeft de 19-jarige schaatsster",
     "datum": "2026-11-22T06:43:03.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/8/A/7/T/n/n/AXPRZw55GCTf2781vHL5GdDKgMP4wM7RixiY2Lk/973x272x2768x1557-1024x576.webp"
@@ -1524,24 +1542,6 @@
     "datum": "2026-11-21T18:19:12.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/300xipsaqqq8_sqr256/763/0/2047/2047/kenneth-taylor-geeft-assist-met-de-hak-op-noslin-die-scoort-voor-lazio.jpg"
-   },
-   {
-    "titel": "Effectief PSV heeft aan een helft genoeg tegen NEC en blijft Eredivisie-koploper",
-    "normalized": "effectief psv heeft aan een helft genoeg tegen nec en blijft eredivisie koploper",
-    "link": "https://www.nu.nl/voetbal/6417358/effectief-psv-heeft-aan-een-helft-genoeg-tegen-nec-en-blijft-eredivisie-koploper.html",
-    "samenvatting": "PSV heeft zaterdag op overtuigende wijze afgerekend met NEC, waardoor het ook na dit weekend koploper is in de Eredivisie. Na een 0-3-ruststand wonnen de Eindhovenaren met 1-4 in Nijmegen.",
-    "datum": "2026-11-21T17:27:32.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/eaqxxjwauxir_sqr256/787/2/2853/2853/effectief-psv-heeft-aan-een-helft-genoeg-tegen-nec-en-blijft-eredivisie-koploper.jpg"
-   },
-   {
-    "titel": "PSV al in één helft klaar met NEC in Nijmegen, maar verliest aanvoerder Mauro Júnior",
-    "normalized": "psv al in een helft klaar met nec in nijmegen maar verliest aanvoerder mauro junior",
-    "link": "https://nos.nl/l/2640453",
-    "samenvatting": "Koploper PSV heeft de eredivisie op de 63ste verjaardag van coach Peter Bosz overtuigend hervat met een ruime zege bij NEC: 1-4. Bij rust stond het in Nijmegen al 0-3. Domper op de zege was het uitvallen van aanvoerder Mauro Júnior met een blessure. Het kan slecht nieuws betekenen voor het Champions",
-    "datum": "2026-11-21T17:27:29.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/2/2/B/C/u/9/M1Whbcki39f9CrCUSDGoDHbkCDpYAXEW8Kt1SPv/3x163x3536x1989-1024x576.webp"
    }
   ],
   "cultuur": [
@@ -1910,6 +1910,15 @@
   ],
   "zeeland": [
    {
+    "titel": "Verstappen wint na 35 wisselingen aan kop: onwerkelijke race",
+    "normalized": "verstappen wint na 35 wisselingen aan kop onwerkelijke race",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMzBtMW95Z0dwRHZ0T0NJZ2xYSlhSMTZSbXFtTmw5RUdTNXItR29DNkRJT1FienpwOTE0WlBUX2xlNU4yUC1fMDdTNTgxQjVCck5Hd0s1WE00T0g2QzA5blBXX1pHeld2U2cwbWdFT2lrYmxzTUpCLV9hU01TbnBwWkI3SzhBZXFMVUNoelBEVlctTnNhRmJ3?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-22T06:25:45.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Gewonde en flinke schade bij botsing in Zuidzande",
     "normalized": "gewonde en flinke schade bij botsing in zuidzande",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXlJeG1wcFp2OXIyc3luSFVBb3FndDR3WUMxVkF3bVVzQU1NN2QzNXpWd2JVdWdyUnFJbEx3Y3hiRllQVjZ0bkZTVmNUZU1ZM19TSDdjU0FsWklvbzJ0d1BOSFltY05RUUh1SEoxcDVJX1V4TEhkZFR0ZW5CcDBpY1JwZW5UdVJwSW1aWUdGVEFLQQ?oc=5",
@@ -1996,6 +2005,15 @@
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWFl0amVQVUxPbExVSWhEM21OV2tmUEhUUGloa2JicC1CSVRCaUVUU3VpQ3g0QWNtSUlHcFRKTVFocFB1YnFOemxHTENleWU2SnJLYjN1OUxjaTlsYV83dFV1TEVRbHEyVlRQUTRsLVNqSjFvSFUweXFZU25WVVVRU2laOF8wd3F1ZTc3MnNEZUFHdnBab29FdExGWEpLQi03emVYdGttYXA1dXpfQ0V2VFNUZ1dRR2tnaGx2ajE4ejEtX3B6aTUtaDBiNlVxVGZhbzJQSm5wYXo?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T16:11:21.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Intochten van Sinterklaas in Axel en Arnemuiden",
+    "normalized": "intochten van sinterklaas in axel en arnemuiden",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDJvR0NyRG1kNGxNb3B2cUxEbDREZ0xNUVR3V2syX2VoakVaVmI3Mm5EeTlfMms2ZnZfd3M2RVRJVHdmT1ctT0J6R2pPQ1pnTkZ4WUpIdDB5SVNmWlNFR0d1QVV6c0Fqa3dSZllGVk1wNmR1Mlh1MFk0UmkyTEFJdC1RWXBVNkZTem1tNGxoUGdxMHNRb2dJTlFB?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T15:36:06.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2160,31 +2178,13 @@
     "datum": "2026-11-20T18:30:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
-   },
-   {
-    "titel": "Na veertig jaar een plaquette voor de zes omgekomen bouwers van de Oosterscheldekering",
-    "normalized": "na veertig jaar een plaquette voor de zes omgekomen bouwers van de oosterscheldekering",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSThtZTd5QTVfYzYtZElnZDBLVmhJYmFzQi1qdldfelVzRzE3czdZM2NCeFhMLVdad0lEWW5pY1U0QzdicERnWk5ETWNpblFiZXlmN1dpQXRsSGtHYzlzNno2QzJOSDMyN0xRU0NacTJIa21RY0FBTnJrblFUdjhkNmNxOFdzOG93MmtzYkVsd3BUZFB3cUdyYjRqcXRQclNoODhMMzNiWEw5UFp3MEROaHhVb0pTU21JMXNaRkY4MFEtcWVJMC1qNnlsMA?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T18:29:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Deze reling willen Vlissingers op hun boulevard: publiekslieveling van PZC-lezers wint ook de officiële stemming",
-    "normalized": "deze reling willen vlissingers op hun boulevard publiekslieveling van pzc lezers wint ook de officiele stemming",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTWY2aGJENGZLS3dKa1hqQ29nQnVuV05XYnJjQzRWRnpXcHRDYlNkTkNuOEtMMThOa2xQOEUycHNWd3lsWjVvZVFrMnJMYXFzNVVGTV9PaE15VDgyT0lvenhRbV9wOEtjUFpRUWRQT0ttMFYtUkFzS20xTTBjM2U3R2N5WDZXMzNRM3pucE44QnZkWUtXQ3MzSjMzSUNfYjctM2JFZFFaVEtoM1BLeTJsVkFCOVhXZTVtLVZxUkxNQzNvbFN1UEw3SnRXNWYwUW8wOVRvMEhEZWtxRGhsdWNXU1lsdzlHQQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T16:43:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
    }
   ],
   "brabant": [
    {
-    "titel": "Influencer Vera terug in Nederland na periode in Amerikaans detentiecentrum",
-    "normalized": "influencer vera terug in nederland na periode in amerikaans detentiecentrum",
-    "link": "https://www.omroepbrabant.nl/nieuws/6035703/influencer-vera-terug-in-nederland-na-periode-in-amerikaans-detentiecentrum",
+    "titel": "Vera uit Waalwijk weer in Nederland na detentie in VS: &#39;Ernstig verzwakt&#39;",
+    "normalized": "vera uit waalwijk weer in nederland na detentie in vs 39 ernstig verzwakt 39",
+    "link": "https://www.omroepbrabant.nl/nieuws/6035703/vera-uit-waalwijk-weer-in-nederland-na-detentie-in-vs-ernstig-verzwakt",
     "samenvatting": "De Waalwijkse influencer Vera Dijkmans (29), die miljoenen volgers heeft op Instagram, is terug in Nederland. Ze kwam zondagochtend aan op Schiphol. Dijkmans zat bijna anderhalve week vast in de VS. Ze belandde in een detentiecentrum van de Amerikaanse immigratiedienst ICE,&nbsp; vanwege problemen m",
     "datum": "2026-11-22T07:40:09.000Z",
     "bron": "Omroep Brabant",
@@ -2227,18 +2227,18 @@
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.45/cmV2aXNpb25zLzUwMTI0OTEtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1lRjNYSEk3ODIxeEhKZGxnSDhNblE4Z1NvUzlPZzZNa2R2bG1yeHZaYTVjJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
    },
    {
-    "titel": "Opnieuw auto door brand verwoest in Drunen, dit keer peperdure Alfa Romeo",
-    "normalized": "opnieuw auto door brand verwoest in drunen dit keer peperdure alfa romeo",
-    "link": "https://www.omroepbrabant.nl/nieuws/6035702/opnieuw-auto-door-brand-verwoest-in-drunen-dit-keer-peperdure-alfa-romeo",
+    "titel": "Alfa Romeo-eigenaar geëmotioneerd wanneer zijn auto uitbrandt in Drunen",
+    "normalized": "alfa romeo eigenaar geemotioneerd wanneer zijn auto uitbrandt in drunen",
+    "link": "https://www.omroepbrabant.nl/nieuws/6035702/alfa-romeo-eigenaar-geemotioneerd-wanneer-zijn-auto-uitbrandt-in-drunen",
     "samenvatting": "Opnieuw is een auto uitgebrand achter cultureel centrum De Voorste Venne in Drunen. Dit gebeurde rond kwart voor elf zaterdagavond op korte afstand van de plek waar donderdagavond ook al een auto in vlammen opging. Dit keer verwoestte het vuur bijzondere Alfa Romeo. &#xD;&#xA; De Alfa Romeo was vijf",
     "datum": "2026-11-22T05:00:28.000Z",
     "bron": "Omroep Brabant",
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTMwODMtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1WWGl6UDAwb2tHSWt0c3ZVSlJrdElidXpHYVJzYTdEQTduNkNNRHA2ZjJVJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
    },
    {
-    "titel": "Jarry schrijft eerste basketbalkinderboek: &#39;Moeten lezen leuk gaan vinden&#39;",
-    "normalized": "jarry schrijft eerste basketbalkinderboek 39 moeten lezen leuk gaan vinden 39",
-    "link": "https://www.omroepbrabant.nl/nieuws/6035621/jarry-schrijft-eerste-basketbalkinderboek-moeten-lezen-leuk-gaan-vinden",
+    "titel": "Basketballegendes vader en zoon Akerboom hebben hoofdrol in kinderboek",
+    "normalized": "basketballegendes vader en zoon akerboom hebben hoofdrol in kinderboek",
+    "link": "https://www.omroepbrabant.nl/nieuws/6035621/basketballegendes-vader-en-zoon-akerboom-hebben-hoofdrol-in-kinderboek",
     "samenvatting": "Een girafje dat gek is op basketbal, een vader die de beste basketballer van het land is en een beslissend schot. Jarry Popelier (41) uit Den Bosch heeft een bijzonder project afgerond, waaraan hij naar eigen zeggen nachtenlang werkte. Met 'Keesje neemt het laatste schot' schreef hij als eerste Nede",
     "datum": "2026-11-22T05:00:00.000Z",
     "bron": "Omroep Brabant",
@@ -2270,15 +2270,6 @@
     "datum": "2026-11-21T17:16:53.000Z",
     "bron": "Omroep Brabant",
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.44/cmV2aXNpb25zLzUwMTMwNzEtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz02VGQ2MEZNVGd5JTJGRUYwWUZZWnQyJTJCUVlOcm16N0hDbkNIUDRlMW5xa3ltbyUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
-   },
-   {
-    "titel": "Trouwstunt loopt uit de hand &#39;Denk dat we in een hotel moeten slapen&#39;",
-    "normalized": "trouwstunt loopt uit de hand 39 denk dat we in een hotel moeten slapen 39",
-    "link": "https://www.omroepbrabant.nl/nieuws/6035674/trouwstunt-loopt-uit-de-hand-denk-dat-we-in-een-hotel-moeten-slapen",
-    "samenvatting": "In Kaatsheuvel is een drugspand opgerold. Althans, zo lijkt het. Maar het blijkt te gaan om een trouwstunt. Bruidegom C&eacute;dric Vos is door zijn vrienden dubbel en dwars teruggepakt voor alle alle grappen die hij in het verleden met hen heeft uitgehaald.&nbsp; &#xD;&#xA; Het kersverse bruidspaar",
-    "datum": "2026-11-21T16:30:00.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTI5NjgtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1DbzUwS0xNVGxZbW9nMTBjQmZrdmRoandHalZzazZ6YWhCOWppWUExcSUyRkklM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
    },
    {
     "titel": "Hal en lokalen verwoest na schoolbrand: &#39;Vraag of school nog open kan&#39;",
@@ -2405,6 +2396,15 @@
     "datum": "2026-11-21T05:15:00.000Z",
     "bron": "Omroep Brabant",
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.43/0.45/cmV2aXNpb25zLzQ2MzA0NTQtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1VRHJ4JTJGdUR1U0NiUk12OEVDOXhydWxwTG1zUnRnb2UyRlN0ayUyRkdkOGc4MCUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
+   },
+   {
+    "titel": "Personeel Domino&#39;s Pizza Tilburg overvallen, tweede keer in paar weken tijd",
+    "normalized": "personeel domino 39 s pizza tilburg overvallen tweede keer in paar weken tijd",
+    "link": "https://www.omroepbrabant.nl/nieuws/6035649/personeel-dominos-pizza-tilburg-overvallen-tweede-keer-in-paar-weken-tijd",
+    "samenvatting": "Medewerkers van een filiaal van Domino's Pizza aan de Thomas van Aquinostraat in Tilburg zijn rond middernacht overvallen. Het is de tweede keer in korte tijd dat dit filiaal doelwit van overvallers is.&nbsp; &#xD;&#xA; Een maand geleden vond hier ook al een overval plaats en ook in het verleden slo",
+    "datum": "2026-11-21T04:44:54.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTI3NzItMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1DQ1dlZGR5V0U5eW80bXNKMXBVNDVIUWdndjZ2dEdDSzVhOERaME01eXprJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
    }
   ],
   "borsele": [
@@ -2726,15 +2726,6 @@
     "foto": ""
    },
    {
-    "titel": "Marjolein (40) uit Kwadendamme is Nederlands kampioen skyrunning: ‘De combinatie tussen lopen en klimmen is onweerstaanbaar’",
-    "normalized": "marjolein 40 uit kwadendamme is nederlands kampioen skyrunning de combinatie tussen lopen en klimmen is onweerstaanbaar",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVHZiT1MxUmFUR09pQWQwVGJqc0hmTlJqUlYwbGF4RVQxVUtrMERNS0JQdGRMS01nTXdRUXlSV29UQ1lhR0h2Q3hoa1M4NENKQi1tSFI3cHhKSXRHcFJET0d1eEVrblNPVEJlTnlJaWExUjdZLVlyLXVDS2NXcHRoUjR1eWFYS1YtQ1dzbVpOZk5yeG1TaDRIYlZ1WnhZaXNZc1pBT1VqNVV2UEFyZzVLSXlnaVBmMjhHclUtcDNidTFxZkpYVlVZTEVPQ1p4dUxqS1gtRHRKRkJpTkxhY0o5RzZLYVlBbHZZU1o3Z1pua1p4am5vckxVZA?oc=5",
-    "samenvatting": "",
-    "datum": "2026-08-27T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Brand in badkamer in Kwadendamme, bewoners buiten",
     "normalized": "brand in badkamer in kwadendamme bewoners buiten",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZzRWWjFxUzJKVVF3djRkVUZkbVJVNDVoUkFvMnl5bHZnd2dNWE90NUpTUm1VOHRIX0pFXzVRTHRLbDZnU3VaNXZWa01TUVVxazhyRVpfYnZlOXVpcXN1MHMyYS1NY1p5cHExLTZRa29qY2sySTFIa0o3bDl1dENEZkt6cmxERVZVeVRhVjFWLWFRT0EtbEJ1NFpxSWg?oc=5",
@@ -2949,6 +2940,15 @@
     "datum": "2024-04-30T07:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
+   },
+   {
+    "titel": "De ene na de andere buurtsuper gaat dicht, maar die in Kwadendamme gaat hartstikke lekker",
+    "normalized": "de ene na de andere buurtsuper gaat dicht maar die in kwadendamme gaat hartstikke lekker",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOakRjdDVCSnE0dkFHeWVwTjZNWkN2VF9VVUNHQWlXVVVZSFVqUmdReGxpMnFtUi16RHlhZmpDUjhFRGdxX19sM25VQjBoajZhWTNpd2NLUGZpWUVqYUhPbjBwYzNsdkxpeGw0eG5JZ0tveng0R1Z5TktjUTNQeE1lbEV2QXhBcHNnZWwxTXo5cDkzZENxM0VieDFuZnVFU0lsWVJBcEF6RU05TmdXWVlOSWVhMmdPZHJsVWR0WkR0RmxPaGcx?oc=5",
+    "samenvatting": "",
+    "datum": "2023-12-07T08:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
    }
   ],
   "roosendaal": [
@@ -3027,7 +3027,7 @@
    {
     "titel": "Fietser ernstig gewond in Roosendaal, auto gaat er vandoor",
     "normalized": "fietser ernstig gewond in roosendaal auto gaat er vandoor",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1VFSDBBTzJsOVdJY1lQNnlSZGxJcTE3Qmk3eDVpSTFzSnRydWhEMllsejRJb242cUt2c2hHVzlmeXF0Yjhtd0FRMUZhbVBmR1ItOEdQVjNBSmxIZGNXWXQ0TW5IeTBROFYyd1ZIeVN6VGIxMGtYRC12RGhDRlYwMnBmOUdsbGxzU0VhZlJIdHNoVG1BdFVmb1lUSWluWHlpWFBjVnY5Y2xVZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamxBRExiV1hud0J4MHdWUEtYWVdtdlhMTnh6akJmTlFpVFB1Rmlyc2ZGMzljclNWN2dGRjQ5enAwTGY1RkxUcDc2Zk9GaHVjNDNINkhRZnpOR1paYjZDRC03UTdWR0NZY1FKMFRCT2xleUFtVmhDZjc4ckdZMml2ODd3NFpFemJBbkxrZUdVUHpqNldSOHRSSmM1R0N1TTdmRFVPMTJHRXM0enc?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T09:56:14.000Z",
     "bron": "Google Nieuws",
@@ -3144,7 +3144,7 @@
    {
     "titel": "Winkelcentrum in Roosendaal moest uitbreiding jarenlang opschuiven door Bergen op Zoom: een kijkje achter de schermen",
     "normalized": "winkelcentrum in roosendaal moest uitbreiding jarenlang opschuiven door bergen op zoom een kijkje achter de schermen",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYk04ZXNzUTd1ZFlKOEgwT29xVVZvWlB1MUpYdThFY25SZzZaSy1wU1NhZHFkZ1JYaUV0Y1dZN1RyT01mVUMwSmJ5eUF2ME5ad3ctWkRKdHhqTDF4a2Q0cGY1ZW1uUzRIbTRaNVVQanBTMUZUVjREOEZBS1B6ZUx4NEYxNG1YUlI1QUFpNnJwVGNrcEVqWk13b3NSTDlFWEpoVUZRSF9Ybms3cUZ3ZU9qSHpVakNqMDBOVVZpTFVTejcxUF9qZV94a1NpemQ0ZlZZZTd4MmRnc3BDVVBXOGd3c09Ed3Y1blF4d1JyaF9paklXVEE?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQXBMakUycFV6QmhiTzhvc1hqb2d4cEhDZjhvajN6RXNzbFA0ZExfZlpLaE94cTBVRS1hazQ5NGNOelB3TVJkZFpPU1hHWlN6cmdQMHhPbkhtZ29ZN3NRN1JieDk0ay1YUHhpR3V1ZEstUFpkc2tZam5CSWlDdnVHM3B1WlZBRHJlb3g5ZHY3MG5FZ1U4T1hZYXZKblFwZDF2cTNMekZQX2lBLWk4WU1jLXNwX0RPaTM3SHFyX3FwcmIxVmxPanEtT3pJUFdMREZKQ0ktc0lUdE9SNU1CeW11cnhfTXBySlRqcGJTMFpCbHRLd28yZ0pKcw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-20T05:32:00.000Z",
     "bron": "Google Nieuws",
