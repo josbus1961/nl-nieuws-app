@@ -1,8 +1,17 @@
 {
- "gegenereerd": "2026-11-22T20:57:14.652Z",
+ "gegenereerd": "2026-11-22T21:22:33.582Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Russisch schip gezonken na vermoedelijke droneaanval in Libische haven",
+    "normalized": "russisch schip gezonken na vermoedelijke droneaanval in libische haven",
+    "link": "https://www.nu.nl/spanningen-oekraine/6417448/russisch-schip-gezonken-na-vermoedelijke-droneaanval-in-libische-haven.html",
+    "samenvatting": "Een explosie aan boord van een Russisch schip dat aangemeerd lag in de Libische havenstad Benghazi, is vermoedelijk veroorzaakt door een droneaanval. Niemand heeft verantwoordelijkheid opgeëist voor de vermoedelijke aanval en ook de Russische autoriteiten hebben nog niet gereageerd.",
+    "datum": "2026-11-22T21:01:40.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/zaxxee3a1cb5_sqr256/1360/1098/4482/4482/russisch-schip-gezonken-na-vermoedelijke-droneaanval-in-libische-haven.jpg"
+   },
    {
     "titel": "Spaanse tennisser Alcaraz wint ATP Finals voor het eerst",
     "normalized": "spaanse tennisser alcaraz wint atp finals voor het eerst",
@@ -52,7 +61,7 @@
     "titel": "FC Utrecht ontslaat coach Correia al na vier maanden wegens slechte prestaties",
     "normalized": "fc utrecht ontslaat coach correia al na vier maanden wegens slechte prestaties",
     "link": "https://www.nu.nl/voetbal/6417447/fc-utrecht-ontslaat-coach-correia-al-na-vier-maanden-wegens-slechte-prestaties.html",
-    "samenvatting": "FC Utrecht heeft zondag trainer Anthony Correia al na vier maanden ontslagen. Hij wordt verantwoordelijk gehouden voor de belabberde seizoensstart van de Utrechters.",
+    "samenvatting": "FC Utrecht heeft zondag trainer Anthony Correia al na vier maanden ontslagen. Hij wordt verantwoordelijk gehouden voor de belabberde resultaten van de Utrechters.",
     "datum": "2026-11-22T20:35:31.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/e9yxxfdaz732_sqr256/751/0/2362/2362/fc-utrecht-ontslaat-coach-correia-al-na-vier-maanden-wegens-slechte-prestaties.jpg"
@@ -65,15 +74,6 @@
     "datum": "2026-11-22T20:30:29.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=7fa2213a-7ba8-4e06-b934-c4038e576066"
-   },
-   {
-    "titel": "Russisch schip in Libische haven gezonken na vermoedelijke droneaanval",
-    "normalized": "russisch schip in libische haven gezonken na vermoedelijke droneaanval",
-    "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5666595/russisch-schip-libische-haven-gezonken-na-vermoedelijke",
-    "samenvatting": "In de haven van de Libische stad Benghazi is een Russisch schip gezonken nadat er eerder een explosie had plaatsgevonden. Volgens de Libische autoriteiten is het schip vermoedelijk aangevallen met drones. Er raakten tien mensen gewond, onder wie Russen en Libiërs.",
-    "datum": "2026-11-22T20:23:16.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/satelliet.jpg?itok=wFcZ0BIE&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    },
    {
     "titel": "Nicht Emile Ratelband schrapt hem als voogd voor haar zoon",
@@ -548,6 +548,15 @@
   ],
   "buitenland": [
    {
+    "titel": "Russisch schip gezonken na vermoedelijke droneaanval in Libische haven",
+    "normalized": "russisch schip gezonken na vermoedelijke droneaanval in libische haven",
+    "link": "https://www.nu.nl/spanningen-oekraine/6417448/russisch-schip-gezonken-na-vermoedelijke-droneaanval-in-libische-haven.html",
+    "samenvatting": "Een explosie aan boord van een Russisch schip dat aangemeerd lag in de Libische havenstad Benghazi, is vermoedelijk veroorzaakt door een droneaanval. Niemand heeft verantwoordelijkheid opgeëist voor de vermoedelijke aanval en ook de Russische autoriteiten hebben nog niet gereageerd.",
+    "datum": "2026-11-22T21:01:40.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/zaxxee3a1cb5_sqr256/1360/1098/4482/4482/russisch-schip-gezonken-na-vermoedelijke-droneaanval-in-libische-haven.jpg"
+   },
+   {
     "titel": "Nieuwe aanvallen op tankers bij Straat van Hormuz gemeld",
     "normalized": "nieuwe aanvallen op tankers bij straat van hormuz gemeld",
     "link": "https://nos.nl/l/2640649",
@@ -573,15 +582,6 @@
     "datum": "2026-11-22T15:25:31.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/dhhxe7naikww_sqr256/160/1/682/682/ko-colijn-over-de-amerikaanse-steun-voor-poetins-druk-op-oekraine.jpg"
-   },
-   {
-    "titel": "Droneaanval op Russisch schip in Libische haven, schade onbekend",
-    "normalized": "droneaanval op russisch schip in libische haven schade onbekend",
-    "link": "https://nos.nl/l/2640603",
-    "samenvatting": "In de haven van de Libische stad Benghazi heeft een explosie een Russisch schip beschadigd. Volgens de eerste berichten van de plaatselijke machthebbers ging het om een droneaanval. Wie daarachter zit, is nog niet bekend. Op beelden die zijn genomen van de aanval gisteravond is een grote explosie te",
-    "datum": "2026-11-22T15:15:57.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/5/3/S/n/Z/f/Cm5THjA931qfLuXUiFVo5HLV85edxhvecv4vdJu/203x15x928x522-928x522.webp"
    },
    {
     "titel": "Kerkgangers onwel door koolmonoxidevergiftging in Duitse kasteelkapel",
@@ -1274,6 +1274,15 @@
   ],
   "sport": [
    {
+    "titel": "Gian van Veen wéér onderuit in grote finale door verlies tegen Gerwyn Price",
+    "normalized": "gian van veen weer onderuit in grote finale door verlies tegen gerwyn price",
+    "link": "https://www.nu.nl/darts/6417444/gian-van-veen-weer-onderuit-in-grote-finale-door-verlies-tegen-gerwyn-price.html",
+    "samenvatting": "Gian van Veen is er zondag niet in geslaagd de Grand Slam of Darts op zijn naam te schrijven. De Nederlander verloor in de finale van Gerwyn Price: 11-16. Daarmee wacht Van Veen al een tijdje op een toernooizege.",
+    "datum": "2026-11-22T21:13:46.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/36nxkspa0563_sqr256/1660/0/4128/4128/gian-van-veen-weer-onderuit-in-grote-finale-door-verlies-tegen-gerwyn-price.jpg"
+   },
+   {
     "titel": "FC Utrecht zet Correia na veertien officiële wedstrijden op straat",
     "normalized": "fc utrecht zet correia na veertien officiele wedstrijden op straat",
     "link": "https://nos.nl/l/2640647",
@@ -1286,7 +1295,7 @@
     "titel": "FC Utrecht ontslaat coach Correia al na vier maanden wegens slechte prestaties",
     "normalized": "fc utrecht ontslaat coach correia al na vier maanden wegens slechte prestaties",
     "link": "https://www.nu.nl/voetbal/6417447/fc-utrecht-ontslaat-coach-correia-al-na-vier-maanden-wegens-slechte-prestaties.html",
-    "samenvatting": "FC Utrecht heeft zondag trainer Anthony Correia al na vier maanden ontslagen. Hij wordt verantwoordelijk gehouden voor de belabberde seizoensstart van de Utrechters.",
+    "samenvatting": "FC Utrecht heeft zondag trainer Anthony Correia al na vier maanden ontslagen. Hij wordt verantwoordelijk gehouden voor de belabberde resultaten van de Utrechters.",
     "datum": "2026-11-22T20:35:31.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/e9yxxfdaz732_sqr256/751/0/2362/2362/fc-utrecht-ontslaat-coach-correia-al-na-vier-maanden-wegens-slechte-prestaties.jpg"
@@ -1295,7 +1304,7 @@
     "titel": "Alcaraz wint voor het eerst ATP Finals, comeback Zverev onschadelijk gemaakt",
     "normalized": "alcaraz wint voor het eerst atp finals comeback zverev onschadelijk gemaakt",
     "link": "https://nos.nl/l/2640642",
-    "samenvatting": "Carlos Alcaraz heeft in Turijn voor het eerst de prestigieuze ATP Finals gewonnen. De Spaanse tennistopper versloeg in de finale van het eindejaarstoernooi Alexander Zverev, de nummer 1 van de wereld: 6-2, 7-6 (7). De 23-jarige Alcaraz is na Novak Djokovic, Roger Federer en Andre Agassi de vierde te",
+    "samenvatting": "Carlos Alcaraz heeft in Turijn voor het eerst de prestigieuze ATP Finals gewonnen. De Spaanse tennistopper versloeg in de finale van het eindejaarstoernooi Alexander Zverev, de nummer 1 van de wereld: 6-2, 7-6 (7). De 23-jarige Alcaraz, de eerste Spaanse winnaar sinds Alex Corretja in 1998, is na No",
     "datum": "2026-11-22T19:25:05.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/7/D/r/Q/x/F/yU1DKhyjLnCmUzNpGqoLwzB92dNsCSKaz7SPkEZ/8x350x3984x2241-1024x576.webp"
@@ -1409,13 +1418,13 @@
     "foto": "https://images.cdn.nos.nl/3/C/S/f/3/V/87uHtN3dqS1AjhzSspG9KMNNmPyS1gWxefxXYiB/1x54x2288x1287-1024x576.webp"
    },
    {
-    "titel": "Van Veen verslaat Van Gerwen en treft Price in finale Grand Slam of Darts",
-    "normalized": "van veen verslaat van gerwen en treft price in finale grand slam of darts",
+    "titel": "Van Veen verliest finale Grand Slam of Darts van Price",
+    "normalized": "van veen verliest finale grand slam of darts van price",
     "link": "https://nos.nl/l/2640607",
-    "samenvatting": "Gian van Veen heeft het Nederlandse onderonsje met Michael van Gerwen in de halve finales van de Grand Slam of Darts in zijn voordeel beslist: 16-11. In de finale in Wolverhampton treft de als derde geplaatste Van Veen vanavond de als vierde geplaatste Welshman Gerwyn Price, die Kevin Doets met 16-1",
+    "samenvatting": "Gian van Veen is er niet in geslaagd voor het eerst in zijn loopbaan de Grand Slam of Darts op zijn naam te schrijven. Hij verloor de finale in Wolverhampton van Gerwyn Price: 11-16. Voor 'The Iceman' was het al zijn vierde titel bij de Grand Slam of Darts, na 2018, 2019 en 2021. Alleen Phil Taylor ",
     "datum": "2026-11-22T15:45:36.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/8/B/j/S/h/Q/NoUrfeQRT22DzHfspxxJAF6LPRNUcEw4c9o6e56/0x191x3680x2070-1024x576.webp"
+    "foto": "https://images.cdn.nos.nl/6/9/U/Y/c/z/tcpks1eGXVCDtMM3kq7td1sQwjSU1gFhKV8jDoy/8x237x3984x2241-1024x576.webp"
    },
    {
     "titel": "AZ rolt na rust Sparta op en springt over Feyenoord heen naar vierde plaats",
@@ -1533,15 +1542,6 @@
     "datum": "2026-11-22T12:11:55.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/fnhx8ryaazuu_sqr256/160/185/2679/2679/russell-gaf-verstappen-munitie-om-op-hem-te-schieten.jpg"
-   },
-   {
-    "titel": "Goud, goud en nog eens goud voor Daleman, schaatstalent is 'volwassener geworden'",
-    "normalized": "goud goud en nog eens goud voor daleman schaatstalent is volwassener geworden",
-    "link": "https://nos.nl/l/2640572",
-    "samenvatting": "Het begint langzamerhand te wennen voor Angel Daleman. Na haar races stapt ze van het ijs naar het podium om vervolgens de hoogste trede te betreden. De 19-jarige schaatsster, die in februari de Olympische Spelen in Milaan nog moest missen, is in een rap tempo internationaal naam aan het maken. In t",
-    "datum": "2026-11-22T11:26:49.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/5/4/W/t/j/5/g7QFwwCJNFaPGBuipnbwoaXbnBYWrD2TRhZ5chz/8x81x3984x2241-1024x576.webp"
    }
   ],
   "cultuur": [
@@ -2063,15 +2063,6 @@
     "foto": ""
    },
    {
-    "titel": "Gewonde en flinke schade bij botsing in Zuidzande",
-    "normalized": "gewonde en flinke schade bij botsing in zuidzande",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXlJeG1wcFp2OXIyc3luSFVBb3FndDR3WUMxVkF3bVVzQU1NN2QzNXpWd2JVdWdyUnFJbEx3Y3hiRllQVjZ0bkZTVmNUZU1ZM19TSDdjU0FsWklvbzJ0d1BOSFltY05RUUh1SEoxcDVJX1V4TEhkZFR0ZW5CcDBpY1JwZW5UdVJwSW1aWUdGVEFLQQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T23:27:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Wat De Klerk niet lukte krijgt Hiensch wel voor elkaar met Kloetinge: winnen in de Tweede Divisie",
     "normalized": "wat de klerk niet lukte krijgt hiensch wel voor elkaar met kloetinge winnen in de tweede divisie",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSEk5N3FFYXpYSFVLOC1MNllxTGNCVVNWN19xMktfUmtxVjhxMk1hU1ZERjVrVVI3S2FJS0h1SXg5ZU9TV0tHUzVkVGpqQnY3TjFvQXllYXJzODVnZzJYUHhTaDVvVEVsSmhNZEIwUFEtNDQzRTQ5M29FZUtkcHlmYUFyZGE4VlhMbzBBTDNwekowdDFRbkxkZ1l3V0FyRDNzeHFWTFlYN2NYUmhzQWtlUDhzY2NjbTc0b3hhZDFCbWZRVUI5S3kyc1lLcVpKR2dSblYzRUp6VVc?oc=5",
@@ -2117,20 +2108,11 @@
     "foto": ""
    },
    {
-    "titel": "Recordaantal glutenvrije pieten bij intochten, Isa (16) uit Koudekerke is daar een van",
-    "normalized": "recordaantal glutenvrije pieten bij intochten isa 16 uit koudekerke is daar een van",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWxlNnVZYXhac1puVm9JUXpUcG1vMThZaXczQlk2UDlNMTJJLU1uM19QRWVZQm53eDZpR3h1aU5obkllSTc5cXlRUmlCWC02TmZ0TmpEdW1YSmQzdVBRc3huMFdZS0FCME9IWEFPdk5hMzNhck54czZBZzBwWjhnTFdadzdzX0RFOGZ5MG1LSGpyMkZUZThEaVhKX01CRWF3T2tLcHFfTG40bVc3UHo3X0lhMmFWUjBoa1d2ZmdFaEwtOHV1WGxz?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T16:24:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Eieren gegooid in Arnemuiden bij anti-zwartepietprotest, demonstranten bleven weg in Axel en Goes",
     "normalized": "eieren gegooid in arnemuiden bij anti zwartepietprotest demonstranten bleven weg in axel en goes",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWFl0amVQVUxPbExVSWhEM21OV2tmUEhUUGloa2JicC1CSVRCaUVUU3VpQ3g0QWNtSUlHcFRKTVFocFB1YnFOemxHTENleWU2SnJLYjN1OUxjaTlsYV83dFV1TEVRbHEyVlRQUTRsLVNqSjFvSFUweXFZU25WVVVRU2laOF8wd3F1ZTc3MnNEZUFHdnBab29FdExGWEpLQi03emVYdGttYXA1dXpfQ0V2VFNUZ1dRR2tnaGx2ajE4ejEtX3B6aTUtaDBiNlVxVGZhbzJQSm5wYXo?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-21T16:09:00.000Z",
+    "datum": "2026-11-21T16:11:21.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2178,9 +2160,45 @@
     "datum": "2026-11-21T13:50:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
+   },
+   {
+    "titel": "Livestream Orange the World in Zeeland gaat over geweld tegen vrouwen en meisjes",
+    "normalized": "livestream orange the world in zeeland gaat over geweld tegen vrouwen en meisjes",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0hCRkthcUFEVjB5WVllVUVGZm5DbmZKWjAxcXVoOGtJdXhjZzNvbDhOZFNZSlVWOG9DOXBVSjkxUWlJX1YtT05JdmxESmVDMGNscU90dGo4QlByckloUDB2RlVidUFWQkFHVUZIcnB6NUdlUHo3X0lISFFOWVhvX1lvUU4wMVVBekp4ZXJhTTdOY1FFWU5kLU0zaTlQVXNoclhHUmpGMjF1ZmNzNDg2dmhiME5fbjlkMlpz?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T12:59:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Auto belandt op vluchtheuvel bij Zuidzande",
+    "normalized": "auto belandt op vluchtheuvel bij zuidzande",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWZ2QnNwX1FoZGVNNXZBQnZqVVljOXhzYkhGaFdpUXJ1VGtNN2swOUwzaHZQbnZHZjR1OWdkaktTd1h5bmI1LU81ZEh3RXlpRDRRalNlMTdLVW0tZWRCTXF0S1NJdlFFQ0ZzZ0hJYmxmZ3dqZDkzZjVyZFdSaFZwblZZRHpsNGpH?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T09:03:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
    }
   ],
   "brabant": [
+   {
+    "titel": "Gian van Veen verliest in eerste finale Grand Slam of Darts",
+    "normalized": "gian van veen verliest in eerste finale grand slam of darts",
+    "link": "https://www.omroepbrabant.nl/nieuws/6035729/gian-van-veen-verliest-in-eerste-finale-grand-slam-of-darts",
+    "samenvatting": "Darter Gian van Veen heeft zondagavond de finale van de Grand Slam of Darts verloren van Gerwyn Price. In Wolverhampton was Price uit Wales zondagavond met 16-11 te sterk voor de darter uit Andel. Eerder op de avond schakelde hij Michael van Gerwen uit op het toernooi. &#xD;&#xA; &nbsp; &#xA; Voor V",
+    "datum": "2026-11-22T21:04:26.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzQ5OTY2MjQtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1KdWkyZHZVTmUzQnJqJTJCOTBUN2FXNlpnOFFyU09uTXRVRkg5ZTZiOXJUYjglM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
+   },
+   {
+    "titel": "Hitlergroet en neonazi-knokpartijen in Oeffelt: hoe strafbaar is dat?",
+    "normalized": "hitlergroet en neonazi knokpartijen in oeffelt hoe strafbaar is dat",
+    "link": "https://www.omroepbrabant.nl/nieuws/6035728/hitlergroet-en-neonazi-knokpartijen-in-oeffelt-hoe-strafbaar-is-dat",
+    "samenvatting": "Afgelopen week werd duidelijk dat Oeffelt in het geheim het toneel was van een internationaal neonazistisch vechtfestijn. Op het erf van tandarts Bas E. gingen mannen tot bloedens toe met elkaar op de vuist, terwijl meermaals de Hitlergroet werd gebracht. De politie en het Openbaar Ministerie bekijk",
+    "datum": "2026-11-22T20:08:06.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTMzMzQtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1MUUpLMlR5UEFrY3BwakJPM2I0V3RPamx0WTZFSWhOMTl3JTJGc2pJWW1ucW8lM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
+   },
    {
     "titel": "Overval bij Kruidvat in Putte: dader had tas met roze biggetjes bij zich",
     "normalized": "overval bij kruidvat in putte dader had tas met roze biggetjes bij zich",
@@ -2378,24 +2396,6 @@
     "datum": "2026-11-21T19:30:00.000Z",
     "bron": "Omroep Brabant",
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTMwNTgtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1Jb3BMYzlua1lIWCUyRnRSNWZyN0N1OGNQb0dCUVFKJTJCTk5uWlBLZFA1MnhXdyUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
-   },
-   {
-    "titel": "Ouders in Geffen geschokt na dood meisje (5): &#39;Alle paddenstoelen verdacht&#39;",
-    "normalized": "ouders in geffen geschokt na dood meisje 5 39 alle paddenstoelen verdacht 39",
-    "link": "https://www.omroepbrabant.nl/nieuws/6035677/ouders-in-geffen-geschokt-na-dood-meisje-5-alle-paddenstoelen-verdacht",
-    "samenvatting": "Inwoners van Geffen reageren geschokt en vol ongeloof op het overlijden van een 5-jarig meisje uit hun dorp. Het meisje stierf na het eten van een giftige paddenstoel. De tragische dood zorgt ook voor zorgen in het dorp. &#34;Ik let extra op in de speeltuintjes en de tuin&#34;, zegt moeder Sharon Ve",
-    "datum": "2026-11-21T15:40:00.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTMwMzctMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1aOWhYQndkY3RiV0dRTHQ5ZmkxQzJTQm1PbHNkcUxKY0RQRU9Nc3AlMkZ6d0ElM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
-   },
-   {
-    "titel": "Meisje op fatbike aangereden door auto in Breda, traumahelikopter geland",
-    "normalized": "meisje op fatbike aangereden door auto in breda traumahelikopter geland",
-    "link": "https://www.omroepbrabant.nl/nieuws/6035695/meisje-op-fatbike-aangereden-door-auto-in-breda-traumahelikopter-geland",
-    "samenvatting": "Een meisje op een fatbike is zaterdagmiddag aangereden door een auto in Breda. Ze is daarbij gewond geraakt. In de buurt is een traumahelikopter geland. &#xD;&#xA; Het ongeluk gebeurde rond drie uur op de kruising van de Allerheiligenweg met de Bavelselaan. Waarschijnlijk heeft een van de twee geen ",
-    "datum": "2026-11-21T14:47:00.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTI5OTctMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1Gd2twajFUJTJGNW9vb0pXaEhuJTJCQlBVd1V1eU85Tmw4Q2dPVHQ0TzdueW1sTSUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
    },
    {
     "titel": "OV ligt twee dagen plat door landelijke staking in het streekvervoer",
@@ -2964,7 +2964,7 @@
    {
     "titel": "Woningbrand op Mariabaan in Wouwse plantage",
     "normalized": "woningbrand op mariabaan in wouwse plantage",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSkdwN3lJYklnWFJDQ2xFYWIzTUdTMjVzRERKRVdxX1BZTmxUaHZMVUZ6WU5rTnl0bHI5Z2lQTFJnSDRJUUVBNE1YclVjN09nQmo3OU0zeTZnTWg1MFhuXzgwZkdsQmJMYVV1M2NPazJneVZWUy1fZ0hvUXc5TG1pbldibVM2cFRFaVBvT2c1ZWtPV1RVZW9Yag?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1dVWnktUUdEQ1ZfWU1ZX3dDMDJnTHl0Ny1VOU1fb055WnVYQ0tHa2JuOWQ2Sy1WUDNqQzYxcFhydTdFUVJUWGVvQ2FpaTNuNHhiRFJfWUp2VXNwRXZkcnl6R1RNUnJzY1k5SkY0TkRWZ3Q1bDdNMVZYWmNMbmllUHFmV1U0aEtYNUI1eDRhRkJiOVZLejFoeDczUWJTZm1z?oc=5",
     "samenvatting": "",
     "datum": "2026-11-22T18:11:31.000Z",
     "bron": "Google Nieuws",
@@ -3036,7 +3036,7 @@
    {
     "titel": "Roosendaal en Enexis slaan de handen ineen tegen een vol stroomnet",
     "normalized": "roosendaal en enexis slaan de handen ineen tegen een vol stroomnet",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbmhCZlN4LWZ2VXRZV2NSYkJ3cGRVRHRLeERLdmV5ZG41Rkd6bGQyWnlfZ2ZqaHoybGR1bGVJXzNISy1kZjNTUlVuSlFLY1lIZHNiSVE1WnJUUEphaVF5UWxwWEVTZGEtbWZSOG1LejdScTRFV05EQ3RPdVBHN2h1Ui1PcXNQeGozZkJDalJ5dUVRY3J5NXFmR1drWkNicWlGbXhFV0EwRzNOZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzdGV0lwMURMaTRUdU1GQ1ZXUDhtMm1iVzVnN05sdlNLTmx0czU3bVBmeHQ0OGwzRDFoeVBvNV9JN1pPU19ueHNtRzhlb0VzTzBrZnVqYlhEcTZXOGxKQUpwUGc2RTdXeVhkY2wyeHpWdW55NEJHTTFrUUxaWUxVYzFRMjVHYmlZUl9tQVk2OURiWkJraG9vdXdIZ2RUZnlXWXF2bWQ0SjBVdkUxcGVDWg?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T10:15:19.000Z",
     "bron": "Google Nieuws",
@@ -3178,6 +3178,15 @@
     "foto": ""
    },
    {
+    "titel": "Ongeval met letsel op De Stok in Roosendaal",
+    "normalized": "ongeval met letsel op de stok in roosendaal",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOakFodklPdlRUV1pRNUVBNTZuU2o2XzNvNTNHbGc5elk1VFFtTHRHVUFHV0ZDWFhxdXBHSE03b1J6Y1kzV0NxZ2lKMGQydm8xS0V2ZENydzBxM2ZIcTBMNmZCa0I2SXprcFdIMUg5d1RsazJ4ME5LSVNSOTByMlhiTUg2eS14S1ZSeThhZGtCQ0ZyMWlhSG1jSw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-19T18:07:15.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Restaurant Keienhof net over de grens is smaakvol op alle fronten, van keuken en servies tot ambiance en bediening",
     "normalized": "restaurant keienhof net over de grens is smaakvol op alle fronten van keuken en servies tot ambiance en bediening",
     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ2lScGNNQnJOa0phSU54bjVyVWtWdkJkQmNucUczeTF1RkJySDF3ZzM4alZwMDM2MDB4TlJIY05hM1RtQWhDUnl3NVBwZmhENFJEeTlpZTJ2bXdsSVl1cTdzU0RpTUR6a3B5LVZCRW4yTXVSU19pNHlCQnpmNVZ1dnVfQWQ2VmdhdFBRQW91amdESW1TMlJ6ajdkV09zMFlodEFJZkttdUp0QVFRUF9IaEhGN1hRaEZISnByVGUtQm50Zml6Y0hhbFRVTXNuMEVac1dWNUxuRlBLR3M1QVlJdlhUU2NNUVJEQ20zV05CVQ?oc=5",
@@ -3210,15 +3219,6 @@
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOFFBT0ppUWFBNVI2RnBzNUkwOU5uQkV5WTlTWWxiYkNXNkg1cFlSMmtLNUl4UmdiQl94dmlXbDZHSXRYd0JiWXZyTjByVGRDUHI2SFhibVJhS1dMRG12U3lUSzVudlJuQzhGZDBBVUJheldJQm1WYmRqNTQ1Z2tLRTdYRVZlWFZjZVROel9kdk5jX1p6Y0lJQ3FCb3E3OFhNVU1xNDNIWHNGWXF4N2Z3aHA0UmJUQ216Z0E?oc=5",
     "samenvatting": "",
     "datum": "2026-11-19T15:25:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Oude muziekinstrumenten krijgen een tweede leven in Roosendaal",
-    "normalized": "oude muziekinstrumenten krijgen een tweede leven in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFVrOXluVC1wOW9yQzhWb2VYZzZHQ2x1YXo0YWpKeF9GM2RvRVNyMzdVRUZEaHNrYkhrZlFYTHJJUk03NldnYUJXQnRlZ3ZWc2F4VExXS0plcXJTX3RDWk16cnF1aWc4cm5YcHBNWkdNQjRTbXJ1MEpXbFdrc2tvelNUc2lhNzVHMl9xUUp5MHpVLWlEdlc0R2o5bEpsWkNyT3c?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-19T11:04:28.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
