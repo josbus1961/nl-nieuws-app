@@ -1,8 +1,44 @@
 {
- "gegenereerd": "2026-11-22T07:00:55.650Z",
+ "gegenereerd": "2026-11-22T07:26:17.192Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Doden en tientallen vermisten door brand in snoepfabriek in Indonesië",
+    "normalized": "doden en tientallen vermisten door brand in snoepfabriek in indonesie",
+    "link": "https://www.nu.nl/buitenland/6417392/doden-en-tientallen-vermisten-door-brand-in-snoepfabriek-in-indonesie.html",
+    "samenvatting": "Bij een brand in een snoepfabriek in Indonesië zijn zaterdag zeker drie mensen om het leven gekomen. Er worden nog 36 werknemers vermist. Meerdere mensen zijn naar het ziekenhuis gebracht.",
+    "datum": "2026-11-22T07:22:37.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/b4axqbja9l4n_sqr256/375/0/2000/2000/doden-en-tientallen-vermisten-door-brand-in-snoepfabriek-in-indonesie.jpg"
+   },
+   {
+    "titel": "Miley Cyrus trouwt met muzikant Maxx Morando",
+    "normalized": "miley cyrus trouwt met muzikant maxx morando",
+    "link": "https://www.nu.nl/entertainment/6417391/miley-cyrus-trouwt-met-muzikant-maxx-morando.html",
+    "samenvatting": "Zangeres Miley Cyrus is zaterdag getrouwd in Palm Springs met haar partner Maxx Morando. De bruiloft vond plaats in intieme kring, meldt entertainmentblad People .",
+    "datum": "2026-11-22T07:17:03.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/ay6xsp9azfbe_sqr256/836/0/3403/3403/miley-cyrus-trouwt-met-muzikant-maxx-morando.jpg"
+   },
+   {
+    "titel": "Rob Goossens zet vraagtekens bij militaire opleiding Máxima: 'Veterstrikdiploma'",
+    "normalized": "rob goossens zet vraagtekens bij militaire opleiding maxima veterstrikdiploma",
+    "link": "https://www.rtl.nl/boulevard/artikel/5666293/militaire-opleiding-maxima-zorgt-voor-gefronste-wenkbrauwen",
+    "samenvatting": "Koningin Máxima (55) heeft sinds kort een militaire titel, maar krijgt ze tijdens haar opleiding ook dezelfde behandeling als haar collega's? In De Elo, Lau & Meghan Show bespreken mediaverslaggever Rob Goossens (35) en royaltyverslaggever Annemarie de Kunder (36) of er voor de koningin andere regel",
+    "datum": "2026-11-22T07:02:08.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/20/ANP-575619745%20%281%29.jpg?itok=eeKLIwhk&amp;offsetX=0&amp;offsetY=150&amp;cropWidth=1997&amp;cropHeight=1123&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
+   {
+    "titel": "Rob Goossens kritisch op koningin Máxima als luitenant-kolonel: ‘Loopt helemaal uit de maat’",
+    "normalized": "rob goossens kritisch op koningin maxima als luitenant kolonel loopt helemaal uit de maat",
+    "link": "https://www.rtl.nl/boulevard/video/2131d07d-2ba7-40bc-aedd-7aa40f475aea/rob-goossens-kritisch-op-koningin-maxima-als",
+    "samenvatting": "Koningin Máxima (55) heeft er een militaire titel bij, maar Rob Goossens (35) is nog niet helemaal overtuigd. In De Elo, Lau en Meghan Show zet de entertainmentdeskundige vraagtekens bij haar nieuwe functie als luitenant-kolonel.",
+    "datum": "2026-11-22T07:00:34.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=2131d07d-2ba7-40bc-aedd-7aa40f475aea"
+   },
    {
     "titel": "Schaatssters laten zege op ploegenachtervolging aan Russinnen",
     "normalized": "schaatssters laten zege op ploegenachtervolging aan russinnen",
@@ -13,8 +49,8 @@
     "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126053-1.jpg?itok=gBlQhNVn&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    },
    {
-    "titel": "Van Gerwen naar halve finales op Grand Slam of Darts",
-    "normalized": "van gerwen naar halve finales op grand slam of darts",
+    "titel": "Van Gerwen na spectaculaire start naar halve finales Grand Slam of Darts",
+    "normalized": "van gerwen na spectaculaire start naar halve finales grand slam of darts",
     "link": "https://www.rtl.nl/nieuws/sport/artikel/5666502/van-gerwen-naar-halve-finales-op-grand-slam-darts",
     "samenvatting": "Michael van Gerwen heeft de halve finales gehaald op de Grand Slam of Darts. In de kwartfinales was de Nederlander met 16-11 te sterk voor Tom Sykes uit Engeland.",
     "datum": "2026-11-22T06:49:52.000Z",
@@ -22,13 +58,13 @@
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/ANP-576223096.jpg?itok=8_RAQ9mA&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    },
    {
-    "titel": "Miley Cyrus getrouwd met muzikant Maxx Morando",
-    "normalized": "miley cyrus getrouwd met muzikant maxx morando",
+    "titel": "Miley Cyrus en Maxx Morando stappen in het huwelijksbootje",
+    "normalized": "miley cyrus en maxx morando stappen in het huwelijksbootje",
     "link": "https://www.rtl.nl/boulevard/artikel/5666501/miley-cyrus-getrouwd-met-muzikant-maxx-morando",
-    "samenvatting": "Miley Cyrus en haar partner Maxx Morando zijn getrouwd. Het stel gaf elkaar zaterdag het jawoord tijdens een intieme ceremonie in Palm Springs, Californië. Dat meldt het entertainmentblad People.",
+    "samenvatting": "Miley Cyrus (33) en haar partner Maxx Morando (28) zijn getrouwd. Het stel gaf elkaar zaterdag het jawoord tijdens een intieme ceremonie in Palm Springs, Californië. Dat meldt het entertainmentblad People.",
     "datum": "2026-11-22T06:47:35.000Z",
     "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126051-1.jpg?itok=qcGBrzhQ&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/ANP-543643822%20%281%29.jpg?itok=JAxWG4aH&amp;offsetX=0&amp;offsetY=104&amp;cropWidth=1998&amp;cropHeight=1124&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    },
    {
     "titel": "Fietser aangereden en meegesleurd in Lichtenvoorde, bestuurder rijdt door",
@@ -166,15 +202,6 @@
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/ANP-574826118.jpg?itok=psvgwQgc&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    },
    {
-    "titel": "Doden en tientallen vermisten na brand in snoepfabriek Indonesië",
-    "normalized": "doden en tientallen vermisten na brand in snoepfabriek indonesie",
-    "link": "https://nos.nl/l/2640514",
-    "samenvatting": "Bij een verwoestende brand in een snoepfabriek in Indonesië zijn zeker drie mensen om het leven gekomen. Reddingswerkers zijn nog op zoek naar 36 vermiste werknemers. Vijftien mensen wisten aan de vlammen te ontkomen, van wie er vier naar het ziekenhuis zijn gebracht. De brand in de fabriek in de bu",
-    "datum": "2026-11-22T05:19:58.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/7/5/E/L/m/G/YiHRR1fgFdDs6uVm4o6qzCuvE6uMF8afdPHhzdZ/0x124x4000x2250-1024x576.webp"
-   },
-   {
     "titel": "Persoonlijke bezittingen van passagiers Titanic geveild voor recordbedragen",
     "normalized": "persoonlijke bezittingen van passagiers titanic geveild voor recordbedragen",
     "link": "https://www.nu.nl/buitenland/6417384/persoonlijke-bezittingen-van-passagiers-titanic-geveild-voor-recordbedragen.html",
@@ -229,8 +256,8 @@
     "foto": "https://images.nu.nl/m/1k2xxd6akobu_sqr256/1261/0/5766/5766/f1-verstappen-vond-gp-las-vegas-surrealistisch-nog-nooit-meegemaakt-in-f1.jpg"
    },
    {
-    "titel": "24 doden nadat boot met grote groep begrafenisgangers omslaat in Nigeria",
-    "normalized": "24 doden nadat boot met grote groep begrafenisgangers omslaat in nigeria",
+    "titel": "Boot met grote groep begrafenisgangers slaat om in Nigeria, zeker 24 doden",
+    "normalized": "boot met grote groep begrafenisgangers slaat om in nigeria zeker 24 doden",
     "link": "https://nos.nl/l/2640511",
     "samenvatting": "Een boot met een grote groep mensen die onderweg was naar een begrafenis in het zuiden van Nigeria is omgeslagen. Zeker 24 mensen zijn daarbij omgekomen, melden de hulpdiensten. De Nigeriaanse rampenbestrijdingsdienst spreekt van een tragisch bootongeluk op een kruising van rivieren. De boot vervoer",
     "datum": "2026-11-22T01:45:56.000Z",
@@ -245,33 +272,6 @@
     "datum": "2026-11-21T23:41:32.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/pg8xydfatgyp_sqr256/234/0/1067/1067/jetten-dineert-met-britse-premier-in-rijksmuseum-en-spreekt-over-oekraine.jpg"
-   },
-   {
-    "titel": "Nieuwe Hunger Games-film stevent af op succesvol openingsweekend",
-    "normalized": "nieuwe hunger games film stevent af op succesvol openingsweekend",
-    "link": "https://www.rtl.nl/boulevard/artikel/5666488/nieuwe-hunger-games-film-stevent-af-op-succesvol-openingsweekend",
-    "samenvatting": "De nieuwe Hunger Games-film Sunrise on the Reaping lijkt een groot bioscoopsucces te worden. De film bracht vrijdag in Noord-Amerika al 56 miljoen dollar op, inclusief de voorpremières van donderdag. Volgens The Hollywood Reporter stevent de productie af op een opbrengst van meer dan 120 miljoen dol",
-    "datum": "2026-11-21T22:52:58.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP211126158-1.jpg?itok=rDFkDg-N&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Zeker 24 doden nadat boot in Nigeria onderweg naar begrafenis kapseist",
-    "normalized": "zeker 24 doden nadat boot in nigeria onderweg naar begrafenis kapseist",
-    "link": "https://www.nu.nl/buitenland/6417380/zeker-24-doden-nadat-boot-in-nigeria-onderweg-naar-begrafenis-kapseist.html",
-    "samenvatting": "In het zuiden van Nigeria zijn zeker 24 mensen om het leven gekomen nadat een boot met mensen op weg naar een begrafenis is gekapseisd. Mogelijk zaten er zo'n driehonderd mensen aan boord.",
-    "datum": "2026-11-21T22:30:45.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/bomxdsma1tz8_sqr256/651/0/2400/2400/zeker-24-doden-nadat-boot-in-nigeria-onderweg-naar-begrafenis-kapseist.jpg"
-   },
-   {
-    "titel": "Real Madrid voorkomt puntenverlies na achterstand tegen Celta",
-    "normalized": "real madrid voorkomt puntenverlies na achterstand tegen celta",
-    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666486/real-madrid-voorkomt-puntenverlies-na-achterstand-tegen-celta",
-    "samenvatting": "Real Madrid heeft zaterdagavond puntenverlies kunnen voorkomen in de thuiswedstrijd tegen Celta de Vigo. Ondanks een vroege achterstand tegen de club uit Galicië won Real met 2-1. Daarmee komt de club uit Madrid in punten weer gelijk met FC Barcelona, dat zondag nog wel in actie komt.",
-    "datum": "2026-11-21T22:23:02.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP211126157-1.jpg?itok=oB-9vxuS&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    }
   ],
   "binnenland": [
@@ -548,6 +548,15 @@
   ],
   "buitenland": [
    {
+    "titel": "Doden en tientallen vermisten door brand in snoepfabriek in Indonesië",
+    "normalized": "doden en tientallen vermisten door brand in snoepfabriek in indonesie",
+    "link": "https://www.nu.nl/buitenland/6417392/doden-en-tientallen-vermisten-door-brand-in-snoepfabriek-in-indonesie.html",
+    "samenvatting": "Bij een brand in een snoepfabriek in Indonesië zijn zaterdag zeker drie mensen om het leven gekomen. Er worden nog 36 werknemers vermist. Meerdere mensen zijn naar het ziekenhuis gebracht.",
+    "datum": "2026-11-22T07:22:37.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/b4axqbja9l4n_sqr256/375/0/2000/2000/doden-en-tientallen-vermisten-door-brand-in-snoepfabriek-in-indonesie.jpg"
+   },
+   {
     "titel": "Wekdienst 22/11: Partijcongres PvdD • Wachten op slotverklaring klimaattop",
     "normalized": "wekdienst 22 11 partijcongres pvdd wachten op slotverklaring klimaattop",
     "link": "https://nos.nl/l/2640523",
@@ -584,15 +593,6 @@
     "foto": "https://images.cdn.nos.nl/2/2/j/w/q/L/c1DPG9kiiWf8YWzpyRKs6BDWU2x8JfwzfMS6qyc/8x192x3600x2025-1024x576.webp"
    },
    {
-    "titel": "Doden en tientallen vermisten na brand in snoepfabriek Indonesië",
-    "normalized": "doden en tientallen vermisten na brand in snoepfabriek indonesie",
-    "link": "https://nos.nl/l/2640514",
-    "samenvatting": "Bij een verwoestende brand in een snoepfabriek in Indonesië zijn zeker drie mensen om het leven gekomen. Reddingswerkers zijn nog op zoek naar 36 vermiste werknemers. Vijftien mensen wisten aan de vlammen te ontkomen, van wie er vier naar het ziekenhuis zijn gebracht. De brand in de fabriek in de bu",
-    "datum": "2026-11-22T05:19:58.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/7/5/E/L/m/G/YiHRR1fgFdDs6uVm4o6qzCuvE6uMF8afdPHhzdZ/0x124x4000x2250-1024x576.webp"
-   },
-   {
     "titel": "Persoonlijke bezittingen van passagiers Titanic geveild voor recordbedragen",
     "normalized": "persoonlijke bezittingen van passagiers titanic geveild voor recordbedragen",
     "link": "https://www.nu.nl/buitenland/6417384/persoonlijke-bezittingen-van-passagiers-titanic-geveild-voor-recordbedragen.html",
@@ -602,8 +602,8 @@
     "foto": "https://images.nu.nl/m/sudx8csa07qr_sqr256/57/0/347/347/persoonlijke-bezittingen-van-passagiers-titanic-geveild-voor-recordbedragen.jpg"
    },
    {
-    "titel": "24 doden nadat boot met grote groep begrafenisgangers omslaat in Nigeria",
-    "normalized": "24 doden nadat boot met grote groep begrafenisgangers omslaat in nigeria",
+    "titel": "Boot met grote groep begrafenisgangers slaat om in Nigeria, zeker 24 doden",
+    "normalized": "boot met grote groep begrafenisgangers slaat om in nigeria zeker 24 doden",
     "link": "https://nos.nl/l/2640511",
     "samenvatting": "Een boot met een grote groep mensen die onderweg was naar een begrafenis in het zuiden van Nigeria is omgeslagen. Zeker 24 mensen zijn daarbij omgekomen, melden de hulpdiensten. De Nigeriaanse rampenbestrijdingsdienst spreekt van een tragisch bootongeluk op een kruising van rivieren. De boot vervoer",
     "datum": "2026-11-22T01:45:56.000Z",
@@ -1032,7 +1032,7 @@
     "titel": "Wiskundige doorbraak met AI zorgt voor kritiek: 'Oplossen is niet het doel'",
     "normalized": "wiskundige doorbraak met ai zorgt voor kritiek oplossen is niet het doel",
     "link": "https://www.nu.nl/tech/6417347/wiskundige-doorbraak-met-ai-zorgt-voor-kritiek-oplossen-is-niet-het-doel.html",
-    "samenvatting": "Met het bewijzen van de Riemann-hypothese door een wiskundige met behulp van Claude is er opnieuw een groot wiskundig vraagstuk mogelijk opgelost door een AI-model. Het gebruik van AI bij wiskunde zal niet meer verdwijnen, maar wiskundigen vrezen dat berekeningen straks niet meer worden begrepen.",
+    "samenvatting": "Een wiskundige heeft met behulp van AI-model Claude de Riemann-hypothese bewezen. Wiskundigen bleven liefst 167 jaar het antwoord schuldig. Toch staat niet iedereen om het nieuws te springen. Sommige wiskundigen vrezen dat berekeningen niet meer zullen worden begrepen.",
     "datum": "2026-11-21T19:07:19.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/9dvxbj8agqy6_sqr256/862/0/3466/3466/wiskundige-doorbraak-met-ai-zorgt-voor-kritiek-oplossen-is-niet-het-doel.jpg"
@@ -1274,13 +1274,13 @@
   ],
   "sport": [
    {
-    "titel": "Schaatssters op ploegenachtervolging verrassend verslagen door Russen",
-    "normalized": "schaatssters op ploegenachtervolging verrassend verslagen door russen",
-    "link": "https://www.nu.nl/schaatsen/6417389/schaatssters-op-ploegenachtervolging-verrassend-verslagen-door-russen.html",
+    "titel": "Schaatssters na chaotische race verslagen door Russen op ploegenachtervolging",
+    "normalized": "schaatssters na chaotische race verslagen door russen op ploegenachtervolging",
+    "link": "https://www.nu.nl/schaatsen/6417389/schaatssters-na-chaotische-race-verslagen-door-russen-op-ploegenachtervolging.html",
     "samenvatting": "De Nederlandse schaatssters zijn zondag bij de wereldbeker in Obihiro verrassend verslagen op de ploegenachtervolging. Joy Beune, Antoinette Rijpma-de Jong en Merel Conijn moesten buigen voor Rusland, dat voor het eerst in zeven jaar goud won op dit onderdeel.",
     "datum": "2026-11-22T06:52:01.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/n9uxiyyah6n0_sqr256/1030/3/2813/2813/schaatssters-op-ploegenachtervolging-verrassend-verslagen-door-russen.jpg"
+    "foto": "https://images.nu.nl/m/n9uxiyyah6n0_sqr256/1030/3/2813/2813/schaatssters-na-chaotische-race-verslagen-door-russen-op-ploegenachtervolging.jpg"
    },
    {
     "titel": "Achtervolgingsploeg Oranje grijpt naast goud bij wereldbeker in Japan",
@@ -1307,7 +1307,7 @@
     "samenvatting": "Max Verstappen heeft een bijzondere Grand Prix van Las Vegas op zijn naam geschreven. In een race die bol stond van slipstreamen en inhaalacties kwam Verstappen als beste uit de bus. Het was voor de viervoudig wereldkampioen al zijn 75ste grandprixzege. Lando Norris en Oscar Piastri gingen mee naar ",
     "datum": "2026-11-22T05:34:17.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/7/y/B/X/5/j/wMkYydRXXZLEWygMFz2NACK3ubvmTSNcpqq35v/20x124x2208x1242-1024x576.webp"
+    "foto": "https://images.cdn.nos.nl/5/7/k/W/d/z/h5sgYNxaZVSch7Y8B8PmQHP4dVQjwckDcYMWH3P/438x240x1872x1053-1024x576.webp"
    },
    {
     "titel": "Verstappen boekt in spectaculaire GP van Las Vegas vierde zege van het jaar",
@@ -2009,6 +2009,15 @@
     "foto": ""
    },
    {
+    "titel": "Sport Kort: Zeeuws getint Jong Feyenoord kampioen beloftecompetitie",
+    "normalized": "sport kort zeeuws getint jong feyenoord kampioen beloftecompetitie",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcFBHTi11SlR6SjhLcUpuZldYNzVxb2hCZFR2ZkcwRkQ2anM3WE5HN2E1R29RbXV4dFVzTHhKMi14Mms3dUNidGJhLVh1d2d6YmtiTkJiUUdIZ0JwcGFzX3pfeHhudG5rVFJELVZMTVNDMmhGOWlJZTlXYWtvMEpqMUJwT0FSalQ4UGtOaVA3RjRocUc0MWJBSGhINEVOQ1NpSWdrdWZxSVQ2ZDd6blpB?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T14:45:56.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Oudere vrouw uit Noordwelle en haar hondje overleden nadat auto te water raakt bij Brouwersdam",
     "normalized": "oudere vrouw uit noordwelle en haar hondje overleden nadat auto te water raakt bij brouwersdam",
     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX2E0ZjhvMWFnTkNNMTJJVTNIVUk3Q1k5NjJFOHpfYnFGTmFWdHNBZlc3RmZ5ZktUNXNEcFA1M2xaLTk2WmNVYTFGa3hCc3k5VEs2WXBuTmU5OG5EenNzM1pFdkc2LVNqYU55dFFDS2xjbFBXZjNMUEMxSEFwNGxXUDRBYzRBdFdablIzSE1RUFlIUEJJRms0TlhXTHRLNEU3eTFNeXdTVkhicnN6R3k0WWtOTlRuVFFKY0tuSGpXalRMeU1jSXZFWXVjSW1sYzFXYllpOFEwZnBEMExibTlqd0Q3Z1otRmh1?oc=5",
@@ -2167,15 +2176,6 @@
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSThtZTd5QTVfYzYtZElnZDBLVmhJYmFzQi1qdldfelVzRzE3czdZM2NCeFhMLVdad0lEWW5pY1U0QzdicERnWk5ETWNpblFiZXlmN1dpQXRsSGtHYzlzNno2QzJOSDMyN0xRU0NacTJIa21RY0FBTnJrblFUdjhkNmNxOFdzOG93MmtzYkVsd3BUZFB3cUdyYjRqcXRQclNoODhMMzNiWEw5UFp3MEROaHhVb0pTU21JMXNaRkY4MFEtcWVJMC1qNnlsMA?oc=5",
     "samenvatting": "",
     "datum": "2026-11-20T18:29:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Deze reling willen Vlissingers op hun boulevard: publiekslieveling van PZC-lezers wint ook de officiële stemming",
-    "normalized": "deze reling willen vlissingers op hun boulevard publiekslieveling van pzc lezers wint ook de officiele stemming",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTWY2aGJENGZLS3dKa1hqQ29nQnVuV05XYnJjQzRWRnpXcHRDYlNkTkNuOEtMMThOa2xQOEUycHNWd3lsWjVvZVFrMnJMYXFzNVVGTV9PaE15VDgyT0lvenhRbV9wOEtjUFpRUWRQT0ttMFYtUkFzS20xTTBjM2U3R2N5WDZXMzNRM3pucE44QnZkWUtXQ3MzSjMzSUNfYjctM2JFZFFaVEtoM1BLeTJsVkFCOVhXZTVtLVZxUkxNQzNvbFN1UEw3SnRXNWYwUW8wOVRvMEhEZWtxRGhsdWNXU1lsdzlHQQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T16:43:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2625,6 +2625,15 @@
     "foto": ""
    },
    {
+    "titel": "Borsele houdt rekening met tekort van meer dan een miljoen in 2030",
+    "normalized": "borsele houdt rekening met tekort van meer dan een miljoen in 2030",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmNQcHctaUxLaWk1SWRoTHZib1EyWi1jRmtXUTZsWFBCQldpcW4wcHRSOWVZcDBmeXFaQ3ZOZzF5elBnaVFMdzR1cnowd1Q0UGcwN29ESDllV2pWa1NwanBGNGVMVVFKMFdXNUFhOFlMOFVzRGhXOU5PWFNWQzBIdGtzSTlTREVZeFF1NmMzOUxzYzUwLW5ORzA2a1FQbGVCaTgxcEVR?oc=5",
+    "samenvatting": "",
+    "datum": "2026-07-09T07:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Borsele trekt aan de bel over stapeling energieprojecten in Sloerand",
     "normalized": "borsele trekt aan de bel over stapeling energieprojecten in sloerand",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG4ycHRUR2hHcFpMQzc2dTZMTHlXajJDTGFDLXZHUGYtM1hyZExsYW1fd1BGTDZKLVZTWHRnQ3VEX2gzbXd1QmZ0ZzRTUUlvY1BpVmtCM2RQMFNNSFFicVE2bjZxREZDajg5LTZlUnJBeGRwdWNmd1JYZE1PVGxRUUNOZWpZMV9YV2hNcjg4QlNXSnRYMS11dU1ONUwzUmZ3Z2xNbWpIZTc?oc=5",
@@ -2668,15 +2677,6 @@
     "datum": "2026-04-03T07:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
-   },
-   {
-    "titel": "In de gemeente Borsele kerncentrales met koeltorens? 'Dan denk ik dat hier oorlog uitbreekt'",
-    "normalized": "in de gemeente borsele kerncentrales met koeltorens dan denk ik dat hier oorlog uitbreekt",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR1ZuYzlSWjFFZU9jU0V6MXBBR2RKZ1VraVhISW1PV0ZROEpCU0pIRE1qR3FibDBtbmRZX25CQ0lPX3dLR1JCV2hDTUtPSFZNaGRLRENPbVZrdEhtb3AwZjU3ZG5QRFhBR0Y3LXNDZ3RwZEh3d1JPci1SRmhZLUl0ZGx4QXg3QkpiVlZuQmY1elQyalRYY0ozWnl1c0wyOS1BbTh4andpaHV5aWxuX1NXaHEzQkw5cDVyMFpza0l0UkQyRUkyNTNaT1hxUDQtWms?oc=5",
-    "samenvatting": "",
-    "datum": "2026-03-02T08:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
    }
   ],
   "kwadendamme": [
@@ -2685,7 +2685,7 @@
     "normalized": "politie onderzoekt overlijden student 22 uit kwadendamme in dronten",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYnVRckdjRld4VjJUdGRPSjIzVzdsbVlRZlctNHZqWW1KWmxKcWN0ZlgycU5sRWx2bldhQ0c5b0RZRDdxa0RjOHlkNmZIUUxHcDJMa2dHbVdSLXdxZ1VqM3Y0RGVDQklNQXdGeVlzS1U1ZktZdUZ3T1A4WVBKZ1BkaldLdl83dUVvMlVyTXVKVVYxSlJxR01rTE15Y0hZbzdBSm5OeEhicU5WeVpPUk52ekJB?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-20T14:25:00.000Z",
+    "datum": "2026-11-20T14:42:14.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2953,6 +2953,15 @@
   ],
   "roosendaal": [
    {
+    "titel": "Volleyballers verslaan koploper in Breda",
+    "normalized": "volleyballers verslaan koploper in breda",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjlCYV82eldLSUoxNTNCMWV1LVZaVVZnU296MW1oMUd4QTI4aUthWl9WWU0ySDdPQmFSMXhZdHlBd28wUnZFMFR1ZEpUV3I0ajh3T2tQTXhxSUd6UHFsVW5MZ0kySXkzY0xyM3FqNFFrTWtNWDZaa3lwRTQ2dkpFRmJNQVhqcVpDQlRudmhaNjdhVFN3NWp3?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-22T07:02:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Klundert draait wedstrijd om, Steenbergen zet goede reeks voort",
     "normalized": "klundert draait wedstrijd om steenbergen zet goede reeks voort",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVVF4Y0JIRUtYX252dW1FVVVIeFpzMDFIR3kyV1lOaHVsRXpoc3c2LU9nakp1VU95XzFRUE9TeDV0dDJrSWZvR2tPYmJvSFJPWUFHQ0htNGNkUDJ3cTlHMm1YaENfQVBval8yRVBjcE9DMzhUV21ZRktTNkdCcnpWdDc5SjJQdjhJNFdfOFk3Z0Vla3E5UTl2bldLeGhaU2lMX2s1aDFfQzMwSEZIenJTdHJubw?oc=5",
@@ -3120,15 +3129,6 @@
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcS1LU2FRbjNRM1pPQUlSRE41Ty1UZUk0eTBCaUNPd1lPcWI4OHY0NWpYT3U5XzY1SU1jUmdqMjBBbDFiV2lac0FzdlN2eWp3clAwcUthT01GVjBoLXl3ZmFhM01XdTdKY3V0ZVVYdjNTRUVpSFotNmpZQ1lGUDNaZXJsblVmSGJIdVRyYjlTbGdERW8taXFVY2w1MHFHM1VPZmpuVFJUTjhtMXhreHkxYk81T3RfTGhfLWZXbGdmU2w?oc=5",
     "samenvatting": "",
     "datum": "2026-11-20T16:29:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Weekendweerbericht: ‘Het wordt zonniger, maar ook kouder’",
-    "normalized": "weekendweerbericht het wordt zonniger maar ook kouder",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNVl2MllTSW4xTV83WHJySVYxWlRsYmtGdkc4TERPSnJZNmFjR19iT2pRaEk1Y2UwbElJVzVGUC04Y1NZclFHM1BYcnZyeW9ENW9MMlZlTE14QW43aG9oWkdROXZHZnhvcnRKNUdycktHbERJQUlkcWRqMEp2aThSRmNXczk2VmJuV2VNOXhNT2trNzhycHZCWDNxSlQ5Nlp5a1cyeTFudVFCdw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T11:02:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
