@@ -1,5 +1,5 @@
 {
- "gegenereerd": "2026-11-22T22:38:34.500Z",
+ "gegenereerd": "2026-11-22T23:03:53.841Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
@@ -16,7 +16,7 @@
     "titel": "Oekraïne meldt burgerdoden na Russische aanvallen op voorsteden Kyiv",
     "normalized": "oekraine meldt burgerdoden na russische aanvallen op voorsteden kyiv",
     "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5666602/oekraine-rusland-aanvallen-voorsteden-kyiv-burgerdoden",
-    "samenvatting": "Bij Russische aanvallen op voorsteden van de Oekraïense hoofdstad Kyiv zijn zeker zes mensen om het leven gekomen en raakten meerdere mensen gewond. De Russen troffen zowel energie-infrastructuur als burgerdoelen.",
+    "samenvatting": "Bij Russische aanvallen op voorsteden van de Oekraïense hoofdstad Kyiv zijn zeker negen mensen om het leven gekomen en raakten meerdere mensen gewond. De Russen troffen zowel energie-infrastructuur als burgerdoelen.",
     "datum": "2026-11-22T21:53:19.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/ANP-576520701.jpg?itok=08fBvvl1&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1278&amp;cropHeight=719&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
@@ -1304,7 +1304,7 @@
     "titel": "FC Utrecht ontslaat coach Correia al na vier maanden wegens slechte prestaties",
     "normalized": "fc utrecht ontslaat coach correia al na vier maanden wegens slechte prestaties",
     "link": "https://www.nu.nl/voetbal/6417447/fc-utrecht-ontslaat-coach-correia-al-na-vier-maanden-wegens-slechte-prestaties.html",
-    "samenvatting": "FC Utrecht heeft zondag trainer Anthony Correia al na vier maanden ontslagen. Hij wordt verantwoordelijk gehouden voor de belabberde resultaten van de Utrechters.",
+    "samenvatting": "FC Utrecht heeft zondag trainer Anthony Correia al na vier maanden ontslagen. Hij wordt verantwoordelijk gehouden voor de belabberde resultaten van de Domstedelingen.",
     "datum": "2026-11-22T20:35:31.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/e9yxxfdaz732_sqr256/751/0/2362/2362/fc-utrecht-ontslaat-coach-correia-al-na-vier-maanden-wegens-slechte-prestaties.jpg"
@@ -1331,7 +1331,7 @@
     "titel": "Manchester United dieper in crisis door verlies bij Liverpool na vroege rode kaart",
     "normalized": "manchester united dieper in crisis door verlies bij liverpool na vroege rode kaart",
     "link": "https://www.nu.nl/voetbal/6417442/manchester-united-dieper-in-crisis-door-verlies-bij-liverpool-na-vroege-rode-kaart.html",
-    "samenvatting": "Manchester United heeft zondag andermaal een pijnlijke nederlaag geleden in de Premier League. De ploeg van de debuterende coach Maurico Pochettino verloor na een vroege rode kaart met 4-0 bij Liverpool en staat nu negentiende in de Premier League.",
+    "samenvatting": "Manchester United heeft zondag andermaal een pijnlijke nederlaag geleden in de Premier League. De ploeg van de debuterende coach Mauricio Pochettino verloor na een vroege rode kaart met 4-0 bij Liverpool en staat nu negentiende in de Premier League.",
     "datum": "2026-11-22T18:22:56.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/qzixkwxavg05_sqr256/1164/0/4809/4809/manchester-united-dieper-in-crisis-door-verlies-bij-liverpool-na-vroege-rode-kaart.jpg"
@@ -1910,6 +1910,15 @@
   ],
   "zeeland": [
    {
+    "titel": "Houthi's vallen Saudische olieraffinaderij aan",
+    "normalized": "houthi s vallen saudische olieraffinaderij aan",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUndVQndOSHZCU0dPbGZEanhPNFY0QVhnOXRPd3JMeFpwdVE1cjRtS3NKYU10d0piTEc1ZVJMcmRadmFtS3J5S3kwTUFVdkNzOTlPeUVRaXNyb01LZDNJRlFaYXBPbkdhNVFNWno5N2R3UzBSNTlSRjI0Vkl0YVdiSUVQMTQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-22T18:45:32.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Naomi Boogaard absolute smaakmaker in Axel: ‘We vormen steeds meer een combinatie’",
     "normalized": "naomi boogaard absolute smaakmaker in axel we vormen steeds meer een combinatie",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRHhaZ3VfVDV2dG5nSW5WeEZaa2F3cl9VTnY2Ym5Yc3NwUVpjcnZrQ3o1cWhHRVl2ZlgtWjdyUUFqVy12ZHVMQmFOREg1SFJxcHRDbGJxWVVmUFd6RHl0c0pjRWNiV0FQOWNMZGQwZFhOY1dtY2prOS1OQWxMcmhlaGN5SHpNekVZQ0RObVF5bjh3Z1MxbndnbVhxMzQ3RHlyWjNZMGxndmYyLUxfSjVHUFlOU3R1ZTlTcFVfMEI4Yk5raWs?oc=5",
@@ -2103,7 +2112,7 @@
     "normalized": "eieren gegooid in arnemuiden bij anti zwartepietprotest demonstranten bleven weg in axel en goes",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWFl0amVQVUxPbExVSWhEM21OV2tmUEhUUGloa2JicC1CSVRCaUVUU3VpQ3g0QWNtSUlHcFRKTVFocFB1YnFOemxHTENleWU2SnJLYjN1OUxjaTlsYV83dFV1TEVRbHEyVlRQUTRsLVNqSjFvSFUweXFZU25WVVVRU2laOF8wd3F1ZTc3MnNEZUFHdnBab29FdExGWEpLQi03emVYdGttYXA1dXpfQ0V2VFNUZ1dRR2tnaGx2ajE4ejEtX3B6aTUtaDBiNlVxVGZhbzJQSm5wYXo?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-21T16:11:21.000Z",
+    "datum": "2026-11-21T16:09:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2167,15 +2176,6 @@
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQXzlCYWZxV0NDRnQyY1pPQVlBNHV3Z3VpUXgzX1hfSnlDRjdEaDBlOU5IV1VmdGxWLVlkblY3ZFIzdzNpLXlUUmEydmJ0ekI4WWRNWnpaSEc3Y24wa1g5QzNzdzVXRlNVTVJJX2FkTGlqWmpIcFNJMk5ScWQ4NkNodVMwN3ZreXQwYTAzbEgxaXlCZUtVTl9MT3NXUk5ZRTA4czR5TkxHNnUtWUk1blRHTWdYbDc4NklrUzlGM243c2VGSmR4Vnc4NExKZDY?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T11:08:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Drie kittens gedumpt in Wilhelminadorp, langdurige reddingsoperatie volgt: ‘Het zat ons niet lekker’",
-    "normalized": "drie kittens gedumpt in wilhelminadorp langdurige reddingsoperatie volgt het zat ons niet lekker",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMF9BNFJhT2NDbDlMeW1UMnlBVEhJZkdnQms5cGxNS3JVUXBYZjhPUXhzUl9NUWZVdk5QSmJtTGFKYVVidThrN1owTGRzMC1vQVZ1Ty1pTWtjWjJWekFZTUJaTk52VVJlekpoZHV6MHdYcnRZcnJFM1UyVDFxUEdoNk5RSGZ4RFkwWndwaVN5Z0dzQ01HMHNySjlrcE1jOFhiam9jTVl1WkxZS0d5ek5rbDh6UFlTZlZXbFpoX3gxWVFQYWdhZmtMNmtR?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T11:00:58.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2408,6 +2408,15 @@
    }
   ],
   "borsele": [
+   {
+    "titel": "Kunstwerk De Man van De Overkant wordt onthuld in Hoedekenskerke",
+    "normalized": "kunstwerk de man van de overkant wordt onthuld in hoedekenskerke",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmcwTUlXOVpiM2tQWGRvRmt6QnBUMU1DVGxjMWtDQ0otNjhxek5wdDBEdXFEUFAzRXdNSmRfR3pqdDZ5OW5GODRVN0pRMHhOVTlhb18zWmxiUGt2MjhKc21TSlZnTlhZZGpuVzlER0FJZThvMk5mUzBqMkJRYmEtTGxYUGlhTmwxSGlVSE9YeDFidlpuRWNhRVhRSU1sTm9Ha2c?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-19T13:30:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
    {
     "titel": "Politie vindt mogelijk drugslab in schuur waar brand uitbrak in Borssele",
     "normalized": "politie vindt mogelijk drugslab in schuur waar brand uitbrak in borssele",
@@ -2666,15 +2675,6 @@
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZEZra1prOUdWRmN1cEpjMUdlanRZdExwdzZTcjRBbDlrX3E5QkZqSVhIWHREZGoxX1NLMVJhc2pNSlJlTm14X1ROcG9xQlFrYnRDNGdVTEEzbDQwR0ZzZ0M1dXhKenZZTWxjdVJ2TUxNSzJBeUZOYkJsaE04cHBaakFQeDFncDFSVXkySzhzQWhMLUt3VzFxSkludnlXMFRYaUJvTjM2MlVJOXdFZnJaYUxWellyenZIMDJib0xNNUZIa01zN0xxU3BrVGtmNERNT1VPei1VSi15ZXRpSHNkSGFYaEgtSkR1VXRJM1JIdFlIZw?oc=5",
     "samenvatting": "",
     "datum": "2025-06-19T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Deze inwoners van de gemeente Borsele kregen een lintje",
-    "normalized": "deze inwoners van de gemeente borsele kregen een lintje",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEpBbVFhOWh5UXBOVlBCRTl4YklvSFVPemp2djRkd1ZCc2E5M2FKQmc4NzJfTzltVXl5OVV0MS1TX05zTGMzRDFxTXFGbWJpaTNSTTVHMnFmMkEzdlNlV3BVMUtPd3A1VkJMUHJUN2hzSkcwS3o5RUt4YnBSNENlMVNxbHM3UHBfOEV4T05QRGpqdF9yXzhZ?oc=5",
-    "samenvatting": "",
-    "datum": "2025-04-25T07:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2964,7 +2964,7 @@
    {
     "titel": "Woningbrand op Mariabaan in Wouwse plantage",
     "normalized": "woningbrand op mariabaan in wouwse plantage",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1dVWnktUUdEQ1ZfWU1ZX3dDMDJnTHl0Ny1VOU1fb055WnVYQ0tHa2JuOWQ2Sy1WUDNqQzYxcFhydTdFUVJUWGVvQ2FpaTNuNHhiRFJfWUp2VXNwRXZkcnl6R1RNUnJzY1k5SkY0TkRWZ3Q1bDdNMVZYWmNMbmllUHFmV1U0aEtYNUI1eDRhRkJiOVZLejFoeDczUWJTZm1z?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSkdwN3lJYklnWFJDQ2xFYWIzTUdTMjVzRERKRVdxX1BZTmxUaHZMVUZ6WU5rTnl0bHI5Z2lQTFJnSDRJUUVBNE1YclVjN09nQmo3OU0zeTZnTWg1MFhuXzgwZkdsQmJMYVV1M2NPazJneVZWUy1fZ0hvUXc5TG1pbldibVM2cFRFaVBvT2c1ZWtPV1RVZW9Yag?oc=5",
     "samenvatting": "",
     "datum": "2026-11-22T18:11:31.000Z",
     "bron": "Google Nieuws",
@@ -2982,9 +2982,18 @@
    {
     "titel": "Koor Escanto brengt sfeervol concert rond het noorderlicht in Essen op 5 en 6 december",
     "normalized": "koor escanto brengt sfeervol concert rond het noorderlicht in essen op 5 en 6 december",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMUJGQWgwa3JOM2J5WFJBcENfY1FhbkhjaFV5Z2sxRDRWel9OWk56ZG1abXlvMmlwbU12OWhCNUdENEdoUGhwSWkxRktHdGc4V3hKYmtoMkJMNFByM0RiUGs2RWdhWld3OXluYms1RmI2Zmw3RTBtNXVKenVfbml1cnlWT0pzM1RFTFFCYm5fRkN3MXBGbEY0NHNMZk96UkRyb1VaVm5qNXBCU2FrS1VRZVNvUTFfZDhVRWJzR0dLSVBLR1BtRGFlWUg4WQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbUVSQW13b1E2Y1hpWnRvMFJKaFNDbG9kWmFhN05MRDV4QlV5TlVTSFB0Y2lqNDFCQlc4ZXFaMlpVUVVEaTZyS3pKNm5HemJ2Z3V4WDdaWWNjTXoxalNpa1BmS3hRYktYakZSMUJXLUUyRmJGRFlrQnZ2STlzSGQ5REZCT1dxUTlPNnhFOUxRa0lFMmwtcHhHWUQ4dXUtNnk4cGlkWl9yT0s4bENscTh3ZWR4UElKRzhHenA3S1BDQ0prWjZram51MDN0UDVKSW8?oc=5",
     "samenvatting": "",
     "datum": "2026-11-22T16:25:22.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "RBC verliest derby tegen Dongen met 2-0",
+    "normalized": "rbc verliest derby tegen dongen met 2 0",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWR2Y3EwWnVkY3owakNIUDRGQ29FWGJDa2xhUTNQSnM3elhYLTlNc1pyQXdyQVV6Q0FkQ2htVlcyTGlNOEI5U2RGd0tpa3g3RVRxeVFYV0RhWU9xTVoxVmNCQVFaS1czUG1iMUF5M0VvRnRRMENzRDVOT3RKMmFickpIelhUeUZMWjdZcXJxMFVzLTQxb1E?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-22T14:30:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3000,7 +3009,7 @@
    {
     "titel": "Heb jij Bubbels of Yusu gezien? Deze twee huisdieren worden in Roosendaal vermist",
     "normalized": "heb jij bubbels of yusu gezien deze twee huisdieren worden in roosendaal vermist",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU0ZQT0tLejNVbnpSSkhfdlJETHBLNDYwWkloOWJoSk1tYVYwNE5LZ1NKNlFQLWFDS0hLSDliWVNuOExuS3pmNlktVzYwSlhQRnFxcXFTSGNmNE5nZmJmZVRnaUpLbTN2VEhiQXlQa2JmcjFOSDRzX2l5U2pmOG1SV0xyVTVQMzQ0TTdWY2Fhd0ZranZPNEZtdlJpc0ZuMFhOY1FDTFd0WVc5RWNNSk4yX3RMLXlSV1BsaDUxQQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTVZQb2Q3aHNfcEhGTmVNQXVjbU9rZGI1cFlfeGFqbkdpa2hRaEljeDRWZkQwQXR0ekc5OGdjTlZtUF8wdXYySUdGN2RZWEJQbkJrQ0dCZzVtWXRScUJNZHpmUlVQWEFwRUg3bzJ4RmVvY1cwU1pHYzRTeGhZWnBEWU5mWHBpU2xINXpBMEVBTnVXejRZMEplQzZJSElsTmg2eGU1cGhZVDZqeUVvcXhsWGplYXlLWEFGNkdv?oc=5",
     "samenvatting": "",
     "datum": "2026-11-22T10:11:19.000Z",
     "bron": "Google Nieuws",
@@ -3162,7 +3171,7 @@
    {
     "titel": "Winkelcentrum in Roosendaal moest uitbreiding jarenlang opschuiven door Bergen op Zoom: een kijkje achter de schermen",
     "normalized": "winkelcentrum in roosendaal moest uitbreiding jarenlang opschuiven door bergen op zoom een kijkje achter de schermen",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYk04ZXNzUTd1ZFlKOEgwT29xVVZvWlB1MUpYdThFY25SZzZaSy1wU1NhZHFkZ1JYaUV0Y1dZN1RyT01mVUMwSmJ5eUF2ME5ad3ctWkRKdHhqTDF4a2Q0cGY1ZW1uUzRIbTRaNVVQanBTMUZUVjREOEZBS1B6ZUx4NEYxNG1YUlI1QUFpNnJwVGNrcEVqWk13b3NSTDlFWEpoVUZRSF9Ybms3cUZ3ZU9qSHpVakNqMDBOVVZpTFVTejcxUF9qZV94a1NpemQ0ZlZZZTd4MmRnc3BDVVBXOGd3c09Ed3Y1blF4d1JyaF9paklXVEE?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNM25OX25HT0xqVmRnTXpEMmZYeU5vTC1rb19yRE1ZamFXTk9KN2lWZFBCa0NqNDVOTWlEek9BUTJVLUxIbm1kVFpEUW9zWFpBOUIxQ2VmYnZyNFJuRU94UmlkeVhJRGg5LXVtdkJaWUVLYWZlNDdmMnBRTEU1SjZFMkdnS1VGdHdjNEU2alA4a2daU25qaER5UWNzQjJHa0JTelZCVTBvOVgzcVA0a09jcDVjelVDbDZpZVdUcXpXU045bDdvOWVPU2hyZi1Ic1lYOFgxM0QtNkZEeWpyTEtNM1RHQjdTTWZjTmU1RHVfRUhpdw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-20T05:32:00.000Z",
     "bron": "Google Nieuws",
@@ -3210,15 +3219,6 @@
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLVJfZDBtdzNrVFRWbjRCRFZDU2d6RHBuZnlkOGkyR0tWRXB6LVVmSEdKcGgxanVUVXBYMlRWTzZKeXE4X3NzWnhBbTV5X1p4dWxRYkIzOXU2SUppOUJ2R09yZjRBWlFuQnpzLWl6UDRrZFJvZVJwT1RRRjFldE4tdU4zX3djcExXbTJjNQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-19T15:28:53.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Fietser raakt gewond bij botsing met bestelwagen in Roosendaal",
-    "normalized": "fietser raakt gewond bij botsing met bestelwagen in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOFFBT0ppUWFBNVI2RnBzNUkwOU5uQkV5WTlTWWxiYkNXNkg1cFlSMmtLNUl4UmdiQl94dmlXbDZHSXRYd0JiWXZyTjByVGRDUHI2SFhibVJhS1dMRG12U3lUSzVudlJuQzhGZDBBVUJheldJQm1WYmRqNTQ1Z2tLRTdYRVZlWFZjZVROel9kdk5jX1p6Y0lJQ3FCb3E3OFhNVU1xNDNIWHNGWXF4N2Z3aHA0UmJUQ216Z0E?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-19T15:25:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
