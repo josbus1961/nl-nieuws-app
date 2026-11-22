@@ -1,43 +1,52 @@
 {
- "gegenereerd": "2026-11-22T10:23:49.529Z",
+ "gegenereerd": "2026-11-22T10:49:10.098Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
    {
+    "titel": "'Nederlandse taferelen' in België, begrotingscrisis nadert climax",
+    "normalized": "nederlandse taferelen in belgie begrotingscrisis nadert climax",
+    "link": "https://nos.nl/l/2640564",
+    "samenvatting": "\"Lijdensweg rond de begroting\", \"Periode van drama en vertrouwensbreuk\" en \"Spanningen binnen regering verder aangewakkerd\". Het zijn koppen die doen denken aan de crisis in het kabinet-Jetten, die begin deze week werd bezworen . Maar deze headlines komen uit de Belgische media, waar de regering van",
+    "datum": "2026-11-22T10:33:19.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/7/y/X/5/o/x/kEDtCk4Mh4Eaow4jKzowrXrQb51gEMXwJNCaPr/185x24x2320x1305-1024x576.webp"
+   },
+   {
     "titel": "Kijkers onder de indruk van Jill Helena in Sing With Me: 'Wat een strot heeft die vrouw!'",
     "normalized": "kijkers onder de indruk van jill helena in sing with me wat een strot heeft die vrouw",
     "link": "https://www.rtl.nl/boulevard/artikel/5666526/kijkers-onder-de-indruk-van-jill-helena-sing-me-wat-een-strot-heeft-die",
-    "samenvatting": "Jill Helena (39) heeft zaterdagavond indruk gemaakt op de kijkers van 'Sing With Me'. Na een moeilijke periode vond de zangeres het spannend om weer op televisie te zingen, maar haar optreden levert haar lovende reacties op.",
+    "samenvatting": "Jill Helena (39) heeft zaterdagavond indruk gemaakt op de kijkers van 'Sing With Me'. Na een moeilijke periode vond de zangeres het 'spannend' om weer op televisie te zingen, maar haar optreden levert haar lovende reacties op.",
     "datum": "2026-11-22T10:21:51.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/21/Scherm%C2%ADafbeelding%202026-11-21%20om%2022.48.55.png?itok=g9HNbE82&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    },
    {
-    "titel": "Zuid-Koreaanse onderwijsminister stapt op na ophef om telefoongebruik bij examen",
-    "normalized": "zuid koreaanse onderwijsminister stapt op na ophef om telefoongebruik bij examen",
-    "link": "https://www.nu.nl/buitenland/6417404/zuid-koreaanse-onderwijsminister-stapt-op-na-ophef-om-telefoongebruik-bij-examen.html",
-    "samenvatting": "De Zuid-Koreaanse minister van Onderwijs Choi Kyo-jin is afgetreden na onrust in het land rond het fraudeschandaal tijdens het belangrijkste schoolexamen. Er werden 111 Zuid-Koreanen betrapt met hun telefoon, wat streng verboden is, waarna de autoriteiten vergaande maatregelen troffen.",
+    "titel": "Zuid-Koreaanse onderwijsminister stapt op na ophef over telefoons bij examen",
+    "normalized": "zuid koreaanse onderwijsminister stapt op na ophef over telefoons bij examen",
+    "link": "https://www.nu.nl/buitenland/6417404/zuid-koreaanse-onderwijsminister-stapt-op-na-ophef-over-telefoons-bij-examen.html",
+    "samenvatting": "De Zuid-Koreaanse onderwijsminister Choi Kyo-jin is afgetreden na onrust over fraude bij het belangrijkste landelijke schoolexamen. De minister had voorafgaand aan de toets vergaande maatregelen genomen, nadat bekend was geworden dat bij eerdere examens met telefoons was gefraudeerd.",
     "datum": "2026-11-22T10:21:44.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/ef9xi9hau0m8_sqr256/1020/0/4079/4079/zuid-koreaanse-onderwijsminister-stapt-op-na-ophef-om-telefoongebruik-bij-examen.jpg"
+    "foto": "https://images.nu.nl/m/w69x82wabhh6_sqr256/2182/0/4350/4350/zuid-koreaanse-onderwijsminister-stapt-op-na-ophef-over-telefoons-bij-examen.jpg"
    },
    {
     "titel": "Uitheemse lettersierschildpad plant zich succesvol voort in Nederland",
     "normalized": "uitheemse lettersierschildpad plant zich succesvol voort in nederland",
     "link": "https://www.nu.nl/dieren/6417403/uitheemse-lettersierschildpad-plant-zich-succesvol-voort-in-nederland.html",
-    "samenvatting": "De lettersierschildpad heeft zich succesvol voortgeplant in Nederland. Dat blijkt uit een gevonden nestje in Zuid-Holland. Eerder werd gedacht dat Nederland te koud was voor de voorplanting, maar het opwarmende klimaat heeft daar verandering in gebracht.",
+    "samenvatting": "De lettersierschildpad heeft zich succesvol voortgeplant in Nederland, blijkt uit een in Zuid-Holland gevonden nestje. Eerder werd gedacht dat Nederland daar te koud voor was, maar het opwarmende klimaat heeft daar verandering in gebracht.",
     "datum": "2026-11-22T10:06:54.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/o1wxc36axxyw_sqr256/611/1/2251/2251/uitheemse-lettersierschildpad-plant-zich-succesvol-voort-in-nederland.jpg"
    },
    {
-    "titel": "Chris Zegers vindt gezin veel belangrijker dan gemaakte reizen",
-    "normalized": "chris zegers vindt gezin veel belangrijker dan gemaakte reizen",
+    "titel": "Chris Zegers zet gezin boven alle reisavonturen",
+    "normalized": "chris zegers zet gezin boven alle reisavonturen",
     "link": "https://www.rtl.nl/boulevard/artikel/5666524/chris-zegers-vindt-gezin-veel-belangrijker-dan-gemaakte-reizen",
-    "samenvatting": "Het gezin van Chris Zegers staat \"ver boven\" de avonturen die hij heeft meegemaakt. De voormalige presentator van 3 op reis vertelt in gesprek met VROUW Magazine dat hij nog steeds geniet van reizen, maar dat zijn vrouw en kinderen veel belangrijker zijn.",
+    "samenvatting": "Het gezin van Chris Zegers (55) staat 'ver boven' de avonturen die hij heeft meegemaakt. De voormalige presentator van '3 op reis' vertelt in gesprek met VROUW Magazine dat hij nog steeds geniet van reizen, maar dat zijn vrouw en kinderen veel belangrijker zijn.",
     "datum": "2026-11-22T10:04:23.000Z",
     "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126075-1.jpg?itok=IKTupSAh&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP020426104-1.jpg?itok=eHEKC2QQ&amp;offsetX=0&amp;offsetY=53&amp;cropWidth=1023&amp;cropHeight=575&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    },
    {
     "titel": "Nieuwe invasieve exoot in Nederland: waterschildpad plant zich voort in natuur",
@@ -114,7 +123,7 @@
    {
     "titel": "Hailey Bieber viert dertigste verjaardag: groeit haar make-up merk mee?",
     "normalized": "hailey bieber viert dertigste verjaardag groeit haar make up merk mee",
-    "link": "https://www.rtl.nl/boulevard/video/video/1242a4a5-7b8b-45d5-82e2-4e642abbea06/hailey-bieber-viert-dertigste-verjaardag",
+    "link": "https://www.rtl.nl/boulevard/video/1242a4a5-7b8b-45d5-82e2-4e642abbea06/hailey-bieber-viert-dertigste-verjaardag",
     "samenvatting": "Groot feest in huize Bieber, want Hailey blaast zondag 30 kaarsjes uit. En dat is niet alleen een gezellige privé-aangelegenheid. Nee, Hailey grijpt dit moment flink aan om haar gigantische beauty-imperium in de schijnwerpers te zetten. Met haar make-up-producten en accessoires bewijst ze al langer ",
     "datum": "2026-11-22T09:30:52.000Z",
     "bron": "RTL Nieuws",
@@ -263,15 +272,6 @@
     "datum": "2026-11-22T07:39:50.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/5/A/U/Q/N/R/51cEMppkVhNvE4M12bjookPjUNCKU6v7uHZiKcV/0x93x1024x576-1024x576.jpg"
-   },
-   {
-    "titel": "Verstappen kleineert Russell: hij is dit seizoen een aanfluiting",
-    "normalized": "verstappen kleineert russell hij is dit seizoen een aanfluiting",
-    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666505/verstappen-kleineert-russell-hij-dit-seizoen-een-aanfluiting",
-    "samenvatting": "Max Verstappen nam na de Grote Prijs van Las Vegas heel even de tijd om George Russell op zijn plaats te zetten. \"Hij heeft een grote bek naast de baan, maar op de baan is dit seizoen een enorme aanfluiting voor hem. Hij komt niet eens in de buurt van mij\", zei de winnaar van de race na afloop bij V",
-    "datum": "2026-11-22T07:35:39.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126055-1.jpg?itok=57ZcK9s1&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    }
   ],
   "binnenland": [
@@ -279,7 +279,7 @@
     "titel": "Uitheemse lettersierschildpad plant zich succesvol voort in Nederland",
     "normalized": "uitheemse lettersierschildpad plant zich succesvol voort in nederland",
     "link": "https://www.nu.nl/dieren/6417403/uitheemse-lettersierschildpad-plant-zich-succesvol-voort-in-nederland.html",
-    "samenvatting": "De lettersierschildpad heeft zich succesvol voortgeplant in Nederland. Dat blijkt uit een gevonden nestje in Zuid-Holland. Eerder werd gedacht dat Nederland te koud was voor de voorplanting, maar het opwarmende klimaat heeft daar verandering in gebracht.",
+    "samenvatting": "De lettersierschildpad heeft zich succesvol voortgeplant in Nederland, blijkt uit een in Zuid-Holland gevonden nestje. Eerder werd gedacht dat Nederland daar te koud voor was, maar het opwarmende klimaat heeft daar verandering in gebracht.",
     "datum": "2026-11-22T10:06:54.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/o1wxc36axxyw_sqr256/611/1/2251/2251/uitheemse-lettersierschildpad-plant-zich-succesvol-voort-in-nederland.jpg"
@@ -548,13 +548,22 @@
   ],
   "buitenland": [
    {
-    "titel": "Zuid-Koreaanse onderwijsminister stapt op na ophef om telefoongebruik bij examen",
-    "normalized": "zuid koreaanse onderwijsminister stapt op na ophef om telefoongebruik bij examen",
-    "link": "https://www.nu.nl/buitenland/6417404/zuid-koreaanse-onderwijsminister-stapt-op-na-ophef-om-telefoongebruik-bij-examen.html",
-    "samenvatting": "De Zuid-Koreaanse minister van Onderwijs Choi Kyo-jin is afgetreden na onrust in het land rond het fraudeschandaal tijdens het belangrijkste schoolexamen. Er werden 111 Zuid-Koreanen betrapt met hun telefoon, wat streng verboden is, waarna de autoriteiten vergaande maatregelen troffen.",
+    "titel": "'Nederlandse taferelen' in België, begrotingscrisis nadert climax",
+    "normalized": "nederlandse taferelen in belgie begrotingscrisis nadert climax",
+    "link": "https://nos.nl/l/2640564",
+    "samenvatting": "\"Lijdensweg rond de begroting\", \"Periode van drama en vertrouwensbreuk\" en \"Spanningen binnen regering verder aangewakkerd\". Het zijn koppen die doen denken aan de crisis in het kabinet-Jetten, die begin deze week werd bezworen . Maar deze headlines komen uit de Belgische media, waar de regering van",
+    "datum": "2026-11-22T10:33:19.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/7/y/X/5/o/x/kEDtCk4Mh4Eaow4jKzowrXrQb51gEMXwJNCaPr/185x24x2320x1305-1024x576.webp"
+   },
+   {
+    "titel": "Zuid-Koreaanse onderwijsminister stapt op na ophef over telefoons bij examen",
+    "normalized": "zuid koreaanse onderwijsminister stapt op na ophef over telefoons bij examen",
+    "link": "https://www.nu.nl/buitenland/6417404/zuid-koreaanse-onderwijsminister-stapt-op-na-ophef-over-telefoons-bij-examen.html",
+    "samenvatting": "De Zuid-Koreaanse onderwijsminister Choi Kyo-jin is afgetreden na onrust over fraude bij het belangrijkste landelijke schoolexamen. De minister had voorafgaand aan de toets vergaande maatregelen genomen, nadat bekend was geworden dat bij eerdere examens met telefoons was gefraudeerd.",
     "datum": "2026-11-22T10:21:44.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/ef9xi9hau0m8_sqr256/1020/0/4079/4079/zuid-koreaanse-onderwijsminister-stapt-op-na-ophef-om-telefoongebruik-bij-examen.jpg"
+    "foto": "https://images.nu.nl/m/w69x82wabhh6_sqr256/2182/0/4350/4350/zuid-koreaanse-onderwijsminister-stapt-op-na-ophef-over-telefoons-bij-examen.jpg"
    },
    {
     "titel": "Klimaattop bereikt kookpunt: EU-landen willen niet instemmen terwijl de tijd wegtikt",
@@ -807,15 +816,6 @@
     "datum": "2026-11-21T13:26:45.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/dxyxvy6a5o9u_sqr256/693/0/3853/3853/burgemeester-new-york-scheurt-achillespees-bij-duel-met-pers-niet-gestretcht.jpg"
-   },
-   {
-    "titel": "Angst voor nieuwe verkiezingen werpt schaduw over coalitievorming Israël",
-    "normalized": "angst voor nieuwe verkiezingen werpt schaduw over coalitievorming israel",
-    "link": "https://www.nu.nl/buitenland/6417320/angst-voor-nieuwe-verkiezingen-werpt-schaduw-over-coalitievorming-israel.html",
-    "samenvatting": "De Israëlische oppositieleider Gadi Eisenkot wil snel een nieuwe regering vormen, ook als dat een minderheidsregering wordt. Volgens Eisenkot kan Israël zich geen nieuwe verkiezingen veroorloven. Maar niet iedereen in zijn kamp steunt die koers.",
-    "datum": "2026-11-21T11:57:02.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/flgx6ioawh0r_sqr256/186/1/682/682/angst-voor-nieuwe-verkiezingen-werpt-schaduw-over-coalitievorming-israel.jpg"
    }
   ],
   "politiek": [
@@ -1274,6 +1274,24 @@
   ],
   "sport": [
    {
+    "titel": "Malen bewierookt in Italië na 'fantastische vier': 'Donyell is uitzonderlijk goed'",
+    "normalized": "malen bewierookt in italie na fantastische vier donyell is uitzonderlijk goed",
+    "link": "https://www.nu.nl/voetbal/6417407/malen-bewierookt-in-italie-na-fantastische-vier-donyell-is-uitzonderlijk-goed.html",
+    "samenvatting": "Donyell Malen siert zondag de voorpagina's van alle Italiaanse sportkranten. De Nederlandse spits evenaarde zaterdag met vier goals tegen Parma (1-5-zege) een stokoud AS Roma-record. Volgens zijn coach Gian Piero Gasperini is Malen \"uitzonderlijk\" goed.",
+    "datum": "2026-11-22T10:44:40.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/3o2x6nyal2mj_sqr256/1872/529/3503/3503/malen-bewierookt-in-italie-na-fantastische-vier-donyell-is-uitzonderlijk-goed.jpg"
+   },
+   {
+    "titel": "ADO weer Haags dankzij jongen van de stad Steijn: 'Van dat schijnheilige houden we niet'",
+    "normalized": "ado weer haags dankzij jongen van de stad steijn van dat schijnheilige houden we niet",
+    "link": "https://nos.nl/l/2640565",
+    "samenvatting": "Toen Maurice Steijn acht jaar oud was, nam hij drie haltes met tram 9 van de wijk Vrederust over de Melis Stokelaan naar het Zuiderpark. Daar ging hij spelen voor ADO Den Haag, de club die hem scoutte bij de volksclub VIOS. Een tramlijn die toch al vol stond met kinderen met ADO-tassen. Het was de t",
+    "datum": "2026-11-22T10:36:09.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/6/u/N/J/8/4/4et2wW9GzfANZJr2jDD9WDuD4BrSrCt28852WG/8x344x3984x2241-1024x576.webp"
+   },
+   {
     "titel": "Boca Juniors wint na 19 jaar weer internationale prijs, Paredes valt flauw",
     "normalized": "boca juniors wint na 19 jaar weer internationale prijs paredes valt flauw",
     "link": "https://nos.nl/l/2640552",
@@ -1304,7 +1322,7 @@
     "titel": "Daleman pakt weer goud op 500 meter bij vierde clean sweep voor Nederland",
     "normalized": "daleman pakt weer goud op 500 meter bij vierde clean sweep voor nederland",
     "link": "https://www.nu.nl/schaatsen/6417395/daleman-pakt-weer-goud-op-500-meter-bij-vierde-clean-sweep-voor-nederland.html",
-    "samenvatting": "Angel Daleman heeft zondag in Obihiro haar vierde wereldbekerzege op de 500 meter geboekt. De negentienjarige schaatsster voerde na een spannende strijd wederom een Nederlands podium aan. Suzanne Schulting pakte zilver door Femke Kok te verslaan.",
+    "samenvatting": "Angel Daleman heeft zondag in Obihiro haar vierde wereldbekerzege op de 500 meter geboekt. De negentienjarige schaatsster voerde wederom een Nederlands podium aan. Suzanne Schulting pakte zilver door Femke Kok te verslaan. Bij de mannen was er geen Nederlandse medaille.",
     "datum": "2026-11-22T07:53:58.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/75exu7hapsm0_sqr256/732/4/3627/3627/daleman-pakt-weer-goud-op-500-meter-bij-vierde-clean-sweep-voor-nederland.jpg"
@@ -1328,13 +1346,13 @@
     "foto": "https://images.nu.nl/m/uk1xlukavczu_sqr256/848/4/3761/3761/jens-van-t-wout-blijft-ongeslagen-op-1000-meter-en-staat-al-op-zes-keer-goud.jpg"
    },
    {
-    "titel": "Verstappen genoot van mislukte actie Russell: 'Mijn dag werd alleen maar beter'",
-    "normalized": "verstappen genoot van mislukte actie russell mijn dag werd alleen maar beter",
-    "link": "https://www.nu.nl/formule-1/6417393/verstappen-genoot-van-mislukte-actie-russell-mijn-dag-werd-alleen-maar-beter.html",
-    "samenvatting": "Max Verstappen genoot van de dramatische race die George Russell in Las Vegas had. De Mercedes-coureur haalde een dag eerder hard uit naar Verstappen. \"Dit was perfecte karma.\"",
+    "titel": "Verstappen slaat terug naar Russell: 'Grote mond, maar zijn seizoen is aanfluiting'",
+    "normalized": "verstappen slaat terug naar russell grote mond maar zijn seizoen is aanfluiting",
+    "link": "https://www.nu.nl/formule-1/6417393/verstappen-slaat-terug-naar-russell-grote-mond-maar-zijn-seizoen-is-aanfluiting.html",
+    "samenvatting": "Max Verstappen heeft zondag genoten van de dramatische race van George Russell in Las Vegas. De Mercedes-coureur haalde een dag eerder hard uit naar Verstappen. \"Dit was perfect karma.\"",
     "datum": "2026-11-22T07:31:42.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/1ssx02barzw6_sqr256/434/3/2282/2282/verstappen-genoot-van-mislukte-actie-russell-mijn-dag-werd-alleen-maar-beter.jpg"
+    "foto": "https://images.nu.nl/m/1ssx02barzw6_sqr256/434/3/2282/2282/verstappen-slaat-terug-naar-russell-grote-mond-maar-zijn-seizoen-is-aanfluiting.jpg"
    },
    {
     "titel": "Ferrari-baas Vasseur cynisch na nieuw incident: 'Dit hoor ik ook van mijn kinderen'",
@@ -1524,24 +1542,6 @@
     "datum": "2026-11-21T19:39:56.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/5/5/d/G/V/k/378scozKdcy5jDrusdoZW4H5ZErsYT6izgYa5Ff/8x168x3984x2241-1024x576.webp"
-   },
-   {
-    "titel": "Waarom werd duel in Utrecht niet gestaakt volgens nieuw protocol? 'Dader snel gepakt'",
-    "normalized": "waarom werd duel in utrecht niet gestaakt volgens nieuw protocol dader snel gepakt",
-    "link": "https://nos.nl/l/2640476",
-    "samenvatting": "De wedstrijd FC Utrecht - SC Cambuur is ondanks de strengere vuurwerkprotocollen van de KNVB niet gestaakt na een rookbom op het veld. Dat heeft volgens een woordvoerder van de KNVB onder meer te maken met het snel opsporen en aanhouden van de persoon die de rookbom op het veld gooide. \"Deze dader i",
-    "datum": "2026-11-21T19:23:23.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/2/5/v/9/1/u/JUAx4aFQngNG5L52StjMt6Js5AdWtryUjq1Ric4/457x627x2416x1359-1024x576.webp"
-   },
-   {
-    "titel": "PSV vreest lange absentie aanvoerder Mauro Júnior: 'Het is duidelijk ernstig'",
-    "normalized": "psv vreest lange absentie aanvoerder mauro junior het is duidelijk ernstig",
-    "link": "https://www.nu.nl/voetbal/6417365/psv-vreest-lange-absentie-aanvoerder-mauro-junior-het-is-duidelijk-ernstig.html",
-    "samenvatting": "PSV vreest het lang te moeten stellen zonder aanvoerder Mauro Júnior. De 27-jarige middenvelder liep zaterdag tegen NEC een liesblessure op.",
-    "datum": "2026-11-21T18:45:00.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/89dxvbpaepbv_sqr256/390/0/2362/2362/psv-vreest-lange-absentie-aanvoerder-mauro-junior-het-is-duidelijk-ernstig.jpg"
    }
   ],
   "cultuur": [
@@ -1928,6 +1928,15 @@
     "foto": ""
    },
    {
+    "titel": "Faunawatch: unieke voortplanting waterschildpad in Nederland",
+    "normalized": "faunawatch unieke voortplanting waterschildpad in nederland",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS2hxMU9GbW13MGZfdGxwc1pXUDJKNm1CcmFqTlNxQldldGthczE1SzJDY0xmc2hSbzk5RzdGVW8zWWVaSHZEVFF3Uk15X1RYVVJwVDRmcGR6azEySGFMMUg4QVBNdjNMb1ZwQmZfRG5pcl9pQm1iV0FySkg0cVpjQTg0eWlSaTNES3hHTC04VEE0YnBDVFVB?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-22T09:32:38.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Zeeuws-Vlaming Jochem Kerckhaert (26) wordt eindelijk prof na een loodzware weg vol tegenslag",
     "normalized": "zeeuws vlaming jochem kerckhaert 26 wordt eindelijk prof na een loodzware weg vol tegenslag",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONEFzdXFJcElZT0ZBTTFOSkxmNkZkbEhyU2dfUUpZTHdVaC00aVZTb28zSGZJbDJHT0lYZ3hhNHVxRmxyZmtuMTZTOF9CbEdmNGdGRGt2N3UyWktwcDRuTzFKc3NCUDQxZm1Qb0hCVTVIRmZoZi0tellQLXdLYU1qSW1lZjUwWlFTeUhHbTFiZ2RGaDBSZkJDN3EyR3VQMWpjWloxc09jZkI3QXY1SWJEZFFrazByVUlkQ2FVLXFlV0xhX2dwaGlHMnhMQ1hoVU51OVg0?oc=5",
@@ -1995,7 +2004,7 @@
     "normalized": "uitslagen amateurvoetbal zaterdag 21 november",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFVZNFBJc1A2TVptMGRVMXZydnptSnVILTBJMGtxNzAwX1FaNDdBOUdhb2FnR2JjYXVMeDFXejFJcFFHUTJkZ2RESXF0ZGQ3TXl2MTQtS1Y1M3pzWVlNN0xQVG1tNV92Ui0tR0dkSFdjZi02MkhLTFpDWTdqd2NHN3NHbFN0eW1pWmZCYkx0NFdsM0ZN?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-21T18:21:00.000Z",
+    "datum": "2026-11-21T18:26:47.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2031,7 +2040,7 @@
     "normalized": "eieren gegooid in arnemuiden bij anti zwartepietprotest demonstranten bleven weg in axel en goes",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWFl0amVQVUxPbExVSWhEM21OV2tmUEhUUGloa2JicC1CSVRCaUVUU3VpQ3g0QWNtSUlHcFRKTVFocFB1YnFOemxHTENleWU2SnJLYjN1OUxjaTlsYV83dFV1TEVRbHEyVlRQUTRsLVNqSjFvSFUweXFZU25WVVVRU2laOF8wd3F1ZTc3MnNEZUFHdnBab29FdExGWEpLQi03emVYdGttYXA1dXpfQ0V2VFNUZ1dRR2tnaGx2ajE4ejEtX3B6aTUtaDBiNlVxVGZhbzJQSm5wYXo?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-21T16:11:21.000Z",
+    "datum": "2026-11-21T16:09:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2086,6 +2095,15 @@
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0hCRkthcUFEVjB5WVllVUVGZm5DbmZKWjAxcXVoOGtJdXhjZzNvbDhOZFNZSlVWOG9DOXBVSjkxUWlJX1YtT05JdmxESmVDMGNscU90dGo4QlByckloUDB2RlVidUFWQkFHVUZIcnB6NUdlUHo3X0lISFFOWVhvX1lvUU4wMVVBekp4ZXJhTTdOY1FFWU5kLU0zaTlQVXNoclhHUmpGMjF1ZmNzNDg2dmhiME5fbjlkMlpz?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T12:59:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Eerste asfalt ligt er al: parkeerterrein voor tunnelsluiting neemt vorm aan",
+    "normalized": "eerste asfalt ligt er al parkeerterrein voor tunnelsluiting neemt vorm aan",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHpyVkZQVXB0bEVfeTU1WnFFWjAzbnA2Tm13bzEtX3pobGZDWl9MaHpERnVFYklJX1c1amZCaVh1N3h2b1U1TUlqam1xVkIySlVPYndTTW1nX0p3Y0sySjRhV2dnYUJ0aWdsU2pCQVhBSlF4X2tteTlkejg4aW5hYTJoYlhkNjB3SWctcXFQWjRBOVhVcWZUZnUyb0NKM2FZdmJJQnNfb3h6U0dsYVItQk5seFZfcFNnVzFN?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T12:54:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2160,27 +2178,18 @@
     "datum": "2026-11-21T00:42:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
-   },
-   {
-    "titel": "Politie onderzoekt woninginbraak Tivoliweg Hulst",
-    "normalized": "politie onderzoekt woninginbraak tivoliweg hulst",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM3FaVVVfYU0xOWg3OHdEblJmOE5fSFFMLTdiVTRIZF9uaE5VN0hiUkptY25IVi15YmVQSzJubVhPUUZvSXNKQUpCdTNwekc3TFIyVEhKNWZUNW1YNG9jU2pxRmFUR0wzMkVNekdETzV0RUtWenhmbGIwX0Eyb0kwZ0thZUlSNGlrb3Z5OE5qM2Q?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T20:16:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Stroper met vuurwapen aangehouden op Schouwen-Duiveland",
-    "normalized": "stroper met vuurwapen aangehouden op schouwen duiveland",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhWbkpDalJFQkNaZjhZaHVKcmJpbUdIMzUwQWtMSHk5RGhTcElFTlY0d1ZYU21MZ3J3X3BUbFN3VXhGLV9JVk5pTWF2TXBBYzBIS09Uajlmbk40WFNNZl9ZVEJhNkk2aU5adzd2b2lreTVyVGkxVHBSWEhLdUNOR0czYmpFNEFMVTdKOEtrSnA2Wjh1NjZQZzhDaURoNGQ4UGc?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T19:56:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
    }
   ],
   "brabant": [
+   {
+    "titel": "Jochem scheidst al 25 jaar amateurvoetbal: &#39;Ruik ik bier, krijg je rood&#39;",
+    "normalized": "jochem scheidst al 25 jaar amateurvoetbal 39 ruik ik bier krijg je rood 39",
+    "link": "https://www.omroepbrabant.nl/nieuws/6035688/jochem-scheidst-al-25-jaar-amateurvoetbal-ruik-ik-bier-krijg-je-rood",
+    "samenvatting": "Al 25 jaar scheidsen ze samen amateurwedstrijden in het Brabantse voetbal. Jochem de Vries en Peter van der Leegte uit Nuenen zijn onafscheidelijk op het voetbalveld. Sterker nog: Peter twijfelt of hij ooit nog verder zou kunnen fluiten als Jochem niet meer zou komen. &ldquo;Ik kan niet zonder hem.&",
+    "datum": "2026-11-22T10:29:00.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTMwNzgtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz05eXlZJTJCaHE3c2ZQQTlvYjdwZCUyRlJJamZCTnd2dGh6dkxyWlZlZXloVXUxZyUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
+   },
    {
     "titel": "Vera uit Waalwijk weer in Nederland na detentie in VS: &#39;Ernstig verzwakt&#39;",
     "normalized": "vera uit waalwijk weer in nederland na detentie in vs 39 ernstig verzwakt 39",
@@ -2371,15 +2380,6 @@
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTE3MDEtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz04eUNSaG9od3hRQmFEak4lMkZWNk9zNUxFbXdTMVJudEtMdXFxVHd3aXVKaFklM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
    },
    {
-    "titel": "Boa&#39;s bekogeld met vuurwerk bij station in Breda, een aanhouding",
-    "normalized": "boa 39 s bekogeld met vuurwerk bij station in breda een aanhouding",
-    "link": "https://www.omroepbrabant.nl/nieuws/6035653/boas-bekogeld-met-vuurwerk-bij-station-in-breda-een-aanhouding",
-    "samenvatting": "Een man is aangehouden nadat hij samen met een andere man vuurwerk gooide naar boa's in het station van Breda.&nbsp; &#xD;&#xA; De twee mannen waren eerder op de avond al aangesproken door de boa's omdat ze in de stationshal aan het gooien waren met knalerwten. Ze werden daar weggestuurd, maar bleke",
-    "datum": "2026-11-21T05:38:43.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzI4NzkwMzYtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz10N21sUjltaXF2MFEyWXV3eExpd2xQb3hPciUyRnpvYzZUJTJCUFRudnY2ViUyQmlNJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
-   },
-   {
     "titel": "Robine is prof net als haar vader en opa: &#39;Zijn allemaal even eigenwijs&#39;",
     "normalized": "robine is prof net als haar vader en opa 39 zijn allemaal even eigenwijs 39",
     "link": "https://www.omroepbrabant.nl/nieuws/6035479/robine-is-prof-net-als-haar-vader-en-opa-zijn-allemaal-even-eigenwijs",
@@ -2535,15 +2535,6 @@
     "foto": ""
    },
    {
-    "titel": "Gemeente Borsele roept inwoners op mee te denken over leven in 'North Sea Port District'",
-    "normalized": "gemeente borsele roept inwoners op mee te denken over leven in north sea port district",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMjc2bElyMFZ4dFAxd004bGR3QXpTVENqN1NkWVlIZE1Pell1WXBqaWhNTVVvZldtbW5SMHJHcWtodWpzYTR1MjBDdHk3UG9BX1dwckRvci1qeGhheDlTVVdYNkJrSFREM0M0Z3BEbzBhSEVlWk5Udk9id0ZJWlY1Rmo5MEhHbk15YV83aGNGSGQ2Y2ZNSmVyLVlrbm9nNkpHR3I2dHppcFJRTzRtRFdUU2h3X3B5cHN4MkswekZDODI?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-05T08:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "PRO Borsele niet blij met burgemeester: 'Raad hoort dit niet via de media te vernemen'",
     "normalized": "pro borsele niet blij met burgemeester raad hoort dit niet via de media te vernemen",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOXE2UHRrNFh1Um1mX085MVRpRVZfTk5HRHhxX2VzaVpHdFpucDNYdVllNkJVSmVMRlNMRHI3QjA2TG0xWDA4Q0tySTY0c3Z3ZjBVeFZrM2dycmVOTUpoV2ktdWZQVWg5UDVYVjRLb3ozWF9JN1RFb3BJSmVjblZwVGYyMzZtcEs3cEI3TFctOWtyQ3Bxb19mc3kwSnJBX2pkR3JBcG5uUEhGU0pmcVNuR0tKRDdYc2NnMFZnb1NYU0QyUnE3UDA0?oc=5",
@@ -2634,15 +2625,6 @@
     "foto": ""
    },
    {
-    "titel": "Borsele houdt rekening met tekort van meer dan een miljoen in 2030",
-    "normalized": "borsele houdt rekening met tekort van meer dan een miljoen in 2030",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmNQcHctaUxLaWk1SWRoTHZib1EyWi1jRmtXUTZsWFBCQldpcW4wcHRSOWVZcDBmeXFaQ3ZOZzF5elBnaVFMdzR1cnowd1Q0UGcwN29ESDllV2pWa1NwanBGNGVMVVFKMFdXNUFhOFlMOFVzRGhXOU5PWFNWQzBIdGtzSTlTREVZeFF1NmMzOUxzYzUwLW5ORzA2a1FQbGVCaTgxcEVR?oc=5",
-    "samenvatting": "",
-    "datum": "2026-07-09T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Borsele trekt aan de bel over stapeling energieprojecten in Sloerand",
     "normalized": "borsele trekt aan de bel over stapeling energieprojecten in sloerand",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG4ycHRUR2hHcFpMQzc2dTZMTHlXajJDTGFDLXZHUGYtM1hyZExsYW1fd1BGTDZKLVZTWHRnQ3VEX2gzbXd1QmZ0ZzRTUUlvY1BpVmtCM2RQMFNNSFFicVE2bjZxREZDajg5LTZlUnJBeGRwdWNmd1JYZE1PVGxRUUNOZWpZMV9YV2hNcjg4QlNXSnRYMS11dU1ONUwzUmZ3Z2xNbWpIZTc?oc=5",
@@ -2670,11 +2652,29 @@
     "foto": ""
    },
    {
+    "titel": "Borsele kreeg grip op jeugdzorg: andere gemeenten kijken mee",
+    "normalized": "borsele kreeg grip op jeugdzorg andere gemeenten kijken mee",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa1RFTVdpRkRxRC0xRjZZajZwWFZGTXg4R2Qxcjh1bERwWmZSemZsaWRiT0dPRFI0aGRUdHRFS0dhLXRNa0JWVE5SLXhpSWZ3a3JfeHIzeUtKTWpqRmVBbFFnUURsd3BnTVVwdkozQ2NTN3R3Z0g1ZWNLblphSkZPUVkyMkFxS3JaT19zWmNEa0d1ZmxlcDNBb21pcUw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-04-13T07:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Inwoners Borsele mogen 5 miljoen euro verdelen om de leefbaarheid in hun dorp te vergroten",
     "normalized": "inwoners borsele mogen 5 miljoen euro verdelen om de leefbaarheid in hun dorp te vergroten",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLWl5ZVpFRjJpaHNjY0tJNVI1NFYxVXQ0T2t5OVh2TVRNbUQwZ0VubHI3MFlfZkw2TzJYQVdiVC1obUlIeW5WZ0NBUVdkendDbk5JNkZuMldBd1VOcGd1bno5T0pEQ1M2RUlMTUQyb05MMHpCRU1jQlRvYlFmMC03V1NmSWxka0F3dVA1aE1kSWFlRnZyMk1yd0NnN19lcTliYzM4QTFBT3VKM0RjNml4YmV0dEpaMmw0Z2dEd015SmlfdEkwNkVHVUpGV0JZRlJW?oc=5",
     "samenvatting": "",
     "datum": "2026-04-03T07:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "In de gemeente Borsele kerncentrales met koeltorens? 'Dan denk ik dat hier oorlog uitbreekt'",
+    "normalized": "in de gemeente borsele kerncentrales met koeltorens dan denk ik dat hier oorlog uitbreekt",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR1ZuYzlSWjFFZU9jU0V6MXBBR2RKZ1VraVhISW1PV0ZROEpCU0pIRE1qR3FibDBtbmRZX25CQ0lPX3dLR1JCV2hDTUtPSFZNaGRLRENPbVZrdEhtb3AwZjU3ZG5QRFhBR0Y3LXNDZ3RwZEh3d1JPci1SRmhZLUl0ZGx4QXg3QkpiVlZuQmY1elQyalRYY0ozWnl1c0wyOS1BbTh4andpaHV5aWxuX1NXaHEzQkw5cDVyMFpza0l0UkQyRUkyNTNaT1hxUDQtWms?oc=5",
+    "samenvatting": "",
+    "datum": "2026-03-02T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2973,7 +2973,7 @@
    {
     "titel": "Ligt uw muziekinstrument te verstoffen? CultuurCompaan maakt er jonge musici blij mee",
     "normalized": "ligt uw muziekinstrument te verstoffen cultuurcompaan maakt er jonge musici blij mee",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSkdpdjNPcW5oYk9DaFZuMUtDQlpvbVJsWU95MU1YZTl1anhqcndpQ0taTUJUdGF0MjY0dHZDUUJWMUgyb0VRWTkxVGhhekx3Q2w2OHRCTnlDMWJWLTEyaUdOUDBsUWhacFNfclk4dDl1NHduU0JYZGhyMUY2QWRYcURyWUt6aXQ1Q21tT2s5U2RKeXJCeG8taUs2d1RPWlhSdVBObWJxY1ZIeEpYWk5TeHRjYzZkVmdScFhKcHFHZHJBZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSWw0VWJhX01sTUJzT3o3Y05uM2w5V251OVBMU3NyWHIxdjBhMlZ1eUl1ZGpET2VQV2NFdXR6WkJFZ0lnbkIyYnU4XzQxU09GSk9oUkdSTDN5TjV1RGhxVzFYRzg3QmFwMzU1bjc2WmtVUkpEM1ZUcUFUSjdFX3lmWXpKUnd2UFozSGlDN3V1blFEWm9qdWNfMG9hdEVtZ1RvcDZNMjNVa2lzSi1vc3Vwa3k3ajFqSnhIUHU2VlZDWEQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T19:08:00.000Z",
     "bron": "Google Nieuws",
@@ -2985,24 +2985,6 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQUVIcTJub0Q0cERPUUhaVWtoWTJQOVhablZpOUxyOENaS1BlQ0tlYjcyWS1zWEt1ckp6TjFPSmU5RmJqZkV6cnZ6bVJCV0l4TTIzbDNHbFNKNm4yZEpkdTZYYW45UmhsUGRxUWVxNFB6TWRrRmlyM3U0NDdQQTBjVFk4dFlfLWxhMWxzcjFFQ3BlV3dfNlBTT3FWQWxhMVd4LVBKeQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T12:36:29.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Groot Dictee met de bieb!",
-    "normalized": "groot dictee met de bieb",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaWtGaHktMzFHdEFWQlFsdjdRd3RNSG5NTnZFOE9pQkd3QjR2YW1XVEJrQTRzSzFUUUlsY0MyN3JXN2c3VG1faVJXQ1E5azViZl84V1ZnSVoyZ0lDR1dGUVZyV3VkVkdKS0pKeEs2ZXB6bmphMjd2WDVlamdFWnptejlsS2RtYzRVUHB4VlpxTjBKQ2c?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T12:04:12.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Twee fietsers aangereden in Roosendaal, automobilisten rijden door",
-    "normalized": "twee fietsers aangereden in roosendaal automobilisten rijden door",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWhqcE03c0Z6T1Z4dXhocVBVeUFlN0JNU1hQdGNQZzFCdFgxVVlfTUF1bWo2dmdtR1FYamlTa1NyUXA3a2lwMWlENUlDWFhqOU04ZzRCeC04eGg5ZC10SDJLNFMzM3Y4YWwzaFVJLVY3czJHc3hUWndIZ0VmaWpwTm5VYzhUZmtuMEY2YjVFMUVxaENPZFJ2MnBudHE4N20zX0ltc3o3UjdZTzk2NjJBbkFOakx3Zw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T10:47:23.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3043,15 +3025,6 @@
     "foto": ""
    },
    {
-    "titel": "Fietser zwaargewond na aanrijding met doorrijdende automobilist in Roosendaal",
-    "normalized": "fietser zwaargewond na aanrijding met doorrijdende automobilist in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdk5ULWphZXVkU0N6d1ZNSUpzSzNSdWVrSTFrTk52TENpUDFHX0RTNUtrV1NRY0Vhd19tcGRDYmtiZEN2eE9nZlAwZ3VCeFViWVZ5NndmUHI4TnlGWDl4cVRPRVZuX3FJcW12ejY1UVNYZWlfVHR5RWVjNDNDaElmTnp1Tlk2YU4xcmstRV9GczJKOWNp?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T09:45:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Kind op fiets zwaargewond na ongeluk in Roosendaal, bestuurder vlucht",
     "normalized": "kind op fiets zwaargewond na ongeluk in roosendaal bestuurder vlucht",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3hyV1NBVGdCcDh1SFItZ2MyTE5QM2dLR2V3ZnpjemJmbWFrRmJhcUpzV0FiR1pwdURuUmhXRmtoSnVwNU9fb3Jab2ltN0VwREw1emI4eFVkemhPX3lOSEVSTHhOR2JQVGVlRTRQN3d6bmxOMlFCU0VWTllsbHZlZnBrS2hpTXB0VUNaUFVfUlZabFlZLWgxRV9BLWZBaWoxbnpsS05tb3hDeU9IWkRkRnd3?oc=5",
@@ -3075,6 +3048,15 @@
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS1pvODFOMFF1S0ZpTmdDcFU4clNPdnlTQ01SenhBQVNjMmZGSG83ZDNVS04wcVFFLVJDNGpLdnBMckR5ckVLMFNFNGMyaHhsYVhsb25qR3ZFY3Q4djN1X1ZYWE1wa05CSmt4bjByTm5KOE5sNjJ1SGZfNkEzMFZEemxaZ05zZGllWFpESkhXczQ5OFlZQVNXbzdXTm5VSTVUVmxpa3phWTlyNmxLanJPU1FsWUlEYlV2eUdyZHI3SFdfVUpEZkF0dnFQQUt0QUhQN3dUYTlMSUtCeHRO?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T08:11:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Automobilist aangehouden na aanrijding met fietser in Roosendaal",
+    "normalized": "automobilist aangehouden na aanrijding met fietser in roosendaal",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZWVMem50b3l5VzBTbVNicFFZZGVKWUt5ejFFWlJjb2xiOUhEWWtBNndESEhPMXlkZ1J2b0d5Rl9RNl9xeWktQWhuWTVTblpVd0FXa2k0VmM4dFRVWU9GTFlVRWJfRXgydXJ1MmFDbmlEb2Y4R2NwUm4tNHE0Snk0ZS1pS0hvOTQwNXlFd3JjS05NWHdxV0NOOXgyNXJfTlc3UENyNGpqcjJiVkF5aTFXU0pMUnktUWM1aU8w?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T01:57:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3115,6 +3097,15 @@
     "foto": ""
    },
    {
+    "titel": "Ongeval met letsel op Boulevard in Roosendaal",
+    "normalized": "ongeval met letsel op boulevard in roosendaal",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON0kyT2pubV9HWGpGeERzZ0hDTUNJckVDWWtSZVlSdnkzN2plX05BNGd1eklpTWlUWXZSOGhrckpTQTBpOTB0QWR2bjZlTXZqY19qWFUzSmJNdTRsS2NsbWNRUHpac2NkOVJ2SkdodlI0VmU1Yno3UnEzVlBYNkVrM0JxOTE5UmlIWDRWV1VDLVRjRmVlbFZPekNNRQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-20T17:45:22.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Steeds minder nieuwe jeugdhulptrajecten in Roosendaal: 490, tegen 795 twee jaar eerder",
     "normalized": "steeds minder nieuwe jeugdhulptrajecten in roosendaal 490 tegen 795 twee jaar eerder",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcS1LU2FRbjNRM1pPQUlSRE41Ty1UZUk0eTBCaUNPd1lPcWI4OHY0NWpYT3U5XzY1SU1jUmdqMjBBbDFiV2lac0FzdlN2eWp3clAwcUthT01GVjBoLXl3ZmFhM01XdTdKY3V0ZVVYdjNTRUVpSFotNmpZQ1lGUDNaZXJsblVmSGJIdVRyYjlTbGdERW8taXFVY2w1MHFHM1VPZmpuVFJUTjhtMXhreHkxYk81T3RfTGhfLWZXbGdmU2w?oc=5",
@@ -3124,11 +3115,11 @@
     "foto": ""
    },
    {
-    "titel": "Weekendweerbericht: ‘Het wordt zonniger, maar ook kouder’",
-    "normalized": "weekendweerbericht het wordt zonniger maar ook kouder",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNVl2MllTSW4xTV83WHJySVYxWlRsYmtGdkc4TERPSnJZNmFjR19iT2pRaEk1Y2UwbElJVzVGUC04Y1NZclFHM1BYcnZyeW9ENW9MMlZlTE14QW43aG9oWkdROXZHZnhvcnRKNUdycktHbERJQUlkcWRqMEp2aThSRmNXczk2VmJuV2VNOXhNT2trNzhycHZCWDNxSlQ5Nlp5a1cyeTFudVFCdw?oc=5",
+    "titel": "Anja (66) sluit na 38 jaar noodgedwongen de winkel bij de pomp: ‘Er zit geen toekomst meer in’",
+    "normalized": "anja 66 sluit na 38 jaar noodgedwongen de winkel bij de pomp er zit geen toekomst meer in",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdFhmU1RiVFhETm9RYkFYeWo5QW1qdWNtb0ZEVl81My1PcWdEcmx3TUoyZnd2a1BaT25lQnFUTDI5aTJMbGRuekFHVU8tdWlsYnVCTkdDMGVZcFRUY19YTXFMUGNqWG52SzVRMzBNR0lBUXdyZ1JpYXF1M1BtRWMxOHNvYm9FRFZPRU5kWGpXZFUzSm54OGxxTFBkVlVERng3SFBHTndONVh5QjByYkpNdTdQd2ZmaldfYjNoNVM3bXNqcE9YMG5RUVh6M0Ezckk?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-20T11:02:00.000Z",
+    "datum": "2026-11-20T09:51:02.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3160,11 +3151,20 @@
     "foto": ""
    },
    {
-    "titel": "Marie (94) en Jan (95) zijn 75 jaar getrouwd en hebben de succesformule ontdekt",
-    "normalized": "marie 94 en jan 95 zijn 75 jaar getrouwd en hebben de succesformule ontdekt",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTWU4LTZ0VTJUOHRrbkVtM2FwT1FFcjF2MXcxNXMyR0pzVHlpNHFvMDh2OGZncWprYlZibjk5U1VjOVgzLVl4cTd3amI1YXhISG56cUpkRTZUT0t2MElYZXBSZ1ppZXVRb2VYcjh2bmJVaGtqVkVfZHlBQWVxMjVVUkpISG4temF1MTN1ZURtZVhGbWw2NGRnYjk4RXY5ODFSNGNpV2l3Y194V09VU2pqOHVDSDFsbFpKRUEzdA?oc=5",
+    "titel": "Reanimatie op Marktstede in Roosendaal, traumahelikopter gealarmeerd",
+    "normalized": "reanimatie op marktstede in roosendaal traumahelikopter gealarmeerd",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUjNDODVGT3hjVDFtMXQ5a3RPbDc2QVphSVVQdUdIUWJtNlRvRFlyVmpaaENUMy1wa1BPcUZQMW55YnBrSXFfQWRITFJXWHl0RmNxanQxNkxHazRoSktOcFZ5Q081amI5Q1ViVlhkNTFQeE9QUjVCOWNGV3NrZ1RXdXZWVnhDZ3g0VFFqcGZmcjAyWFdOa0JrcjI2Z3hVZGc3cGxfSEE4MVJPLXlzcmk1VU5oenFkTVNa?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-19T18:31:00.000Z",
+    "datum": "2026-11-20T03:20:41.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Ongeval met letsel op De Stok in Roosendaal",
+    "normalized": "ongeval met letsel op de stok in roosendaal",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOakFodklPdlRUV1pRNUVBNTZuU2o2XzNvNTNHbGc5elk1VFFtTHRHVUFHV0ZDWFhxdXBHSE03b1J6Y1kzV0NxZ2lKMGQydm8xS0V2ZENydzBxM2ZIcTBMNmZCa0I2SXprcFdIMUg5d1RsazJ4ME5LSVNSOTByMlhiTUg2eS14S1ZSeThhZGtCQ0ZyMWlhSG1jSw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-19T18:07:15.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
