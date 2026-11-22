@@ -1,5 +1,5 @@
 {
- "gegenereerd": "2026-11-22T01:06:05.270Z",
+ "gegenereerd": "2026-11-22T01:31:25.654Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
@@ -554,7 +554,7 @@
     "samenvatting": "De Britse premier Andy Burnham en zijn echtgenote waren zaterdagavond gasten van premier Jetten en zijn verloofde tijdens een diner in het Rijksmuseum in Amsterdam. Burnham en Jetten spraken onder meer over de gezamenlijke steun aan Oekraïne.",
     "datum": "2026-11-21T23:41:32.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/pg8xydfatgyp_sqr256/230/0/1067/1067/jetten-dineert-met-britse-premier-in-rijksmuseum-en-spreekt-over-oekraine.jpg"
+    "foto": "https://images.nu.nl/m/pg8xydfatgyp_sqr256/234/0/1067/1067/jetten-dineert-met-britse-premier-in-rijksmuseum-en-spreekt-over-oekraine.jpg"
    },
    {
     "titel": "Zeker 24 doden nadat boot in Nigeria onderweg naar begrafenis kapseist",
@@ -1321,7 +1321,7 @@
    {
     "titel": "Zverev wint en treft Alcaraz in gedroomde finale ATP Finals om 5 miljoen dollar",
     "normalized": "zverev wint en treft alcaraz in gedroomde finale atp finals om 5 miljoen dollar",
-    "link": "https://www.nu.nl/sport-overig/6417341/zverev-wint-en-treft-alcaraz-in-gedroomde-finale-atp-finals-om-5-miljoen-dollar.html",
+    "link": "https://www.nu.nl/tennis/6417341/zverev-wint-en-treft-alcaraz-in-gedroomde-finale-atp-finals-om-5-miljoen-dollar.html",
     "samenvatting": "Carlos Alcaraz en Alexander Zverev vormen zondag het droomaffiche voor de eindstrijd van de ATP Finals in Turijn. Alcaraz won zaterdagmiddag in de halve finale met 3-6, 6-3 en 7-6 (1) van Ben Shelton en Zverev was zaterdagavond in de andere halve finale Daniil Medvedev de baas: 7-6 (0) en 6-4.",
     "datum": "2026-11-21T21:47:13.000Z",
     "bron": "NU.nl",
@@ -1919,15 +1919,6 @@
     "foto": ""
    },
    {
-    "titel": "Swift houdt Fortis op afstand in Zeeuwse derby en wint met 17-21",
-    "normalized": "swift houdt fortis op afstand in zeeuwse derby en wint met 17 21",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVGlqM3FsRjJIcHgtRHcwbjVVVmVWQjFDdTJxdWdhdUJScnptZW52LUVZU3VoMDZPUUZ5MkZ4NjFxMTQzT1VENWpUNS1DUmZYaWNJU01ZYmYyV1l3a3F2dkMyUENOeklYZU04emNwbVBpNzNneDVWTWhrazhkYi04OUtrMDBWLWVQbUNzaHZVZktuZlJ6aUhOYXdjQTBYeXZIcVpGa3M0WmtTWUNhSnVN?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T22:05:11.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Oezbeeks gezin verlaat kerk in Kampen binnen enkele dagen",
     "normalized": "oezbeeks gezin verlaat kerk in kampen binnen enkele dagen",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3VmdVJUNDFHb2NJemp1ZFBzbmdnNXpnay1wSFdZNERqVVZ6bFhFV0lmYTJidVVrNkVCMTlDNjNsZTBaTVhLZlk4NzhXcDRyc2VZTVBBeW1sWDA0M2ZsVlhUdjZ0bk51NVpGRE44LWgyc2VXbmJZbmxHQkNOVGVJaFF0UTgta2tUbDFkM3Fzc3dHZU5u?oc=5",
@@ -2176,6 +2167,15 @@
     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSlRoNWptTGZoZUxDMGo4NVhVNXh6cHR5MmxiM1pvaDNPeGo0RlFBaE44WGQyWUtQWW1JSUpfbXdWSWVmNVMwdWk0WTYwLWJZbFJfclB1LVBrZmw2ZnBBeFl1eDBUV0d0cU9VRXNlTXA2S0M5aVgzMGZkQ3NUOVgzV3ZfTUpJdXFaR29BeHM4d25La3dhN3NpcnpueTFCMlNKSVlXN2RKSVJzOU96cDN2SF9iVmgxZy1EY3RGQTd5SEtMVDN6VHkwRVB4UFh5dDJBZnVmTm94LXpkVjNKR2NnbWU0OVJXUDZMeER5S2RCcm16eEVR?oc=5",
     "samenvatting": "",
     "datum": "2026-11-20T16:40:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Na jarenlange discussie wordt dit de nieuwe reling van de boulevard Vlissingen",
+    "normalized": "na jarenlange discussie wordt dit de nieuwe reling van de boulevard vlissingen",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzBCRWk3MEdpUGZDakNQbU1ZZjJkX3pTQzB6NzRxdlNnQ2dKY0dlYVp5WlRNSUd4M0JFZUR3a25qa2ozMkxacXM4UlN1dGpNSGU3V3Y3aG5SQ1AtYUFQMnN1TlRLUlliWkNOYXliREQxQVp5Q21SNGpEcFhrQWNDNXZlS201RE4zNXk3ZW1uSDhvRTRvNjVGVEl3MU0wSHBTU0dfOTNGcDVTaW1YY1c5M3FodFVwM2ktUjFScHVMTDU?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-20T16:32:36.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -3061,6 +3061,15 @@
     "foto": ""
    },
    {
+    "titel": "Wijk in Oudenbosch protesteert tegen sluiting geliefd buurthuis en wint: ‘Het wordt nog mooier dan het was’",
+    "normalized": "wijk in oudenbosch protesteert tegen sluiting geliefd buurthuis en wint het wordt nog mooier dan het was",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS1pvODFOMFF1S0ZpTmdDcFU4clNPdnlTQ01SenhBQVNjMmZGSG83ZDNVS04wcVFFLVJDNGpLdnBMckR5ckVLMFNFNGMyaHhsYVhsb25qR3ZFY3Q4djN1X1ZYWE1wa05CSmt4bjByTm5KOE5sNjJ1SGZfNkEzMFZEemxaZ05zZGllWFpESkhXczQ5OFlZQVNXbzdXTm5VSTVUVmxpa3phWTlyNmxLanJPU1FsWUlEYlV2eUdyZHI3SFdfVUpEZkF0dnFQQUt0QUhQN3dUYTlMSUtCeHRO?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T08:11:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Gezellige bingo middag",
     "normalized": "gezellige bingo middag",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0JBZllUM2Nnd0RCejdzLTdQQUQ4VENlY0ZYVG5PRG8tVHI0X0RXanpEVFdCd05mZWlzQWt4THQzcVNtYlY3QV9LRUYxZU9XZkhuTFlxMW50XzFFckQtY3o1YTZ5NHdjQThCci12b0tnbU9xZ3BEakdQb1BKV3NVOFpwOGpzSUI2a0wtT3B3UQ?oc=5",
@@ -3210,15 +3219,6 @@
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYk9pVE5ZUkUySm5OdFpqWGxQR1JTWEZLNVFVUndmZkdmNXN1TENPVVk3QWFERjlKRmFHR2RscWkzbmJjbDVMelVXUS1CN1pqU1NqNERBT1JaMm5DU05JTllkWnlNVFYwRHhNLTdMQ0JKV1FqSE1qZFItRnpPc29FRGxyMzlRX0NMendUT3QyTXNqMVZES3VYTWkwTk1sbUhoZ2N6T2NySEZJdw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-19T15:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Roosendaal zet inwoners met ideeën in het zonnetje tijdens waarderingsavond",
-    "normalized": "roosendaal zet inwoners met ideeen in het zonnetje tijdens waarderingsavond",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnRxeHVCRjNUQ3pXZktQMFdmXzVMU3U1blRvRmUwc3B5dGRYV3RkQkkzS2JtQlJnbkV1OWtlODdjUW9rY0FFOHlVdkktb25QRkFFUWFFXzRDVFdhWGVPbzJ5cDJ3RWZHM204M29xVG1IOTJPckN2RWlQWFZjaFNReWxDUXpNVUE4MV9QQTdUTHpINVZpMkcyeEotYVZrbjV5Wm1zUDNfeU5sejZYT0RiWHZUM0gtRHp4eGdMYw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-19T11:55:26.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
