@@ -1,11 +1,56 @@
 {
- "gegenereerd": "2026-11-22T11:39:51.836Z",
+ "gegenereerd": "2026-11-22T12:05:08.969Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
    {
-    "titel": "Elf doden bij arrestatie Mexicaanse drugsbaas 'El Chapo Isidro'",
-    "normalized": "elf doden bij arrestatie mexicaanse drugsbaas el chapo isidro",
+    "titel": "Burgemeester Halsema trotseert internetblokkade India met boodschap voor Insiya",
+    "normalized": "burgemeester halsema trotseert internetblokkade india met boodschap voor insiya",
+    "link": "https://nos.nl/l/2640576",
+    "samenvatting": "Burgemeester Halsema van Amsterdam probeert een bevel van de Indiase rechtbank te omzeilen met een videoboodschap op sociale media over het naar India ontvoerde meisje Insiya. De boodschap, in het Engels, is eerder opgenomen in Mumbai tijdens Halsema's handelsmissie in India. De afgelopen weken kwam",
+    "datum": "2026-11-22T12:00:36.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/7/H/b/h/q/F/Y5nQ6NEaCDfjvPDsPyWxSBLxPRqtvAHUWstvem2/8x212x3984x2241-1024x576.webp"
+   },
+   {
+    "titel": "Geen akkoord over slotverklaring, Hoekstra noemt klimaattop mislukt",
+    "normalized": "geen akkoord over slotverklaring hoekstra noemt klimaattop mislukt",
+    "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5666518/klimaattop-antalya-mislukt-eu-niet-akkoord-met-slotverklaring",
+    "samenvatting": "De klimaattop in het Turkse Antalya is geëindigd in een teleurstelling. Er is geen akkoord bereikt. Onder meer Europese landen hebben de voorgestelde slotverklaring niet geaccepteerd omdat die onvoldoende zou doen om de opwarming van de aarde tegen te gaan.",
+    "datum": "2026-11-22T11:55:37.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/ANP-576406587.jpg?itok=TmxcHy9w&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1277&amp;cropHeight=718&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
+   {
+    "titel": "Lale Gül neemt geen blad voor de mond: deze uitspraken zorgden voor discussie",
+    "normalized": "lale gul neemt geen blad voor de mond deze uitspraken zorgden voor discussie",
+    "link": "https://www.rtl.nl/boulevard/artikel/5665839/lale-gul-uitspraken-ophef",
+    "samenvatting": "Lale Gül (28) heeft de afgelopen jaren regelmatig voor opschudding gezorgd. Van de breuk met haar familie tot haar discussies met Johan Derksen (77) en de geruchten over een flirt met Jan Smit (40): de schrijver was vaak onderwerp van gesprek. Nu verschijnt haar boek 'Gül & Derksen', dat ze samen me",
+    "datum": "2026-11-22T11:54:17.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/19/Lale%20Gu%CC%88l.jpg?itok=niiTk1Gn&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1200&amp;cropHeight=675&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
+   {
+    "titel": "NOS-Europacorrespondent Tijn Sadée (62) overleden",
+    "normalized": "nos europacorrespondent tijn sadee 62 overleden",
+    "link": "https://nos.nl/l/2640574",
+    "samenvatting": "Europacorrespondent Tijn Sadée is op 62-jarige leeftijd overleden. Sadée sprak als journalist de afgelopen roerige jaren in Brussel iedereen die ertoe deed. Met vaak ontregelende vragen wist hij hen uit de strakke plooi te krijgen. Sadée versloeg jarenlang voor onder meer de NOS en NRC het nieuws ro",
+    "datum": "2026-11-22T11:50:35.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/7/D/o/a/X/J/EvEbyyigK9ajkGXrZMSLfHgvVC6dxDjRANDj682/536x715x1232x693-1024x576.webp"
+   },
+   {
+    "titel": "Frisse week op komst in het hele land: 'Het wordt echt koud'",
+    "normalized": "frisse week op komst in het hele land het wordt echt koud",
+    "link": "https://www.nu.nl/weerbericht/6417410/frisse-week-op-komst-in-het-hele-land-het-wordt-echt-koud.html",
+    "samenvatting": "Het wordt een stuk kouder komende week. Met vorst in de nachten gaan vooral de ochtenden erg fris zijn. Volgens Weerplaza steekt er vanaf woensdag ook een oostenwind op, waardoor het nog kouder kan aanvoelen.",
+    "datum": "2026-11-22T11:44:08.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/hsjxbfia2mne_sqr256/743/2/2831/2831/frisse-week-op-komst-in-het-hele-land-het-wordt-echt-koud.jpg"
+   },
+   {
+    "titel": "Elf doden bij arrestatie Mexicaanse drugsbaas: 'Aanzienlijke klap'",
+    "normalized": "elf doden bij arrestatie mexicaanse drugsbaas aanzienlijke klap",
     "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5666527/arrestatie-mexicaanse-drugsbaas-doden-arrestatie",
     "samenvatting": "Bij een operatie rond de arrestatie van de Mexicaanse drugsbaas 'El Chapo Isidro' zijn zeker elf mensen omgekomen. Het gaat om vier Mexicaanse militairen en zeven mensen die ervan worden verdacht lid te zijn van een kartel. Dat melden de Mexicaanse autoriteiten.&#13; &#13;",
     "datum": "2026-11-22T11:18:42.000Z",
@@ -40,13 +85,13 @@
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/20/Splitscreen%202025%20%281%29-Hersteld.png?itok=rqnR_d_q&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1200&amp;cropHeight=675&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    },
    {
-    "titel": "Live | Eredivisie | Twente begint tegen hekkensluiter Willem II, later Ajax-ADO",
-    "normalized": "live eredivisie twente begint tegen hekkensluiter willem ii later ajax ado",
-    "link": "https://www.nu.nl/voetbal/6417408/eredivisie-twente-begint-tegen-hekkensluiter-willem-ii-later-ajax-ado.html",
+    "titel": "Live | Eredivisie | Twente mist grote kansen tegen Willem II, later Ajax-ADO",
+    "normalized": "live eredivisie twente mist grote kansen tegen willem ii later ajax ado",
+    "link": "https://www.nu.nl/voetbal/6417408/eredivisie-twente-mist-grote-kansen-tegen-willem-ii-later-ajax-ado.html",
     "samenvatting": "Goedendag en welkom bij dit liveblog! Vandaag hou ik, Bram Schutte, je op de hoogte van deze Eredivisie-zondag. Veel plezier!",
     "datum": "2026-11-22T11:01:21.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/strx5l6aihu3_sqr256/1250/0/4000/4000/eredivisie-twente-begint-tegen-hekkensluiter-willem-ii-later-ajax-ado.jpg"
+    "foto": "https://images.nu.nl/m/cuwx2lyakb1o_sqr256/74/0/2362/2362/eredivisie-twente-mist-grote-kansen-tegen-willem-ii-later-ajax-ado.jpg"
    },
    {
     "titel": "Fajah Lourens voorspelde dat ze de nieuwe Katja Schuurman zou worden: 'Alles is uitgekomen'",
@@ -227,54 +272,36 @@
     "datum": "2026-11-22T09:05:11.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/18/blackfriday_etalage.jpg?itok=BbuQcSb3&amp;offsetX=45&amp;offsetY=96&amp;cropWidth=866&amp;cropHeight=487&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
-   },
-   {
-    "titel": "Inge Ipenburg krijgt rol in Vrouwenvleugel: jaren 90-hit krijgt nieuw leven in theater",
-    "normalized": "inge ipenburg krijgt rol in vrouwenvleugel jaren 90 hit krijgt nieuw leven in theater",
-    "link": "https://www.rtl.nl/boulevard/artikel/5666515/jaren-90-serie-vrouwenvleugel-keert-terug-als-toneelstuk-met-rol-voor",
-    "samenvatting": "De populaire gevangenisserie 'Vrouwenvleugel' maakt na ruim dertig jaar een comeback. Deze keer niet op televisie, maar in het theater. Inge Ipenburg (69) speelt een van de hoofdrollen in de voorstelling, die vanaf november 2027 langs Nederlandse theaters trekt. Dat meldt het AD.",
-    "datum": "2026-11-22T09:00:26.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/ANP-574949508%20%281%29.jpg?itok=Icutr8pD&amp;offsetX=0&amp;offsetY=104&amp;cropWidth=1998&amp;cropHeight=1124&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
-   },
-   {
-    "titel": "Lewis (56) zwemt door Straat van Hormuz: 'Ook natuur slachtoffer van de oorlog'",
-    "normalized": "lewis 56 zwemt door straat van hormuz ook natuur slachtoffer van de oorlog",
-    "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5666507/zwemtocht-door-straat-van-hormuz-zeeleven-aandacht-oorlog-het",
-    "samenvatting": "Een 56-jarige Brit heeft een driedaagse zwemtocht door de Straat van Hormuz gemaakt. Hij deed dat om aandacht te vragen voor de gevolgen van de oorlog met Iran voor het zeeleven.",
-    "datum": "2026-11-22T08:46:11.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/ANP-576345710.jpg?itok=dJnd9RYP&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Model Vera Dijkmans terug in Nederland na detentie in VS: 'Ze is ernstig verzwakt'",
-    "normalized": "model vera dijkmans terug in nederland na detentie in vs ze is ernstig verzwakt",
-    "link": "https://www.nu.nl/buitenland/6417397/model-vera-dijkmans-terug-in-nederland-na-detentie-in-vs-ze-is-ernstig-verzwakt.html",
-    "samenvatting": "Vera Dijkmans is zondagochtend geland op Schiphol. Het Nederlandse model zat sinds 11 november vast in de Verenigde Staten nadat ze door immigratiedienst ICE was opgepakt.",
-    "datum": "2026-11-22T08:40:13.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/raxxjngal2qy_sqr256/0/0/1170/1170/model-vera-dijkmans-terug-in-nederland-na-detentie-in-vs-ze-is-ernstig-verzwakt.jpg"
-   },
-   {
-    "titel": "Paris Saint-Germain vreest lange uitschakeling geblesseerde Doué",
-    "normalized": "paris saint germain vreest lange uitschakeling geblesseerde doue",
-    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666513/paris-saint-germain-vreest-lange-uitschakeling-geblesseerde-doue",
-    "samenvatting": "PARIJS (ANP/DPA) - Paris Saint-Germain vreest dat Désiré Doué lange tijd is uitgeschakeld. De Franse international heeft vermoedelijk een zware knieblessure opgelopen in de wedstrijd van zaterdag tegen OGC Nice.",
-    "datum": "2026-11-22T08:34:51.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126068-1.jpg?itok=QMzkCnZq&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Jennifer Lopez hint op nieuwe filmplannen na succes Monster-in-Law",
-    "normalized": "jennifer lopez hint op nieuwe filmplannen na succes monster in law",
-    "link": "https://www.rtl.nl/boulevard/artikel/5666512/jennifer-lopez-hint-op-vervolg-komedie-monster-law",
-    "samenvatting": "Jennifer Lopez (57) en Jane Fonda (88) keren mogelijk terug in een vervolg op de romantische komedie 'Monster-in-Law' uit 2005. Dat vertelde de zangeres en actrice tijdens een interview in The Drew Barrymore Show.",
-    "datum": "2026-11-22T08:24:14.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/05/28/ANP-559500505.jpg?itok=DtnMl6Pe&amp;offsetX=0&amp;offsetY=12&amp;cropWidth=2000&amp;cropHeight=1125&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    }
   ],
   "binnenland": [
+   {
+    "titel": "Burgemeester Halsema trotseert internetblokkade India met boodschap voor Insiya",
+    "normalized": "burgemeester halsema trotseert internetblokkade india met boodschap voor insiya",
+    "link": "https://nos.nl/l/2640576",
+    "samenvatting": "Burgemeester Halsema van Amsterdam probeert een bevel van de Indiase rechtbank te omzeilen met een videoboodschap op sociale media over het naar India ontvoerde meisje Insiya. De boodschap, in het Engels, is eerder opgenomen in Mumbai tijdens Halsema's handelsmissie in India. De afgelopen weken kwam",
+    "datum": "2026-11-22T12:00:36.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/7/H/b/h/q/F/Y5nQ6NEaCDfjvPDsPyWxSBLxPRqtvAHUWstvem2/8x212x3984x2241-1024x576.webp"
+   },
+   {
+    "titel": "NOS-Europacorrespondent Tijn Sadée (62) overleden",
+    "normalized": "nos europacorrespondent tijn sadee 62 overleden",
+    "link": "https://nos.nl/l/2640574",
+    "samenvatting": "Europacorrespondent Tijn Sadée is op 62-jarige leeftijd overleden. Sadée sprak als journalist de afgelopen roerige jaren in Brussel iedereen die ertoe deed. Met vaak ontregelende vragen wist hij hen uit de strakke plooi te krijgen. Sadée versloeg jarenlang voor onder meer de NOS en NRC het nieuws ro",
+    "datum": "2026-11-22T11:50:35.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/7/D/o/a/X/J/EvEbyyigK9ajkGXrZMSLfHgvVC6dxDjRANDj682/536x715x1232x693-1024x576.webp"
+   },
+   {
+    "titel": "Frisse week op komst in het hele land: 'Het wordt echt koud'",
+    "normalized": "frisse week op komst in het hele land het wordt echt koud",
+    "link": "https://www.nu.nl/weerbericht/6417410/frisse-week-op-komst-in-het-hele-land-het-wordt-echt-koud.html",
+    "samenvatting": "Het wordt een stuk kouder komende week. Met vorst in de nachten gaan vooral de ochtenden erg fris zijn. Volgens Weerplaza steekt er vanaf woensdag ook een oostenwind op, waardoor het nog kouder kan aanvoelen.",
+    "datum": "2026-11-22T11:44:08.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/hsjxbfia2mne_sqr256/743/2/2831/2831/frisse-week-op-komst-in-het-hele-land-het-wordt-echt-koud.jpg"
+   },
    {
     "titel": "Uitheemse lettersierschildpad plant zich succesvol voort in Nederland",
     "normalized": "uitheemse lettersierschildpad plant zich succesvol voort in nederland",
@@ -517,36 +544,18 @@
     "datum": "2026-11-21T06:53:11.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/4/6/d/8/8/6/JhMyMMcyqZxVYRVxsgi2CcAeRZddzibPxyG3Qyi/0x0x1920x1080-1024x576.webp"
-   },
-   {
-    "titel": "Podcast De Dag: buitenlandse draagmoeders, de wereld achter de reclames",
-    "normalized": "podcast de dag buitenlandse draagmoeders de wereld achter de reclames",
-    "link": "https://nos.nl/l/2640366",
-    "samenvatting": "Met getuigenissen van gelukkige wensouders met een baby op de arm, en vrolijke filmpjes van zwangere vrouwen, bieden verschillende internationale bureaus buitenlandse draagmoeders aan bij wensouders. En die zogenoemde buitenlandroute is voor veel wensouders interessant, omdat het in eigen land vaak ",
-    "datum": "2026-11-21T06:00:01.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/6/G/z/k/1/2/vR7N83J1EqWSyRtPBMkPJGQqCwRkW7ra24qo8BM/0x0x1920x1080-1024x576.webp"
-   },
-   {
-    "titel": "Eerste tweetalige verkeersbord in Friesland: uit en út",
-    "normalized": "eerste tweetalige verkeersbord in friesland uit en ut",
-    "link": "https://nos.nl/l/2640361",
-    "samenvatting": "Voor het eerst heeft Friesland een tweetalig verkeersbord langs de provinciale weg. Gisteren is het eerste bord vervangen, behalve 'uit' staat er nu ook 'út'. Het nieuwe bord staat langs de N356 bij De Westereen in de gemeente Dantumadiel. Het is de bedoeling dat alle verkeersborden in Friesland twe",
-    "datum": "2026-11-21T04:13:01.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/1/4/E/x/N/2/cXcmryWGuJdBSHxCspmNGkBiXVbDkgRXchyNv4a/28x116x3216x1809-1024x576.webp"
-   },
-   {
-    "titel": "Brand in basisschool Deurne door vuurwerk",
-    "normalized": "brand in basisschool deurne door vuurwerk",
-    "link": "https://nos.nl/l/2640357",
-    "samenvatting": "Op een basisschool in het Brabantse dorp Deurne is vrijdagavond brand ontstaan. De politie gaat ervanuit dat de brand is ontstaan door vuurwerk. Twee leslokalen en de aula zijn uitgebrand, meldt de veiligheidsregio. Er is niemand gewond geraakt. De politie vermoedt dat het vuurwerk is afgestoken doo",
-    "datum": "2026-11-20T22:41:41.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/7/H/c/e/v/B/MTjsvqDem19mT4f98aaJ3hXcqBEUxesS28HK1i6/8x187x1904x1071-1024x576.webp"
    }
   ],
   "buitenland": [
+   {
+    "titel": "Burgemeester Halsema trotseert internetblokkade India met boodschap voor Insiya",
+    "normalized": "burgemeester halsema trotseert internetblokkade india met boodschap voor insiya",
+    "link": "https://nos.nl/l/2640576",
+    "samenvatting": "Burgemeester Halsema van Amsterdam probeert een bevel van de Indiase rechtbank te omzeilen met een videoboodschap op sociale media over het naar India ontvoerde meisje Insiya. De boodschap, in het Engels, is eerder opgenomen in Mumbai tijdens Halsema's handelsmissie in India. De afgelopen weken kwam",
+    "datum": "2026-11-22T12:00:36.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/7/H/b/h/q/F/Y5nQ6NEaCDfjvPDsPyWxSBLxPRqtvAHUWstvem2/8x212x3984x2241-1024x576.webp"
+   },
    {
     "titel": "'Nederlandse taferelen' in België, begrotingscrisis nadert climax",
     "normalized": "nederlandse taferelen in belgie begrotingscrisis nadert climax",
@@ -807,15 +816,6 @@
     "datum": "2026-11-21T13:29:49.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/1/6/T/8/V/D/PgybBUr9ASboVLJ7dyNPaTuUVaCR13qQkovt462/980x2x2704x1521-1024x576.webp"
-   },
-   {
-    "titel": "Burgemeester New York scheurt achillespees bij duel met pers: 'Niet gestretcht'",
-    "normalized": "burgemeester new york scheurt achillespees bij duel met pers niet gestretcht",
-    "link": "https://www.nu.nl/opmerkelijk/6417336/burgemeester-new-york-scheurt-achillespees-bij-duel-met-pers-niet-gestretcht.html",
-    "samenvatting": "De New Yorkse burgemeester Zohran Mamdani heeft zijn achillespees gescheurd tijdens een voetbalwedstrijd tegen een team van lokale journalisten. \"Ik vergat mijn leeftijd en ging zonder goede warming-up het veld op\", zei Mamdani.",
-    "datum": "2026-11-21T13:26:45.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/dxyxvy6a5o9u_sqr256/693/0/3853/3853/burgemeester-new-york-scheurt-achillespees-bij-duel-met-pers-niet-gestretcht.jpg"
    }
   ],
   "politiek": [
@@ -1546,6 +1546,15 @@
   ],
   "cultuur": [
    {
+    "titel": "NOS-Europacorrespondent Tijn Sadée (62) overleden",
+    "normalized": "nos europacorrespondent tijn sadee 62 overleden",
+    "link": "https://nos.nl/l/2640574",
+    "samenvatting": "Europacorrespondent Tijn Sadée is op 62-jarige leeftijd overleden. Sadée sprak als journalist de afgelopen roerige jaren in Brussel iedereen die ertoe deed. Met vaak ontregelende vragen wist hij hen uit de strakke plooi te krijgen. Sadée versloeg jarenlang voor onder meer de NOS en NRC het nieuws ro",
+    "datum": "2026-11-22T11:50:35.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/7/D/o/a/X/J/EvEbyyigK9ajkGXrZMSLfHgvVC6dxDjRANDj682/536x715x1232x693-1024x576.webp"
+   },
+   {
     "titel": "Premier Jetten en Britse premier Burnham dineren in Rijksmuseum, praten over Oekraïne",
     "normalized": "premier jetten en britse premier burnham dineren in rijksmuseum praten over oekraine",
     "link": "https://nos.nl/l/2640510",
@@ -1715,15 +1724,6 @@
     "datum": "2026-11-09T14:55:08.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/3/4/u/g/d/N/npy8xdvRKGyyStBGn8jFDUKszpcQSSmWo2bTfsr/8x169x3984x2241-1024x576.webp"
-   },
-   {
-    "titel": "Sheily Belhaj nieuwe adjunct-hoofdredacteur NOS Nieuws",
-    "normalized": "sheily belhaj nieuwe adjunct hoofdredacteur nos nieuws",
-    "link": "https://nos.nl/l/2638722",
-    "samenvatting": "Sheily Belhaj treedt toe tot de hoofdredactie van NOS Nieuws. Vanaf 1 januari 2027 wordt ze adjunct-hoofdredacteur. Ze volgt Bart Leferink op, die na bijna 15 jaar uit de hoofdredactie stapt. De 37-jarige Belhaj werkt sinds 2017 bij de NOS. Ze begon haar carrière daar als buitenlandredacteur bij het",
-    "datum": "2026-11-09T12:24:55.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/7/H/5/g/i/Y/2fSJm5HQ8zxGYFbw7fZ5NaQe5UbR7cox1NofAux/2x100x3536x1989-1024x576.webp"
    }
   ],
   "tech": [
@@ -2018,6 +2018,15 @@
     "foto": ""
    },
    {
+    "titel": "Serooskerker (33) die tijdens ruzie over vriendin man in het gezicht sneed, pleegde zware mishandeling, geen poging tot doodslag",
+    "normalized": "serooskerker 33 die tijdens ruzie over vriendin man in het gezicht sneed pleegde zware mishandeling geen poging tot doodslag",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUnVkOGRuM0F4WWdKR2x5OEtKdlVSeUxqa0tKOEhaT0ROeXI1Sk13ZFJlek5Wc1VMRVBvaWE0X3JDX09FWVpraHdmR1lEQU55NHpvVmNrMVlEM3QyVVN1UWpxSVI0T2ktV2taM3FodXVLY2YxdHFLZjl5SmVod0lmcFVRd1VLejktazlBdEV5QWRRQ3k0WTAtU0dJLVlQVnV0azl6dmFtLVMzQzFJM0ZYYnB1d3RBSDVHTnloSV9VODQ4OGtNb2NYWEVyNkszLXJjcjNPUVZWOHRiUjBVUmRSOUEzQWU3ZG16U1NPMzd0WVk?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T20:48:18.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Amber (22) uit Poortvliet is ethisch hacker: ‘Je kan zelf een groot deel van het risico wegnemen’",
     "normalized": "amber 22 uit poortvliet is ethisch hacker je kan zelf een groot deel van het risico wegnemen",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNlZMTUxKTmFmam1TX2VzSjk2MjhvN3pBeVM3dVFiWXItdzV4T2p0R3loa2hNZXc5R1F3QzR5dXZpNGlhdE1wUjZQVGtOWU9SdDdjYVFSWnJ3OU9reXYtQTJtR1lmdDVsMHNnOHd1SXFCbXFXdVJ3MDQ0WGxNRDhPczB0NXBnYU4yc0tqT2xuTTJiSjhiRUlKV3I0SkIwSWJwV0h2blJXbmlqY09IWEx4SHMtWkxzZ2JKNU0wZ3pURUE4V1RtS1ZyY3BRZw?oc=5",
@@ -2090,6 +2099,15 @@
     "foto": ""
    },
    {
+    "titel": "Politie: Bestuurder ongeval Scharendijke overleden",
+    "normalized": "politie bestuurder ongeval scharendijke overleden",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLS1YSW5iU1dKTlhnQ0E2ano4M0NqOWd6WmNqRVE1Vnc2c0RyTVE5Nm5wODlXcm0xRElTSVQ3X0NzMW9kanZZU1lSMTNwVjZsWllocVVWVDY2SU55b1p0UXNuTUF3WnVzblcyZXJoSERjYzJ0UUNGaVVFM2w5UVFXM1ozM2V5VXdzUmFaT05FRjdZZw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T15:09:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Actiegroep tegen Zwarte Piet bekogeld met eieren bij sinterklaasintocht in Arnemuiden",
     "normalized": "actiegroep tegen zwarte piet bekogeld met eieren bij sinterklaasintocht in arnemuiden",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN05IMUtSd0ItaHg5algwdkpPcXYtTkZyY0xUV2dsc3FHS1pJcVcwU19ES2hkQ0NTQmVnZVRLaUpVZ1VFb3dLS0RvQXVOVWFKMW45b3FUMnktaUJvSXNVaEZGS0JSbkg2TW5mZTFfMWlVRjJTUE5XVnZSeUY1YmlRRml3N21vd1piTHlkcS04amNqY0tjSnhwUFkxalJLU0dOTEZWNzh1R1N1cm5TYkNFTl94YWl6RUdjQ1VLbGJoeXpNVklVazNlZHpjRHJ1cnFlLUE?oc=5",
@@ -2158,24 +2176,6 @@
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLW4yQzJGaFVWaTM1eGdUbWRkNUhINWJYaHhmOGxLclNBak1mR0JfN29Ec1RYQWZtNEx5YU5fLWpWSnFRajFWN2NuMGVLQWN1eVFnSl9XZl9mNFBGcExGdU1CUkRGMjd1amRlR1l4dC1fZlRUSGl1TUJGWHJtR0gzeG1Bd05Wc1JIcDZ5Y09nbHNHc3ZnS1FUOF9tLVh5aWkxSzNtMThfajBHSW1rQVBvWVVhamx5Y1dLZXNqWHI5ekhIYU9KaG1aazQtdTY?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T09:32:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Provincie wil mogelijk meer ruimte voor huisvesting arbeidsmigranten in buitengebied",
-    "normalized": "provincie wil mogelijk meer ruimte voor huisvesting arbeidsmigranten in buitengebied",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRHpOekRxMTJ5d1JsMkZIeDdxV3hyRGhZU21mS3h4akFDTC1jM2VUQjJ4TXJ6QUt1czVCZ2lZYUt5UUtSS2tIcjBKcmJnQVhNZ1RyclpxNl84V1c4NWJWWEttQ09Fdi1qVEFiMmhwSkxmcG4tN2lCMnZBRmZQc05kajhPZzA5emRWTTZHRVN4LWNXM0MtbjRjYTlMWDRzcjVLRTNoTElrTEg2RFNZU1hBNzh1V3hwekZUTmk0R0E1WDU0eUlhUmVhaQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T07:25:30.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Nog meer ellende op het spoor: hele dag minder treinen tussen Goes en Bergen op Zoom",
-    "normalized": "nog meer ellende op het spoor hele dag minder treinen tussen goes en bergen op zoom",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNazdFdzJmTVBjenctRnVxelppN3Yta1FPNnpVdlB2Y3JGandqZlJnWDJlMkk3SlJOWWF4TUYwMmJMZk9EQzk5cEhhRV9Ba1NaSkNjcFRWRnJIal83SFlYRERQcWtDNnlpdzlFSEx3Skg4dGd5MnVZM1dBTkN1S2hIa0FQWEQ5RGVSYnM1U24tOF9IX2JjaHR0T2lPQ0s3T1BpaXNKY2J6a1VueW5EQ25PM1k1b2ZCVzhT?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T06:52:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2535,6 +2535,15 @@
     "foto": ""
    },
    {
+    "titel": "Gemeente Borsele roept inwoners op mee te denken over leven in 'North Sea Port District'",
+    "normalized": "gemeente borsele roept inwoners op mee te denken over leven in north sea port district",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMjc2bElyMFZ4dFAxd004bGR3QXpTVENqN1NkWVlIZE1Pell1WXBqaWhNTVVvZldtbW5SMHJHcWtodWpzYTR1MjBDdHk3UG9BX1dwckRvci1qeGhheDlTVVdYNkJrSFREM0M0Z3BEbzBhSEVlWk5Udk9id0ZJWlY1Rmo5MEhHbk15YV83aGNGSGQ2Y2ZNSmVyLVlrbm9nNkpHR3I2dHppcFJRTzRtRFdUU2h3X3B5cHN4MkswekZDODI?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-05T08:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "PRO Borsele niet blij met burgemeester: 'Raad hoort dit niet via de media te vernemen'",
     "normalized": "pro borsele niet blij met burgemeester raad hoort dit niet via de media te vernemen",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOXE2UHRrNFh1Um1mX085MVRpRVZfTk5HRHhxX2VzaVpHdFpucDNYdVllNkJVSmVMRlNMRHI3QjA2TG0xWDA4Q0tySTY0c3Z3ZjBVeFZrM2dycmVOTUpoV2ktdWZQVWg5UDVYVjRLb3ozWF9JN1RFb3BJSmVjblZwVGYyMzZtcEs3cEI3TFctOWtyQ3Bxb19mc3kwSnJBX2pkR3JBcG5uUEhGU0pmcVNuR0tKRDdYc2NnMFZnb1NYU0QyUnE3UDA0?oc=5",
@@ -2666,15 +2675,6 @@
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLWl5ZVpFRjJpaHNjY0tJNVI1NFYxVXQ0T2t5OVh2TVRNbUQwZ0VubHI3MFlfZkw2TzJYQVdiVC1obUlIeW5WZ0NBUVdkendDbk5JNkZuMldBd1VOcGd1bno5T0pEQ1M2RUlMTUQyb05MMHpCRU1jQlRvYlFmMC03V1NmSWxka0F3dVA1aE1kSWFlRnZyMk1yd0NnN19lcTliYzM4QTFBT3VKM0RjNml4YmV0dEpaMmw0Z2dEd015SmlfdEkwNkVHVUpGV0JZRlJW?oc=5",
     "samenvatting": "",
     "datum": "2026-04-03T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "In de gemeente Borsele kerncentrales met koeltorens? 'Dan denk ik dat hier oorlog uitbreekt'",
-    "normalized": "in de gemeente borsele kerncentrales met koeltorens dan denk ik dat hier oorlog uitbreekt",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR1ZuYzlSWjFFZU9jU0V6MXBBR2RKZ1VraVhISW1PV0ZROEpCU0pIRE1qR3FibDBtbmRZX25CQ0lPX3dLR1JCV2hDTUtPSFZNaGRLRENPbVZrdEhtb3AwZjU3ZG5QRFhBR0Y3LXNDZ3RwZEh3d1JPci1SRmhZLUl0ZGx4QXg3QkpiVlZuQmY1elQyalRYY0ozWnl1c0wyOS1BbTh4andpaHV5aWxuX1NXaHEzQkw5cDVyMFpza0l0UkQyRUkyNTNaT1hxUDQtWms?oc=5",
-    "samenvatting": "",
-    "datum": "2026-03-02T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2953,15 +2953,6 @@
   ],
   "roosendaal": [
    {
-    "titel": "Ongewijzigd protocol Mastepinnelaand zit op ut goeie pad",
-    "normalized": "ongewijzigd protocol mastepinnelaand zit op ut goeie pad",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTkZIUklxV0NSVEE0aENYRFJ6NHpnVUNJa1BIVEJtc1NtNzhHejJXQUc1NnFFcEdQQm92cGUxMzc3a1NNcFY4S3hNYTNWeW9tWWJwamZDdmx0d3BYTXdWMGxaNmRfWEdFMk51aVJMVXVKZ01zUGRKN29BaktCOTNIRlgwWFdaX2NYb2c3Ync0WW5DbXpITVFsOUJUb1U5TGpGZllTeA?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-22T11:33:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Heb jij Bubbels of Yusu gezien? Deze twee huisdieren worden in Roosendaal vermist",
     "normalized": "heb jij bubbels of yusu gezien deze twee huisdieren worden in roosendaal vermist",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTTBqUG9fSUdfR3ZJU092Z0xBemY0WUFNaXhpZTdpeGVpQktQckpsc1dVaElXUFBsRGZLX3dURS1YdjRuRlI0d05WRFZtdVRHeFJvNDFudnctMGoyQU5mQkxHMjFteFA1WE9yWTc4aUxLd3RrRVRjeThtMW5zRHV3YnNuVFpOMUNta0dMM09LSnlieXZFdllTY0l1eUlhMVFsOHdqdzJ0VWhaQXAxYVlRVXBIemZYT1BGZW13QjgxYVFyVkk?oc=5",
@@ -3036,7 +3027,7 @@
    {
     "titel": "Fietser ernstig gewond in Roosendaal, auto gaat er vandoor",
     "normalized": "fietser ernstig gewond in roosendaal auto gaat er vandoor",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamxBRExiV1hud0J4MHdWUEtYWVdtdlhMTnh6akJmTlFpVFB1Rmlyc2ZGMzljclNWN2dGRjQ5enAwTGY1RkxUcDc2Zk9GaHVjNDNINkhRZnpOR1paYjZDRC03UTdWR0NZY1FKMFRCT2xleUFtVmhDZjc4ckdZMml2ODd3NFpFemJBbkxrZUdVUHpqNldSOHRSSmM1R0N1TTdmRFVPMTJHRXM0enc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1VFSDBBTzJsOVdJY1lQNnlSZGxJcTE3Qmk3eDVpSTFzSnRydWhEMllsejRJb242cUt2c2hHVzlmeXF0Yjhtd0FRMUZhbVBmR1ItOEdQVjNBSmxIZGNXWXQ0TW5IeTBROFYyd1ZIeVN6VGIxMGtYRC12RGhDRlYwMnBmOUdsbGxzU0VhZlJIdHNoVG1BdFVmb1lUSWluWHlpWFBjVnY5Y2xVZw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T09:56:14.000Z",
     "bron": "Google Nieuws",
@@ -3075,6 +3066,15 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0ZhLUtwSzJWX0tIWUFrc1BuNXY0ZU1Ha2RaaFU3YXVKNHRDbE1wVEVmT0JuVS1SamFLeGxicWc5MF82S3B4czgyc1ZZSk9DeExLLS1QX0JGbzBRVFBCalJLWVR1VER1QU14c0FQbGpYdGljblFiWVVfTW5IR0RwalpiWk1JdUl5R2tYOHRlSlVYV2o3LTNHOERCNDRtTEpfX2p5SA?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T09:37:30.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Politie rukt uit voor wel heel bijzonder ‘uilskuiken’",
+    "normalized": "politie rukt uit voor wel heel bijzonder uilskuiken",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZk5pX3JJcGMta1VuTHlERldnVlRGQ1lRampLdlFCdDVaQnFVMFBRZW00TEU5SHdRX0NjdjhZWkJvNGpQNW5TTWM5U3dCZ1ZVTVVRTFVEakowclZyVXRzR2htWncxMkgzeml2bkRGRl9PbjBVRVllZ05hRFl6amt3WHM2MWlHYXVKdy1IWDZuTWhJRzhCZl9BMVhZVlFoQQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T09:03:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
