@@ -1,25 +1,79 @@
 {
- "gegenereerd": "2026-11-22T20:31:54.119Z",
+ "gegenereerd": "2026-11-22T20:57:14.652Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
    {
+    "titel": "Spaanse tennisser Alcaraz wint ATP Finals voor het eerst",
+    "normalized": "spaanse tennisser alcaraz wint atp finals voor het eerst",
+    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666600/spaanse-tennisser-alcaraz-wint-atp-finals-voor-het-eerst",
+    "samenvatting": "Tennisser Carlos Alcaraz heeft voor het eerst de ATP Finals, het eindejaarstoernooi met de beste acht spelers van het jaar, op zijn naam geschreven. De 23-jarige Spanjaard was in de finale in Turijn de 29-jarige Duitser Alexander Zverev de baas. Het werd 6-2 7-6 (7).",
+    "datum": "2026-11-22T20:55:41.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126136-1.jpg?itok=pKYueH42&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "FC Utrecht breekt met trainer Correia na slechte seizoensstart",
+    "normalized": "fc utrecht breekt met trainer correia na slechte seizoensstart",
+    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666599/fc-utrecht-breekt-met-trainer-correia-na-slechte-seizoensstart",
+    "samenvatting": "FC Utrecht heeft hoofdtrainer Anthony Correia ontslagen. Dat maakte de nummer 15 van de Eredivisie zondagavond bekend. Correia kwam afgelopen zomer over naar Utrecht, nadat hij succesvol was geweest bij Telstar. Met FC Utrecht kende hij een teleurstellende seizoensstart met 12 punten uit dertien due",
+    "datum": "2026-11-22T20:49:37.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126135-1.jpg?itok=JuElBL_0&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Nieuwe aanvallen op tankers bij Straat van Hormuz gemeld",
+    "normalized": "nieuwe aanvallen op tankers bij straat van hormuz gemeld",
+    "link": "https://nos.nl/l/2640649",
+    "samenvatting": "In de Straat van Hormuz zijn nieuwe aanvallen gemeld op de civiele scheepvaart. Volgens Iraanse staatsmedia zijn nog eens twee tankers in brand gevlogen door ontploffende zeemijnen. De Britse maritieme autoriteit UKMTO meldt één incident met betrekking tot een tanker en \"militaire eenheden\". Dat geb",
+    "datum": "2026-11-22T20:41:36.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/1/8/2/U/g/H/G1LswSfVEb33dZuKvojGGxqiMdtx4Ca4NgRpqwe/417x476x3584x2016-1024x576.webp"
+   },
+   {
+    "titel": "Toekomst Denice Dest in Expeditie Robinson onzeker na felle ruzie",
+    "normalized": "toekomst denice dest in expeditie robinson onzeker na felle ruzie",
+    "link": "https://www.rtl.nl/boulevard/artikel/5666079/expeditie-robinson-ruzie-denice-dest-pauline-slangen",
+    "samenvatting": "Waar het kamp Noord in 'Expeditie Robinson' eerder nog voor de wind ging, beginnen de eerste scheurtjes in het team te ontstaan. Na een verloren proef lopen de irritaties hoog op tussen Denice Dest (47) en Pauline Slangen (24). De twee krijgen het met elkaar aan de stok.",
+    "datum": "2026-11-22T20:39:15.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/19/expeditie.jpg?itok=gYxlfHYn&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1200&amp;cropHeight=675&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
+   {
+    "titel": "Hailey Bieber had suïcidale gedachten tijdens vermeende ruzie met Selena Gomez",
+    "normalized": "hailey bieber had suicidale gedachten tijdens vermeende ruzie met selena gomez",
+    "link": "https://www.rtl.nl/boulevard/artikel/5666550/hailey-bieber-had-suicidale-gedachten-door-vermeende-ruzie-met-selena",
+    "samenvatting": "Hailey Bieber (30) heeft een zware periode achter de rug door de onlinehaat die ze ontving vanwege haar vermeende ruzie met Selena Gomez (34). De vrouw van Justin Bieber (32) vertelt in een interview met The New York Times dat de negatieve reacties haar destijds zo diep raakten dat ze suïcidale geda",
+    "datum": "2026-11-22T20:38:42.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/Splitscreen%202025%20%289%29-Hersteld.png?itok=eRR3PTWH&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1200&amp;cropHeight=675&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
+   {
+    "titel": "FC Utrecht ontslaat coach Correia al na vier maanden wegens slechte prestaties",
+    "normalized": "fc utrecht ontslaat coach correia al na vier maanden wegens slechte prestaties",
+    "link": "https://www.nu.nl/voetbal/6417447/fc-utrecht-ontslaat-coach-correia-al-na-vier-maanden-wegens-slechte-prestaties.html",
+    "samenvatting": "FC Utrecht heeft zondag trainer Anthony Correia al na vier maanden ontslagen. Hij wordt verantwoordelijk gehouden voor de belabberde seizoensstart van de Utrechters.",
+    "datum": "2026-11-22T20:35:31.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/e9yxxfdaz732_sqr256/751/0/2362/2362/fc-utrecht-ontslaat-coach-correia-al-na-vier-maanden-wegens-slechte-prestaties.jpg"
+   },
+   {
+    "titel": "Pauline Slangen haalt uit naar Denice Dest in Expeditie Robinson: 'Nu ben je aan het zeveren'",
+    "normalized": "pauline slangen haalt uit naar denice dest in expeditie robinson nu ben je aan het zeveren",
+    "link": "https://www.rtl.nl/boulevard/video/7fa2213a-7ba8-4e06-b934-c4038e576066/pauline-slangen-haalt-uit-naar-denice-dest",
+    "samenvatting": "Waar het kamp Noord in 'Expeditie Robinson' lange tijd voor de wind ging, lijkt de sfeer nu om te slaan. Na een verloren proef lopen de spanningen hoog op tussen Denice Dest (47) en Pauline Slangen (24). De twee krijgen het flink met elkaar aan de stok en dat blijft niet zonder gevolgen voor de volg",
+    "datum": "2026-11-22T20:30:29.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=7fa2213a-7ba8-4e06-b934-c4038e576066"
+   },
+   {
     "titel": "Russisch schip in Libische haven gezonken na vermoedelijke droneaanval",
     "normalized": "russisch schip in libische haven gezonken na vermoedelijke droneaanval",
     "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5666595/russisch-schip-libische-haven-gezonken-na-vermoedelijke",
-    "samenvatting": "In de haven van de Libische stad Benghazi is een Russisch schip gezonken nadat er eerder een explosie had plaatsgevonden. Volgens de Libische autoriteiten is het schip vermoedelijk aangevallen met drones.",
+    "samenvatting": "In de haven van de Libische stad Benghazi is een Russisch schip gezonken nadat er eerder een explosie had plaatsgevonden. Volgens de Libische autoriteiten is het schip vermoedelijk aangevallen met drones. Er raakten tien mensen gewond, onder wie Russen en Libiërs.",
     "datum": "2026-11-22T20:23:16.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/satelliet.jpg?itok=wFcZ0BIE&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "People: Matty Healy en Gabbriette Bechtel verwachten eerste kind",
-    "normalized": "people matty healy en gabbriette bechtel verwachten eerste kind",
-    "link": "https://www.rtl.nl/boulevard/artikel/5666596/people-matty-healy-en-gabbriette-bechtel-verwachten-eerste-kind",
-    "samenvatting": "The 1975-frontman Matty Healy en zijn vrouw Gabbriette Bechtel verwachten hun eerste kind samen. Dat meldt het Amerikaanse tijdschrift People op basis van foto's van het stel, waarop bij Bechtel een babybuik te zien zou zijn.",
-    "datum": "2026-11-22T20:18:18.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126134-1.jpg?itok=l4z-tLeL&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    },
    {
     "titel": "Nicht Emile Ratelband schrapt hem als voogd voor haar zoon",
@@ -112,8 +166,8 @@
     "foto": "https://images.cdn.nos.nl/1/H/h/N/5/3/kP4rB4jcgWYVJbKP8xyNMSvZbmZn3ZG6Uh4NSJ8/2x90x3344x1881-1024x576.webp"
    },
    {
-    "titel": "Video | Golden retriever springt in zwembad en redt kind van verdrinking in Brazilië",
-    "normalized": "video golden retriever springt in zwembad en redt kind van verdrinking in brazilie",
+    "titel": "Video | Golden retriever springt in zwembad en redt kind in Brazilië",
+    "normalized": "video golden retriever springt in zwembad en redt kind in brazilie",
     "link": "https://www.nu.nl/332531/video/golden-retriever-springt-in-zwembad-en-redt-kind-van-verdrinking-in-brazilie.html",
     "samenvatting": "",
     "datum": "2026-11-22T18:54:38.000Z",
@@ -218,60 +272,6 @@
     "datum": "2026-11-22T17:54:48.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=3e1a6311-29a7-4cad-8b22-12c30df136e3"
-   },
-   {
-    "titel": "Langst vastzittende Nederlander Jaitsen Singh (81) overleden",
-    "normalized": "langst vastzittende nederlander jaitsen singh 81 overleden",
-    "link": "https://www.nu.nl/binnenland/6417441/langst-vastzittende-nederlander-jaitsen-singh-81-overleden.html",
-    "samenvatting": "Jaitsen Singh is zondag op 81-jarige leeftijd overleden aan de gevolgen van acute leukemie. Hij kreeg in 1986 in de Verenigde Staten een celstraf van 56 jaar tot levenslang, omdat hij zijn vrouw en stiefdochter zou hebben laten vermoorden. Dat heeft hij altijd ontkend.",
-    "datum": "2026-11-22T17:51:38.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/h06xejya8sce_sqr256/721/3/2359/2359/langst-vastzittende-nederlander-jaitsen-singh-81-overleden.jpg"
-   },
-   {
-    "titel": "Slechte kijkcijfers, teleurgestelde fans: wat gaat er mis bij streamingeditie WIDM?",
-    "normalized": "slechte kijkcijfers teleurgestelde fans wat gaat er mis bij streamingeditie widm",
-    "link": "https://www.nu.nl/media/6417164/slechte-kijkcijfers-teleurgestelde-fans-wat-gaat-er-mis-bij-streamingeditie-widm.html",
-    "samenvatting": "Wie is de Mol? is al ruim 25 jaar een van dé publiekstrekkers van NPO 1. Maar de kijkcijfers van het streamingseizoen vallen tegen en de doorgaans fanatieke fans zijn teleurgesteld. Wat gaat er mis?",
-    "datum": "2026-11-22T17:30:37.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/ahhxqf0ak1mh_sqr256/1561/1/5113/5113/slechte-kijkcijfers-teleurgestelde-fans-wat-gaat-er-mis-bij-streamingeditie-widm.jpg"
-   },
-   {
-    "titel": "De barsten in de klimaattop werden in Turkije plotseling een breuk",
-    "normalized": "de barsten in de klimaattop werden in turkije plotseling een breuk",
-    "link": "https://www.nu.nl/klimaat/6417434/de-barsten-in-de-klimaattop-werden-in-turkije-plotseling-een-breuk.html",
-    "samenvatting": "De klimaattop in Antalya moest laten zien hoe de wereld omgaat met een opwarming van meer dan 1,5 graden. In plaats daarvan werd duidelijk dat de diplomatieke verhoudingen zelf een kookpunt hebben bereikt.",
-    "datum": "2026-11-22T17:28:31.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/o8xxftvaj58c_sqr256/1219/627/3063/3063/de-barsten-in-de-klimaattop-werden-in-turkije-plotseling-een-breuk.jpg"
-   },
-   {
-    "titel": "Klaassen geniet van Ajax bij ruime zege op ADO: 'Zijn nu wél titelkandidaat'",
-    "normalized": "klaassen geniet van ajax bij ruime zege op ado zijn nu wel titelkandidaat",
-    "link": "https://www.nu.nl/voetbal/6417432/klaassen-geniet-van-ajax-bij-ruime-zege-op-ado-zijn-nu-wel-titelkandidaat.html",
-    "samenvatting": "Na een soepele 3-0-zege op ADO Den Haag richt Ajax zich eerst op het duel met FC Thun in de Conference League. Zondag wacht De Klassieker tegen Feyenoord. \"Nu zijn we wél kampioenskandidaat\", zegt Davy Klaassen, die twee keer scoorde.",
-    "datum": "2026-11-22T17:21:42.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/wb9xps4aucd2_sqr256/518/0/2362/2362/klaassen-geniet-van-ajax-bij-ruime-zege-op-ado-zijn-nu-wel-titelkandidaat.jpg"
-   },
-   {
-    "titel": "Jaitsen Singh overleden: Nederlander zat 42 jaar vast in Amerikaanse gevangenis",
-    "normalized": "jaitsen singh overleden nederlander zat 42 jaar vast in amerikaanse gevangenis",
-    "link": "https://www.rtl.nl/boulevard/artikel/5666564/jaitsen-singh-die-mogelijk-42-jaar-onterecht-vastzat-overleden",
-    "samenvatting": "Jaitsen Singh, de Nederlander die 42 jaar vastzat in de Verenigde Staten en in maart werd overgebracht naar de gevangenis in Scheveningen, is overleden. Advocaat Rachel Imamkhan bevestigt zijn overlijden aan RTL Boulevard. Singh overleed op 22 november op 81-jarige leeftijd aan de gevolgen van acute",
-    "datum": "2026-11-22T17:17:32.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2015/08/18/jaitsen_0.jpg?itok=h9OOFdj2&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Na mislukte klimaattop richt kritiek zich op olielanden, maar óók op Europa",
-    "normalized": "na mislukte klimaattop richt kritiek zich op olielanden maar ook op europa",
-    "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5666548/waarom-de-klimaattop-turkije-mislukt",
-    "samenvatting": "Grote teleurstelling bij klimaatclubs en experts over de mislukte klimaattop in het Turkse Antalya. De kritiek richt zich niet alleen op olieproducerende landen, die een deal over het afbouwen van fossiele brandstoffen zouden dwarsbomen, maar ook op de EU en andere rijke landen.",
-    "datum": "2026-11-22T17:16:38.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/ANP-576508763.jpg?itok=n5uX0qBP&amp;offsetX=0&amp;offsetY=134&amp;cropWidth=1277&amp;cropHeight=718&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    }
   ],
   "binnenland": [
@@ -548,6 +548,15 @@
   ],
   "buitenland": [
    {
+    "titel": "Nieuwe aanvallen op tankers bij Straat van Hormuz gemeld",
+    "normalized": "nieuwe aanvallen op tankers bij straat van hormuz gemeld",
+    "link": "https://nos.nl/l/2640649",
+    "samenvatting": "In de Straat van Hormuz zijn nieuwe aanvallen gemeld op de civiele scheepvaart. Volgens Iraanse staatsmedia zijn nog eens twee tankers in brand gevlogen door ontploffende zeemijnen. De Britse maritieme autoriteit UKMTO meldt één incident met betrekking tot een tanker en \"militaire eenheden\". Dat geb",
+    "datum": "2026-11-22T20:41:36.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/1/8/2/U/g/H/G1LswSfVEb33dZuKvojGGxqiMdtx4Ca4NgRpqwe/417x476x3584x2016-1024x576.webp"
+   },
+   {
     "titel": "'Bittere tegenslag': experts vrezen gevolgen voor volgende klimaattoppen",
     "normalized": "bittere tegenslag experts vrezen gevolgen voor volgende klimaattoppen",
     "link": "https://nos.nl/l/2640641",
@@ -807,15 +816,6 @@
     "datum": "2026-11-21T18:35:37.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/198x8dja32li_sqr256/1611/0/2062/2062/beruchte-drugsbaron-el-chapo-isidro-opgepakt-na-chaotische-militaire-operatie.jpg"
-   },
-   {
-    "titel": "Sonde onderzoekt ijs en mysterieuze holtes Mercurius na reis van 8 jaar",
-    "normalized": "sonde onderzoekt ijs en mysterieuze holtes mercurius na reis van 8 jaar",
-    "link": "https://nos.nl/l/2640451",
-    "samenvatting": "In 2017 stond BepiColombo nog in een testruimte in Noordwijk, vandaag is de planeetverkenner aangekomen bij Mercurius, zo'n 150 miljoen kilometer van de aarde. Acht jaar heeft het onbemande ruimteschip erover gedaan. Hoewel Mercurius niet zo heel ver van de aarde staat, is het toch lastig om er te k",
-    "datum": "2026-11-21T17:02:30.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/5/F/p/D/u/D/S7SynaPzFzav9TiQrkmQ9btm68gogVNxVpK7sV4/2x1x2096x1179-1024x576.webp"
    }
   ],
   "politiek": [
@@ -1274,6 +1274,24 @@
   ],
   "sport": [
    {
+    "titel": "FC Utrecht zet Correia na veertien officiële wedstrijden op straat",
+    "normalized": "fc utrecht zet correia na veertien officiele wedstrijden op straat",
+    "link": "https://nos.nl/l/2640647",
+    "samenvatting": "FC Utrecht heeft per direct afscheid genomen van trainer Anthony Correia. De tegenvallende resultaten van de club uit de domstad zijn de reden voor het ontslag van Correia, die aan zijn eerste seizoen in Utrecht bezig was. Correia (44) stond slechts veertien officiële wedstrijden (vier zeges) voor d",
+    "datum": "2026-11-22T20:36:20.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/6/G/R/p/c/5/FbtPxCV132GEgPDvhxgEpvHJUBK1ozChTLSBidz/0x118x4000x2250-1024x576.webp"
+   },
+   {
+    "titel": "FC Utrecht ontslaat coach Correia al na vier maanden wegens slechte prestaties",
+    "normalized": "fc utrecht ontslaat coach correia al na vier maanden wegens slechte prestaties",
+    "link": "https://www.nu.nl/voetbal/6417447/fc-utrecht-ontslaat-coach-correia-al-na-vier-maanden-wegens-slechte-prestaties.html",
+    "samenvatting": "FC Utrecht heeft zondag trainer Anthony Correia al na vier maanden ontslagen. Hij wordt verantwoordelijk gehouden voor de belabberde seizoensstart van de Utrechters.",
+    "datum": "2026-11-22T20:35:31.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/e9yxxfdaz732_sqr256/751/0/2362/2362/fc-utrecht-ontslaat-coach-correia-al-na-vier-maanden-wegens-slechte-prestaties.jpg"
+   },
+   {
     "titel": "Alcaraz wint voor het eerst ATP Finals, comeback Zverev onschadelijk gemaakt",
     "normalized": "alcaraz wint voor het eerst atp finals comeback zverev onschadelijk gemaakt",
     "link": "https://nos.nl/l/2640642",
@@ -1524,24 +1542,6 @@
     "datum": "2026-11-22T11:26:49.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/5/4/W/t/j/5/g7QFwwCJNFaPGBuipnbwoaXbnBYWrD2TRhZ5chz/8x81x3984x2241-1024x576.webp"
-   },
-   {
-    "titel": "Verstappen kritisch na 352 inhaalacties in Vegas: 'Mijn racehart genoot niet'",
-    "normalized": "verstappen kritisch na 352 inhaalacties in vegas mijn racehart genoot niet",
-    "link": "https://www.nu.nl/formule-1/6417405/verstappen-kritisch-na-352-inhaalacties-in-vegas-mijn-racehart-genoot-niet.html",
-    "samenvatting": "Max Verstappen vond de Grand Prix van Las Vegas \"surrealistisch\" vanwege het recordaantal inhaalacties. Hij plaatste een kanttekening bij het spektakel. \"Mijn racehart heeft niet genoten.\"",
-    "datum": "2026-11-22T11:17:06.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/usexwjgaxjjm_sqr256/547/5/3650/3650/verstappen-kritisch-na-352-inhaalacties-in-vegas-mijn-racehart-genoot-niet.jpg"
-   },
-   {
-    "titel": "Video | Leandro Paredes zakt tijdens live interview in elkaar",
-    "normalized": "video leandro paredes zakt tijdens live interview in elkaar",
-    "link": "https://www.nu.nl/332515/video/leandro-paredes-zakt-tijdens-live-interview-in-elkaar.html",
-    "samenvatting": "",
-    "datum": "2026-11-22T11:11:03.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/ngbxm96ah20r_sqr256/675/0/1080/1080/leandro-paredes-zakt-tijdens-live-interview-in-elkaar.jpg"
    }
   ],
   "cultuur": [
@@ -1910,29 +1910,20 @@
   ],
   "zeeland": [
    {
+    "titel": "Buitenlandse media zien de ‘koning van de chaos’ weer heersen in Las Vegas: ‘Een masterclass van Max Verstappen’",
+    "normalized": "buitenlandse media zien de koning van de chaos weer heersen in las vegas een masterclass van max verstappen",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTEVLNnROWHV1MWhhdTZJSnFJdXVaMnFaODF5X0lfbGNKM1VBS0tqWVk1MjZpMmtHNlpIcU13SFEyREo0Z0puZi1nX2NBRmJtVUctem1fZGZnZTZNYnhBNE9ILUN3Z1Bic1RQNUxLWlBEVUE1VkR3OFpDcnJwOTJ4VF95a1pfeE9DSHdFZ3dudFB3Zm4wSDRycVloQ0ZBOENCUnU4YnlDejhIMEJmQmNidmVMaUE1NEp3dldHbktSUmkxVDd6SGtVekp4ZElyVTNNaURqaTdjUkZLaldtaktVRA?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-22T17:34:05.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Naomi Boogaard absolute smaakmaker in Axel: ‘We vormen steeds meer een combinatie’",
     "normalized": "naomi boogaard absolute smaakmaker in axel we vormen steeds meer een combinatie",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRHhaZ3VfVDV2dG5nSW5WeEZaa2F3cl9VTnY2Ym5Yc3NwUVpjcnZrQ3o1cWhHRVl2ZlgtWjdyUUFqVy12ZHVMQmFOREg1SFJxcHRDbGJxWVVmUFd6RHl0c0pjRWNiV0FQOWNMZGQwZFhOY1dtY2prOS1OQWxMcmhlaGN5SHpNekVZQ0RObVF5bjh3Z1MxbndnbVhxMzQ3RHlyWjNZMGxndmYyLUxfSjVHUFlOU3R1ZTlTcFVfMEI4Yk5raWs?oc=5",
     "samenvatting": "",
     "datum": "2026-11-22T17:01:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Dickensmarkt in Veere trekt veel volk (en iedereen zoekt naar een parkeerplaats)",
-    "normalized": "dickensmarkt in veere trekt veel volk en iedereen zoekt naar een parkeerplaats",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMTU2NTlnOHdwTFJQc3NnTERQcTZKa3lNY0lKYm9qWDFNVHRTcnpsdThRLUpRSjhrRGxxTVhnczNXRkNYUXpFOEp0M0FYaFEtbXpWS2lfV2RneW1tV1RjTG1ZT0tKdXpKb3hZb2trVnIwbEtQTTNHS1dTX1IzV0dVc1lFa3hhNVdmU21pVnU0b3BvdkU0SFJ4a1NZbExuWVJPYXhqTDFKQ05NQ2pGSzBtSmtyRFM0ZE5Fa3NpdA?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-22T16:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Bunkerroute in Middelburg tijdens evenement 35 jaar Einde Koude Oorlog",
-    "normalized": "bunkerroute in middelburg tijdens evenement 35 jaar einde koude oorlog",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGJiaTZablBNYzVzNVBQcVk5cTJlWHZPUGVybW5QS2poNEdhZzIwbXJnRkthbU1oWDhvSV9VZGZQckxuNC1SMVpGYUhfdU56QkcyNktmLVZOQk40OU9JWTg1dDRRaGpfTUZucDFiMVZ2cFZMZ1E1VTh3d3lZRE4xemJJY1FjRXR3ckF3aW85bUxRaFpkaUFVSFlqTmdyRmVmQ0g2QW9vMlhwS1ZZeFB3?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-22T15:09:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2081,6 +2072,15 @@
     "foto": ""
    },
    {
+    "titel": "Wat De Klerk niet lukte krijgt Hiensch wel voor elkaar met Kloetinge: winnen in de Tweede Divisie",
+    "normalized": "wat de klerk niet lukte krijgt hiensch wel voor elkaar met kloetinge winnen in de tweede divisie",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSEk5N3FFYXpYSFVLOC1MNllxTGNCVVNWN19xMktfUmtxVjhxMk1hU1ZERjVrVVI3S2FJS0h1SXg5ZU9TV0tHUzVkVGpqQnY3TjFvQXllYXJzODVnZzJYUHhTaDVvVEVsSmhNZEIwUFEtNDQzRTQ5M29FZUtkcHlmYUFyZGE4VlhMbzBBTDNwekowdDFRbkxkZ1l3V0FyRDNzeHFWTFlYN2NYUmhzQWtlUDhzY2NjbTc0b3hhZDFCbWZRVUI5S3kyc1lLcVpKR2dSblYzRUp6VVc?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T22:01:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Amber (22) uit Poortvliet is ethisch hacker: ‘Je kan zelf een groot deel van het risico wegnemen’",
     "normalized": "amber 22 uit poortvliet is ethisch hacker je kan zelf een groot deel van het risico wegnemen",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNlZMTUxKTmFmam1TX2VzSjk2MjhvN3pBeVM3dVFiWXItdzV4T2p0R3loa2hNZXc5R1F3QzR5dXZpNGlhdE1wUjZQVGtOWU9SdDdjYVFSWnJ3OU9reXYtQTJtR1lmdDVsMHNnOHd1SXFCbXFXdVJ3MDQ0WGxNRDhPczB0NXBnYU4yc0tqT2xuTTJiSjhiRUlKV3I0SkIwSWJwV0h2blJXbmlqY09IWEx4SHMtWkxzZ2JKNU0wZ3pURUE4V1RtS1ZyY3BRZw?oc=5",
@@ -2110,7 +2110,7 @@
    {
     "titel": "‘Nare droom’ duurt voort: Zeeland kan niks doen om groei van scheepvaart naar Antwerpen af te remmen",
     "normalized": "nare droom duurt voort zeeland kan niks doen om groei van scheepvaart naar antwerpen af te remmen",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZHFGM1ZrTERmUGlfSzMwYmtmV3NPWkVpSmJWVVRGUU5ZY19tRHl5ZWdKY0JsejM3UjZqeTNOemg4Zkt1NFpHaG9tLU5RNEtnX1B4cmpScHJoQXUtTmgzZExYdmFKcVQxRmxJb25oTzRuT3RjekN3dFZwSUdIc2tYVnFiVDZZakVMU1F5NW01WDIyOGloY3NmZXpJM2VFZkpmVUpacjFySU9RSmhWb0pxUklzY0ozeG54U0R5RWFqb0xVeWlSRnRrMExaa0RMd0pGb19z?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNWZLeHN6YTBxZXlXemtKaXhZZmdmSDFFX0kzR19sdWgyMlJCMlBDWFY3YmRLemNCdFBROXNnUWtXM25pUEFDZjhPTHV5czdLSEFxRU5mbnpTa1Vzc2w5YWdQNUVKMUVQeWFrbmtHeGtGaE5acl94bHlPV0d4UDRIRV93UjUyYVNBcExraE5qb2QyRm5qcVBHSnB0LVNMZnVZSThIYTNpU3FkZEtxOGJRS0tfSFF5cTllendDaHRwRkc4eWh1b2F2WWYzb282aXhBUmc?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T17:09:01.000Z",
     "bron": "Google Nieuws",
@@ -3000,7 +3000,7 @@
    {
     "titel": "Heb jij Bubbels of Yusu gezien? Deze twee huisdieren worden in Roosendaal vermist",
     "normalized": "heb jij bubbels of yusu gezien deze twee huisdieren worden in roosendaal vermist",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTTBqUG9fSUdfR3ZJU092Z0xBemY0WUFNaXhpZTdpeGVpQktQckpsc1dVaElXUFBsRGZLX3dURS1YdjRuRlI0d05WRFZtdVRHeFJvNDFudnctMGoyQU5mQkxHMjFteFA1WE9yWTc4aUxLd3RrRVRjeThtMW5zRHV3YnNuVFpOMUNta0dMM09LSnlieXZFdllTY0l1eUlhMVFsOHdqdzJ0VWhaQXAxYVlRVXBIemZYT1BGZW13QjgxYVFyVkk?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTVZQb2Q3aHNfcEhGTmVNQXVjbU9rZGI1cFlfeGFqbkdpa2hRaEljeDRWZkQwQXR0ekc5OGdjTlZtUF8wdXYySUdGN2RZWEJQbkJrQ0dCZzVtWXRScUJNZHpmUlVQWEFwRUg3bzJ4RmVvY1cwU1pHYzRTeGhZWnBEWU5mWHBpU2xINXpBMEVBTnVXejRZMEplQzZJSElsTmg2eGU1cGhZVDZqeUVvcXhsWGplYXlLWEFGNkdv?oc=5",
     "samenvatting": "",
     "datum": "2026-11-22T10:11:19.000Z",
     "bron": "Google Nieuws",
@@ -3106,29 +3106,11 @@
     "foto": ""
    },
    {
-    "titel": "Roosendaalse zussen krijgen koninklijke onderscheiding in Bilthoven",
-    "normalized": "roosendaalse zussen krijgen koninklijke onderscheiding in bilthoven",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOazNJZmZ5elFCUS1hSGlQNVdRdlZPZTFiTnFzWGZCQ08xb3M0VWFZclpSUE9TNjNkUkZiY1E2ZGc5R3BXY0ZoUzB6Yk40MWVvaW1zcGVwYnlqeGEyOWd0RFpnYXJpa2RjRHdsai1SXzRRNlBMUGJTc3RfRkxTcDVVLUpnT0lPYUxKd0tQcjBOTE9XR1ZZdEJReG1zTnozWVY0QVhHVXJ1M2xZczZuY0tGYmN3?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T19:31:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Ongeval met letsel op Laan van België in Roosendaal",
     "normalized": "ongeval met letsel op laan van belgie in roosendaal",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekJEZ3JkeEN6bEJDdVF6UzdTWlFJVnVBV3RGSkJWVjlNcDVfOFpoQWNjSF8yYngzdXBYNXBtaG1iR3hUU2ZRMGdGX296OVg1Tl9RbkdWaWFUN0dDWWEtRHFnMktZOXIteVdxOXNlY2hDc1dxRDZMOHlTUEVGOE1TWndPV081ME9VbW83aUd5bnlReDlwZk9WeUsyV2g4azFLNGppUVFIbjRmMWc?oc=5",
     "samenvatting": "",
     "datum": "2026-11-20T19:04:44.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Ongeval met letsel op Laan van Wallonië in Roosendaal, traumahelikopter gealarmeerd",
-    "normalized": "ongeval met letsel op laan van wallonie in roosendaal traumahelikopter gealarmeerd",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdjhPUEswUTZ2b3VLOWRtYmZyOXhLbXRZZEpuaElXS0M2dFpKN1l6R2E2RlVqempOS1RzODZQWDdWSG50YmZ2aVFnU2lNRWt4OF9sZ3VjTjlrMjluUzJCb3N6TUx2MUZmVVVNYU9pV0xrUlJkODhRaWlUUmpibVp5UEhVTVFVaFNCWV9hVy04Sm9STkRGYTVJdXdhWFVTWmdNUGJRRkpvVTNRZWg4alAzVTVGcTR1azRJY1N4Z0hNMXNBYWtSLVVjU3prRllyVVJ3U1JTS0J1ckVFeFFvUXc?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T19:04:15.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3151,18 +3133,9 @@
     "foto": ""
    },
    {
-    "titel": "Anja (66) sluit na 38 jaar noodgedwongen de winkel bij de pomp: ‘Er zit geen toekomst meer in’",
-    "normalized": "anja 66 sluit na 38 jaar noodgedwongen de winkel bij de pomp er zit geen toekomst meer in",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdFhmU1RiVFhETm9RYkFYeWo5QW1qdWNtb0ZEVl81My1PcWdEcmx3TUoyZnd2a1BaT25lQnFUTDI5aTJMbGRuekFHVU8tdWlsYnVCTkdDMGVZcFRUY19YTXFMUGNqWG52SzVRMzBNR0lBUXdyZ1JpYXF1M1BtRWMxOHNvYm9FRFZPRU5kWGpXZFUzSm54OGxxTFBkVlVERng3SFBHTndONVh5QjByYkpNdTdQd2ZmaldfYjNoNVM3bXNqcE9YMG5RUVh6M0Ezckk?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T09:51:02.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "De tank is leeg: Anja (66) sluit na 38 jaar noodgedwongen de winkel bij de pomp",
-    "normalized": "de tank is leeg anja 66 sluit na 38 jaar noodgedwongen de winkel bij de pomp",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQW9RdG9vX25GMk5ISGk4a21Rblp6bFhYb19KSVIyTXYxQm1NVTJieXY4bUZBSndBMlo3aWFObnlLeVUzeGktWUx4T09sSmhDeWFKTDcwMnBhMHR2R1FKY1BkMnlGS1NtM3pjNHBoT1FvRm1ISzc3MmJGTTBlNUVfS1dRTEM4V3FxejZlbW5jVGwxakhBUzJZOThCSEpERTJfYUNjZW5FeG9BSGtOM2VfXzJpNHhlWEt2MVVHSGx3?oc=5",
+    "titel": "Anja (66) sluit na 38 jaar noodgedwongen winkel bij de pomp",
+    "normalized": "anja 66 sluit na 38 jaar noodgedwongen winkel bij de pomp",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdF9pTEtyUkNvaHpmaVRvbnFuYnJ1VGlVTFoySkI4N1pRcWlVbXcyWmpIeExxa21hTldaOGt1QlU1ZWR3bUYza25TaExFZ3pqa2tnYUNwaS1FbGRXZy1qLTZyVFFpMXVld3NpYTJHLTBBNHJRWkMxZVllNHZPTXpJLUpZZkwzUlM0RnM5cUp3SFlBQXgzQ1ZxNkxEVUxZTk81U19BTw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-20T09:51:00.000Z",
     "bron": "Google Nieuws",
@@ -3219,6 +3192,33 @@
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTVVGN3UwMmxIYTBUeGt5Mjg1OU93b0t4dUI2X3Y4UFA0ZjZHeEtJZFFkMFN5VWFJSHhZam8tY3NTUV9CdjFCR3REc09vbnNDSWJtLUxlVDRLbzEyaVFaOUZ5aFIxY0JuUzBVUkowUUpXcFpuNF9zR3pTY3BOS2pVazhFckxVdTF6OGh1dEdMZkQ3cHN2TWw4UmJPaTJMU0JMX2pOb0ZEVURQc1NaRnJrWXItQnI4QQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-19T15:35:11.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Fietser geschept door auto in Roosendaal",
+    "normalized": "fietser geschept door auto in roosendaal",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLVJfZDBtdzNrVFRWbjRCRFZDU2d6RHBuZnlkOGkyR0tWRXB6LVVmSEdKcGgxanVUVXBYMlRWTzZKeXE4X3NzWnhBbTV5X1p4dWxRYkIzOXU2SUppOUJ2R09yZjRBWlFuQnpzLWl6UDRrZFJvZVJwT1RRRjFldE4tdU4zX3djcExXbTJjNQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-19T15:28:53.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Fietser raakt gewond bij botsing met bestelwagen in Roosendaal",
+    "normalized": "fietser raakt gewond bij botsing met bestelwagen in roosendaal",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOFFBT0ppUWFBNVI2RnBzNUkwOU5uQkV5WTlTWWxiYkNXNkg1cFlSMmtLNUl4UmdiQl94dmlXbDZHSXRYd0JiWXZyTjByVGRDUHI2SFhibVJhS1dMRG12U3lUSzVudlJuQzhGZDBBVUJheldJQm1WYmRqNTQ1Z2tLRTdYRVZlWFZjZVROel9kdk5jX1p6Y0lJQ3FCb3E3OFhNVU1xNDNIWHNGWXF4N2Z3aHA0UmJUQ216Z0E?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-19T15:25:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Oude muziekinstrumenten krijgen een tweede leven in Roosendaal",
+    "normalized": "oude muziekinstrumenten krijgen een tweede leven in roosendaal",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFVrOXluVC1wOW9yQzhWb2VYZzZHQ2x1YXo0YWpKeF9GM2RvRVNyMzdVRUZEaHNrYkhrZlFYTHJJUk03NldnYUJXQnRlZ3ZWc2F4VExXS0plcXJTX3RDWk16cnF1aWc4cm5YcHBNWkdNQjRTbXJ1MEpXbFdrc2tvelNUc2lhNzVHMl9xUUp5MHpVLWlEdlc0R2o5bEpsWkNyT3c?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-19T11:04:28.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
