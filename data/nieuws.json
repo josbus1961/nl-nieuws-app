@@ -1,8 +1,26 @@
 {
- "gegenereerd": "2026-11-22T04:03:30.669Z",
+ "gegenereerd": "2026-11-22T04:28:47.981Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Code geel vanwege mist en gladheid in groot deel van het land",
+    "normalized": "code geel vanwege mist en gladheid in groot deel van het land",
+    "link": "https://www.nu.nl/weerbericht/6417382/code-geel-vanwege-mist-en-gladheid-in-groot-deel-van-het-land.html",
+    "samenvatting": "Het KNMI waarschuwt zondagochtend voor mist en gladheid in een groot deel van het land. Weggebruikers wordt geadviseerd om langzamer te rijden. Code geel geldt tot zeker 10.00 uur.",
+    "datum": "2026-11-22T04:18:14.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/exfxp5xawgzi_sqr256/0/0/2344/2344/code-geel-vanwege-mist-en-gladheid-in-groot-deel-van-het-land.jpg"
+   },
+   {
+    "titel": "Waarschuwingen voor gladheid en dichte mist in delen van Nederland",
+    "normalized": "waarschuwingen voor gladheid en dichte mist in delen van nederland",
+    "link": "https://nos.nl/l/2640513",
+    "samenvatting": "Het KNMI heeft code geel afgegeven voor zowel mist als gladheid. Plaatselijk kan het glad zijn door bevriezing van natte weggedeelten, waarschuwt het weerinstituut. Kans op mist is er in een groot deel van het land, behalve in het uiterste noorden, langs de kust, in het zuidwesten en langs de grens ",
+    "datum": "2026-11-22T04:13:50.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/2/8/f/1/c/L/J9bzXDfeVSk2iJPymsrtSfmpd23a9Smd6tzKuXM/27x644x3120x1755-1024x576.webp"
+   },
    {
     "titel": "Deal met DENK legt groot wantrouwen bloot: 'Moslims als paard van Troje'",
     "normalized": "deal met denk legt groot wantrouwen bloot moslims als paard van troje",
@@ -13,13 +31,13 @@
     "foto": "https://images.nu.nl/m/ithxie1abq5f_sqr256/656/0/3404/3404/deal-met-denk-legt-groot-wantrouwen-bloot-moslims-als-paard-van-troje.jpg"
    },
    {
-    "titel": "F1 | Verstappen begint straks vanaf pole aan GP Las Vegas",
-    "normalized": "f1 verstappen begint straks vanaf pole aan gp las vegas",
-    "link": "https://www.nu.nl/formule-1/6417324/f1-verstappen-begint-straks-vanaf-pole-aan-gp-las-vegas.html",
+    "titel": "F1 | Verstappen knokt met Russell en Hadjar om leiding in Las Vegas",
+    "normalized": "f1 verstappen knokt met russell en hadjar om leiding in las vegas",
+    "link": "https://www.nu.nl/formule-1/6417324/f1-verstappen-knokt-met-russell-en-hadjar-om-leiding-in-las-vegas.html",
     "samenvatting": "Goedemorgen en welkom in dit liveblog! Mijn naam is Laurine Slingerland en hier hou ik je op de hoogte van de Grand Prix van Las Vegas. Veel plezier!",
     "datum": "2026-11-22T03:55:59.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/uzzxxe8am4gz_sqr256/863/0/2717/2717/f1-verstappen-begint-straks-vanaf-pole-aan-gp-las-vegas.jpg"
+    "foto": "https://images.nu.nl/m/s1lxs6nalkub_sqr256/957/0/3812/3812/f1-verstappen-knokt-met-russell-en-hadjar-om-leiding-in-las-vegas.jpg"
    },
    {
     "titel": "24 doden nadat boot met grote groep begrafenisgangers omslaat in Nigeria",
@@ -254,27 +272,27 @@
     "datum": "2026-11-21T20:03:53.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=5ebe4964-e347-465c-8547-3e8df6593bc1"
-   },
-   {
-    "titel": "Feyenoord verliest voor het eerst in 46 jaar thuis van Excelsior",
-    "normalized": "feyenoord verliest voor het eerst in 46 jaar thuis van excelsior",
-    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666467/feyenoord-verliest-zonder-smaakmaker-hadj-moussa-van-excelsior",
-    "samenvatting": "Feyenoord blijft punten verspelen in de eredivisie. De club verloor voor eigen publiek van Excelsior (2-3) en zag de achterstand op koploper PSV groeien naar 4 punten.",
-    "datum": "2026-11-21T20:01:48.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/21/ANP-576432744.jpg?itok=vBk1ggkZ&amp;offsetX=0&amp;offsetY=27&amp;cropWidth=1023&amp;cropHeight=575&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
-   },
-   {
-    "titel": "Feyenoord verliest van Excelsior in De Kuip",
-    "normalized": "feyenoord verliest van excelsior in de kuip",
-    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666466/feyenoord-verliest-van-excelsior-de-kuip",
-    "samenvatting": "Feyenoord heeft de thuiswedstrijd tegen Excelsior met 2-3 verloren. De nummer 2 van de ranglijst raakte verder achterop bij koploper PSV, dat eerder op zaterdag bij NEC won (1-4).",
-    "datum": "2026-11-21T20:00:06.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP211126144-1.jpg?itok=_mTKs0H6&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    }
   ],
   "binnenland": [
+   {
+    "titel": "Code geel vanwege mist en gladheid in groot deel van het land",
+    "normalized": "code geel vanwege mist en gladheid in groot deel van het land",
+    "link": "https://www.nu.nl/weerbericht/6417382/code-geel-vanwege-mist-en-gladheid-in-groot-deel-van-het-land.html",
+    "samenvatting": "Het KNMI waarschuwt zondagochtend voor mist en gladheid in een groot deel van het land. Weggebruikers wordt geadviseerd om langzamer te rijden. Code geel geldt tot zeker 10.00 uur.",
+    "datum": "2026-11-22T04:18:14.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/exfxp5xawgzi_sqr256/0/0/2344/2344/code-geel-vanwege-mist-en-gladheid-in-groot-deel-van-het-land.jpg"
+   },
+   {
+    "titel": "Waarschuwingen voor gladheid en dichte mist in delen van Nederland",
+    "normalized": "waarschuwingen voor gladheid en dichte mist in delen van nederland",
+    "link": "https://nos.nl/l/2640513",
+    "samenvatting": "Het KNMI heeft code geel afgegeven voor zowel mist als gladheid. Plaatselijk kan het glad zijn door bevriezing van natte weggedeelten, waarschuwt het weerinstituut. Kans op mist is er in een groot deel van het land, behalve in het uiterste noorden, langs de kust, in het zuidwesten en langs de grens ",
+    "datum": "2026-11-22T04:13:50.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/2/8/f/1/c/L/J9bzXDfeVSk2iJPymsrtSfmpd23a9Smd6tzKuXM/27x644x3120x1755-1024x576.webp"
+   },
    {
     "titel": "Premier Jetten en Britse premier Burnham dineren in Rijksmuseum, praten over Oekraïne",
     "normalized": "premier jetten en britse premier burnham dineren in rijksmuseum praten over oekraine",
@@ -526,24 +544,6 @@
     "datum": "2026-11-20T15:09:09.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/2/6/T/G/L/d/gVsaozw5bYnzF5NEz1XQDqY3ywcWTLrfnLyv6P5/0x0x1024x576-1024x576.jpg"
-   },
-   {
-    "titel": "20/11 in Nieuwsuur: • Britten zoeken toenadering EU • Kooigevechten en Hitler-verering door neonazi's • Jongeren kennen geen politieke stabiliteit",
-    "normalized": "20 11 in nieuwsuur britten zoeken toenadering eu kooigevechten en hitler verering door neonazi s jongeren kennen geen politieke stabiliteit",
-    "link": "https://nos.nl/l/2640300",
-    "samenvatting": "Britse premier wil nauwere band met de EU In Brussel is er vandaag een topontmoeting tussen de Britse premier Andy Burnham en EU-leiders. Hij wil de banden tien jaar na Brexit weer aanhalen nadat de Britten tien jaar geleden uit de EU stapten. Volgens Burnham was de Brexit een vergissing. De totale ",
-    "datum": "2026-11-20T14:51:37.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/2/H/F/E/Q/w/etDqxuPipNHWefwBSFuR6Sh1secjHpeh3ZFbjf4/0x0x1920x1080-1024x576.webp"
-   },
-   {
-    "titel": "Man uit Didam veroordeeld voor opsluiten, mishandelen en bedreigen deurwaarder",
-    "normalized": "man uit didam veroordeeld voor opsluiten mishandelen en bedreigen deurwaarder",
-    "link": "https://nos.nl/l/2640295",
-    "samenvatting": "Een 32-jarige man uit Didam is veroordeeld voor het opsluiten, mishandelen en bedreigen van een deurwaarder in zijn woning. De rechtbank in Zutphen heeft de man een gevangenisstraf van 2,5 jaar opgelegd, waarvan een jaar voorwaardelijk. Ook moet hij het slachtoffer ruim 1000 euro schadevergoeding be",
-    "datum": "2026-11-20T14:30:33.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/2/F/d/9/4/Y/q1a2YtbCdTnq8cJFkuQybLbJ8PLRD2XaSpiu8qe/78x460x3920x2205-1024x576.webp"
    }
   ],
   "buitenland": [
@@ -1032,7 +1032,7 @@
     "titel": "Wiskundige doorbraak met AI zorgt voor kritiek: 'Oplossen is niet het doel'",
     "normalized": "wiskundige doorbraak met ai zorgt voor kritiek oplossen is niet het doel",
     "link": "https://www.nu.nl/tech/6417347/wiskundige-doorbraak-met-ai-zorgt-voor-kritiek-oplossen-is-niet-het-doel.html",
-    "samenvatting": "Een wiskundige heeft met behulp van AI-model Claude de Riemann-hypothese bewezen. Wiskundigen bleven liefst 167 jaar het antwoord schuldig. Toch staat niet iedereen om het nieuws te springen. Sommige wiskundigen vrezen dat berekeningen niet meer zullen worden begrepen.",
+    "samenvatting": "Met het bewijzen van de Riemann-hypothese door een wiskundige met behulp van Claude is er opnieuw een groot wiskundig vraagstuk mogelijk opgelost door een AI-model. Het gebruik van AI bij wiskunde zal niet meer verdwijnen, maar wiskundigen vrezen dat berekeningen straks niet meer worden begrepen.",
     "datum": "2026-11-21T19:07:19.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/9dvxbj8agqy6_sqr256/862/0/3466/3466/wiskundige-doorbraak-met-ai-zorgt-voor-kritiek-oplossen-is-niet-het-doel.jpg"
@@ -1910,24 +1910,6 @@
   ],
   "zeeland": [
    {
-    "titel": "Sporen van toen, natuur van nu",
-    "normalized": "sporen van toen natuur van nu",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0MEFaT1RTMGhydjRmVFBLc0x1LTY1cUQ1bUpSU1JvTkwzSmxPSmpuNXhVVEJXUlZ1a1lOZG9MbElGYV9FSWVXYlRIaEVjNGpTREY3cw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-22T02:41:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Bestuurder overleden nadat auto te water raakt op Brouwersdam",
-    "normalized": "bestuurder overleden nadat auto te water raakt op brouwersdam",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaEJSa0g2Y09FWUY4TW40cm5zMVk5RmVQUjQ0ZVF1TmNGWXc0M0ZVQ29zaG1YZmd2c1lGbDB3RFQzczRJRGJnNUpVVDJXdmpvSkcyQmZJbk11cTVDejZpTzhwUDFTVnZWRHBsY0p0R3JVcUV4N19GNlFJVjZPVW9EXzBNcEJNQ1Z1cFJWSW1yb0oxWkhVNzR1UDJZQ01nX21icG1kZHpJc3lYZVByQlFINUlR?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-22T00:47:09.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Actiegroep tegen Zwarte Piet bekogeld met eieren bij sinterklaasintocht in Arnemuiden",
     "normalized": "actiegroep tegen zwarte piet bekogeld met eieren bij sinterklaasintocht in arnemuiden",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN05IMUtSd0ItaHg5algwdkpPcXYtTkZyY0xUV2dsc3FHS1pJcVcwU19ES2hkQ0NTQmVnZVRLaUpVZ1VFb3dLS0RvQXVOVWFKMW45b3FUMnktaUJvSXNVaEZGS0JSbkg2TW5mZTFfMWlVRjJTUE5XVnZSeUY1YmlRRml3N21vd1piTHlkcS04amNqY0tjSnhwUFkxalJLU0dOTEZWNzh1R1N1cm5TYkNFTl94YWl6RUdjQ1VLbGJoeXpNVklVazNlZHpjRHJ1cnFlLUE?oc=5",
@@ -1942,15 +1924,6 @@
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVGlqM3FsRjJIcHgtRHcwbjVVVmVWQjFDdTJxdWdhdUJScnptZW52LUVZU3VoMDZPUUZ5MkZ4NjFxMTQzT1VENWpUNS1DUmZYaWNJU01ZYmYyV1l3a3F2dkMyUENOeklYZU04emNwbVBpNzNneDVWTWhrazhkYi04OUtrMDBWLWVQbUNzaHZVZktuZlJ6aUhOYXdjQTBYeXZIcVpGa3M0WmtTWUNhSnVN?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T22:05:11.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Topper tussen RCS en Terneuzen eindigt onbeslist, Zeelandia Middelburg komt eraan en Patrijzen boekt knappe zege",
-    "normalized": "topper tussen rcs en terneuzen eindigt onbeslist zeelandia middelburg komt eraan en patrijzen boekt knappe zege",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORkNGVHRGT3o5RUhmcDZpMTRiZWpPX0t5LW8xSDVuTW9GbkdScWRtb1VEV2RsZ0xyWUVhR2JPQk0zMDVabW5yakw2bGE3SDU5Rk40Q1JRR3lpcVYydjVBc2pHOGloV0hpa1djVXM3WXZVNjFxSXYtRFRLRVFlTEVPOWliZWIyRkZ2R0djcDJSRUw0MlNpZGF2WS05dENxaGlKb05POHBBRkI0N3RjalNuNktxd2xCMWp6RnVkeU54bVBuRDZsYVZvMHRFQnFMaS0zcUh0djduREtDNGxQbjZvM2tibDdOTmRtWjZB?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T19:01:22.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2063,15 +2036,6 @@
     "foto": ""
    },
    {
-    "titel": "Auto belandt op vluchtheuvel bij Zuidzande",
-    "normalized": "auto belandt op vluchtheuvel bij zuidzande",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWZ2QnNwX1FoZGVNNXZBQnZqVVljOXhzYkhGaFdpUXJ1VGtNN2swOUwzaHZQbnZHZjR1OWdkaktTd1h5bmI1LU81ZEh3RXlpRDRRalNlMTdLVW0tZWRCTXF0S1NJdlFFQ0ZzZ0hJYmxmZ3dqZDkzZjVyZFdSaFZwblZZRHpsNGpH?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T09:03:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Meeste bewoners Bomenbuurt in Middelburg zijn tegen sloopplannen",
     "normalized": "meeste bewoners bomenbuurt in middelburg zijn tegen sloopplannen",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT0pjbUt0Yk42eTlQcEFGbllMdTFESFJ2T3Bzcmx3QjU2VFg5LTdXQWVDLTF5MnRtMHM5elBMNFpMd19YY3JNNm5CaDdhY056Vi1JQjBrVmQzQ0NqQW8zeExUdzVsQUlPRUZxWmdNbjNVWXhJTGJXZGJrTG5Oa2FpQ2tVekhUSHJ3VUtKQ3ZNZG02VVZldXNWelUySWZJTVhqWFB2OF9qdw?oc=5",
@@ -2090,20 +2054,20 @@
     "foto": ""
    },
    {
+    "titel": "SGP vreest ‘boerenmolens’ in Zeeland nu regels kleine windmolens naar 23 meter gaan",
+    "normalized": "sgp vreest boerenmolens in zeeland nu regels kleine windmolens naar 23 meter gaan",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEJyVjNBSUNZVU04dEJNeGthcFNodUNaZmw4SThzSTlETEpmRFFIZWEzS3p5cWx3YTQ0eVVNaXBEUXFrMUlNSEotelBiV2hpbXh1TlYyWmZza2pDRllFRXZuc3Y0Q3hsVE5UdmZNcF85a1FoeFBBSGpDWmg1ODh0S2Y5aklnd29NRUwxcTBaenpWcVdOUUotZlNMcThRUUtvM05LcFJhb2FTVFU2RXBXajA4TTlxNDMyMzF6R2Q3cVphWWs?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T06:30:35.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Rel bij Zeeuwse huisartsen lijkt bedaard: meerderheid steunt ingreep om praktijken overeind te houden",
     "normalized": "rel bij zeeuwse huisartsen lijkt bedaard meerderheid steunt ingreep om praktijken overeind te houden",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYW5LXzNXazVZQ2Ntd0ZtdnJJZVRBY2I1SWxkejVFVDNJQnZfTFpabkdfOWpFekRJdE5yMEJfelM3RkZGcmYyalBldnE5TmV1NjE3NDI0MlV4WjR6aDdHeHp5Yk9kSTRJTHhhc3FiZUtZWHRacU1uMkk0dEdTVHo2cFdVOG9uMk93N1E5WVh5VEUyOG5NRnAwVy1WdDhOb29EOXlZRk5VcWJUVEFFTHBreUxrRk5tdWo3MTYyN3YzLUxfc1NIdWR1MjQ2WXVVQ1FJ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T05:15:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Gewonde bij botsing met politieauto in Terneuzen",
-    "normalized": "gewonde bij botsing met politieauto in terneuzen",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc0padVhUN3JwRkRwYXFYU2RaWnZGUzg3Z3E1TG5JR0lvcEhtaTYtdXVNQWNzbXpkV2cyZW4yQ3ZQTDR0VXdoLWtxVUg3aXdISGJmSWdTd05QMENpR2Q0aWNRb19lUlZ2OElHNlF2Ml9LY015V09zaUpfVkd4cUt2VHF1ZGNUQVotVk9mMGhISkE?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T03:19:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2176,6 +2140,42 @@
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSThtZTd5QTVfYzYtZElnZDBLVmhJYmFzQi1qdldfelVzRzE3czdZM2NCeFhMLVdad0lEWW5pY1U0QzdicERnWk5ETWNpblFiZXlmN1dpQXRsSGtHYzlzNno2QzJOSDMyN0xRU0NacTJIa21RY0FBTnJrblFUdjhkNmNxOFdzOG93MmtzYkVsd3BUZFB3cUdyYjRqcXRQclNoODhMMzNiWEw5UFp3MEROaHhVb0pTU21JMXNaRkY4MFEtcWVJMC1qNnlsMA?oc=5",
     "samenvatting": "",
     "datum": "2026-11-20T18:29:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Tranen bij Rita als er na veertig jaar een plaquette bij de Oosterscheldekering komt voor haar overleden man Cornelis",
+    "normalized": "tranen bij rita als er na veertig jaar een plaquette bij de oosterscheldekering komt voor haar overleden man cornelis",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdmFTeUNLVGtJTlM3X19YS2Q2VnhnbEVtRG4zcjRHUEdRVXVuN0g3TTNxTGh1WGsyWGxuSGJ2YTJGckhXSm5nNWdqRnYxMUpFVEhmQ2JGLTJDVmhnRjhMYy0xN1U4SlBPSEEtUUdKM1ZHbGZmOFZaNndzdEFjRFUtY2R4TVZBZkxkdFBBNk9CVjl4amhaNnBzdlQ4QVltUzJuYmhNUGtmTWlVckNUWlRMWHptZ0gxLTFPOGNMaTRoQkVKQ1BTOWpiQkN3VFVsY2ZFUEhRWG9YNkU4YzZMcTU3SlZaR0RULXc?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-20T18:02:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Gemeenten zetten zich schrap voor demonstraties bij sinterklaasintochten in Goes, Axel en Arnemuiden",
+    "normalized": "gemeenten zetten zich schrap voor demonstraties bij sinterklaasintochten in goes axel en arnemuiden",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLUE0YmQ2bWc5c1JlMkdGVjdTcG5qSkdaSlBCcWFsTXdBbExQMEhrRUJwd2Z6QzN1T0hyYXc3UUMzakV1RDVsejJFV3owUldJdF9fckR2VFNrdUE5SGQxamFjam5zMjNWLW92aE11NkphMnQtQ3JTTXUxUjBaZnhtcnlDZElaTjQzY1Fyc2tIV3FGUEdmRU5KU09USmR5TUhNaVdYbENGWS1OLW9maDBNSnZVWHQ0aGpWVTlpSlJPWlRSWkVyR3R6VlFDbDRJQXVlRjI0WHBn?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-20T16:54:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Helft daklozen weg van de Belt, Dominique en mede-daklozen willen nog niet vertrekken: ' We gaan helemaal nergens naartoe'",
+    "normalized": "helft daklozen weg van de belt dominique en mede daklozen willen nog niet vertrekken we gaan helemaal nergens naartoe",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSlRoNWptTGZoZUxDMGo4NVhVNXh6cHR5MmxiM1pvaDNPeGo0RlFBaE44WGQyWUtQWW1JSUpfbXdWSWVmNVMwdWk0WTYwLWJZbFJfclB1LVBrZmw2ZnBBeFl1eDBUV0d0cU9VRXNlTXA2S0M5aVgzMGZkQ3NUOVgzV3ZfTUpJdXFaR29BeHM4d25La3dhN3NpcnpueTFCMlNKSVlXN2RKSVJzOU96cDN2SF9iVmgxZy1EY3RGQTd5SEtMVDN6VHkwRVB4UFh5dDJBZnVmTm94LXpkVjNKR2NnbWU0OVJXUDZMeER5S2RCcm16eEVR?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-20T16:40:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Na jarenlange discussie wordt dit de nieuwe reling van de boulevard Vlissingen",
+    "normalized": "na jarenlange discussie wordt dit de nieuwe reling van de boulevard vlissingen",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObzBCRWk3MEdpUGZDakNQbU1ZZjJkX3pTQzB6NzRxdlNnQ2dKY0dlYVp5WlRNSUd4M0JFZUR3a25qa2ozMkxacXM4UlN1dGpNSGU3V3Y3aG5SQ1AtYUFQMnN1TlRLUlliWkNOYXliREQxQVp5Q21SNGpEcFhrQWNDNXZlS201RE4zNXk3ZW1uSDhvRTRvNjVGVEl3MU0wSHBTU0dfOTNGcDVTaW1YY1c5M3FodFVwM2ktUjFScHVMTDU?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-20T16:32:36.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -3043,15 +3043,6 @@
     "foto": ""
    },
    {
-    "titel": "Fietser zwaargewond na aanrijding met doorrijdende automobilist in Roosendaal",
-    "normalized": "fietser zwaargewond na aanrijding met doorrijdende automobilist in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdk5ULWphZXVkU0N6d1ZNSUpzSzNSdWVrSTFrTk52TENpUDFHX0RTNUtrV1NRY0Vhd19tcGRDYmtiZEN2eE9nZlAwZ3VCeFViWVZ5NndmUHI4TnlGWDl4cVRPRVZuX3FJcW12ejY1UVNYZWlfVHR5RWVjNDNDaElmTnp1Tlk2YU4xcmstRV9GczJKOWNp?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T09:45:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Kind op fiets zwaargewond na ongeluk in Roosendaal, bestuurder vlucht",
     "normalized": "kind op fiets zwaargewond na ongeluk in roosendaal bestuurder vlucht",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3hyV1NBVGdCcDh1SFItZ2MyTE5QM2dLR2V3ZnpjemJmbWFrRmJhcUpzV0FiR1pwdURuUmhXRmtoSnVwNU9fb3Jab2ltN0VwREw1emI4eFVkemhPX3lOSEVSTHhOR2JQVGVlRTRQN3d6bmxOMlFCU0VWTllsbHZlZnBrS2hpTXB0VUNaUFVfUlZabFlZLWgxRV9BLWZBaWoxbnpsS05tb3hDeU9IWkRkRnd3?oc=5",
@@ -3084,6 +3075,15 @@
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0JBZllUM2Nnd0RCejdzLTdQQUQ4VENlY0ZYVG5PRG8tVHI0X0RXanpEVFdCd05mZWlzQWt4THQzcVNtYlY3QV9LRUYxZU9XZkhuTFlxMW50XzFFckQtY3o1YTZ5NHdjQThCci12b0tnbU9xZ3BEakdQb1BKV3NVOFpwOGpzSUI2a0wtT3B3UQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T05:59:24.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Automobilist aangehouden na aanrijding met fietser in Roosendaal",
+    "normalized": "automobilist aangehouden na aanrijding met fietser in roosendaal",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZWVMem50b3l5VzBTbVNicFFZZGVKWUt5ejFFWlJjb2xiOUhEWWtBNndESEhPMXlkZ1J2b0d5Rl9RNl9xeWktQWhuWTVTblpVd0FXa2k0VmM4dFRVWU9GTFlVRWJfRXgydXJ1MmFDbmlEb2Y4R2NwUm4tNHE0Snk0ZS1pS0hvOTQwNXlFd3JjS05NWHdxV0NOOXgyNXJfTlc3UENyNGpqcjJiVkF5aTFXU0pMUnktUWM1aU8w?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T01:57:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3133,6 +3133,15 @@
     "foto": ""
    },
    {
+    "titel": "Weekendweerbericht: ‘Het wordt zonniger, maar ook kouder’",
+    "normalized": "weekendweerbericht het wordt zonniger maar ook kouder",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNVl2MllTSW4xTV83WHJySVYxWlRsYmtGdkc4TERPSnJZNmFjR19iT2pRaEk1Y2UwbElJVzVGUC04Y1NZclFHM1BYcnZyeW9ENW9MMlZlTE14QW43aG9oWkdROXZHZnhvcnRKNUdycktHbERJQUlkcWRqMEp2aThSRmNXczk2VmJuV2VNOXhNT2trNzhycHZCWDNxSlQ5Nlp5a1cyeTFudVFCdw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-20T11:02:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Anja (66) sluit na 38 jaar noodgedwongen winkel bij de pomp",
     "normalized": "anja 66 sluit na 38 jaar noodgedwongen winkel bij de pomp",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdF9pTEtyUkNvaHpmaVRvbnFuYnJ1VGlVTFoySkI4N1pRcWlVbXcyWmpIeExxa21hTldaOGt1QlU1ZWR3bUYza25TaExFZ3pqa2tnYUNwaS1FbGRXZy1qLTZyVFFpMXVld3NpYTJHLTBBNHJRWkMxZVllNHZPTXpJLUpZZkwzUlM0RnM5cUp3SFlBQXgzQ1ZxNkxEVUxZTk81U19BTw?oc=5",
@@ -3153,7 +3162,7 @@
    {
     "titel": "Winkelcentrum in Roosendaal moest uitbreiding jarenlang opschuiven door Bergen op Zoom: een kijkje achter de schermen",
     "normalized": "winkelcentrum in roosendaal moest uitbreiding jarenlang opschuiven door bergen op zoom een kijkje achter de schermen",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNN3hhM1dwdDl3VjR3SXYwYm1XUUlYTWlDNkpxVmVlQlRoUUNabG0weVl2d0hpcnNpaWxmaUx4cmEwTkllZk9mVDRaYWZmUmZsc3VBQVZUR1hOX09hbFZwOGcyWVhUcEw5Z1p3S2ZUa1BhR2lWVW9OaXBIVEpoaU16SzA5WnFzN21BeV9ybU54bVBvWWZlQzRLb1oyOXlYT05Jenk0QWRyWXA4SDJqNjluR2cyV1EwTHV1TkFnME9DTmJ6UFY0eF9uT1NWeWJHbjk4aDk2Q0lRNFYyWEFpNlA2cl9vZEtrckpGaHBKdU9jTXdUWEJl?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYk04ZXNzUTd1ZFlKOEgwT29xVVZvWlB1MUpYdThFY25SZzZaSy1wU1NhZHFkZ1JYaUV0Y1dZN1RyT01mVUMwSmJ5eUF2ME5ad3ctWkRKdHhqTDF4a2Q0cGY1ZW1uUzRIbTRaNVVQanBTMUZUVjREOEZBS1B6ZUx4NEYxNG1YUlI1QUFpNnJwVGNrcEVqWk13b3NSTDlFWEpoVUZRSF9Ybms3cUZ3ZU9qSHpVakNqMDBOVVZpTFVTejcxUF9qZV94a1NpemQ0ZlZZZTd4MmRnc3BDVVBXOGd3c09Ed3Y1blF4d1JyaF9paklXVEE?oc=5",
     "samenvatting": "",
     "datum": "2026-11-20T05:32:00.000Z",
     "bron": "Google Nieuws",
@@ -3162,7 +3171,7 @@
    {
     "titel": "Restaurant Keienhof net over de grens is smaakvol op alle fronten, van keuken en servies tot ambiance en bediening",
     "normalized": "restaurant keienhof net over de grens is smaakvol op alle fronten van keuken en servies tot ambiance en bediening",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRXh1bEJvREdXRHhGbE5Ddlc5eVdlZ0Z2V21STkpNS1pjczhOTFRyc2N4YVI3aVZWSm1vMlBSRnh6RjVIOVF0M0U0S3lYb2phYWFDVWl0SWdOeTZheWRVOWVmMkV3d3JUVmpOazBtaVpqNUJBXzFJVnN0VnlnTlBCY2dONllXVkN6Q0dqM3lUSjRpX0JRbHFZenhOT3BXRWp2ZkhhdmdWTjJMdF9kS20xSlZ4SWtKTy1ZbHRYb2FBejdCR1d5QkZOOVItN3E5Mzlody1JRm5TdUE1UjFta0hDQU5fMWsyM2c?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ2lScGNNQnJOa0phSU54bjVyVWtWdkJkQmNucUczeTF1RkJySDF3ZzM4alZwMDM2MDB4TlJIY05hM1RtQWhDUnl3NVBwZmhENFJEeTlpZTJ2bXdsSVl1cTdzU0RpTUR6a3B5LVZCRW4yTXVSU19pNHlCQnpmNVZ1dnVfQWQ2VmdhdFBRQW91amdESW1TMlJ6ajdkV09zMFlodEFJZkttdUp0QVFRUF9IaEhGN1hRaEZISnByVGUtQm50Zml6Y0hhbFRVTXNuMEVac1dWNUxuRlBLR3M1QVlJdlhUU2NNUVJEQ20zV05CVQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-19T17:00:42.000Z",
     "bron": "Google Nieuws",
@@ -3210,15 +3219,6 @@
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFVrOXluVC1wOW9yQzhWb2VYZzZHQ2x1YXo0YWpKeF9GM2RvRVNyMzdVRUZEaHNrYkhrZlFYTHJJUk03NldnYUJXQnRlZ3ZWc2F4VExXS0plcXJTX3RDWk16cnF1aWc4cm5YcHBNWkdNQjRTbXJ1MEpXbFdrc2tvelNUc2lhNzVHMl9xUUp5MHpVLWlEdlc0R2o5bEpsWkNyT3c?oc=5",
     "samenvatting": "",
     "datum": "2026-11-19T11:04:28.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Politie redt roofvogel van A58 bij Roosendaal",
-    "normalized": "politie redt roofvogel van a58 bij roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWhVMlBVVXZQc3dpSC1JQldjZ1NYcGJ5V28xNVg3UTlxcUtndEpkRWRPeTBzdDVCMGV1UXQxU012dDBoUEJQS1Vhd0VzV0xzMS1xTjdhdk03Zm15RXhjRFBFUlJPM0ZWMTNBMG9XcjJ1NDliQW1yZ2g2Q2VxYzhSZmJvMEh1bEN2RG04?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-19T11:04:04.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
