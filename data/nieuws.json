@@ -1,8 +1,26 @@
 {
- "gegenereerd": "2026-11-22T21:47:54.053Z",
+ "gegenereerd": "2026-11-22T22:13:12.303Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Democraten behalen grootste meerderheid in Amerikaans Huis sinds 1992",
+    "normalized": "democraten behalen grootste meerderheid in amerikaans huis sinds 1992",
+    "link": "https://www.nu.nl/verkiezingen-vs/6417450/democraten-behalen-grootste-meerderheid-in-amerikaans-huis-sinds-1992.html",
+    "samenvatting": "De Democraten in het Amerikaanse Huis van Afgevaardigden hebben met minstens 258 zetels hun beste verkiezingsresultaat in decennia behaald na zetelwinst in North Carolina. Het gaat om de grootste meerderheid in het Huis sinds 1992.",
+    "datum": "2026-11-22T21:55:14.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/zzbxet6ai26j_sqr256/2693/567/4875/4875/democraten-behalen-grootste-meerderheid-in-amerikaans-huis-sinds-1992.jpg"
+   },
+   {
+    "titel": "Oekraïne meldt burgerdoden na Russische aanvallen op voorsteden Kyiv",
+    "normalized": "oekraine meldt burgerdoden na russische aanvallen op voorsteden kyiv",
+    "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5666602/oekraine-rusland-aanvallen-voorsteden-kyiv-burgerdoden",
+    "samenvatting": "Bij Russische aanvallen op voorsteden van de Oekraïense hoofdstad Kyiv zijn zeker zes mensen om het leven gekomen en raakten meerdere mensen gewond. De Russen troffen zowel energie-infrastructuur als burgerdoelen.",
+    "datum": "2026-11-22T21:53:19.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/ANP-576520701.jpg?itok=08fBvvl1&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1278&amp;cropHeight=719&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
    {
     "titel": "You Can See Everything passeert grens van 100 miljoen dollar",
     "normalized": "you can see everything passeert grens van 100 miljoen dollar",
@@ -79,7 +97,7 @@
     "titel": "FC Utrecht ontslaat coach Correia al na vier maanden wegens slechte prestaties",
     "normalized": "fc utrecht ontslaat coach correia al na vier maanden wegens slechte prestaties",
     "link": "https://www.nu.nl/voetbal/6417447/fc-utrecht-ontslaat-coach-correia-al-na-vier-maanden-wegens-slechte-prestaties.html",
-    "samenvatting": "FC Utrecht heeft zondag trainer Anthony Correia al na vier maanden ontslagen. Hij wordt verantwoordelijk gehouden voor de belabberde seizoensstart van de Utrechters.",
+    "samenvatting": "FC Utrecht heeft zondag trainer Anthony Correia al na vier maanden ontslagen. Hij wordt verantwoordelijk gehouden voor de belabberde resultaten van de Domstedelingen.",
     "datum": "2026-11-22T20:35:31.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/e9yxxfdaz732_sqr256/751/0/2362/2362/fc-utrecht-ontslaat-coach-correia-al-na-vier-maanden-wegens-slechte-prestaties.jpg"
@@ -254,24 +272,6 @@
     "datum": "2026-11-22T18:10:07.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=81ab5c18-aa5f-4328-8f29-ff4f6c3146b1"
-   },
-   {
-    "titel": "FC Twente blijft koploper in Vrouwen Eredivisie, ook Ajax wint",
-    "normalized": "fc twente blijft koploper in vrouwen eredivisie ook ajax wint",
-    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666575/fc-twente-blijft-koploper-vrouwen-eredivisie-ook-ajax-wint",
-    "samenvatting": "FC Twente blijft ook na de elfde speelronde de koploper in de Vrouwen Eredivisie. De recordkampioen won zondag op bezoek bij Feyenoord met 1-0 en heeft nu 25 punten. Ajax is de nieuwe nummer 2 en heeft na de 5-0-overwinning bij De Graafschap ook 25 punten. PSV speelde thuis gelijk tegen PEC Zwolle (",
-    "datum": "2026-11-22T18:07:15.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126126-1.jpg?itok=vY1Nl3MD&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Miley Cyrus deelt eerste trouwfoto's: romantiek met een vleugje rock-'n-roll",
-    "normalized": "miley cyrus deelt eerste trouwfoto s romantiek met een vleugje rock n roll",
-    "link": "https://www.rtl.nl/boulevard/artikel/5666577/miley-deelt-eerste-trouwfotos",
-    "samenvatting": "Het was een geheime bruiloft, maar nu mag iedereen het weten: Miley Cyrus (33) is getrouwd. De 'Flowers'-zangeres deelt op Instagram de eerste foto's van haar bruiloft. Met een reeks stijlvolle zwart-witbeelden geeft ze haar volgers een kijkje in de bijzondere dag. En ook de trouwlocatie is niet de ",
-    "datum": "2026-11-22T18:05:30.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/miley%20cyrus.jpg?itok=7pHUxRy_&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    }
   ],
   "binnenland": [
@@ -548,6 +548,15 @@
   ],
   "buitenland": [
    {
+    "titel": "Democraten behalen grootste meerderheid in Amerikaans Huis sinds 1992",
+    "normalized": "democraten behalen grootste meerderheid in amerikaans huis sinds 1992",
+    "link": "https://www.nu.nl/verkiezingen-vs/6417450/democraten-behalen-grootste-meerderheid-in-amerikaans-huis-sinds-1992.html",
+    "samenvatting": "De Democraten in het Amerikaanse Huis van Afgevaardigden hebben met minstens 258 zetels hun beste verkiezingsresultaat in decennia behaald na zetelwinst in North Carolina. Het gaat om de grootste meerderheid in het Huis sinds 1992.",
+    "datum": "2026-11-22T21:55:14.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/zzbxet6ai26j_sqr256/2693/567/4875/4875/democraten-behalen-grootste-meerderheid-in-amerikaans-huis-sinds-1992.jpg"
+   },
+   {
     "titel": "Russisch schip gezonken na vermoedelijke droneaanval in Libische haven",
     "normalized": "russisch schip gezonken na vermoedelijke droneaanval in libische haven",
     "link": "https://www.nu.nl/spanningen-oekraine/6417448/russisch-schip-gezonken-na-vermoedelijke-droneaanval-in-libische-haven.html",
@@ -807,15 +816,6 @@
     "datum": "2026-11-21T18:48:23.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/2/A/G/W/Q/5/9Jw1MNsUq8mAxa5KNMkFMRL6Q3hepCi6hWwbymz/176x196x976x549-976x549.webp"
-   },
-   {
-    "titel": "Beruchte drugsbaron 'El Chapo Isidro' opgepakt na chaotische militaire operatie",
-    "normalized": "beruchte drugsbaron el chapo isidro opgepakt na chaotische militaire operatie",
-    "link": "https://www.nu.nl/buitenland/6417362/beruchte-drugsbaron-el-chapo-isidro-opgepakt-na-chaotische-militaire-operatie.html",
-    "samenvatting": "De beruchte Mexicaanse drugsbaron Fausto Isidro Meza Flores is in de nacht van vrijdag op zaterdag gearresteerd. 'El Chapo Isidro' stond op de FBI-lijst met de tien meestgezochte personen. Voor zijn aanhouding werden voertuigen in brand gestoken, vielen schoten en moesten inwoners dekking zoeken.",
-    "datum": "2026-11-21T18:35:37.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/198x8dja32li_sqr256/1611/0/2062/2062/beruchte-drugsbaron-el-chapo-isidro-opgepakt-na-chaotische-militaire-operatie.jpg"
    }
   ],
   "politiek": [
@@ -1295,7 +1295,7 @@
     "titel": "FC Utrecht ontslaat coach Correia al na vier maanden wegens slechte prestaties",
     "normalized": "fc utrecht ontslaat coach correia al na vier maanden wegens slechte prestaties",
     "link": "https://www.nu.nl/voetbal/6417447/fc-utrecht-ontslaat-coach-correia-al-na-vier-maanden-wegens-slechte-prestaties.html",
-    "samenvatting": "FC Utrecht heeft zondag trainer Anthony Correia al na vier maanden ontslagen. Hij wordt verantwoordelijk gehouden voor de belabberde resultaten van de Utrechters.",
+    "samenvatting": "FC Utrecht heeft zondag trainer Anthony Correia al na vier maanden ontslagen. Hij wordt verantwoordelijk gehouden voor de belabberde resultaten van de Domstedelingen.",
     "datum": "2026-11-22T20:35:31.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/e9yxxfdaz732_sqr256/751/0/2362/2362/fc-utrecht-ontslaat-coach-correia-al-na-vier-maanden-wegens-slechte-prestaties.jpg"
@@ -1307,7 +1307,7 @@
     "samenvatting": "Carlos Alcaraz heeft in Turijn voor het eerst de prestigieuze ATP Finals gewonnen. De Spaanse tennistopper versloeg in de finale van het eindejaarstoernooi Alexander Zverev, de nummer 1 van de wereld: 6-2, 7-6 (7). De 23-jarige Alcaraz, de eerste Spaanse winnaar sinds Alex Corretja in 1998, is na No",
     "datum": "2026-11-22T19:25:05.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/7/D/r/Q/x/F/yU1DKhyjLnCmUzNpGqoLwzB92dNsCSKaz7SPkEZ/8x350x3984x2241-1024x576.webp"
+    "foto": "https://images.cdn.nos.nl/1/6/T/B/W/W/YWchbu7B2gSkGRZ4va8maWbVdhzbaS9BeBDtwAC/4x2x3984x2241-1024x576.webp"
    },
    {
     "titel": "United na vroege rode kaart kansloos tegen Liverpool bij debuut Pochettino",
@@ -1322,7 +1322,7 @@
     "titel": "Manchester United dieper in crisis door verlies bij Liverpool na vroege rode kaart",
     "normalized": "manchester united dieper in crisis door verlies bij liverpool na vroege rode kaart",
     "link": "https://www.nu.nl/voetbal/6417442/manchester-united-dieper-in-crisis-door-verlies-bij-liverpool-na-vroege-rode-kaart.html",
-    "samenvatting": "Manchester United heeft zondag andermaal een pijnlijke nederlaag geleden in de Premier League. De ploeg van de debuterende coach Maurico Pochettino verloor na een vroege rode kaart met 4-0 bij Liverpool en staat nu negentiende in de Premier League.",
+    "samenvatting": "Manchester United heeft zondag andermaal een pijnlijke nederlaag geleden in de Premier League. De ploeg van de debuterende coach Mauricio Pochettino verloor na een vroege rode kaart met 4-0 bij Liverpool en staat nu negentiende in de Premier League.",
     "datum": "2026-11-22T18:22:56.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/qzixkwxavg05_sqr256/1164/0/4809/4809/manchester-united-dieper-in-crisis-door-verlies-bij-liverpool-na-vroege-rode-kaart.jpg"
@@ -1919,11 +1919,11 @@
     "foto": ""
    },
    {
-    "titel": "Melkwagen belandt in berm en schaart op fietspad bij Waterlandkerkje",
-    "normalized": "melkwagen belandt in berm en schaart op fietspad bij waterlandkerkje",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdW81am95ZWZHaGl5bnJLY3FVNDU2b0tIM1kwS1c1UE03UXVGSmx6Mnd2dXNXWlhKQkFpRmNvU19tZkR6MkhlOE8wSE9qeUdtbU5hTE0tclhqbThvNWNNUUJRLXA1VDFCdWpaN1NlNHp3NWh0ZWlpdXlZTTFYR1hKdDg0aUxuR0VTYjRTTUVJaVNvZE9xWkpOYWtGVHQtS2ZnT1RCb2s3Y2Q1UUgzUE5lVTAxWQ?oc=5",
+    "titel": "Dickensmarkt in Veere trekt veel volk (en iedereen zoekt naar een parkeerplaats)",
+    "normalized": "dickensmarkt in veere trekt veel volk en iedereen zoekt naar een parkeerplaats",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQjF3d21fVm9xaWJGRWpYcmJqUkIzZlNPNW4wc24zMFpoRWVvTUlVUkZlTEVzaXB2VUgwQmdsR2VwQk9wenRsZlo5T3Z2UmJES3F3YnJ2U3pDY2lMVlBRZS1lSmpOSEVDbnBJamxnQmpITmpFSVA1WEdlNlhEa01UWDM2andGX3ZKQVBseXk0dThqUnRucTBSdzZEcUR0ay1tbGN0YmUyMEtpV05UUFlsSTdIUQ?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-22T14:22:54.000Z",
+    "datum": "2026-11-22T16:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -1933,15 +1933,6 @@
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHdvMVp5T28xY3g0UDJBVlpYNnhkeThGWEpNa1h0cUxfXzlNUzUwOHEwWldpLU1xa2xNT2Iya29YRVZiRm40SDJhNGZodVdyVmFkQS16QmtsWkg5a0V1X2hYdmFDVlZvelFtbHc0M05Fc3l3VjJ5XzNVWTkyRVJiYXNiVlBMdmhybFRfMTNfdXJUUQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-22T13:36:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Vrouwenkring Zeeuwse Cirkel populair: 'Beter stof op de kast, dan stof op je hersens'",
-    "normalized": "vrouwenkring zeeuwse cirkel populair beter stof op de kast dan stof op je hersens",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaDBCcXdya1BsZmt4N0h3ZjBsRnowQlBoWFh1UDVqaDdhdXZzUzVOWVZjR1R0dllZX0V1Zk0zeE4ya19sYWhrN2pVZm5vQ2kyYTlhREdvSUNEazhYUl9QbGZZOXVQMzZyc25OeThZb1VDZ25COUVPcFFUQS1KQ2gtekViREJrOVQyRGc3c0JUUV9hN2VtamNUY052cFN5d0ZYUjRYMDJ4Skh4dWQ4eUdFTm01TXJUc2F2R0x3VEtTYnhJVFFH?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-22T12:58:34.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -1978,15 +1969,6 @@
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ3NRZGI4MnlZZ2tZU3FLUlJLN0h4QS1RbnVGRWpyQW9Xc0JQTHYySlBLZ0pEX0x2aTZMS1UwU2wxd2lMeEs0UG11Wnp2S0FNT2NDaC1URUdIRHE1WlZtNFNaTTVYQXVfajRSdzBaVHlsMFJielMxY1pydUttckF2S0pPZ2ZIZEpzM0lFTjlza1JVRHM?oc=5",
     "samenvatting": "",
     "datum": "2026-11-22T10:10:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "TOP gaat weer onderuit, ONDO wint na comeback van TOGO",
-    "normalized": "top gaat weer onderuit ondo wint na comeback van togo",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd3o0OWgwaFkxVlkzTl9wdDlVVXJwWXIzZnVia2hnWEtLNHdiOHhNZzhqRWNkRkFkUXRoZHh4N1U4bmpOTXRDV3J4b095UlFweDZ5NTRkTEtZNV9HOVJZa19rb2YwQ1ZmWC1lcVBYZFFiZHRNZlRPb1dwMDlrbmlUMHd3QnpLN2QwbGRZX2Nscm1JSDBEMHFfWnBXS2hTYUZx?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-22T09:59:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2045,15 +2027,6 @@
     "foto": ""
    },
    {
-    "titel": "Provincie wil toekomst voor Zeeuwse taal, maar Partij voor Zeeland denkt daar anders over",
-    "normalized": "provincie wil toekomst voor zeeuwse taal maar partij voor zeeland denkt daar anders over",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbnV2ZWgwV3lYN2VUaGc1bGtiWlY5Qzh5dEZvMFh6eFJWOVJPaUFMbklkaVRYWGo3Z2wyNUk2ZHZ4bTFjMTVoWEd3RU85X2FRclNmN3FnMXpYZDJQeUN4T3RmRlJocnlZV0IzUkVxZXA4Skk3UEhmRmMxOGc1OVcxSmRUMVdDWkNDczFuc2p0NjNqZS10N014U2J4SnFuSVR5cXVxNi12cjRRWFp4OGVvR1Boc3ZYTy0zUUw5Z01BRHpnbXhXbVZoWGlCdE9qZw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-22T07:39:03.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Wat De Klerk niet lukte krijgt Hiensch wel voor elkaar met Kloetinge: winnen in de Tweede Divisie",
     "normalized": "wat de klerk niet lukte krijgt hiensch wel voor elkaar met kloetinge winnen in de tweede divisie",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSEk5N3FFYXpYSFVLOC1MNllxTGNCVVNWN19xMktfUmtxVjhxMk1hU1ZERjVrVVI3S2FJS0h1SXg5ZU9TV0tHUzVkVGpqQnY3TjFvQXllYXJzODVnZzJYUHhTaDVvVEVsSmhNZEIwUFEtNDQzRTQ5M29FZUtkcHlmYUFyZGE4VlhMbzBBTDNwekowdDFRbkxkZ1l3V0FyRDNzeHFWTFlYN2NYUmhzQWtlUDhzY2NjbTc0b3hhZDFCbWZRVUI5S3kyc1lLcVpKR2dSblYzRUp6VVc?oc=5",
@@ -2077,15 +2050,6 @@
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFVZNFBJc1A2TVptMGRVMXZydnptSnVILTBJMGtxNzAwX1FaNDdBOUdhb2FnR2JjYXVMeDFXejFJcFFHUTJkZ2RESXF0ZGQ3TXl2MTQtS1Y1M3pzWVlNN0xQVG1tNV92Ui0tR0dkSFdjZi02MkhLTFpDWTdqd2NHN3NHbFN0eW1pWmZCYkx0NFdsM0ZN?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T18:26:47.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Hij ging al ‘undercover’ zijn nieuwe gemeente Reimerswaal verkennen: waarom Wouter van den Berg burgemeester wordt in Zeeland",
-    "normalized": "hij ging al undercover zijn nieuwe gemeente reimerswaal verkennen waarom wouter van den berg burgemeester wordt in zeeland",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPczc3THo1bU5CY1dtQWlMVDhBOHJETGZiQVZoa041TU1vaUhaVWpQZm5fNkp0dW5LTWg5Q3UtckFZbUh3NnY4LW5pak9tbU1iaExaekNiejd6UkhNWEpLMDVxampYOWZqcGxkSFdxTGdLY0FUN01UZU5GajZqcDQ1NGlmU2dQeHVybVdxNF90SXZ5Y3ZaX2UtOXQwcU9mSldiQkhzYk9oaWY4NmRYVnBReEd0VDd6bzRWODNDbUtaMVNCZUdUS2c0bFlFelJmSldTMTh5SmpwbmtzekRkdW9ObUxlV0huSWhjQVQ0Y3ZLck56V3kxOHc?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T17:51:40.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2122,6 +2086,15 @@
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLS1YSW5iU1dKTlhnQ0E2ano4M0NqOWd6WmNqRVE1Vnc2c0RyTVE5Nm5wODlXcm0xRElTSVQ3X0NzMW9kanZZU1lSMTNwVjZsWllocVVWVDY2SU55b1p0UXNuTUF3WnVzblcyZXJoSERjYzJ0UUNGaVVFM2w5UVFXM1ozM2V5VXdzUmFaT05FRjdZZw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T15:09:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Actiegroep tegen Zwarte Piet bekogeld met eieren bij sinterklaasintocht in Arnemuiden",
+    "normalized": "actiegroep tegen zwarte piet bekogeld met eieren bij sinterklaasintocht in arnemuiden",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN05IMUtSd0ItaHg5algwdkpPcXYtTkZyY0xUV2dsc3FHS1pJcVcwU19ES2hkQ0NTQmVnZVRLaUpVZ1VFb3dLS0RvQXVOVWFKMW45b3FUMnktaUJvSXNVaEZGS0JSbkg2TW5mZTFfMWlVRjJTUE5XVnZSeUY1YmlRRml3N21vd1piTHlkcS04amNqY0tjSnhwUFkxalJLU0dOTEZWNzh1R1N1cm5TYkNFTl94YWl6RUdjQ1VLbGJoeXpNVklVazNlZHpjRHJ1cnFlLUE?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T14:46:15.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2171,11 +2144,38 @@
     "foto": ""
    },
    {
-    "titel": "Drie kittens gedumpt in Wilhelminadorp, langdurige reddingsoperatie volgt: ‘Het zat ons niet lekker’",
-    "normalized": "drie kittens gedumpt in wilhelminadorp langdurige reddingsoperatie volgt het zat ons niet lekker",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMF9BNFJhT2NDbDlMeW1UMnlBVEhJZkdnQms5cGxNS3JVUXBYZjhPUXhzUl9NUWZVdk5QSmJtTGFKYVVidThrN1owTGRzMC1vQVZ1Ty1pTWtjWjJWekFZTUJaTk52VVJlekpoZHV6MHdYcnRZcnJFM1UyVDFxUEdoNk5RSGZ4RFkwWndwaVN5Z0dzQ01HMHNySjlrcE1jOFhiam9jTVl1WkxZS0d5ek5rbDh6UFlTZlZXbFpoX3gxWVFQYWdhZmtMNmtR?oc=5",
+    "titel": "Auto belandt op vluchtheuvel bij Zuidzande",
+    "normalized": "auto belandt op vluchtheuvel bij zuidzande",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWZ2QnNwX1FoZGVNNXZBQnZqVVljOXhzYkhGaFdpUXJ1VGtNN2swOUwzaHZQbnZHZjR1OWdkaktTd1h5bmI1LU81ZEh3RXlpRDRRalNlMTdLVW0tZWRCTXF0S1NJdlFFQ0ZzZ0hJYmxmZ3dqZDkzZjVyZFdSaFZwblZZRHpsNGpH?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-21T11:00:58.000Z",
+    "datum": "2026-11-21T09:03:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Provincie wil mogelijk meer ruimte voor huisvesting arbeidsmigranten in buitengebied",
+    "normalized": "provincie wil mogelijk meer ruimte voor huisvesting arbeidsmigranten in buitengebied",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRHpOekRxMTJ5d1JsMkZIeDdxV3hyRGhZU21mS3h4akFDTC1jM2VUQjJ4TXJ6QUt1czVCZ2lZYUt5UUtSS2tIcjBKcmJnQVhNZ1RyclpxNl84V1c4NWJWWEttQ09Fdi1qVEFiMmhwSkxmcG4tN2lCMnZBRmZQc05kajhPZzA5emRWTTZHRVN4LWNXM0MtbjRjYTlMWDRzcjVLRTNoTElrTEg2RFNZU1hBNzh1V3hwekZUTmk0R0E1WDU0eUlhUmVhaQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T07:25:30.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Nog meer ellende op het spoor: hele dag minder treinen tussen Goes en Bergen op Zoom",
+    "normalized": "nog meer ellende op het spoor hele dag minder treinen tussen goes en bergen op zoom",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNazdFdzJmTVBjenctRnVxelppN3Yta1FPNnpVdlB2Y3JGandqZlJnWDJlMkk3SlJOWWF4TUYwMmJMZk9EQzk5cEhhRV9Ba1NaSkNjcFRWRnJIal83SFlYRERQcWtDNnlpdzlFSEx3Skg4dGd5MnVZM1dBTkN1S2hIa0FQWEQ5RGVSYnM1U24tOF9IX2JjaHR0T2lPQ0s3T1BpaXNKY2J6a1VueW5EQ25PM1k1b2ZCVzhT?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T06:52:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "SGP vreest ‘boerenmolens’ in Zeeland nu regels kleine windmolens naar 23 meter gaan",
+    "normalized": "sgp vreest boerenmolens in zeeland nu regels kleine windmolens naar 23 meter gaan",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEJyVjNBSUNZVU04dEJNeGthcFNodUNaZmw4SThzSTlETEpmRFFIZWEzS3p5cWx3YTQ0eVVNaXBEUXFrMUlNSEotelBiV2hpbXh1TlYyWmZza2pDRllFRXZuc3Y0Q3hsVE5UdmZNcF85a1FoeFBBSGpDWmg1ODh0S2Y5aklnd29NRUwxcTBaenpWcVdOUUotZlNMcThRUUtvM05LcFJhb2FTVFU2RXBXajA4TTlxNDMyMzF6R2Q3cVphWWs?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T06:30:35.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -3043,6 +3043,15 @@
     "foto": ""
    },
    {
+    "titel": "Twee fietsers aangereden in Roosendaal, automobilisten rijden door",
+    "normalized": "twee fietsers aangereden in roosendaal automobilisten rijden door",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWhqcE03c0Z6T1Z4dXhocVBVeUFlN0JNU1hQdGNQZzFCdFgxVVlfTUF1bWo2dmdtR1FYamlTa1NyUXA3a2lwMWlENUlDWFhqOU04ZzRCeC04eGg5ZC10SDJLNFMzM3Y4YWwzaFVJLVY3czJHc3hUWndIZ0VmaWpwTm5VYzhUZmtuMEY2YjVFMUVxaENPZFJ2MnBudHE4N20zX0ltc3o3UjdZTzk2NjJBbkFOakx3Zw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T10:47:23.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Roosendaal en Enexis slaan de handen ineen tegen een vol stroomnet",
     "normalized": "roosendaal en enexis slaan de handen ineen tegen een vol stroomnet",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzdGV0lwMURMaTRUdU1GQ1ZXUDhtMm1iVzVnN05sdlNLTmx0czU3bVBmeHQ0OGwzRDFoeVBvNV9JN1pPU19ueHNtRzhlb0VzTzBrZnVqYlhEcTZXOGxKQUpwUGc2RTdXeVhkY2wyeHpWdW55NEJHTTFrUUxaWUxVYzFRMjVHYmlZUl9tQVk2OURiWkJraG9vdXdIZ2RUZnlXWXF2bWQ0SjBVdkUxcGVDWg?oc=5",
@@ -3063,7 +3072,7 @@
    {
     "titel": "Fietser ernstig gewond in Roosendaal, auto gaat er vandoor",
     "normalized": "fietser ernstig gewond in roosendaal auto gaat er vandoor",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamxBRExiV1hud0J4MHdWUEtYWVdtdlhMTnh6akJmTlFpVFB1Rmlyc2ZGMzljclNWN2dGRjQ5enAwTGY1RkxUcDc2Zk9GaHVjNDNINkhRZnpOR1paYjZDRC03UTdWR0NZY1FKMFRCT2xleUFtVmhDZjc4ckdZMml2ODd3NFpFemJBbkxrZUdVUHpqNldSOHRSSmM1R0N1TTdmRFVPMTJHRXM0enc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1VFSDBBTzJsOVdJY1lQNnlSZGxJcTE3Qmk3eDVpSTFzSnRydWhEMllsejRJb242cUt2c2hHVzlmeXF0Yjhtd0FRMUZhbVBmR1ItOEdQVjNBSmxIZGNXWXQ0TW5IeTBROFYyd1ZIeVN6VGIxMGtYRC12RGhDRlYwMnBmOUdsbGxzU0VhZlJIdHNoVG1BdFVmb1lUSWluWHlpWFBjVnY5Y2xVZw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T09:56:14.000Z",
     "bron": "Google Nieuws",
@@ -3147,15 +3156,6 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdF9pTEtyUkNvaHpmaVRvbnFuYnJ1VGlVTFoySkI4N1pRcWlVbXcyWmpIeExxa21hTldaOGt1QlU1ZWR3bUYza25TaExFZ3pqa2tnYUNwaS1FbGRXZy1qLTZyVFFpMXVld3NpYTJHLTBBNHJRWkMxZVllNHZPTXpJLUpZZkwzUlM0RnM5cUp3SFlBQXgzQ1ZxNkxEVUxZTk81U19BTw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-20T09:51:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Gaslekkage op Runningstraat in Heerle",
-    "normalized": "gaslekkage op runningstraat in heerle",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM19tcDlyWUlNcFZSZkFETU0yVzJqaS1lWG5ncktsTzdqelFWYk1NSFMyV0toNEpjbW9pU2ZvRjV3b2dDcUo5SUF2Mmp3TlhvN1hBVWh6RUJOTWk3eXB0cGxaQ3pvbkRuR2FwcHdPN3ZibnBVVzg4RkJBSE1UcXkwWWZwallybWFzM1hHcWw5QXNtenBnM0J4YQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T08:24:26.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
