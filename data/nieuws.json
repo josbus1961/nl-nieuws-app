@@ -1,8 +1,53 @@
 {
- "gegenereerd": "2026-11-22T08:42:20.291Z",
+ "gegenereerd": "2026-11-22T09:07:41.222Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Koopje scoren tijdens Black Friday en niet genept worden? AI is je vriend",
+    "normalized": "koopje scoren tijdens black friday en niet genept worden ai is je vriend",
+    "link": "https://www.rtl.nl/nieuws/economie/artikel/5665927/koopje-scoren-bij-black-friday-ai-je-vriend",
+    "samenvatting": "Kortingencircus Black Friday is volop losgebarsten. Als je op zoek bent naar een koopje, voor jezelf, of alvast voor Sinterklaas of kerst, dan is AI je vriend. Want met AI kun je niet alleen prijzen vergelijken, maar ook nagaan of een aanbieding echt zo voordelig is als een winkel wil doen geloven.",
+    "datum": "2026-11-22T09:05:11.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/18/blackfriday_etalage.jpg?itok=BbuQcSb3&amp;offsetX=45&amp;offsetY=96&amp;cropWidth=866&amp;cropHeight=487&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
+   {
+    "titel": "Jaren 90-serie Vrouwenvleugel keert terug als toneelstuk met rol voor Inge Ipenburg",
+    "normalized": "jaren 90 serie vrouwenvleugel keert terug als toneelstuk met rol voor inge ipenburg",
+    "link": "https://www.rtl.nl/boulevard/artikel/5666515/jaren-90-serie-vrouwenvleugel-keert-terug-als-toneelstuk-met-rol-voor",
+    "samenvatting": "De populaire gevangenisserie 'Vrouwenvleugel' maakt na ruim dertig jaar een comeback. Deze keer niet op televisie, maar in het theater. Inge Ipenburg (69) speelt een van de hoofdrollen in de voorstelling, die vanaf november 2027 langs Nederlandse theaters trekt. Dat meldt het AD.",
+    "datum": "2026-11-22T09:00:26.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/ANP-574949508%20%281%29.jpg?itok=Icutr8pD&amp;offsetX=0&amp;offsetY=104&amp;cropWidth=1998&amp;cropHeight=1124&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
+   {
+    "titel": "Influencer terug in Nederland na verblijf in detentiecentrum VS",
+    "normalized": "influencer terug in nederland na verblijf in detentiecentrum vs",
+    "link": "https://www.rtl.nl/boulevard/artikel/5666514/influencer-terug-nederland-na-verblijf-detentiecentrum-vs",
+    "samenvatting": "Influencer Vera Dijkmans is terug in Nederland, bevestigt haar moeder na berichtgeving door Omroep Brabant. De 29-jarige Nederlandse werd eerder deze maand aangehouden op luchthaven Newark in New Jersey. Sindsdien verbleef ze in een detentiecentrum van de Amerikaanse immigratiedienst ICE.",
+    "datum": "2026-11-22T08:54:13.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126070-1.jpg?itok=vw9Ex6zA&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Lewis (56) zwemt door Straat van Hormuz: 'Ook natuur slachtoffer van de oorlog'",
+    "normalized": "lewis 56 zwemt door straat van hormuz ook natuur slachtoffer van de oorlog",
+    "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5666507/zwemtocht-door-straat-van-hormuz-zeeleven-aandacht-oorlog-het",
+    "samenvatting": "Een 56-jarige Brit heeft een driedaagse zwemtocht door de Straat van Hormuz gemaakt. Hij deed dat om aandacht te vragen voor de gevolgen van de oorlog met Iran voor het zeeleven.",
+    "datum": "2026-11-22T08:46:11.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/ANP-576345710.jpg?itok=dJnd9RYP&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Model Vera Dijkmans terug in Nederland na elf dagen detentie in VS",
+    "normalized": "model vera dijkmans terug in nederland na elf dagen detentie in vs",
+    "link": "https://www.nu.nl/buitenland/6417397/model-vera-dijkmans-terug-in-nederland-na-elf-dagen-detentie-in-vs.html",
+    "samenvatting": "Vera Dijkmans is zondagochtend geland op Schiphol. Het Nederlandse model zat sinds 11 november vast in de Verenigde Staten nadat ze door immigratiedienst ICE was opgepakt.",
+    "datum": "2026-11-22T08:40:13.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/raxxjngal2qy_sqr256/0/0/1170/1170/model-vera-dijkmans-terug-in-nederland-na-elf-dagen-detentie-in-vs.jpg"
+   },
    {
     "titel": "Paris Saint-Germain vreest lange uitschakeling geblesseerde Doué",
     "normalized": "paris saint germain vreest lange uitschakeling geblesseerde doue",
@@ -31,15 +76,6 @@
     "foto": "https://images.nu.nl/m/1ncxn78amwr3_sqr256/504/0/1080/1080/gemaskerde-ice-agenten-slepen-reizigers-weg-op-luchthaven-seattle.jpg"
    },
    {
-    "titel": "Influencer Vera Dijkmans terug in Nederland na detentie in VS",
-    "normalized": "influencer vera dijkmans terug in nederland na detentie in vs",
-    "link": "https://nos.nl/l/2640542",
-    "samenvatting": "De Nederlandse influencer Vera Dijkmans is terug in Nederland. Vanmorgen kwam ze aan op Schiphol, na elf dagen in een Amerikaanse cel, meldt Omroep Brabant . Dijkmans (29) werd anderhalve week geleden opgepakt door immigratiedienst ICE omdat ze zich niet aan de voorwaarden van haar visum had gehoude",
-    "datum": "2026-11-22T08:19:08.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/1/8/1/B/e/f/DJ1g8srbZaqsmmsqMqSwopSquYZS8PKX13qeZH5/0x508x1536x864-1024x576.webp"
-   },
-   {
     "titel": "Ferrari-baas hekelt Leclerc na nieuwe clash: gebrek aan respect",
     "normalized": "ferrari baas hekelt leclerc na nieuwe clash gebrek aan respect",
     "link": "https://www.rtl.nl/nieuws/sport/artikel/5666511/ferrari-baas-hekelt-leclerc-na-nieuwe-clash-gebrek-aan-respect",
@@ -65,6 +101,15 @@
     "datum": "2026-11-22T07:53:58.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/75exu7hapsm0_sqr256/732/4/3627/3627/daleman-pakt-weer-goud-op-500-meter-bij-vierde-clean-sweep-voor-nederland.jpg"
+   },
+   {
+    "titel": "VS zet Vera Dijkmans uit: influencer weer terug in Nederland na 11 dagen in Amerikaanse cel",
+    "normalized": "vs zet vera dijkmans uit influencer weer terug in nederland na 11 dagen in amerikaanse cel",
+    "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5666508/vera-dijkmans-weer-nederland-ice",
+    "samenvatting": "Influencer Vera Dijkmans is weer in Nederland. Dat laat haar moeder weten aan RTL Nieuws. Ze landde vanochtend op Schiphol, nadat ze ruim een week had vastgezeten in de Verenigde Staten.",
+    "datum": "2026-11-22T07:52:16.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/16/WhatsApp%20Image%202026-11-16%20at%2013.07.16.jpeg?itok=50ve_73i&amp;offsetX=0&amp;offsetY=592&amp;cropWidth=1333&amp;cropHeight=750&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    },
    {
     "titel": "Shorttracker Van 't Wout wint opnieuw 1000 meter in World Tour",
@@ -202,8 +247,8 @@
     "foto": "https://images.cdn.nos.nl/3/4/w/h/o/H/vwi8VVizZKAKSzquoJQaerAFF4aURK8hrQv28cv/0x0x1280x720-1024x576.webp"
    },
    {
-    "titel": "Uitgeprocedeerde asielzoekers naar Rwanda sturen: mag dat?",
-    "normalized": "uitgeprocedeerde asielzoekers naar rwanda sturen mag dat",
+    "titel": "Uitgeprocedeerde asielzoekers naar Rwanda: hoe werkt dat en mag het?",
+    "normalized": "uitgeprocedeerde asielzoekers naar rwanda hoe werkt dat en mag het",
     "link": "https://www.rtl.nl/nieuws/video/video/581610c5-af1a-4871-91fe-a5be839ce172/uitgeprocedeerde-asielzoekers-naar-rwanda",
     "samenvatting": "Maandag maakte een kopgroep van vijf Europese landen, waaronder Nederland, bekend dat ze uitgeprocedeerde asielzoekers naar Rwanda willen sturen. Ze noemen het een 'terugkeerhub'. In Rwanda komt een opvang voor om te beginnen honderd mensen.",
     "datum": "2026-11-22T06:36:36.000Z",
@@ -227,51 +272,6 @@
     "datum": "2026-11-22T06:32:44.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126046-1.jpg?itok=ESU9oO0Y&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Nederlands schaatsduo mist finale op gemengde aflossing",
-    "normalized": "nederlands schaatsduo mist finale op gemengde aflossing",
-    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666498/nederlands-schaatsduo-mist-finale-op-gemengde-aflossing",
-    "samenvatting": "Schaatsers Chloé Hoogendoorn en Sijmen Egberts zijn er bij de wereldbeker in het Japanse Obihiro niet in geslaagd de finale van de gemengde aflossing te bereiken. Het Nederlandse duo werd in de halve finales verslagen door het Poolse koppel. Alleen de winnaar van de halve finale plaatste zich voor d",
-    "datum": "2026-11-22T06:26:20.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126044-1.jpg?itok=O8SLwhme&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Verstappen wint na 35 wisselingen aan kop: onwerkelijke race",
-    "normalized": "verstappen wint na 35 wisselingen aan kop onwerkelijke race",
-    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666497/verstappen-wint-na-35-wisselingen-aan-kop-onwerkelijke-race",
-    "samenvatting": "Max Verstappen raakte in de Grote Prijs van Las Vegas 35 keer de leiding kwijt, maar heroverde alle keren de koppositie en won zo de race met vermoedelijk de meeste inhaalacties ooit in de Formule 1.",
-    "datum": "2026-11-22T06:22:36.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126043-1.jpg?itok=cjfd496T&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Democraten woest over hardhandige arrestaties van ICE op luchthaven Seattle",
-    "normalized": "democraten woest over hardhandige arrestaties van ice op luchthaven seattle",
-    "link": "https://www.nu.nl/buitenland/6417387/democraten-woest-over-hardhandige-arrestaties-van-ice-op-luchthaven-seattle.html",
-    "samenvatting": "De Amerikaanse immigratiedienst (ICE) heeft zaterdag twee passagiers op de luchthaven van Seattle hardhandig opgepakt. Zij zouden volgens de dienst niet de juiste visa hebben. De democratische gouverneur Bob Ferguson haalde fel uit naar ICE.",
-    "datum": "2026-11-22T06:20:43.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/dvlx93zaescy_sqr256/907/0/3600/3600/democraten-woest-over-hardhandige-arrestaties-van-ice-op-luchthaven-seattle.jpg"
-   },
-   {
-    "titel": "Podcast De Dag: Van onze correspondent... Lennard Swolfs (Israël en de Palestijnse Gebieden)",
-    "normalized": "podcast de dag van onze correspondent lennard swolfs israel en de palestijnse gebieden",
-    "link": "https://nos.nl/l/2640520",
-    "samenvatting": "Van onze correspondent is een serie van de makers van podcast De Dag . Iedere zondag maken we kennis met een van de correspondenten van de NOS, het land waar ze wonen en de verhalen die wat hen betreft meer aandacht verdienen. Vandaag: Lennard Swolfs, correspondent Israël en de Palestijnse Gebieden.",
-    "datum": "2026-11-22T06:05:58.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/4/9/J/a/k/z/QwBUgiDLYjHK6np1oMNXeeSkfdgWSS3tYcVeqj8/0x0x1920x1080-1024x576.webp"
-   },
-   {
-    "titel": "Verstappen viert na talloze inhaalacties in GP Las Vegas 75e zege",
-    "normalized": "verstappen viert na talloze inhaalacties in gp las vegas 75e zege",
-    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666496/verstappen-viert-na-talloze-inhaalacties-gp-las-vegas-75e-zege",
-    "samenvatting": "Max Verstappen is weer een zege rijker in de Formule 1. De viervoudig wereldkampioen reed na een spannende race vol inhaalacties als eerste langs de finishvlag in de Grote Prijs van Las Vegas. De coureur van Red Bull vierde een jubileum, want het was de 75e zege in zijn carrière. Tien jaar geleden w",
-    "datum": "2026-11-22T06:01:06.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126033-1.jpg?itok=CEccMUNq&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    }
   ],
   "binnenland": [
@@ -548,6 +548,15 @@
   ],
   "buitenland": [
    {
+    "titel": "Model Vera Dijkmans terug in Nederland na elf dagen detentie in VS",
+    "normalized": "model vera dijkmans terug in nederland na elf dagen detentie in vs",
+    "link": "https://www.nu.nl/buitenland/6417397/model-vera-dijkmans-terug-in-nederland-na-elf-dagen-detentie-in-vs.html",
+    "samenvatting": "Vera Dijkmans is zondagochtend geland op Schiphol. Het Nederlandse model zat sinds 11 november vast in de Verenigde Staten nadat ze door immigratiedienst ICE was opgepakt.",
+    "datum": "2026-11-22T08:40:13.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/raxxjngal2qy_sqr256/0/0/1170/1170/model-vera-dijkmans-terug-in-nederland-na-elf-dagen-detentie-in-vs.jpg"
+   },
+   {
     "titel": "Droneaanval op woongebouw Kyiv: twee gewonden, mogelijk mensen onder puin",
     "normalized": "droneaanval op woongebouw kyiv twee gewonden mogelijk mensen onder puin",
     "link": "https://nos.nl/l/2640537",
@@ -578,7 +587,7 @@
     "titel": "Democraten woest over hardhandige arrestaties van ICE op luchthaven Seattle",
     "normalized": "democraten woest over hardhandige arrestaties van ice op luchthaven seattle",
     "link": "https://www.nu.nl/buitenland/6417387/democraten-woest-over-hardhandige-arrestaties-van-ice-op-luchthaven-seattle.html",
-    "samenvatting": "De Amerikaanse immigratiedienst (ICE) heeft zaterdag twee passiers op de luchthaven van Seattle hardhandig opgepakt. Zij zouden volgens de dienst niet de juiste visa hebben. De democratische gouverneur Bob Ferguson haalde fel uit naar ICE.",
+    "samenvatting": "De Amerikaanse immigratiedienst ICE heeft zaterdag twee passagiers hardhandig opgepakt op de luchthaven van Seattle. Zij hadden volgens de dienst niet de juiste visa. De Democratische gouverneur Bob Ferguson haalde fel uit naar ICE.",
     "datum": "2026-11-22T06:20:43.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/dvlx93zaescy_sqr256/907/0/3600/3600/democraten-woest-over-hardhandige-arrestaties-van-ice-op-luchthaven-seattle.jpg"
@@ -629,13 +638,13 @@
     "foto": "https://images.nu.nl/m/pg8xydfatgyp_sqr256/234/0/1067/1067/jetten-dineert-met-britse-premier-in-rijksmuseum-en-spreekt-over-oekraine.jpg"
    },
    {
-    "titel": "Zeker 24 doden nadat boot in Nigeria onderweg naar begrafenis kapseist",
-    "normalized": "zeker 24 doden nadat boot in nigeria onderweg naar begrafenis kapseist",
-    "link": "https://www.nu.nl/buitenland/6417380/zeker-24-doden-nadat-boot-in-nigeria-onderweg-naar-begrafenis-kapseist.html",
+    "titel": "Zeker 24 doden doordat boot in Nigeria onderweg naar begrafenis kapseist",
+    "normalized": "zeker 24 doden doordat boot in nigeria onderweg naar begrafenis kapseist",
+    "link": "https://www.nu.nl/buitenland/6417380/zeker-24-doden-doordat-boot-in-nigeria-onderweg-naar-begrafenis-kapseist.html",
     "samenvatting": "In het zuiden van Nigeria zijn zeker 24 mensen om het leven gekomen nadat een boot met mensen op weg naar een begrafenis is gekapseisd. Mogelijk zaten er zo'n driehonderd mensen aan boord.",
     "datum": "2026-11-21T22:30:45.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/bomxdsma1tz8_sqr256/651/0/2400/2400/zeker-24-doden-nadat-boot-in-nigeria-onderweg-naar-begrafenis-kapseist.jpg"
+    "foto": "https://images.nu.nl/m/bomxdsma1tz8_sqr256/651/0/2400/2400/zeker-24-doden-doordat-boot-in-nigeria-onderweg-naar-begrafenis-kapseist.jpg"
    },
    {
     "titel": "Haarlok van president George Washington brengt 4.000 dollar op bij veiling",
@@ -665,13 +674,13 @@
     "foto": "https://images.cdn.nos.nl/6/4/Z/x/h/9/ZT6j1od3uxAKCVjbRDCv85ThEpaMvEzfz4MZggU/1080x661x2864x1611-1024x576.webp"
    },
    {
-    "titel": "Alle vluchten op Belgische luchthavens maandag geschrapt door stakingen",
-    "normalized": "alle vluchten op belgische luchthavens maandag geschrapt door stakingen",
-    "link": "https://www.nu.nl/buitenland/6417368/alle-vluchten-op-belgische-luchthavens-maandag-geschrapt-door-stakingen.html",
+    "titel": "Alle vluchten op Belgische luchthavens maandag geschrapt vanwege stakingen",
+    "normalized": "alle vluchten op belgische luchthavens maandag geschrapt vanwege stakingen",
+    "link": "https://www.nu.nl/buitenland/6417368/alle-vluchten-op-belgische-luchthavens-maandag-geschrapt-vanwege-stakingen.html",
     "samenvatting": "Het vliegverkeer vanaf Belgische luchthavens zal maandag tussen 7.00 uur en 21.00 uur stilliggen door landelijke stakingen. De drie grote vakbonden in België trekken maandag door de hoofdstad Brussel om zich uit te spreken tegen het overheidsbeleid.",
     "datum": "2026-11-21T19:30:23.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/10yxylxaqv4r_sqr256/1811/0/2854/2854/alle-vluchten-op-belgische-luchthavens-maandag-geschrapt-door-stakingen.jpg"
+    "foto": "https://images.nu.nl/m/10yxylxaqv4r_sqr256/1811/0/2854/2854/alle-vluchten-op-belgische-luchthavens-maandag-geschrapt-vanwege-stakingen.jpg"
    },
    {
     "titel": "Maandag alle Belgische vluchten geannuleerd wegens staking",
@@ -807,15 +816,6 @@
     "datum": "2026-11-21T10:30:04.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/4/3/Q/X/S/8/P6wUT2LBNrzY9foq1GzA4zWrrJSsvNxw1UheviC/8x339x3984x2241-1024x576.webp"
-   },
-   {
-    "titel": "Man schuldig bevonden aan stichten dodelijke dagenlange brand in Los Angeles",
-    "normalized": "man schuldig bevonden aan stichten dodelijke dagenlange brand in los angeles",
-    "link": "https://www.nu.nl/buitenland/6417303/man-schuldig-bevonden-aan-stichten-dodelijke-dagenlange-brand-in-los-angeles.html",
-    "samenvatting": "Een Amerikaanse jury heeft vrijdag een dertigjarige man schuldig bevonden aan het stichten van een brand rond de jaarwisseling van 2024 op 2025 bij de chique wijk Pacific Palisades in Los Angeles. Bij de brand kwamen twaalf mensen om het leven en werden duizenden woningen verwoest.",
-    "datum": "2026-11-21T07:00:30.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/6j5x4vzab5db_sqr256/0/0/1500/1500/man-schuldig-bevonden-aan-stichten-dodelijke-dagenlange-brand-in-los-angeles.jpg"
    }
   ],
   "politiek": [
@@ -1002,13 +1002,13 @@
   ],
   "economie": [
    {
-    "titel": "De broeikas | Misschien hebben de klimaattoppen juist een totale mislukking nodig",
-    "normalized": "de broeikas misschien hebben de klimaattoppen juist een totale mislukking nodig",
-    "link": "https://www.nu.nl/de-broeikas/6417318/misschien-hebben-de-klimaattoppen-juist-een-totale-mislukking-nodig.html",
+    "titel": "De broeikas | Misschien hebben klimaattoppen juist totale mislukking nodig",
+    "normalized": "de broeikas misschien hebben klimaattoppen juist totale mislukking nodig",
+    "link": "https://www.nu.nl/de-broeikas/6417318/misschien-hebben-klimaattoppen-juist-totale-mislukking-nodig.html",
     "samenvatting": "In de rubriek De broeikas schrijft klimaatverslaggever Jeroen Kraan elke zondag over wat hem opvalt. Deze week: meer dan piepkleine stapjes kun je momenteel niet verwachten van de jaarlijkse VN-klimaattoppen. Is het tijd om dit proces eens écht te laten mislukken?",
     "datum": "2026-11-22T07:28:02.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/t1jxufmaqhjb_sqr256/426/0/1077/1077/misschien-hebben-de-klimaattoppen-juist-een-totale-mislukking-nodig.jpg"
+    "foto": "https://images.nu.nl/m/t1jxufmaqhjb_sqr256/426/0/1077/1077/misschien-hebben-klimaattoppen-juist-totale-mislukking-nodig.jpg"
    },
    {
     "titel": "Italiaanse juwelier en zakenman Paolo Bulgari op 89-jarige leeftijd overleden",
@@ -1029,22 +1029,22 @@
     "foto": "https://images.nu.nl/m/v2qxz5oa0jq4_sqr256/13/0/3164/3164/klimaattop-zit-muurvast-onduidelijk-of-er-uberhaupt-nog-een-besluit-komt.jpg"
    },
    {
-    "titel": "Alle vluchten op Belgische luchthavens maandag geschrapt door stakingen",
-    "normalized": "alle vluchten op belgische luchthavens maandag geschrapt door stakingen",
-    "link": "https://www.nu.nl/buitenland/6417368/alle-vluchten-op-belgische-luchthavens-maandag-geschrapt-door-stakingen.html",
+    "titel": "Alle vluchten op Belgische luchthavens maandag geschrapt vanwege stakingen",
+    "normalized": "alle vluchten op belgische luchthavens maandag geschrapt vanwege stakingen",
+    "link": "https://www.nu.nl/buitenland/6417368/alle-vluchten-op-belgische-luchthavens-maandag-geschrapt-vanwege-stakingen.html",
     "samenvatting": "Het vliegverkeer vanaf Belgische luchthavens zal maandag tussen 7.00 uur en 21.00 uur stilliggen door landelijke stakingen. De drie grote vakbonden in België trekken maandag door de hoofdstad Brussel om zich uit te spreken tegen het overheidsbeleid.",
     "datum": "2026-11-21T19:30:23.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/10yxylxaqv4r_sqr256/1811/0/2854/2854/alle-vluchten-op-belgische-luchthavens-maandag-geschrapt-door-stakingen.jpg"
+    "foto": "https://images.nu.nl/m/10yxylxaqv4r_sqr256/1811/0/2854/2854/alle-vluchten-op-belgische-luchthavens-maandag-geschrapt-vanwege-stakingen.jpg"
    },
    {
-    "titel": "Wiskundige doorbraak met AI zorgt voor kritiek: 'Oplossen is niet het doel'",
-    "normalized": "wiskundige doorbraak met ai zorgt voor kritiek oplossen is niet het doel",
-    "link": "https://www.nu.nl/tech/6417347/wiskundige-doorbraak-met-ai-zorgt-voor-kritiek-oplossen-is-niet-het-doel.html",
+    "titel": "Wiskundige doorbraak met AI leidt tot kritiek: 'Oplossen is niet het doel'",
+    "normalized": "wiskundige doorbraak met ai leidt tot kritiek oplossen is niet het doel",
+    "link": "https://www.nu.nl/tech/6417347/wiskundige-doorbraak-met-ai-leidt-tot-kritiek-oplossen-is-niet-het-doel.html",
     "samenvatting": "Een wiskundige heeft met behulp van AI-model Claude de Riemann-hypothese bewezen. Wiskundigen bleven liefst 167 jaar het antwoord schuldig. Toch staat niet iedereen om het nieuws te springen. Sommige wiskundigen vrezen dat berekeningen niet meer zullen worden begrepen.",
     "datum": "2026-11-21T19:07:19.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/9dvxbj8agqy6_sqr256/862/0/3466/3466/wiskundige-doorbraak-met-ai-zorgt-voor-kritiek-oplossen-is-niet-het-doel.jpg"
+    "foto": "https://images.nu.nl/m/9dvxbj8agqy6_sqr256/862/0/3466/3466/wiskundige-doorbraak-met-ai-leidt-tot-kritiek-oplossen-is-niet-het-doel.jpg"
    },
    {
     "titel": "Maandag alle Belgische vluchten geannuleerd wegens staking",
@@ -1295,7 +1295,7 @@
     "titel": "Daleman pakt weer goud op 500 meter bij vierde clean sweep voor Nederland",
     "normalized": "daleman pakt weer goud op 500 meter bij vierde clean sweep voor nederland",
     "link": "https://www.nu.nl/schaatsen/6417395/daleman-pakt-weer-goud-op-500-meter-bij-vierde-clean-sweep-voor-nederland.html",
-    "samenvatting": "Angel Daleman heeft zondag in Obihiro haar vierde wereldbekerzege op de 500 meter geboekt. De negentienjarige schaatsster voerde na een spannende strijd wederom een Nederlands podium aan. Suzanne Schulting pakte zilver door Femke Kok te verslaan.",
+    "samenvatting": "Angel Daleman heeft zondag in Obihiro haar vierde wereldbekerzege op de 500 meter geboekt. De negentienjarige schaatsster voerde wederom een Nederlands podium aan. Suzanne Schulting pakte zilver door Femke Kok te verslaan. Bij de mannen was er geen Nederlandse medaille.",
     "datum": "2026-11-22T07:53:58.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/75exu7hapsm0_sqr256/732/4/3627/3627/daleman-pakt-weer-goud-op-500-meter-bij-vierde-clean-sweep-voor-nederland.jpg"
@@ -1319,13 +1319,13 @@
     "foto": "https://images.nu.nl/m/uk1xlukavczu_sqr256/848/4/3761/3761/jens-van-t-wout-blijft-ongeslagen-op-1000-meter-en-staat-al-op-zes-keer-goud.jpg"
    },
    {
-    "titel": "Verstappen genoot van mislukte actie Russell: 'Mijn dag werd alleen maar beter'",
-    "normalized": "verstappen genoot van mislukte actie russell mijn dag werd alleen maar beter",
-    "link": "https://www.nu.nl/formule-1/6417393/verstappen-genoot-van-mislukte-actie-russell-mijn-dag-werd-alleen-maar-beter.html",
+    "titel": "Verstappen slaat terug naar Russell: 'Grote mond, maar zijn seizoen is aanfluiting'",
+    "normalized": "verstappen slaat terug naar russell grote mond maar zijn seizoen is aanfluiting",
+    "link": "https://www.nu.nl/formule-1/6417393/verstappen-slaat-terug-naar-russell-grote-mond-maar-zijn-seizoen-is-aanfluiting.html",
     "samenvatting": "Max Verstappen genoot van de dramatische race die George Russell in Las Vegas had. De Mercedes-coureur haalde een dag eerder hard uit naar Verstappen. \"Dit was perfecte karma.\"",
     "datum": "2026-11-22T07:31:42.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/1ssx02barzw6_sqr256/434/3/2282/2282/verstappen-genoot-van-mislukte-actie-russell-mijn-dag-werd-alleen-maar-beter.jpg"
+    "foto": "https://images.nu.nl/m/1ssx02barzw6_sqr256/434/3/2282/2282/verstappen-slaat-terug-naar-russell-grote-mond-maar-zijn-seizoen-is-aanfluiting.jpg"
    },
    {
     "titel": "Ferrari-baas Vasseur cynisch na nieuw incident: 'Dit hoor ik ook van mijn kinderen'",
@@ -1355,8 +1355,8 @@
     "foto": "https://images.cdn.nos.nl/8/A/7/T/n/n/AXPRZw55GCTf2781vHL5GdDKgMP4wM7RixiY2Lk/973x272x2768x1557-1024x576.webp"
    },
    {
-    "titel": "Shorttrackers nog altijd ongeslagen op de gemengde aflossing in World Tour",
-    "normalized": "shorttrackers nog altijd ongeslagen op de gemengde aflossing in world tour",
+    "titel": "Shorttrackers blijven baas op gemengde aflossing in World Tour, eerste podium mannen",
+    "normalized": "shorttrackers blijven baas op gemengde aflossing in world tour eerste podium mannen",
     "link": "https://nos.nl/l/2640517",
     "samenvatting": "De Nederlandse shorttrackers hebben ook de derde World Tour-wedstrijd gewonnen op de gemengde aflossing. Ook zonder vaste waarde Xandra Velzeboer was het Nederlandse kwartet in Seoul duidelijk de baas. Selma Poutsma, Zoë Deltrap, Teun Boer en Jens van 't Wout namen iets voorbij de helft van de wedst",
     "datum": "2026-11-22T05:40:12.000Z",
@@ -1535,8 +1535,8 @@
     "foto": "https://images.nu.nl/m/89dxvbpaepbv_sqr256/390/0/2362/2362/psv-vreest-lange-absentie-aanvoerder-mauro-junior-het-is-duidelijk-ernstig.jpg"
    },
    {
-    "titel": "Video | Kenneth Taylor geeft assist met de hak op Noslin die scoort voor Lazio",
-    "normalized": "video kenneth taylor geeft assist met de hak op noslin die scoort voor lazio",
+    "titel": "Video | Kenneth Taylor geeft met de hak assist op Tijjani Noslin bij Lazio",
+    "normalized": "video kenneth taylor geeft met de hak assist op tijjani noslin bij lazio",
     "link": "https://www.nu.nl/332506/video/kenneth-taylor-geeft-assist-met-de-hak-op-noslin-die-scoort-voor-lazio.html",
     "samenvatting": "",
     "datum": "2026-11-21T18:19:12.000Z",
@@ -1910,6 +1910,24 @@
   ],
   "zeeland": [
    {
+    "titel": "Zeeuws-Vlaming Jochem Kerckhaert (26) wordt eindelijk prof na een loodzware weg vol tegenslag",
+    "normalized": "zeeuws vlaming jochem kerckhaert 26 wordt eindelijk prof na een loodzware weg vol tegenslag",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONEFzdXFJcElZT0ZBTTFOSkxmNkZkbEhyU2dfUUpZTHdVaC00aVZTb28zSGZJbDJHT0lYZ3hhNHVxRmxyZmtuMTZTOF9CbEdmNGdGRGt2N3UyWktwcDRuTzFKc3NCUDQxZm1Qb0hCVTVIRmZoZi0tellQLXdLYU1qSW1lZjUwWlFTeUhHbTFiZ2RGaDBSZkJDN3EyR3VQMWpjWloxc09jZkI3QXY1SWJEZFFrazByVUlkQ2FVLXFlV0xhX2dwaGlHMnhMQ1hoVU51OVg0?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-22T09:00:38.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Verstappen kleineert Russell: hij is dit seizoen een aanfluiting",
+    "normalized": "verstappen kleineert russell hij is dit seizoen een aanfluiting",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlVveG1GTFhnN0dfbjVHa2pCS0M0ZFdNZ2hWUjFKcDh5STVpbnh1ZmdGaHItQld0VGlkaklPeW5kRWhacm42NnYtVy1NZEp3d3RsVTl2dWRDNkY0UEpmQUJzR0hqSGhOdl8xdjV1UFhaaFlqT1JNU1JCRWRBWUdvTEhiVDU2cE5UQUJSa3diai0zanZJM2wxY1ZjUWI?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-22T07:52:50.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Verstappen wint na 35 wisselingen aan kop: onwerkelijke race",
     "normalized": "verstappen wint na 35 wisselingen aan kop onwerkelijke race",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMzBtMW95Z0dwRHZ0T0NJZ2xYSlhSMTZSbXFtTmw5RUdTNXItR29DNkRJT1FienpwOTE0WlBUX2xlNU4yUC1fMDdTNTgxQjVCck5Hd0s1WE00T0g2QzA5blBXX1pHeld2U2cwbWdFT2lrYmxzTUpCLV9hU01TbnBwWkI3SzhBZXFMVUNoelBEVlctTnNhRmJ3?oc=5",
@@ -1937,15 +1955,6 @@
     "foto": ""
    },
    {
-    "titel": "Serooskerker (33) die tijdens ruzie over vriendin man in het gezicht sneed, pleegde zware mishandeling, geen poging tot doodslag",
-    "normalized": "serooskerker 33 die tijdens ruzie over vriendin man in het gezicht sneed pleegde zware mishandeling geen poging tot doodslag",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUnVkOGRuM0F4WWdKR2x5OEtKdlVSeUxqa0tKOEhaT0ROeXI1Sk13ZFJlek5Wc1VMRVBvaWE0X3JDX09FWVpraHdmR1lEQU55NHpvVmNrMVlEM3QyVVN1UWpxSVI0T2ktV2taM3FodXVLY2YxdHFLZjl5SmVod0lmcFVRd1VLejktazlBdEV5QWRRQ3k0WTAtU0dJLVlQVnV0azl6dmFtLVMzQzFJM0ZYYnB1d3RBSDVHTnloSV9VODQ4OGtNb2NYWEVyNkszLXJjcjNPUVZWOHRiUjBVUmRSOUEzQWU3ZG16U1NPMzd0WVk?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T20:48:18.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Oezbeeks gezin verlaat kerk in Kampen binnen enkele dagen",
     "normalized": "oezbeeks gezin verlaat kerk in kampen binnen enkele dagen",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb3VmdVJUNDFHb2NJemp1ZFBzbmdnNXpnay1wSFdZNERqVVZ6bFhFV0lmYTJidVVrNkVCMTlDNjNsZTBaTVhLZlk4NzhXcDRyc2VZTVBBeW1sWDA0M2ZsVlhUdjZ0bk51NVpGRE44LWgyc2VXbmJZbmxHQkNOVGVJaFF0UTgta2tUbDFkM3Fzc3dHZU5u?oc=5",
@@ -1968,7 +1977,7 @@
     "normalized": "uitslagen amateurvoetbal zaterdag 21 november",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFVZNFBJc1A2TVptMGRVMXZydnptSnVILTBJMGtxNzAwX1FaNDdBOUdhb2FnR2JjYXVMeDFXejFJcFFHUTJkZ2RESXF0ZGQ3TXl2MTQtS1Y1M3pzWVlNN0xQVG1tNV92Ui0tR0dkSFdjZi02MkhLTFpDWTdqd2NHN3NHbFN0eW1pWmZCYkx0NFdsM0ZN?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-21T18:26:47.000Z",
+    "datum": "2026-11-21T18:21:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -1984,7 +1993,7 @@
    {
     "titel": "‘Nare droom’ duurt voort: Zeeland kan niks doen om groei van scheepvaart naar Antwerpen af te remmen",
     "normalized": "nare droom duurt voort zeeland kan niks doen om groei van scheepvaart naar antwerpen af te remmen",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZHFGM1ZrTERmUGlfSzMwYmtmV3NPWkVpSmJWVVRGUU5ZY19tRHl5ZWdKY0JsejM3UjZqeTNOemg4Zkt1NFpHaG9tLU5RNEtnX1B4cmpScHJoQXUtTmgzZExYdmFKcVQxRmxJb25oTzRuT3RjekN3dFZwSUdIc2tYVnFiVDZZakVMU1F5NW01WDIyOGloY3NmZXpJM2VFZkpmVUpacjFySU9RSmhWb0pxUklzY0ozeG54U0R5RWFqb0xVeWlSRnRrMExaa0RMd0pGb19z?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdDJoS0lldXAwVzJlVGpQME9UUkYyNkNiTHBMUHZrSU9zMmZ3Vk9wRGY5ZUFmUWtjT0FCZl9HTHFpQUY3b0RxRjJ3SC1DMW9YTjVaMGVwc1RkNEt1VVpEa3B0VkRXazNBRUp1NjFzaEtWcE9UaDdGRnRreEtMOFZmaUJvWm5lTWFLS3RuekZUU3NWTUZ0YVdTQzRtdU9wTGZyTXV2a1lqRjJUcDNRV2VyOTZsbTJ1czVMcjMxRExrMVhDNlZBblZmTklxU2N4a2ZHY01DV09RRHg?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T17:09:01.000Z",
     "bron": "Google Nieuws",
@@ -1995,7 +2004,7 @@
     "normalized": "recordaantal glutenvrije pieten bij intochten isa 16 uit koudekerke is daar een van",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWxlNnVZYXhac1puVm9JUXpUcG1vMThZaXczQlk2UDlNMTJJLU1uM19QRWVZQm53eDZpR3h1aU5obkllSTc5cXlRUmlCWC02TmZ0TmpEdW1YSmQzdVBRc3huMFdZS0FCME9IWEFPdk5hMzNhck54czZBZzBwWjhnTFdadzdzX0RFOGZ5MG1LSGpyMkZUZThEaVhKX01CRWF3T2tLcHFfTG40bVc3UHo3X0lhMmFWUjBoa1d2ZmdFaEwtOHV1WGxz?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-21T17:04:02.000Z",
+    "datum": "2026-11-21T16:24:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2092,7 +2101,7 @@
    {
     "titel": "SGP vreest ‘boerenmolens’ in Zeeland nu regels kleine windmolens naar 23 meter gaan",
     "normalized": "sgp vreest boerenmolens in zeeland nu regels kleine windmolens naar 23 meter gaan",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEJyVjNBSUNZVU04dEJNeGthcFNodUNaZmw4SThzSTlETEpmRFFIZWEzS3p5cWx3YTQ0eVVNaXBEUXFrMUlNSEotelBiV2hpbXh1TlYyWmZza2pDRllFRXZuc3Y0Q3hsVE5UdmZNcF85a1FoeFBBSGpDWmg1ODh0S2Y5aklnd29NRUwxcTBaenpWcVdOUUotZlNMcThRUUtvM05LcFJhb2FTVFU2RXBXajA4TTlxNDMyMzF6R2Q3cVphWWs?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1NXZmd2R0R6QUlKX3dNYU4xLUxOcm9sdkR0VE5INk4yM25mMkFfVXlRRHpLdWw2X1NhTVk1VjJidGozWHFmUDJ5TlFnLWwyOXdyZzhpeUZsTG5PT0Y4Q0dUMlRnLU5LTjU0S01rX09jV1pXcFFGYV9pT1M4T3J6SEdvNzExQTk2LXJkZGk1TXR2UE1SRGJ3X213UnYtM2hjLVRiRWxnMC16RzBRVTJITFZYSmt0cTFLTmN4bQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T06:30:35.000Z",
     "bron": "Google Nieuws",
@@ -2167,15 +2176,6 @@
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVmlaamk2SnpELW43aFRfM2FLZUl1ejhyYnl5T2x4cG5nd0VDd0NPUC1yR3ppRl9VeVY0dlRxcy1KWlhZQkZlUEZ1c0tKVzltRUV4MEVBclZmU0pwRFcwaDJ6dFc1Tm5uT2RvVk02ZzQwLUo0aF9kWW9BRHVRaU12UlBxQ3B5d2c5a05VRzEzTkptMkti?oc=5",
     "samenvatting": "",
     "datum": "2026-11-20T18:57:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Firas (36) hoopt op meer begrip voor asielzoekers: ‘Er zijn veel meer goede verhalen’",
-    "normalized": "firas 36 hoopt op meer begrip voor asielzoekers er zijn veel meer goede verhalen",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQjFGbkJZcXc3WU4yaFBYS0tQaU81REF4OVg2V19hNmk4Ri11UnJKQmJRQk1LNXJoQmFldUlWbkxEWVhCNXlzMTREN3Z6dUpkNnhtUzV3X2szdHFHYnBINTZlZkJIODlMcjlXd1JyU0JyelA3ZnJzYmd3akJldVlvbzBTM3Zpclh2aXU5UVg3UkdxSmdUZFpJWDlBdjIwX3ZrbWViZklSX1E5RXZzVm52aE1OcFQ2bnNLdXlhYQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T18:30:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -3027,7 +3027,7 @@
    {
     "titel": "Fietser ernstig gewond in Roosendaal, auto gaat er vandoor",
     "normalized": "fietser ernstig gewond in roosendaal auto gaat er vandoor",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQamxBRExiV1hud0J4MHdWUEtYWVdtdlhMTnh6akJmTlFpVFB1Rmlyc2ZGMzljclNWN2dGRjQ5enAwTGY1RkxUcDc2Zk9GaHVjNDNINkhRZnpOR1paYjZDRC03UTdWR0NZY1FKMFRCT2xleUFtVmhDZjc4ckdZMml2ODd3NFpFemJBbkxrZUdVUHpqNldSOHRSSmM1R0N1TTdmRFVPMTJHRXM0enc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1VFSDBBTzJsOVdJY1lQNnlSZGxJcTE3Qmk3eDVpSTFzSnRydWhEMllsejRJb242cUt2c2hHVzlmeXF0Yjhtd0FRMUZhbVBmR1ItOEdQVjNBSmxIZGNXWXQ0TW5IeTBROFYyd1ZIeVN6VGIxMGtYRC12RGhDRlYwMnBmOUdsbGxzU0VhZlJIdHNoVG1BdFVmb1lUSWluWHlpWFBjVnY5Y2xVZw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T09:56:14.000Z",
     "bron": "Google Nieuws",
@@ -3057,6 +3057,15 @@
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3hyV1NBVGdCcDh1SFItZ2MyTE5QM2dLR2V3ZnpjemJmbWFrRmJhcUpzV0FiR1pwdURuUmhXRmtoSnVwNU9fb3Jab2ltN0VwREw1emI4eFVkemhPX3lOSEVSTHhOR2JQVGVlRTRQN3d6bmxOMlFCU0VWTllsbHZlZnBrS2hpTXB0VUNaUFVfUlZabFlZLWgxRV9BLWZBaWoxbnpsS05tb3hDeU9IWkRkRnd3?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T09:37:30.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Politie rukt uit voor wel heel bijzonder ‘uilskuiken’",
+    "normalized": "politie rukt uit voor wel heel bijzonder uilskuiken",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZk5pX3JJcGMta1VuTHlERldnVlRGQ1lRampLdlFCdDVaQnFVMFBRZW00TEU5SHdRX0NjdjhZWkJvNGpQNW5TTWM5U3dCZ1ZVTVVRTFVEakowclZyVXRzR2htWncxMkgzeml2bkRGRl9PbjBVRVllZ05hRFl6amt3WHM2MWlHYXVKdy1IWDZuTWhJRzhCZl9BMVhZVlFoQQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T09:03:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3210,15 +3219,6 @@
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFVrOXluVC1wOW9yQzhWb2VYZzZHQ2x1YXo0YWpKeF9GM2RvRVNyMzdVRUZEaHNrYkhrZlFYTHJJUk03NldnYUJXQnRlZ3ZWc2F4VExXS0plcXJTX3RDWk16cnF1aWc4cm5YcHBNWkdNQjRTbXJ1MEpXbFdrc2tvelNUc2lhNzVHMl9xUUp5MHpVLWlEdlc0R2o5bEpsWkNyT3c?oc=5",
     "samenvatting": "",
     "datum": "2026-11-19T11:04:28.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Politie redt roofvogel van A58 bij Roosendaal",
-    "normalized": "politie redt roofvogel van a58 bij roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWhVMlBVVXZQc3dpSC1JQldjZ1NYcGJ5V28xNVg3UTlxcUtndEpkRWRPeTBzdDVCMGV1UXQxU012dDBoUEJQS1Vhd0VzV0xzMS1xTjdhdk03Zm15RXhjRFBFUlJPM0ZWMTNBMG9XcjJ1NDliQW1yZ2g2Q2VxYzhSZmJvMEh1bEN2RG04?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-19T11:04:04.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
