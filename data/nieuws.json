@@ -1,5 +1,5 @@
 {
- "gegenereerd": "2026-11-22T04:54:07.108Z",
+ "gegenereerd": "2026-11-22T05:19:28.506Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
@@ -300,7 +300,7 @@
     "samenvatting": "Premier Jetten heeft de Britse premier Burnham ontvangen. Ze hebben samen met hun partners gedineerd in het Rijksmuseum in Amsterdam, tussen de Hollandse meesters. Dat meldt Jetten in een bericht op X. Ze spraken onder meer over de economische en militaire samenwerking tussen het Verenigd Koninkrijk",
     "datum": "2026-11-21T23:24:39.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/6/C/8/X/k/5/qGf8V7cYRkv22DCXG8H5ufvsdBUnKjAs5TGgvyT/8x168x1584x891-1024x576.webp"
+    "foto": "https://images.cdn.nos.nl/3/E/b/d/1/W/RG1a8Ba6GEGETRpSBPvk7NMkevoBrkQk3hbiLhd/8x170x1584x891-1024x576.webp"
    },
    {
     "titel": "Man beschoten bij poging tot terugkopen gestolen fiets, jongen (16) aangehouden",
@@ -1032,7 +1032,7 @@
     "titel": "Wiskundige doorbraak met AI zorgt voor kritiek: 'Oplossen is niet het doel'",
     "normalized": "wiskundige doorbraak met ai zorgt voor kritiek oplossen is niet het doel",
     "link": "https://www.nu.nl/tech/6417347/wiskundige-doorbraak-met-ai-zorgt-voor-kritiek-oplossen-is-niet-het-doel.html",
-    "samenvatting": "Een wiskundige heeft met behulp van AI-model Claude de Riemann-hypothese bewezen. Wiskundigen bleven liefst 167 jaar het antwoord schuldig. Toch staat niet iedereen om het nieuws te springen. Sommige wiskundigen vrezen dat berekeningen niet meer zullen worden begrepen.",
+    "samenvatting": "Met het bewijzen van de Riemann-hypothese door een wiskundige met behulp van Claude is er opnieuw een groot wiskundig vraagstuk mogelijk opgelost door een AI-model. Het gebruik van AI bij wiskunde zal niet meer verdwijnen, maar wiskundigen vrezen dat berekeningen straks niet meer worden begrepen.",
     "datum": "2026-11-21T19:07:19.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/9dvxbj8agqy6_sqr256/862/0/3466/3466/wiskundige-doorbraak-met-ai-zorgt-voor-kritiek-oplossen-is-niet-het-doel.jpg"
@@ -1274,13 +1274,13 @@
   ],
   "sport": [
    {
-    "titel": "F1 | Verstappen knokt met Russell om leiding in spectaculaire GP Las Vegas",
-    "normalized": "f1 verstappen knokt met russell om leiding in spectaculaire gp las vegas",
-    "link": "https://www.nu.nl/formule-1/6417324/f1-verstappen-knokt-met-russell-om-leiding-in-spectaculaire-gp-las-vegas.html",
+    "titel": "F1 | Verstappen strijdt met Antonelli om leiding GP Las Vegas, Ferrari's raken elkaar",
+    "normalized": "f1 verstappen strijdt met antonelli om leiding gp las vegas ferrari s raken elkaar",
+    "link": "https://www.nu.nl/formule-1/6417324/f1-verstappen-strijdt-met-antonelli-om-leiding-gp-las-vegas-ferraris-raken-elkaar.html",
     "samenvatting": "Goedemorgen en welkom in dit liveblog! Mijn naam is Laurine Slingerland en hier hou ik je op de hoogte van de Grand Prix van Las Vegas. Veel plezier!",
     "datum": "2026-11-22T03:55:59.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/s1lxs6nalkub_sqr256/957/0/3812/3812/f1-verstappen-knokt-met-russell-om-leiding-in-spectaculaire-gp-las-vegas.jpg"
+    "foto": "https://images.nu.nl/m/l7yx3lsa2o2m_sqr256/108/0/3356/3356/f1-verstappen-strijdt-met-antonelli-om-leiding-gp-las-vegas-ferraris-raken-elkaar.jpg"
    },
    {
     "titel": "Real met moeizame zege op zak richting duel met PSV, Mbappé mist penalty",
@@ -1552,7 +1552,7 @@
     "samenvatting": "Premier Jetten heeft de Britse premier Burnham ontvangen. Ze hebben samen met hun partners gedineerd in het Rijksmuseum in Amsterdam, tussen de Hollandse meesters. Dat meldt Jetten in een bericht op X. Ze spraken onder meer over de economische en militaire samenwerking tussen het Verenigd Koninkrijk",
     "datum": "2026-11-21T23:24:39.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/6/C/8/X/k/5/qGf8V7cYRkv22DCXG8H5ufvsdBUnKjAs5TGgvyT/8x168x1584x891-1024x576.webp"
+    "foto": "https://images.cdn.nos.nl/3/E/b/d/1/W/RG1a8Ba6GEGETRpSBPvk7NMkevoBrkQk3hbiLhd/8x170x1584x891-1024x576.webp"
    },
    {
     "titel": "Oer-Nederlands, D/domstad en naar verluid(t): Groot Dictee slechter gemaakt dan vorig jaar",
@@ -2153,15 +2153,6 @@
     "foto": ""
    },
    {
-    "titel": "Gemeenten zetten zich schrap voor demonstraties bij sinterklaasintochten in Goes, Axel en Arnemuiden",
-    "normalized": "gemeenten zetten zich schrap voor demonstraties bij sinterklaasintochten in goes axel en arnemuiden",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLUE0YmQ2bWc5c1JlMkdGVjdTcG5qSkdaSlBCcWFsTXdBbExQMEhrRUJwd2Z6QzN1T0hyYXc3UUMzakV1RDVsejJFV3owUldJdF9fckR2VFNrdUE5SGQxamFjam5zMjNWLW92aE11NkphMnQtQ3JTTXUxUjBaZnhtcnlDZElaTjQzY1Fyc2tIV3FGUEdmRU5KU09USmR5TUhNaVdYbENGWS1OLW9maDBNSnZVWHQ0aGpWVTlpSlJPWlRSWkVyR3R6VlFDbDRJQXVlRjI0WHBn?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T16:54:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Helft daklozen weg van de Belt, Dominique en mede-daklozen willen nog niet vertrekken: ' We gaan helemaal nergens naartoe'",
     "normalized": "helft daklozen weg van de belt dominique en mede daklozen willen nog niet vertrekken we gaan helemaal nergens naartoe",
     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSlRoNWptTGZoZUxDMGo4NVhVNXh6cHR5MmxiM1pvaDNPeGo0RlFBaE44WGQyWUtQWW1JSUpfbXdWSWVmNVMwdWk0WTYwLWJZbFJfclB1LVBrZmw2ZnBBeFl1eDBUV0d0cU9VRXNlTXA2S0M5aVgzMGZkQ3NUOVgzV3ZfTUpJdXFaR29BeHM4d25La3dhN3NpcnpueTFCMlNKSVlXN2RKSVJzOU96cDN2SF9iVmgxZy1EY3RGQTd5SEtMVDN6VHkwRVB4UFh5dDJBZnVmTm94LXpkVjNKR2NnbWU0OVJXUDZMeER5S2RCcm16eEVR?oc=5",
@@ -2178,9 +2169,36 @@
     "datum": "2026-11-20T16:32:36.000Z",
     "bron": "Google Nieuws",
     "foto": ""
+   },
+   {
+    "titel": "Zeer geslaagde poortactie bij Zeeland Refinery: bedankt!",
+    "normalized": "zeer geslaagde poortactie bij zeeland refinery bedankt",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNm9KZVhtSmtaWnlKODNDRWdCNHhjOXE5T01rNjhqMDA0aUs1cWZTQ096Q1paVlBDNmdJM1lIMVhyU2g3MWJER3FsVmRVcC1pSzNPS2w5ejFFMDRza3owbjVEdHg0MGVzeEV2SEpreWNRRHBXN2hicUY2c1Y5U1hYcHJ4WG1Sdk8xOXViSDlXN2RfeDBZcVJxODNUSkktaWQzakRyWmdNaU1CdUtMb24tRF9zVGM4cF9sUURUczg2V3huS0RUUXRYU1oySnJJQ19NRHNDSVpYZzc?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-20T15:31:07.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
    }
   ],
   "brabant": [
+   {
+    "titel": "Opnieuw auto door brand verwoest in Drunen, vermoedelijk opzet",
+    "normalized": "opnieuw auto door brand verwoest in drunen vermoedelijk opzet",
+    "link": "https://www.omroepbrabant.nl/nieuws/6035702/opnieuw-auto-door-brand-verwoest-in-drunen-vermoedelijk-opzet",
+    "samenvatting": "Opnieuw is een auto uitgebrand achter cultureel centrum De Voorste Venne in Drunen. Dit gebeurde rond kwart voor elf zaterdagavond op korte afstand van de plek waar donderdagavond ook al een auto in vlammen opging. Dit keer verwoestte het vuur bijzondere Alfa Romeo. &#xD;&#xA; De Alfa Romeo was vijf",
+    "datum": "2026-11-22T05:00:28.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTMwODMtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1WWGl6UDAwb2tHSWt0c3ZVSlJrdElidXpHYVJzYTdEQTduNkNNRHA2ZjJVJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
+   },
+   {
+    "titel": "Jarry schrijft eerste basketbalkinderboek: &#39;Moeten lezen leuk gaan vinden&#39;",
+    "normalized": "jarry schrijft eerste basketbalkinderboek 39 moeten lezen leuk gaan vinden 39",
+    "link": "https://www.omroepbrabant.nl/nieuws/6035621/jarry-schrijft-eerste-basketbalkinderboek-moeten-lezen-leuk-gaan-vinden",
+    "samenvatting": "Een girafje dat gek is op basketbal, een vader die de beste basketballer van het land is en een beslissend schot. Jarry Popelier (41) uit Den Bosch heeft een bijzonder project afgerond, waaraan hij naar eigen zeggen nachtenlang werkte. Met 'Keesje neemt het laatste schot' schreef hij als eerste Nede",
+    "datum": "2026-11-22T05:00:00.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTI1NTktMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1hTEhIbXBYN0lScHYxZjZ6UlNObVpWYW5kdXFwUlF2TnEzWXFTUWhwYVFZJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
+   },
    {
     "titel": "Van Gerwen treft Van Veen in halve finale Grand Slam na negendarter",
     "normalized": "van gerwen treft van veen in halve finale grand slam na negendarter",
@@ -2369,24 +2387,6 @@
     "datum": "2026-11-21T04:44:54.000Z",
     "bron": "Omroep Brabant",
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTI3NzItMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1DQ1dlZGR5V0U5eW80bXNKMXBVNDVIUWdndjZ2dEdDSzVhOERaME01eXprJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
-   },
-   {
-    "titel": "Auto vliegt over rotonde en eindigt op zijn kop in weiland in Woudrichem",
-    "normalized": "auto vliegt over rotonde en eindigt op zijn kop in weiland in woudrichem",
-    "link": "https://www.omroepbrabant.nl/nieuws/6035641/auto-vliegt-over-rotonde-en-eindigt-op-zijn-kop-in-weiland-in-woudrichem",
-    "samenvatting": "Een automobilist is vrijdagavond zwaargewond geraakt nadat hij in Woudrichem met zijn auto over een rotonde vloog en op zijn kop in een weiland terechtkwam. De man verloor op de rotonde bij De Roef de macht over het stuur. &#xD;&#xA; De bestuurder kwam vanuit de richting van Woudrichem en was onderw",
-    "datum": "2026-11-20T21:40:23.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTI2ODgtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1udXZ4N3UwZ1VXY01IWEI2WFlsdEw1UmFXZWp2elk2aWJld21xTkkzanNRJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
-   },
-   {
-    "titel": "Gewapende overval op tankstation in Den Bosch, verdachte opgepakt",
-    "normalized": "gewapende overval op tankstation in den bosch verdachte opgepakt",
-    "link": "https://www.omroepbrabant.nl/nieuws/6035636/gewapende-overval-op-tankstation-in-den-bosch-verdachte-opgepakt",
-    "samenvatting": "Een man heeft vrijdagavond een gewapende overval gepleegd op een tankstation aan de Kooikersweg in Den Bosch. Hij ging er te voet met geld vandoor. Niet lang daarna hield de politie een 27-jarige man uit Den Bosch aan. &#xD;&#xA; De overval vond rond half negen plaats. De politie riep getuigen na de",
-    "datum": "2026-11-20T20:15:00.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.38/cmV2aXNpb25zLzUwMTI2NzktMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1qajlrbThwQ2dsRGd6SUl4czh3QnhYSmNhdDByOE5qUXBIOGJXek1rTjFZJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
    },
    {
     "titel": "Klaslokaal basisschool verwoest door brand nadat kinderen vuurwerk afsteken",
@@ -2634,15 +2634,6 @@
     "foto": ""
    },
    {
-    "titel": "Borsele houdt rekening met tekort van meer dan een miljoen in 2030",
-    "normalized": "borsele houdt rekening met tekort van meer dan een miljoen in 2030",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmNQcHctaUxLaWk1SWRoTHZib1EyWi1jRmtXUTZsWFBCQldpcW4wcHRSOWVZcDBmeXFaQ3ZOZzF5elBnaVFMdzR1cnowd1Q0UGcwN29ESDllV2pWa1NwanBGNGVMVVFKMFdXNUFhOFlMOFVzRGhXOU5PWFNWQzBIdGtzSTlTREVZeFF1NmMzOUxzYzUwLW5ORzA2a1FQbGVCaTgxcEVR?oc=5",
-    "samenvatting": "",
-    "datum": "2026-07-09T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Borsele trekt aan de bel over stapeling energieprojecten in Sloerand",
     "normalized": "borsele trekt aan de bel over stapeling energieprojecten in sloerand",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG4ycHRUR2hHcFpMQzc2dTZMTHlXajJDTGFDLXZHUGYtM1hyZExsYW1fd1BGTDZKLVZTWHRnQ3VEX2gzbXd1QmZ0ZzRTUUlvY1BpVmtCM2RQMFNNSFFicVE2bjZxREZDajg5LTZlUnJBeGRwdWNmd1JYZE1PVGxRUUNOZWpZMV9YV2hNcjg4QlNXSnRYMS11dU1ONUwzUmZ3Z2xNbWpIZTc?oc=5",
@@ -2675,6 +2666,15 @@
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa1RFTVdpRkRxRC0xRjZZajZwWFZGTXg4R2Qxcjh1bERwWmZSemZsaWRiT0dPRFI0aGRUdHRFS0dhLXRNa0JWVE5SLXhpSWZ3a3JfeHIzeUtKTWpqRmVBbFFnUURsd3BnTVVwdkozQ2NTN3R3Z0g1ZWNLblphSkZPUVkyMkFxS3JaT19zWmNEa0d1ZmxlcDNBb21pcUw?oc=5",
     "samenvatting": "",
     "datum": "2026-04-13T07:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Inwoners Borsele mogen 5 miljoen euro verdelen om de leefbaarheid in hun dorp te vergroten",
+    "normalized": "inwoners borsele mogen 5 miljoen euro verdelen om de leefbaarheid in hun dorp te vergroten",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLWl5ZVpFRjJpaHNjY0tJNVI1NFYxVXQ0T2t5OVh2TVRNbUQwZ0VubHI3MFlfZkw2TzJYQVdiVC1obUlIeW5WZ0NBUVdkendDbk5JNkZuMldBd1VOcGd1bno5T0pEQ1M2RUlMTUQyb05MMHpCRU1jQlRvYlFmMC03V1NmSWxka0F3dVA1aE1kSWFlRnZyMk1yd0NnN19lcTliYzM4QTFBT3VKM0RjNml4YmV0dEpaMmw0Z2dEd015SmlfdEkwNkVHVUpGV0JZRlJW?oc=5",
+    "samenvatting": "",
+    "datum": "2026-04-03T07:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
