@@ -1,8 +1,17 @@
 {
- "gegenereerd": "2026-11-23T02:52:13.442Z",
+ "gegenereerd": "2026-11-23T03:17:33.162Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Minder bussen en treinen: week begint met staking streekvervoer",
+    "normalized": "minder bussen en treinen week begint met staking streekvervoer",
+    "link": "https://nos.nl/l/2640660",
+    "samenvatting": "Gaat bus 304 van Apeldoorn, via onder meer Wenum, Emst en Heerde naar Zwolle? Of bus 26 van Akkrum via Aldeboarn, Gorredijk, Lippenhuizen naar Noordwolde? Reizigers moeten vandaag en morgen rekening houden met uitvallende ritten in het streekvervoer. Vakbonden FNV en CNV kondigden vorige week landel",
+    "datum": "2026-11-23T03:00:01.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/5/4/X/1/z/e/C9g3W4WdBCyUkwQnebQCeStcy9HsaNoM3opjqBE/8x519x3984x2241-1024x576.webp"
+   },
    {
     "titel": "74-jarige man met alzheimer na elf dagen teruggevonden in de Braziliaanse jungle",
     "normalized": "74 jarige man met alzheimer na elf dagen teruggevonden in de braziliaanse jungle",
@@ -263,18 +272,18 @@
     "datum": "2026-11-22T18:45:36.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/4/3/w/C/u/Z/Ra96yrwUbNhNLKY8978ceAJ6BFbJB8o5iLUrGb4/191x102x1648x927-1024x576.webp"
-   },
-   {
-    "titel": "Pochettino verliest bij trainersdebuut ManUnited van Liverpool",
-    "normalized": "pochettino verliest bij trainersdebuut manunited van liverpool",
-    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666581/pochettino-verliest-bij-trainersdebuut-manunited-van-liverpool",
-    "samenvatting": "Mauricio Pochettino heeft bij zijn debuut als hoofdtrainer van Manchester United met 4-0 verloren bij rivaal Liverpool. United speelde een groot gedeelte van de wedstrijd met tien man nadat Leny Yoro rood kreeg in de achtste minuut. De club uit Manchester staat nog altijd negentiende in de Premier L",
-    "datum": "2026-11-22T18:40:02.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126129-1.jpg?itok=Ns22e0fg&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    }
   ],
   "binnenland": [
+   {
+    "titel": "Minder bussen en treinen: week begint met staking streekvervoer",
+    "normalized": "minder bussen en treinen week begint met staking streekvervoer",
+    "link": "https://nos.nl/l/2640660",
+    "samenvatting": "Gaat bus 304 van Apeldoorn, via onder meer Wenum, Emst en Heerde naar Zwolle? Of bus 26 van Akkrum via Aldeboarn, Gorredijk, Lippenhuizen naar Noordwolde? Reizigers moeten vandaag en morgen rekening houden met uitvallende ritten in het streekvervoer. Vakbonden FNV en CNV kondigden vorige week landel",
+    "datum": "2026-11-23T03:00:01.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/5/4/X/1/z/e/C9g3W4WdBCyUkwQnebQCeStcy9HsaNoM3opjqBE/8x519x3984x2241-1024x576.webp"
+   },
    {
     "titel": "Bewoners redden de bruggen in Pekela: 'We hebben iets unieks bereikt'",
     "normalized": "bewoners redden de bruggen in pekela we hebben iets unieks bereikt",
@@ -535,15 +544,6 @@
     "datum": "2026-11-21T15:12:27.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/6/9/y/7/j/f/j88i5TngG7xyenfng8bomXa7CMLsS7Y7fUSJJZm/0x180x1920x1080-1024x576.webp"
-   },
-   {
-    "titel": "Reacties op overlijden Jason Bhugwandass: 'Er zat zo veel kracht in hem'",
-    "normalized": "reacties op overlijden jason bhugwandass er zat zo veel kracht in hem",
-    "link": "https://nos.nl/l/2640423",
-    "samenvatting": "\"Jason wandelde recht je hart in als je hem ontmoette, hij was een enorm inspirerend, lief en intelligent mens. Hij streed tegen onrecht met passie, bevlogenheid, humor en tederheid.\" Dat zegt Janinka Steenkuijl (links op de foto hierboven), een goede vriendin van de gisteren overleden Jason Bhugwan",
-    "datum": "2026-11-21T14:03:07.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/8/3/d/d/V/2/EuVvP8SwcdHb716Eg1GBbJ1PDLVfVqm2Hp8NbjK/7x45x576x324-576x324.webp"
    }
   ],
   "buitenland": [
@@ -1304,7 +1304,7 @@
     "titel": "FC Utrecht ontslaat coach Correia al na vier maanden wegens slechte prestaties",
     "normalized": "fc utrecht ontslaat coach correia al na vier maanden wegens slechte prestaties",
     "link": "https://www.nu.nl/voetbal/6417447/fc-utrecht-ontslaat-coach-correia-al-na-vier-maanden-wegens-slechte-prestaties.html",
-    "samenvatting": "FC Utrecht heeft zondag trainer Anthony Correia al na vier maanden ontslagen. Hij wordt verantwoordelijk gehouden voor de belabberde resultaten van de Domstedelingen.",
+    "samenvatting": "FC Utrecht heeft zondag trainer Anthony Correia al na vier maanden ontslagen. Hij wordt verantwoordelijk gehouden voor de belabberde resultaten van de Utrechters.",
     "datum": "2026-11-22T20:35:31.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/e9yxxfdaz732_sqr256/751/0/2362/2362/fc-utrecht-ontslaat-coach-correia-al-na-vier-maanden-wegens-slechte-prestaties.jpg"
@@ -1331,7 +1331,7 @@
     "titel": "Manchester United dieper in crisis door verlies bij Liverpool na vroege rode kaart",
     "normalized": "manchester united dieper in crisis door verlies bij liverpool na vroege rode kaart",
     "link": "https://www.nu.nl/voetbal/6417442/manchester-united-dieper-in-crisis-door-verlies-bij-liverpool-na-vroege-rode-kaart.html",
-    "samenvatting": "Manchester United heeft zondag andermaal een pijnlijke nederlaag geleden in de Premier League. De ploeg van de debuterende coach Mauricio Pochettino verloor na een vroege rode kaart met 4-0 bij Liverpool en staat nu negentiende in de Premier League.",
+    "samenvatting": "Manchester United heeft zondag andermaal een pijnlijke nederlaag geleden in de Premier League. De ploeg van de debuterende coach Maurico Pochettino verloor na een vroege rode kaart met 4-0 bij Liverpool en staat nu negentiende in de Premier League.",
     "datum": "2026-11-22T18:22:56.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/qzixkwxavg05_sqr256/1164/0/4809/4809/manchester-united-dieper-in-crisis-door-verlies-bij-liverpool-na-vroege-rode-kaart.jpg"
@@ -1928,15 +1928,6 @@
     "foto": ""
    },
    {
-    "titel": "Bunkerroute in Middelburg tijdens evenement 35 jaar Einde Koude Oorlog",
-    "normalized": "bunkerroute in middelburg tijdens evenement 35 jaar einde koude oorlog",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRC0yWHgybmNXRnhuTTdfQlFabDJQekU5UUlOZ1hfN0Fsbjd5MnQzdUI2NHRRQnItR2VLb2g5N1Z2eXlsNWhvOHdsbWkwSFdyU2Ntek1ObkJ5Q3ZPU1BwYmIzUGRaTEYyanJHZ19iNFdCNGYxaHg2WTk3dVFLM0J1ODRmNl9UMW00MFluNV8zUm5kYnU4cjM2R09xTkU1NUp6RTZQYVZkS1BzZ04yQjFrc0hB?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-22T15:09:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Melkwagen belandt in berm en schaart op fietspad bij Waterlandkerkje",
     "normalized": "melkwagen belandt in berm en schaart op fietspad bij waterlandkerkje",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdW81am95ZWZHaGl5bnJLY3FVNDU2b0tIM1kwS1c1UE03UXVGSmx6Mnd2dXNXWlhKQkFpRmNvU19tZkR6MkhlOE8wSE9qeUdtbU5hTE0tclhqbThvNWNNUUJRLXA1VDFCdWpaN1NlNHp3NWh0ZWlpdXlZTTFYR1hKdDg0aUxuR0VTYjRTTUVJaVNvZE9xWkpOYWtGVHQtS2ZnT1RCb2s3Y2Q1UUgzUE5lVTAxWQ?oc=5",
@@ -2014,6 +2005,15 @@
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNekF1RWRpeEJtMTB5d1pyVURnLVh0STVxaklkVkt5bkt2REpBMEhlLWszbVhUdkFaQlJud2czeHdqcWFhem5VZHh5OEhtUVpzQ3BzMnFZcGk0Z2M3N2twQ1BBdEZPTWZteEhXZFRYQjlxMFhhVERBOVdjYjZjVkZoZnlzdW5zZFV4UTJUMDBQTTNXWFBGMlp2eQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-22T09:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Bezoekers komen van heinde en verre naar Clinge voor whisky, rum en gin",
+    "normalized": "bezoekers komen van heinde en verre naar clinge voor whisky rum en gin",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHhCMlY5UFRhbWdZUE95cUcwNG81NjNEckFjM1hTSU1XZS1CS1RoVlN3RWg1OHhkZ3dmQmNuSzNCbVNGUVFLODkyNlZPZ0xWbmV2T05hVlR3XzRZU1dLVDR1X1BBN2ItNlFURHJyODlqSzYwZG1JeGpWb0c3ejVpNmRpWlVrd181R1FOSUw3UnlLdUdiMWVLa0g5OEZidEVzLTM0elkyXzk?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-22T08:36:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2879,6 +2879,15 @@
     "foto": ""
    },
    {
+    "titel": "Gaslekkage op Vreelandsedijk in Kwadendamme",
+    "normalized": "gaslekkage op vreelandsedijk in kwadendamme",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWIzMXYyWmhyQ2Y5MUFJUGdGZFBvc2JKZHRhRktBYWpRMW5BS0owRTRGQVFISDg5Ymdielp6OU55TUZCQnJwVXl4cVhxZTM2WTFRbHpvUE5RTjNCb1BfUUJYSnIyR1lHNFQtTThUaGNzS1UtZFgzOThfRWNhQnhEdXRhOVdsMUc2cmFXSkxiSkZkc3ZmRGc?oc=5",
+    "samenvatting": "",
+    "datum": "2025-05-13T07:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Het wapen van Kwadendamme weg bij de burgemeester: 'Ik ben heel blij'",
     "normalized": "het wapen van kwadendamme weg bij de burgemeester ik ben heel blij",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUxtY2dFUWZQWVJUQktLTkJEenQzenpnZ0cyU24yaG41MHYtTW1MVEpqUkNYQXdXZlRXSnBWTnNtcDIyUkw2dzhxM3E1YWFuZG5ESmFVNWtaczJzNG1nZVFudzJhMmhRa1NmZng3VWRrampPSjBDS3NBNHdSeVVTeVFHQkhjakFid1dSU3FHa3pFM3dKaVRlWENxcTd2RVI4T0dhQTByT0I3YndVRENaMg?oc=5",
@@ -2940,22 +2949,13 @@
     "datum": "2024-05-12T07:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
-   },
-   {
-    "titel": "Hoe een dorpje internationale faam kreeg door zijn Bluesfestival, Kwadendamme is (voor even) Bluestown",
-    "normalized": "hoe een dorpje internationale faam kreeg door zijn bluesfestival kwadendamme is voor even bluestown",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ1k3bHFKUmw0Q29zZEM4d2ctR21FY1R4SjRHd1BVSGwzak1GZU96TXlrRmJmQmtFaGRtcWNGTTJXM09rTjVLMnJsX2c1SG0taWRjUzdlUVpLeUZrMzg5Q1RjTDJjZWxyc3NtenNCcmFrVTJJcVgyVnN6cGZxOGowZ1lmVEswc2ozTkxyYUhreDdYOGhUYmpkd1JEUUxWN1hFdVFSYlRsaTJnV1FTa3VubE9Vc2pkWmVjYnJUZnNuWGM2bXVWbmxndDJEY1ZTTWFpcHlqcVQtRmMzVkZ2?oc=5",
-    "samenvatting": "",
-    "datum": "2024-04-30T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
    }
   ],
   "roosendaal": [
    {
     "titel": "Rood-Wit blijft doordenderen en wint ook van Roosendaal: ‘Moeten nu niet naast onze schoenen gaan lopen’",
     "normalized": "rood wit blijft doordenderen en wint ook van roosendaal moeten nu niet naast onze schoenen gaan lopen",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMzFCd1RUNmVUMHpHMUh6WWxmRGpIcU9SczhybERHWGVfM1FMYXlvaGlsTU9SaEIwbWY1dWlPWXB1bnlEYnRFUUZSZzhKanhfMkpNNHYyZ0VCeE9jS2NORWR3d1dTdmh4TTQ5RXpIek5wSjZqMDhoU2ZsN1hSWGsyb251Vk01amg2UF9vNHZoQXFrTHluZ3c0WHV5enJnRUYzRHhoYVRsN0w3N3VCNmhXSDFrRFZRTGtyMmVmNU1aLVByQ25NUEJZbGdPRkdaWDFzTEFEUFZxNFo5Qy1LRUxwLVJsZ2YyaG9RNUhJ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEdwbUt1UDR2WkdLOURSS1U0dkZkckVXdmpjYlo1dGk2cUl6TjJSVnQ5eVplVGJSQmJ5WVZtZHNYNkNkUUZSVnktLS1FR1JaTWlHS3NoQWpuWVZHOFhxdzRjeGtYR21oeGVHVUpoYzBUZmZyWG1IVmFfbW5SUEh1VHY0RDNtX3lDeFRJVk9nV2gzRHhqN25tVlpGQUJhdkNocEJKTzR5OUNxLWR5Z000bERGTXBzQ1dORW12SXVMU0k3X28wQXlNV0ZZd2duUjhHWE9sQ3BHZmRjRUMwbldOUHZxN1dSaEpfVnZUb3hmWQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-22T18:57:45.000Z",
     "bron": "Google Nieuws",
@@ -3007,15 +3007,6 @@
     "foto": ""
    },
    {
-    "titel": "Automobilist (32) aangehouden na aanrijding met minderjarige fietser in Roosendaal",
-    "normalized": "automobilist 32 aangehouden na aanrijding met minderjarige fietser in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGNRRDRDUlF4R281V3FBakFFdUtoTHpQNkkzN0FlYkJ4MnR5WW9MU3Y4Yi12MzFQWENZZm12Ty1oclAyaG10Rm1TQjU1MjJSY1BEdVNjSmZYMWdIY0g5R2l5VnZxV011MUpUYW1WWXB1OWpOZjdJR0ZTcG52RzNIbzc0TlNMY05EaVVXVk1TNjVHREZ4Q2dTQ3Y3NnRBUU5oZHB6MzdMSVdQV1I1?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-22T07:42:20.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Volleyballers verslaan koploper in Breda",
     "normalized": "volleyballers verslaan koploper in breda",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjlCYV82eldLSUoxNTNCMWV1LVZaVVZnU296MW1oMUd4QTI4aUthWl9WWU0ySDdPQmFSMXhZdHlBd28wUnZFMFR1ZEpUV3I0ajh3T2tQTXhxSUd6UHFsVW5MZ0kySXkzY0xyM3FqNFFrTWtNWDZaa3lwRTQ2dkpFRmJNQVhqcVpDQlRudmhaNjdhVFN3NWp3?oc=5",
@@ -3063,7 +3054,7 @@
    {
     "titel": "Roosendaal en Enexis slaan de handen ineen tegen een vol stroomnet",
     "normalized": "roosendaal en enexis slaan de handen ineen tegen een vol stroomnet",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVDRrM0dGc2gyQkhvQjdNUVRVQ2RPYVd1c2s5amV5WEUzcVFuOXpRM0NKZmdaMEpyc29EV1pfSDNUeDJqM2dIT2hteDU0TnA3bGFpVnZwWWt3RG9mLWI3Ri1UblZGUHBJak5iMjZfY0p5LWdrNFl2OUp1d1FsUzJjR2xiX1pzNnpRNC1DVklxQTRpWExUQTg2WWpSakl6SmVtR3pHcC1Kb0Y?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzdGV0lwMURMaTRUdU1GQ1ZXUDhtMm1iVzVnN05sdlNLTmx0czU3bVBmeHQ0OGwzRDFoeVBvNV9JN1pPU19ueHNtRzhlb0VzTzBrZnVqYlhEcTZXOGxKQUpwUGc2RTdXeVhkY2wyeHpWdW55NEJHTTFrUUxaWUxVYzFRMjVHYmlZUl9tQVk2OURiWkJraG9vdXdIZ2RUZnlXWXF2bWQ0SjBVdkUxcGVDWg?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T10:15:19.000Z",
     "bron": "Google Nieuws",
@@ -3088,6 +3079,15 @@
     "foto": ""
    },
    {
+    "titel": "Fietsster zwaargewond bij aanrijding in Roosendaal, automobilist slaat op de vlucht",
+    "normalized": "fietsster zwaargewond bij aanrijding in roosendaal automobilist slaat op de vlucht",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdVBYdzZkN1A2Q211aUFLU29LWVA2T2hVRHNLbnphVTRtcTdzWHZ1dFRBZnRmUE1GWUhfTUVjQVcxdzB6Q1ZBazZQZi0yN1BPbExFaEZnSU8yczNrZmVxbHY4Vnpnb3JkZFcxTlkzeVRlcFNuN2VjY1J3Tm1xZXZCTmVlWGhKOUFqOWxIU0RWTHRhR1BYWjYwOXRKa0lyNC1Fa08wSTA5VHZPc1JMOU1jNDc5OHhBWVd1MUlldFZyVmdrcFQzeWlvM0JTRUl3M2RfOWtIMA?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T09:51:05.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Fietser zwaargewond na aanrijding met doorrijdende automobilist in Roosendaal",
     "normalized": "fietser zwaargewond na aanrijding met doorrijdende automobilist in roosendaal",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdk5ULWphZXVkU0N6d1ZNSUpzSzNSdWVrSTFrTk52TENpUDFHX0RTNUtrV1NRY0Vhd19tcGRDYmtiZEN2eE9nZlAwZ3VCeFViWVZ5NndmUHI4TnlGWDl4cVRPRVZuX3FJcW12ejY1UVNYZWlfVHR5RWVjNDNDaElmTnp1Tlk2YU4xcmstRV9GczJKOWNp?oc=5",
@@ -3106,20 +3106,20 @@
     "foto": ""
    },
    {
+    "titel": "Automobilist gaat ervandoor na ongeluk, fietser zwaargewond",
+    "normalized": "automobilist gaat ervandoor na ongeluk fietser zwaargewond",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0ZhLUtwSzJWX0tIWUFrc1BuNXY0ZU1Ha2RaaFU3YXVKNHRDbE1wVEVmT0JuVS1SamFLeGxicWc5MF82S3B4czgyc1ZZSk9DeExLLS1QX0JGbzBRVFBCalJLWVR1VER1QU14c0FQbGpYdGljblFiWVVfTW5IR0RwalpiWk1JdUl5R2tYOHRlSlVYV2o3LTNHOERCNDRtTEpfX2p5SA?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T09:37:30.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Politie rukt uit voor wel heel bijzonder ‘uilskuiken’",
     "normalized": "politie rukt uit voor wel heel bijzonder uilskuiken",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZk5pX3JJcGMta1VuTHlERldnVlRGQ1lRampLdlFCdDVaQnFVMFBRZW00TEU5SHdRX0NjdjhZWkJvNGpQNW5TTWM5U3dCZ1ZVTVVRTFVEakowclZyVXRzR2htWncxMkgzeml2bkRGRl9PbjBVRVllZ05hRFl6amt3WHM2MWlHYXVKdy1IWDZuTWhJRzhCZl9BMVhZVlFoQQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T09:03:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Wijk in Oudenbosch protesteert tegen sluiting geliefd buurthuis en wint: ‘Het wordt nog mooier dan het was’",
-    "normalized": "wijk in oudenbosch protesteert tegen sluiting geliefd buurthuis en wint het wordt nog mooier dan het was",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS1pvODFOMFF1S0ZpTmdDcFU4clNPdnlTQ01SenhBQVNjMmZGSG83ZDNVS04wcVFFLVJDNGpLdnBMckR5ckVLMFNFNGMyaHhsYVhsb25qR3ZFY3Q4djN1X1ZYWE1wa05CSmt4bjByTm5KOE5sNjJ1SGZfNkEzMFZEemxaZ05zZGllWFpESkhXczQ5OFlZQVNXbzdXTm5VSTVUVmxpa3phWTlyNmxLanJPU1FsWUlEYlV2eUdyZHI3SFdfVUpEZkF0dnFQQUt0QUhQN3dUYTlMSUtCeHRO?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T08:11:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3142,9 +3142,18 @@
     "foto": ""
    },
    {
+    "titel": "Roosendaalse zussen krijgen koninklijke onderscheiding in Bilthoven",
+    "normalized": "roosendaalse zussen krijgen koninklijke onderscheiding in bilthoven",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOazNJZmZ5elFCUS1hSGlQNVdRdlZPZTFiTnFzWGZCQ08xb3M0VWFZclpSUE9TNjNkUkZiY1E2ZGc5R3BXY0ZoUzB6Yk40MWVvaW1zcGVwYnlqeGEyOWd0RFpnYXJpa2RjRHdsai1SXzRRNlBMUGJTc3RfRkxTcDVVLUpnT0lPYUxKd0tQcjBOTE9XR1ZZdEJReG1zTnozWVY0QVhHVXJ1M2xZczZuY0tGYmN3?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-20T19:31:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Ongeval met letsel op Laan van België in Roosendaal",
     "normalized": "ongeval met letsel op laan van belgie in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekJEZ3JkeEN6bEJDdVF6UzdTWlFJVnVBV3RGSkJWVjlNcDVfOFpoQWNjSF8yYngzdXBYNXBtaG1iR3hUU2ZRMGdGX296OVg1Tl9RbkdWaWFUN0dDWWEtRHFnMktZOXIteVdxOXNlY2hDc1dxRDZMOHlTUEVGOE1TWndPV081ME9VbW83aUd5bnlReDlwZk9WeUsyV2g4azFLNGppUVFIbjRmMWc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRF91UTlYNHJXR0QtVUtXVE95SVg0eV9ZUU8yVGJIc0d0TEs1R2pIZ2J1a01lbllTUlFUYUhDZTRJc1VlZWpGRmJVV2tjN1U5amhLQzRoRDlzRmxteXRGYlRWQzFCaklBdC1qZ0FuZTh0TXQ4T2hiUUlVX0cyQjE1ZGJWcFN6OHNaU1h4OG9MU2xiSzc1ZkNIcVVVYzVKVm1TQTd3?oc=5",
     "samenvatting": "",
     "datum": "2026-11-20T19:04:44.000Z",
     "bron": "Google Nieuws",
@@ -3171,7 +3180,7 @@
    {
     "titel": "Steeds minder nieuwe jeugdhulptrajecten in Roosendaal: 490, tegen 795 twee jaar eerder",
     "normalized": "steeds minder nieuwe jeugdhulptrajecten in roosendaal 490 tegen 795 twee jaar eerder",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLWxtZURBWmdSYV83cDFyRVloTHVZVkl3SDB4UDViNUx2bE5wQjBXcjdSdXlSRmppQUJBcDIxLUhWNllYcmhKT0pTWGJQMTh2akdtSDdhT3VHa24tODd5UXo1aXVWeTV1QkFuYWJsc3NtMTdFcWJYUlVuay1FcVpQQS1LUDZxR0hzYW0yTnh4WUxUQWZtY2s3NFExeVhaWG9zY0R4M2hzaUV0c2h6d05YcXhtQjNWM3Axb2Q4M0Mzb2lod3g4MFJwVw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcS1LU2FRbjNRM1pPQUlSRE41Ty1UZUk0eTBCaUNPd1lPcWI4OHY0NWpYT3U5XzY1SU1jUmdqMjBBbDFiV2lac0FzdlN2eWp3clAwcUthT01GVjBoLXl3ZmFhM01XdTdKY3V0ZVVYdjNTRUVpSFotNmpZQ1lGUDNaZXJsblVmSGJIdVRyYjlTbGdERW8taXFVY2w1MHFHM1VPZmpuVFJUTjhtMXhreHkxYk81T3RfTGhfLWZXbGdmU2w?oc=5",
     "samenvatting": "",
     "datum": "2026-11-20T16:29:00.000Z",
     "bron": "Google Nieuws",
@@ -3196,29 +3205,20 @@
     "foto": ""
    },
    {
-    "titel": "BSC zet 22 minuten druk tijdens restant, maar gaat met tiental onderuit tegen Roosendaal: ‘Hadden weinig te verliezen’",
-    "normalized": "bsc zet 22 minuten druk tijdens restant maar gaat met tiental onderuit tegen roosendaal hadden weinig te verliezen",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdlQ2dEFDY0pqcE9naGk2LS1taV92NjVLM0locDJOTmtrbEZ6X1h1TGpRWWMxc2ZfTml2TDN4dDJSQkhuMGtnVWpSX1dSTXA0Qk16SXQ5U3ZkYnMxX21FcFk0LTVhRzd4Wlo1SS1YVWhqalZydldKTy1jQkowMk1JNXZYb3VfVm9kYW00RzRrNlcwdVRfMllERDIweHN2T0VhVUFEWWFveUQzMnBEQVk2RXBCdGw2cEF5bWxpLXA2cGNzMmNtSHloSU5GS3ExbU1rVEhCbU95QlB1Y0dzV3NIRTc1X081cGN2RzY0M3JtRDFWcXc?oc=5",
+    "titel": "Gaslekkage op Runningstraat in Heerle",
+    "normalized": "gaslekkage op runningstraat in heerle",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM19tcDlyWUlNcFZSZkFETU0yVzJqaS1lWG5ncktsTzdqelFWYk1NSFMyV0toNEpjbW9pU2ZvRjV3b2dDcUo5SUF2Mmp3TlhvN1hBVWh6RUJOTWk3eXB0cGxaQ3pvbkRuR2FwcHdPN3ZibnBVVzg4RkJBSE1UcXkwWWZwallybWFzM1hHcWw5QXNtenBnM0J4YQ?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-20T06:30:21.000Z",
+    "datum": "2026-11-20T08:24:26.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "Winkelcentrum in Roosendaal moest uitbreiding jarenlang opschuiven door Bergen op Zoom: een kijkje achter de schermen",
-    "normalized": "winkelcentrum in roosendaal moest uitbreiding jarenlang opschuiven door bergen op zoom een kijkje achter de schermen",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYk04ZXNzUTd1ZFlKOEgwT29xVVZvWlB1MUpYdThFY25SZzZaSy1wU1NhZHFkZ1JYaUV0Y1dZN1RyT01mVUMwSmJ5eUF2ME5ad3ctWkRKdHhqTDF4a2Q0cGY1ZW1uUzRIbTRaNVVQanBTMUZUVjREOEZBS1B6ZUx4NEYxNG1YUlI1QUFpNnJwVGNrcEVqWk13b3NSTDlFWEpoVUZRSF9Ybms3cUZ3ZU9qSHpVakNqMDBOVVZpTFVTejcxUF9qZV94a1NpemQ0ZlZZZTd4MmRnc3BDVVBXOGd3c09Ed3Y1blF4d1JyaF9paklXVEE?oc=5",
+    "titel": "Roosendaalse shirts, sweaters en hoodies, draag het met trots",
+    "normalized": "roosendaalse shirts sweaters en hoodies draag het met trots",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOenlwa3hOZzl5M242elFYQzNsZm5uNUZYdWV1V2Rpazc3WDlpdG1jQmRMc1BzeFdVQzJoTUh2NDNHdlBHQllDTlV5RzhvbVNaN0hiWDNkem9qa3JCZUpzMGtNSWRfTW5Eei1INGZjeUpKYkJXOUwyU0daLUwyRXBPUVlmb2p0TXQ1d21FMFNCWnlrdjNTSHItVjdGcjBLM0w5TnVwTU9qNA?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-20T05:32:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Reanimatie op Marktstede in Roosendaal, traumahelikopter gealarmeerd",
-    "normalized": "reanimatie op marktstede in roosendaal traumahelikopter gealarmeerd",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRmFRZWVOR2dLQ3ZDWUE5cUxWV3BXODVXdS1jU08wY0NQTkd6V1czZGI4NENHcnVWcTVCSkRmcEVRSVBabHRCdDdXV09zSzdpZHpiSDJqOUZFc19BSkRrVE8tOEV6Qnc3SVdvZF8zQWRwaENKMlBMVDcxelJ3TkN0bFJYbFZfN1RiMzhyM1NUZUxMVVRiTkRoclJnMHUzLUp5N2tCTzBCTVFBa094MHVyTVhQNGxfTE41YW51RGYtVnA?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T03:20:41.000Z",
+    "datum": "2026-11-20T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
