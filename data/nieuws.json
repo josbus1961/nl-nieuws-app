@@ -1,8 +1,26 @@
 {
- "gegenereerd": "2026-11-23T05:49:45.843Z",
+ "gegenereerd": "2026-11-23T06:15:12.214Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Met nieuwe acteur Bond kan ook de strijd tussen luxemerken losbarsten",
+    "normalized": "met nieuwe acteur bond kan ook de strijd tussen luxemerken losbarsten",
+    "link": "https://www.rtl.nl/nieuws/economie/artikel/5666419/met-nieuwe-acteur-bond-kan-ook-de-strijd-tussen-luxemerken",
+    "samenvatting": "Met de bekendmaking van de nieuwe James Bond kan de strijd tussen luxemerken om een prominente plek in de nieuwe film beginnen. Van horloges tot auto's en van pakken tot champagne: al ruim een halve eeuw zijn de films voor allerlei merken een manier om in de spotlight te staan. Dit keer lijkt de str",
+    "datum": "2026-11-23T06:05:51.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/22/ANP-501678771.jpg?itok=q48DY5Q-&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1279&amp;cropHeight=719&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
+   {
+    "titel": "Grote reorganisaties blijven uit bij opkomst AI: bedrijven verwachten banengroei",
+    "normalized": "grote reorganisaties blijven uit bij opkomst ai bedrijven verwachten banengroei",
+    "link": "https://www.nu.nl/economie/6417227/grote-reorganisaties-blijven-uit-bij-opkomst-ai-bedrijven-verwachten-banengroei.html",
+    "samenvatting": "Een kwart van de Nederlandse bedrijven verwacht dat de opkomst van kunstmatige intelligentie (AI) de komende drie jaar meer banen oplevert. Zij voorzien een toename van het aantal werknemers, mede vanwege marktuitbreiding, omzetgroei of behoefte aan ervaren specialisten.",
+    "datum": "2026-11-23T06:01:42.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/lt6xk3ua4adp_sqr256/620/0/3958/3958/grote-reorganisaties-blijven-uit-bij-opkomst-ai-bedrijven-verwachten-banengroei.jpg"
+   },
    {
     "titel": "Streekvervoer vandaag grotendeels plat vanwege staking",
     "normalized": "streekvervoer vandaag grotendeels plat vanwege staking",
@@ -28,7 +46,7 @@
     "samenvatting": "Op de eerste koude dagen van november hebben huishoudens gemiddeld tot 10 procent minder gas verbruikt dan vorig jaar in november. Dat blijkt uit cijfers van energiemaatschappij Essent. In plaats daarvan werd juist meer stroom gebruikt, tot wel 40 procent. Dat betekent dat er meer gebruikgemaakt wer",
     "datum": "2026-11-23T05:36:12.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/6/G/T/K/w/v/vpaekcip5DLcsUGQedmUizXYV4TDWQaFF2BUHKD/8x224x3984x2241-1024x576.webp"
+    "foto": "https://images.cdn.nos.nl/2/E/Z/M/q/h/TiJoicnDzxz727hWa6qC63jtZH5BPoF793Wqpa3/8x421x3984x2241-1024x576.webp"
    },
    {
     "titel": "Koopwoningen in oktober bijna 3 procent duurder dan vorig jaar",
@@ -40,13 +58,13 @@
     "foto": "https://images.nu.nl/m/j94xq65a0tz9_sqr256/0/0/5494/5494/koopwoningen-in-oktober-bijna-3-procent-duurder-dan-vorig-jaar.jpg"
    },
    {
-    "titel": "Verstappen ziet op tegen races in Midden-Oosten: 'Ik zou liever thuis blijven'",
-    "normalized": "verstappen ziet op tegen races in midden oosten ik zou liever thuis blijven",
-    "link": "https://www.nu.nl/formule-1/6417451/verstappen-ziet-op-tegen-races-in-midden-oosten-ik-zou-liever-thuis-blijven.html",
+    "titel": "Verstappen ziet op tegen races in Midden-Oosten: 'Ik zou liever thuisblijven'",
+    "normalized": "verstappen ziet op tegen races in midden oosten ik zou liever thuisblijven",
+    "link": "https://www.nu.nl/formule-1/6417451/verstappen-ziet-op-tegen-races-in-midden-oosten-ik-zou-liever-thuisblijven.html",
     "samenvatting": "Max Verstappen reist met tegenzin naar de laatste twee Formule 1-races in het Midden-Oosten. De Red Bull-coureur vertrouwt op de veiligheidsgaranties die hij heeft gekregen, maar voelt zich niet prettig bij de situatie in de regio.",
     "datum": "2026-11-23T05:31:36.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/64jxuxna6d4v_sqr256/969/0/3870/3870/verstappen-ziet-op-tegen-races-in-midden-oosten-ik-zou-liever-thuis-blijven.jpg"
+    "foto": "https://images.nu.nl/m/64jxuxna6d4v_sqr256/969/0/3870/3870/verstappen-ziet-op-tegen-races-in-midden-oosten-ik-zou-liever-thuisblijven.jpg"
    },
    {
     "titel": "Rocki en Riot, kinderen van Rihanna, stelen de show in de modewereld",
@@ -139,13 +157,13 @@
     "foto": "https://images.cdn.nos.nl/2/G/g/o/f/j/SaRKtS4pDhGiPFStRfp9vfahMdEzKzokGQT9Lsm/4x314x2992x1683-1024x576.webp"
    },
    {
-    "titel": "De pakketjespiek is te beteugelen, maar dan moeten we slimmer bestellen",
-    "normalized": "de pakketjespiek is te beteugelen maar dan moeten we slimmer bestellen",
-    "link": "https://www.nu.nl/economie/6416391/de-pakketjespiek-is-te-beteugelen-maar-dan-moeten-we-slimmer-bestellen.html",
+    "titel": "Pakkettenlawine dendert op ons af, zo zorg je dat de jouwe er niet onder bezwijkt",
+    "normalized": "pakkettenlawine dendert op ons af zo zorg je dat de jouwe er niet onder bezwijkt",
+    "link": "https://www.nu.nl/economie/6416391/pakkettenlawine-dendert-op-ons-af-zo-zorg-je-dat-de-jouwe-er-niet-onder-bezwijkt.html",
     "samenvatting": "Vrijdag begint de pakketapocalyps: Black Friday. Een paar dagen later Pakjesavond en dan is het bijna Kerst. Duizenden extra medewerkers worden ingezet, de robots krijgen een APK en ook de consument kan helpen om die pakketjesberg de baas te worden.",
     "datum": "2026-11-23T03:58:58.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/ybpx0o0apqhp_sqr256/1800/0/4116/4116/de-pakketjespiek-is-te-beteugelen-maar-dan-moeten-we-slimmer-bestellen.jpg"
+    "foto": "https://images.nu.nl/m/ybpx0o0apqhp_sqr256/1800/0/4116/4116/pakkettenlawine-dendert-op-ons-af-zo-zorg-je-dat-de-jouwe-er-niet-onder-bezwijkt.jpg"
    },
    {
     "titel": "Oxfam Novib: Gazastrook ernstig vervuild door Israëlisch geweld",
@@ -163,7 +181,7 @@
     "samenvatting": "Gaat bus 304 van Apeldoorn, via onder meer Wenum, Emst en Heerde naar Zwolle? Of bus 26 van Akkrum via Aldeboarn, Gorredijk, Lippenhuizen naar Noordwolde? Reizigers moeten vandaag en morgen rekening houden met uitvallende ritten in het streekvervoer. Vakbonden FNV en CNV kondigden vorige week landel",
     "datum": "2026-11-23T03:00:01.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/5/4/X/1/z/e/C9g3W4WdBCyUkwQnebQCeStcy9HsaNoM3opjqBE/8x519x3984x2241-1024x576.webp"
+    "foto": "https://images.cdn.nos.nl/1/6/R/B/E/J/KucaFPjQnE2zT9b4iHbcve4Nud31YEDUB7zSvoB/0x417x4000x2250-1024x576.webp"
    },
    {
     "titel": "'Alice Huang tijdens affaire met Nvidia-chef ruim een jaar in contact met spionagedienst'",
@@ -254,24 +272,6 @@
     "datum": "2026-11-22T20:49:37.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://redactie.rtl.nl/sites/default/files/ANP221126135-1.jpg?itok=JuElBL_0&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Nieuwe aanvallen op tankers bij Straat van Hormuz gemeld",
-    "normalized": "nieuwe aanvallen op tankers bij straat van hormuz gemeld",
-    "link": "https://nos.nl/l/2640649",
-    "samenvatting": "In de Straat van Hormuz zijn nieuwe aanvallen gemeld op de civiele scheepvaart. Volgens Iraanse staatsmedia zijn nog eens twee tankers in brand gevlogen door ontploffende zeemijnen. De Britse maritieme autoriteit UKMTO meldt één incident met betrekking tot een tanker en \"militaire eenheden\". Dat geb",
-    "datum": "2026-11-22T20:41:36.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/1/8/2/U/g/H/G1LswSfVEb33dZuKvojGGxqiMdtx4Ca4NgRpqwe/417x476x3584x2016-1024x576.webp"
-   },
-   {
-    "titel": "Toekomst Denice Dest in Expeditie Robinson onzeker na felle ruzie",
-    "normalized": "toekomst denice dest in expeditie robinson onzeker na felle ruzie",
-    "link": "https://www.rtl.nl/boulevard/artikel/5666079/expeditie-robinson-ruzie-denice-dest-pauline-slangen",
-    "samenvatting": "Waar het kamp Noord in 'Expeditie Robinson' eerder nog voor de wind ging, beginnen de eerste scheurtjes in het team te ontstaan. Na een verloren proef lopen de irritaties hoog op tussen Denice Dest (47) en Pauline Slangen (24). De twee krijgen het met elkaar aan de stok.",
-    "datum": "2026-11-22T20:39:15.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/19/expeditie.jpg?itok=gYxlfHYn&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1200&amp;cropHeight=675&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    }
   ],
   "binnenland": [
@@ -291,16 +291,16 @@
     "samenvatting": "Op de eerste koude dagen van november hebben huishoudens gemiddeld tot 10 procent minder gas verbruikt dan vorig jaar in november. Dat blijkt uit cijfers van energiemaatschappij Essent. In plaats daarvan werd juist meer stroom gebruikt, tot wel 40 procent. Dat betekent dat er meer gebruikgemaakt wer",
     "datum": "2026-11-23T05:36:12.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/6/G/T/K/w/v/vpaekcip5DLcsUGQedmUizXYV4TDWQaFF2BUHKD/8x224x3984x2241-1024x576.webp"
+    "foto": "https://images.cdn.nos.nl/2/E/Z/M/q/h/TiJoicnDzxz727hWa6qC63jtZH5BPoF793Wqpa3/8x421x3984x2241-1024x576.webp"
    },
    {
-    "titel": "Explainer | Moslims worden binnenkort grootste religieuze groep: dit is waarom",
-    "normalized": "explainer moslims worden binnenkort grootste religieuze groep dit is waarom",
-    "link": "https://www.nu.nl/332528/video/moslims-worden-binnenkort-grootste-religieuze-groep-dit-is-waarom.html",
+    "titel": "Explainer | Nederland wordt minder gelovig, aantal moslims stijgt: dit is waarom",
+    "normalized": "explainer nederland wordt minder gelovig aantal moslims stijgt dit is waarom",
+    "link": "https://www.nu.nl/332528/video/nederland-wordt-minder-gelovig-aantal-moslims-stijgt-dit-is-waarom.html",
     "samenvatting": "",
     "datum": "2026-11-23T05:05:03.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/vprx1h2asi14_sqr256/275/0/1439/1439/moslims-worden-binnenkort-grootste-religieuze-groep-dit-is-waarom.jpg"
+    "foto": "https://images.nu.nl/m/vprx1h2asi14_sqr256/275/0/1439/1439/nederland-wordt-minder-gelovig-aantal-moslims-stijgt-dit-is-waarom.jpg"
    },
    {
     "titel": "Vandaag en morgen veel minder streekvervoer in groot deel van het land",
@@ -318,7 +318,7 @@
     "samenvatting": "Gaat bus 304 van Apeldoorn, via onder meer Wenum, Emst en Heerde naar Zwolle? Of bus 26 van Akkrum via Aldeboarn, Gorredijk, Lippenhuizen naar Noordwolde? Reizigers moeten vandaag en morgen rekening houden met uitvallende ritten in het streekvervoer. Vakbonden FNV en CNV kondigden vorige week landel",
     "datum": "2026-11-23T03:00:01.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/5/4/X/1/z/e/C9g3W4WdBCyUkwQnebQCeStcy9HsaNoM3opjqBE/8x519x3984x2241-1024x576.webp"
+    "foto": "https://images.cdn.nos.nl/1/6/R/B/E/J/KucaFPjQnE2zT9b4iHbcve4Nud31YEDUB7zSvoB/0x417x4000x2250-1024x576.webp"
    },
    {
     "titel": "Bewoners redden de bruggen in Pekela: 'We hebben iets unieks bereikt'",
@@ -1002,13 +1002,22 @@
   ],
   "economie": [
    {
+    "titel": "Grote reorganisaties blijven uit bij opkomst AI: bedrijven verwachten banengroei",
+    "normalized": "grote reorganisaties blijven uit bij opkomst ai bedrijven verwachten banengroei",
+    "link": "https://www.nu.nl/economie/6417227/grote-reorganisaties-blijven-uit-bij-opkomst-ai-bedrijven-verwachten-banengroei.html",
+    "samenvatting": "Een kwart van de Nederlandse bedrijven verwacht dat de opkomst van kunstmatige intelligentie (AI) de komende drie jaar meer banen oplevert. Zij voorzien een toename van het aantal werknemers, mede vanwege marktuitbreiding, omzetgroei of behoefte aan ervaren specialisten.",
+    "datum": "2026-11-23T06:01:42.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/lt6xk3ua4adp_sqr256/620/0/3958/3958/grote-reorganisaties-blijven-uit-bij-opkomst-ai-bedrijven-verwachten-banengroei.jpg"
+   },
+   {
     "titel": "Nederlanders stoken minder gas, maar gebruiken meer stroom voor verwarming",
     "normalized": "nederlanders stoken minder gas maar gebruiken meer stroom voor verwarming",
     "link": "https://nos.nl/l/2640666",
     "samenvatting": "Op de eerste koude dagen van november hebben huishoudens gemiddeld tot 10 procent minder gas verbruikt dan vorig jaar in november. Dat blijkt uit cijfers van energiemaatschappij Essent. In plaats daarvan werd juist meer stroom gebruikt, tot wel 40 procent. Dat betekent dat er meer gebruikgemaakt wer",
     "datum": "2026-11-23T05:36:12.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/6/G/T/K/w/v/vpaekcip5DLcsUGQedmUizXYV4TDWQaFF2BUHKD/8x224x3984x2241-1024x576.webp"
+    "foto": "https://images.cdn.nos.nl/2/E/Z/M/q/h/TiJoicnDzxz727hWa6qC63jtZH5BPoF793Wqpa3/8x421x3984x2241-1024x576.webp"
    },
    {
     "titel": "Koopwoningen in oktober bijna 3 procent duurder dan vorig jaar",
@@ -1029,13 +1038,13 @@
     "foto": "https://images.nu.nl/m/nhcxgd4azl59_sqr256/0/0/3491/3491/vandaag-en-morgen-veel-minder-streekvervoer-in-groot-deel-van-het-land.jpg"
    },
    {
-    "titel": "De pakketjespiek is te beteugelen, maar dan moeten we slimmer bestellen",
-    "normalized": "de pakketjespiek is te beteugelen maar dan moeten we slimmer bestellen",
-    "link": "https://www.nu.nl/economie/6416391/de-pakketjespiek-is-te-beteugelen-maar-dan-moeten-we-slimmer-bestellen.html",
+    "titel": "Pakkettenlawine dendert op ons af, zo zorg je dat de jouwe er niet onder bezwijkt",
+    "normalized": "pakkettenlawine dendert op ons af zo zorg je dat de jouwe er niet onder bezwijkt",
+    "link": "https://www.nu.nl/economie/6416391/pakkettenlawine-dendert-op-ons-af-zo-zorg-je-dat-de-jouwe-er-niet-onder-bezwijkt.html",
     "samenvatting": "Vrijdag begint de pakketapocalyps: Black Friday. Een paar dagen later Pakjesavond en dan is het bijna Kerst. Duizenden extra medewerkers worden ingezet, de robots krijgen een APK en ook de consument kan helpen om die pakketjesberg de baas te worden.",
     "datum": "2026-11-23T03:58:58.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/ybpx0o0apqhp_sqr256/1800/0/4116/4116/de-pakketjespiek-is-te-beteugelen-maar-dan-moeten-we-slimmer-bestellen.jpg"
+    "foto": "https://images.nu.nl/m/ybpx0o0apqhp_sqr256/1800/0/4116/4116/pakkettenlawine-dendert-op-ons-af-zo-zorg-je-dat-de-jouwe-er-niet-onder-bezwijkt.jpg"
    },
    {
     "titel": "De barsten in de klimaattop werden in Turkije plotseling een breuk",
@@ -1261,26 +1270,17 @@
     "datum": "2026-11-20T11:40:35.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/jm5xrbgajrkf_sqr256/140/0/3404/3404/groeiende-groep-landen-wil-olie-en-gas-afbouwen-belangrijk-signaal.jpg"
-   },
-   {
-    "titel": "OM hackte Tata Steel in onderzoek naar mogelijk opzettelijke vervuiling omgeving",
-    "normalized": "om hackte tata steel in onderzoek naar mogelijk opzettelijke vervuiling omgeving",
-    "link": "https://nos.nl/l/2640278",
-    "samenvatting": "Het Openbaar Ministerie heeft Tata Steel gehackt in het kader van het strafrechtelijk onderzoek naar het bedrijf. Daarbij zijn documenten uit de bedrijfssystemen gehaald, zegt de persofficier. Dat kwam naar voren tijdens de rechtszaak tegen het bedrijf uit IJmuiden die vandaag begon. Waarom het Open",
-    "datum": "2026-11-20T11:31:49.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/7/8/T/Z/o/S/XZeFWnSU89sB58sFfSNJLduAJgrL1iZ9yJh6SHH/0x0x1920x1080-1024x576.webp"
    }
   ],
   "sport": [
    {
-    "titel": "Verstappen ziet op tegen races in Midden-Oosten: 'Ik zou liever thuis blijven'",
-    "normalized": "verstappen ziet op tegen races in midden oosten ik zou liever thuis blijven",
-    "link": "https://www.nu.nl/formule-1/6417451/verstappen-ziet-op-tegen-races-in-midden-oosten-ik-zou-liever-thuis-blijven.html",
+    "titel": "Verstappen ziet op tegen races in Midden-Oosten: 'Ik zou liever thuisblijven'",
+    "normalized": "verstappen ziet op tegen races in midden oosten ik zou liever thuisblijven",
+    "link": "https://www.nu.nl/formule-1/6417451/verstappen-ziet-op-tegen-races-in-midden-oosten-ik-zou-liever-thuisblijven.html",
     "samenvatting": "Max Verstappen reist met tegenzin naar de laatste twee Formule 1-races in het Midden-Oosten. De Red Bull-coureur vertrouwt op de veiligheidsgaranties die hij heeft gekregen, maar voelt zich niet prettig bij de situatie in de regio.",
     "datum": "2026-11-23T05:31:36.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/64jxuxna6d4v_sqr256/969/0/3870/3870/verstappen-ziet-op-tegen-races-in-midden-oosten-ik-zou-liever-thuis-blijven.jpg"
+    "foto": "https://images.nu.nl/m/64jxuxna6d4v_sqr256/969/0/3870/3870/verstappen-ziet-op-tegen-races-in-midden-oosten-ik-zou-liever-thuisblijven.jpg"
    },
    {
     "titel": "Onafhankelijk onderzoek naar angstcultuur bij Picnic-PostNL van start",
@@ -2036,15 +2036,6 @@
     "foto": ""
    },
    {
-    "titel": "Vrouwenvoetbal | Forum Sport vr1 verliezen op knollentuin in Zeeland",
-    "normalized": "vrouwenvoetbal forum sport vr1 verliezen op knollentuin in zeeland",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbjluUTV0RU5LVGloRUhGR3dhcDdmSGd3OFZfdFFRV1Q3NlQ5UE9rWllpdFlWT1pIbWQxLVBKTDZmNW5iaGxOR0NHdVB5X2hfeVRuMmRUcmxoOXJRc3RuMHpTSS1ZaXZRS203c2pBWWRld0VpbU94cXAtTThyT1R3S1lrd3Etb0VmbDltZjdHd2RZcXhaZWNaaVE3ZUJaNmVidkpV?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-22T09:01:03.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Zeeuws-Vlaming Jochem Kerckhaert (26) wordt eindelijk prof na een loodzware weg vol tegenslag",
     "normalized": "zeeuws vlaming jochem kerckhaert 26 wordt eindelijk prof na een loodzware weg vol tegenslag",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONEFzdXFJcElZT0ZBTTFOSkxmNkZkbEhyU2dfUUpZTHdVaC00aVZTb28zSGZJbDJHT0lYZ3hhNHVxRmxyZmtuMTZTOF9CbEdmNGdGRGt2N3UyWktwcDRuTzFKc3NCUDQxZm1Qb0hCVTVIRmZoZi0tellQLXdLYU1qSW1lZjUwWlFTeUhHbTFiZ2RGaDBSZkJDN3EyR3VQMWpjWloxc09jZkI3QXY1SWJEZFFrazByVUlkQ2FVLXFlV0xhX2dwaGlHMnhMQ1hoVU51OVg0?oc=5",
@@ -2178,9 +2169,45 @@
     "datum": "2026-11-21T12:59:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
+   },
+   {
+    "titel": "Arianne twijfelt na Sietse's bekentenis in Boer Zoekt Vrouw: wie moet er straks naar huis?",
+    "normalized": "arianne twijfelt na sietse s bekentenis in boer zoekt vrouw wie moet er straks naar huis",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQXzlCYWZxV0NDRnQyY1pPQVlBNHV3Z3VpUXgzX1hfSnlDRjdEaDBlOU5IV1VmdGxWLVlkblY3ZFIzdzNpLXlUUmEydmJ0ekI4WWRNWnpaSEc3Y24wa1g5QzNzdzVXRlNVTVJJX2FkTGlqWmpIcFNJMk5ScWQ4NkNodVMwN3ZreXQwYTAzbEgxaXlCZUtVTl9MT3NXUk5ZRTA4czR5TkxHNnUtWUk1blRHTWdYbDc4NklrUzlGM243c2VGSmR4Vnc4NExKZDY?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T11:08:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
    }
   ],
   "brabant": [
+   {
+    "titel": "Experts bezorgd over meisje bij nazivechtkooi: &#39;Gaat een grens over&#39;",
+    "normalized": "experts bezorgd over meisje bij nazivechtkooi 39 gaat een grens over 39",
+    "link": "https://www.omroepbrabant.nl/nieuws/6035727/experts-bezorgd-over-meisje-bij-nazivechtkooi-gaat-een-grens-over",
+    "samenvatting": "Een meisje van 7, met een teddybeer onder haar arm, kijkt toe terwijl mannen elkaar knock-out slaan en de Hitlergroet brengen. De Zembla-beelden van de dochter van tandarts Bas E. uit Oeffelt gingen deze week het hele land door en zorgden voor flinke ophef. Deskundigen slaan alarm. &#34;Het kan kind",
+    "datum": "2026-11-23T06:00:00.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTMzMzMtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz0yUVB5bjdaVmNickxMMUxJUzlDOXFHJTJCdW9TV1hBM1h6V0tHVGQwekwxY0UlM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
+   },
+   {
+    "titel": "Problemen op het spoor rond Eindhoven door seinstoring",
+    "normalized": "problemen op het spoor rond eindhoven door seinstoring",
+    "link": "https://www.omroepbrabant.nl/nieuws/6035733/problemen-op-het-spoor-rond-eindhoven-door-seinstoring",
+    "samenvatting": "Een seinstoring veroorzaakt maandagochtend problemen op het spoor rond Eindhoven. Er rijden er tot ongeveer kwart over negen 's ochtends geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch rijden minder treinen dan gebruikelijk.&nbsp; &#xD;&#xA; Reizig",
+    "datum": "2026-11-23T05:52:00.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzMxNjEzNzktMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz0zbFNkQ0FCVXcxTHEwUHV3VndnTzkwTXdzREQlMkZPZ3hNUktFZ0MwJTJCYXRKZyUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
+   },
+   {
+    "titel": "OV ligt twee dagen plat door landelijke staking in het streekvervoer",
+    "normalized": "ov ligt twee dagen plat door landelijke staking in het streekvervoer",
+    "link": "https://www.omroepbrabant.nl/nieuws/6035290/ov-ligt-twee-dagen-plat-door-landelijke-staking-in-het-streekvervoer",
+    "samenvatting": "Buschauffeurs en machinisten in het streekvervoer leggen opnieuw het werk neer vanwege vastgelopen cao-onderhandelingen. Dat hebben vakbonden FNV en CNV aangekondigd. Maandag en dinsdag zijn er weer landelijke stakingen. &#xD;&#xA; Er wordt maandag en dinsdag niet gestaakt door machinisten en conduc",
+    "datum": "2026-11-23T05:45:00.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzQ5ODg3MTQtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz16RzV3aXIlMkZ2cEd4bTElMkI1S24yREhWNVFZd09tUjFWVmhoSXA2blpaQmpuZyUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
+   },
    {
     "titel": "Bill C. zegt dat hij in een opwelling doodde, justitie ziet twee moorden",
     "normalized": "bill c zegt dat hij in een opwelling doodde justitie ziet twee moorden",
@@ -2344,15 +2371,6 @@
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTMwNzgtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz05eXlZJTJCaHE3c2ZQQTlvYjdwZCUyRlJJamZCTnd2dGh6dkxyWlZlZXloVXUxZyUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
    },
    {
-    "titel": "Vera uit Waalwijk weer in Nederland na detentie in VS: &#39;Ernstig verzwakt&#39;",
-    "normalized": "vera uit waalwijk weer in nederland na detentie in vs 39 ernstig verzwakt 39",
-    "link": "https://www.omroepbrabant.nl/nieuws/6035703/vera-uit-waalwijk-weer-in-nederland-na-detentie-in-vs-ernstig-verzwakt",
-    "samenvatting": "De Waalwijkse influencer Vera Dijkmans (29), die miljoenen volgers heeft op Instagram, is terug in Nederland. Ze kwam zondagochtend aan op Schiphol. Dijkmans zat ruim anderhalve week vast in de VS. Ze belandde in een detentiecentrum van de Amerikaanse immigratiedienst ICE,&nbsp; vanwege problemen me",
-    "datum": "2026-11-22T07:40:09.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTA0MDQtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1zbkFHQTNiRFclMkJ4dDBBUDFhcTZ2aGMyYmYwemczMkM5cFpLbmFQNzM2b2MlM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
-   },
-   {
     "titel": "Alice zag een joekel van een gele rups en wil weten wat ze heeft gezien",
     "normalized": "alice zag een joekel van een gele rups en wil weten wat ze heeft gezien",
     "link": "https://www.omroepbrabant.nl/nieuws/6035448/alice-zag-een-joekel-van-een-gele-rups-en-wil-weten-wat-ze-heeft-gezien",
@@ -2380,15 +2398,6 @@
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.49/0.59/cmV2aXNpb25zLzUwMDU2NDctMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz0wdlRlVFc4JTJCTGhiMms1cTU3N1dEeXhiSWNqQ1dQQUtmVXNVZHdYbnJRUG8lM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
    },
    {
-    "titel": "Jeanne en Alphons brengen 900 Nederlanders samen onder de Spaanse zon",
-    "normalized": "jeanne en alphons brengen 900 nederlanders samen onder de spaanse zon",
-    "link": "https://www.omroepbrabant.nl/nieuws/6035235/jeanne-en-alphons-brengen-900-nederlanders-samen-onder-de-spaanse-zon",
-    "samenvatting": "Geen Hollands herfstweer met kletterende regen voor de 76-jarige Jeanne Hendrikx uit Hapert. Ze woont samen met haar man Alphons (79) Bogers onder de Spaanse zon, en hoewel ze al een tijdje met pensioen zijn, is stilzitten er niet bij. Het stel heeft een missie: Nederlanders op een ongedwongen manie",
-    "datum": "2026-11-22T05:15:00.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.45/cmV2aXNpb25zLzUwMTI0OTEtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1lRjNYSEk3ODIxeEhKZGxnSDhNblE4Z1NvUzlPZzZNa2R2bG1yeHZaYTVjJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
-   },
-   {
     "titel": "Basketballegendes vader en zoon Akerboom hebben hoofdrol in kinderboek",
     "normalized": "basketballegendes vader en zoon akerboom hebben hoofdrol in kinderboek",
     "link": "https://www.omroepbrabant.nl/nieuws/6035621/basketballegendes-vader-en-zoon-akerboom-hebben-hoofdrol-in-kinderboek",
@@ -2396,15 +2405,6 @@
     "datum": "2026-11-22T05:00:00.000Z",
     "bron": "Omroep Brabant",
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTI1NTktMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1hTEhIbXBYN0lScHYxZjZ6UlNObVpWYW5kdXFwUlF2TnEzWXFTUWhwYVFZJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
-   },
-   {
-    "titel": "OV ligt twee dagen plat door landelijke staking in het streekvervoer",
-    "normalized": "ov ligt twee dagen plat door landelijke staking in het streekvervoer",
-    "link": "https://www.omroepbrabant.nl/nieuws/6035290/ov-ligt-twee-dagen-plat-door-landelijke-staking-in-het-streekvervoer",
-    "samenvatting": "Buschauffeurs en machinisten in het streekvervoer leggen opnieuw het werk neer vanwege vastgelopen cao-onderhandelingen. Dat hebben vakbonden FNV en CNV aangekondigd. Komende maandag en dinsdag zijn er weer landelijke stakingen. &#xD;&#xA; Er wordt aanstaande maandag en dinsdag niet gestaakt door ma",
-    "datum": "2026-11-18T15:04:41.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzQ5ODg3MTQtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1iOWdaejRxUzFHRUlpNVF6YWhaRloyRTJOeWJzRzl4SGxEWEZ0OHcwVUhRJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMDYtMDY="
    }
   ],
   "borsele": [
