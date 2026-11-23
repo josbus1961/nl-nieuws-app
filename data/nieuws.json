@@ -1,8 +1,26 @@
 {
- "gegenereerd": "2026-11-23T12:10:09.999Z",
+ "gegenereerd": "2026-11-23T12:35:33.441Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Strooiwagens Rijkswaterstaat massaal de weg op na nacht met vorst",
+    "normalized": "strooiwagens rijkswaterstaat massaal de weg op na nacht met vorst",
+    "link": "https://nos.nl/l/2640702",
+    "samenvatting": "Na een nacht met op tal van plekken lichte vorst, trok Rijkswaterstaat er met veel strooiwagens op uit. Vandaag werd al meer dan 650.000 kilo zout gestrooid. Sinds het begin van het strooiseizoen op 1 oktober, dat loopt tot en met 1 mei, staat de teller al op meer dan 3,7 miljoen kilo strooizout. In",
+    "datum": "2026-11-23T12:28:18.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/5/H/S/F/Z/k/2yeCM29Nr33EioF4NtjRPffGKo8XBJHsWGxPTbL/8x343x3984x2241-1024x576.webp"
+   },
+   {
+    "titel": "Dienstplicht voor jongeren? Economisch nog jaren last van",
+    "normalized": "dienstplicht voor jongeren economisch nog jaren last van",
+    "link": "https://www.rtl.nl/nieuws/economie/artikel/5666672/dienstplicht-kan-mensen-op-lange-termijn-zorgen-voor-lagere",
+    "samenvatting": "Vrijdag liepen scholieren en studenten door heel Nederland de collegezalen uit, om te protesteren tegen de mogelijke terugkeer van de dienstplicht. Wat vaak over het hoofd wordt gezien: zo'n verplichte periode in het leger kan jaren later nog negatieve gevolgen hebben voor je carrière en je inkomen.",
+    "datum": "2026-11-23T12:10:02.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/23/ANP-522317967.jpg?itok=HDRMt4h4&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
    {
     "titel": "Al vroeg in het seizoen winters: koudste november sinds 1998 in zicht",
     "normalized": "al vroeg in het seizoen winters koudste november sinds 1998 in zicht",
@@ -13,8 +31,8 @@
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/23/ANP-458111593.jpg?itok=ezFgiLtD&amp;offsetX=0&amp;offsetY=65&amp;cropWidth=1280&amp;cropHeight=720&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    },
    {
-    "titel": "Splinter Chabot neemt na vier jaar afscheid van MolTalk: 'Het was een feest'",
-    "normalized": "splinter chabot neemt na vier jaar afscheid van moltalk het was een feest",
+    "titel": "Splinter Chabot neemt na 4 jaar afscheid van MolTalk: 'Het was een feest'",
+    "normalized": "splinter chabot neemt na 4 jaar afscheid van moltalk het was een feest",
     "link": "https://www.rtl.nl/boulevard/artikel/5666671/splinter-chabot-neemt-na-vier-jaar-afscheid-van-moltalk-het-was-een-feest",
     "samenvatting": "Voor Splinter Chabot (30) zit het speurwerk bij MolTalk erop. Na vier jaar neemt hij samen met Marlijn Weerdenburg (43) afscheid van het napraatprogramma van 'Wie is de Mol?'. Op Instagram staat Splinter stil bij zijn avontuur en verwelkomt hij zijn opvolgers met open armen.",
     "datum": "2026-11-23T12:03:34.000Z",
@@ -22,28 +40,10 @@
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2022/12/23/ANP-457060480.jpg?itok=fSZZqvf2&amp;offsetX=0&amp;offsetY=4&amp;cropWidth=1023&amp;cropHeight=575&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    },
    {
-    "titel": "Nieuwe Hunger Games-film breekt openingsrecord in Nederland",
-    "normalized": "nieuwe hunger games film breekt openingsrecord in nederland",
-    "link": "https://www.rtl.nl/boulevard/artikel/5666686/nieuwe-hunger-games-film-breekt-openingsrecord-nederland",
-    "samenvatting": "De nieuwe Hunger Games-film, Sunrise on the Reaping, heeft het afgelopen weekend een record gevestigd. De film bracht in het openingsweekend in Nederland ruim 2,4 miljoen euro op en trok 217.000 bezoekers. Dit is het allerbeste resultaat dat een Hunger Games-film ooit in de Nederlandse bioscopen hee",
-    "datum": "2026-11-23T12:02:06.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP231126120-1.jpg?itok=65W81mVS&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "De Wever volgende week weer naar koning Filip na onderhandelingen",
-    "normalized": "de wever volgende week weer naar koning filip na onderhandelingen",
-    "link": "https://www.rtl.nl/boulevard/entertainment/artikel/5666683/de-wever-volgende-week-weer-naar-koning-filip-na",
-    "samenvatting": "Belgische premier Bart De Wever heeft nog altijd geen akkoord over de begroting en gaat ook volgende week weer langs bij koning Filip om verslag uit te brengen over de onderhandelingen. Dat laat het Belgische paleis weten in een persbericht.",
-    "datum": "2026-11-23T11:57:59.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP231126117-1.jpg?itok=LeWFiCvz&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Koning geeft premier De Wever weer week uitstel voor begrotingsakkoord België",
-    "normalized": "koning geeft premier de wever weer week uitstel voor begrotingsakkoord belgie",
+    "titel": "Premier België stelt deadline: vóór 2027 geen begroting is einde regering",
+    "normalized": "premier belgie stelt deadline voor 2027 geen begroting is einde regering",
     "link": "https://nos.nl/l/2640698",
-    "samenvatting": "Koning Filip geeft de Belgische premier De Wever nog meer tijd om tot een begrotingsakkoord te komen in zijn coalitie. Dit keer krijgt hij een week om tot een vergelijk te komen. De Wever, van de Vlaams-nationalistische N-VA, had al meermaals uitstel gekregen vanwege de moeizame onderhandelingen. Ko",
+    "samenvatting": "De Belgische premier De Wever zegt de stekker uit zijn regering te zullen trekken als er voor het einde van het jaar geen nieuwe begroting ligt. De Wever kreeg vandaag van koning Filip opnieuw uitstel om het eens te worden met zijn coalitiepartners. Nadat de koning hem nog zeker een week de tijd had",
     "datum": "2026-11-23T11:57:18.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/2/H/G/P/w/z/LaafEhp2dzkCcX1JsnHireELwaoKp66q3RQcoYT/2x157x2928x1647-1024x576.webp"
@@ -76,13 +76,13 @@
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/20/Splitscreen%202025%20%281%29-Hersteld_0.png?itok=2tHhoBI6&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1200&amp;cropHeight=675&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    },
    {
-    "titel": "Project Rembrandt keert in januari na bijna drie jaar terug op tv",
-    "normalized": "project rembrandt keert in januari na bijna drie jaar terug op tv",
+    "titel": "Na bijna 3 jaar afwezigheid keert Project Rembrandt terug op tv",
+    "normalized": "na bijna 3 jaar afwezigheid keert project rembrandt terug op tv",
     "link": "https://www.rtl.nl/boulevard/artikel/5666682/project-rembrandt-keert-januari-na-bijna-drie-jaar-terug-op-tv",
     "samenvatting": "Het nieuwe seizoen van het programma Project Rembrandt gaat 10 januari van start. Dat heeft de NTR maandag gemeld. Het vorige seizoen van het programma was in het voorjaar van 2024 op televisie te zien.",
     "datum": "2026-11-23T11:36:50.000Z",
     "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP231126115-1.jpg?itok=Nizpoqqk&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2025/12/21/WhatsApp%20Image%202025-12-21%20at%2011.07.37.jpeg?itok=Ab281_OC&amp;offsetX=251&amp;offsetY=100&amp;cropWidth=984&amp;cropHeight=554&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    },
    {
     "titel": "Moreno wordt Morena tijdens geheime challenge in Love Island VIPS",
@@ -97,7 +97,7 @@
     "titel": "Bommelding bij honderden Duitse scholen, ook meldingen in Denemarken",
     "normalized": "bommelding bij honderden duitse scholen ook meldingen in denemarken",
     "link": "https://nos.nl/l/2640696",
-    "samenvatting": "In Duitsland zijn honderden scholen opgeschrikt door bommeldingen. Volgens Duitse media gaat het om ongeveer 900 scholen. Ook in Denemarken bevestigt de politie dat bij meerdere scholen bommeldingen zijn binnengekomen. De Duitse scholen, verspreid over het hele land, ontvingen de melding per e-mail.",
+    "samenvatting": "In Duitsland zijn honderden scholen opgeschrikt door bommeldingen. Volgens Duitse media gaat het om ongeveer 900 scholen. Ook in Denemarken bevestigt de politie dat meerdere scholen, ziekenhuizen en gevangenissen bommeldingen hebben ontvangen. De Duitse scholen, verspreid over het hele land, ontving",
     "datum": "2026-11-23T11:24:16.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/2/5/R/6/t/b/25JiqpVAWPHsk8Zp4Yw4gj7xg9m9BPabu9CnRFT/8x172x3984x2241-1024x576.webp"
@@ -276,13 +276,22 @@
   ],
   "binnenland": [
    {
-    "titel": "Nederland wil straks wolven gaan afschieten, maar onderbouwing is wankel",
-    "normalized": "nederland wil straks wolven gaan afschieten maar onderbouwing is wankel",
-    "link": "https://www.nu.nl/wolf/6417477/nederland-wil-straks-wolven-gaan-afschieten-maar-onderbouwing-is-wankel.html",
+    "titel": "Strooiwagens Rijkswaterstaat massaal de weg op na nacht met vorst",
+    "normalized": "strooiwagens rijkswaterstaat massaal de weg op na nacht met vorst",
+    "link": "https://nos.nl/l/2640702",
+    "samenvatting": "Na een nacht met op tal van plekken lichte vorst, trok Rijkswaterstaat er met veel strooiwagens op uit. Vandaag werd al meer dan 650.000 kilo zout gestrooid. Sinds het begin van het strooiseizoen op 1 oktober, dat loopt tot en met 1 mei, staat de teller al op meer dan 3,7 miljoen kilo strooizout. In",
+    "datum": "2026-11-23T12:28:18.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/5/H/S/F/Z/k/2yeCM29Nr33EioF4NtjRPffGKo8XBJHsWGxPTbL/8x343x3984x2241-1024x576.webp"
+   },
+   {
+    "titel": "Nederland wil jacht op wolven openen, maar juridische onderbouwing is flinterdun",
+    "normalized": "nederland wil jacht op wolven openen maar juridische onderbouwing is flinterdun",
+    "link": "https://www.nu.nl/wolf/6417477/nederland-wil-jacht-op-wolven-openen-maar-juridische-onderbouwing-is-flinterdun.html",
     "samenvatting": "Nederland wil op zijn vroegst vanaf komende zomer wolven gaan afschieten, heeft landbouwstaatssecretaris Silvio Erkens maandag bekendgemaakt. Er zijn alleen nog veel onduidelijkheden. Zo is het onzeker of het plan juridisch standhoudt.",
     "datum": "2026-11-23T11:23:09.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/sn2x5lxakw8h_sqr256/1462/0/3500/3500/nederland-wil-straks-wolven-gaan-afschieten-maar-onderbouwing-is-wankel.jpg"
+    "foto": "https://images.nu.nl/m/sn2x5lxakw8h_sqr256/1462/0/3500/3500/nederland-wil-jacht-op-wolven-openen-maar-juridische-onderbouwing-is-flinterdun.jpg"
    },
    {
     "titel": "Vrouw (90) overleden bij woningbrand in Zuidlaren",
@@ -535,23 +544,14 @@
     "datum": "2026-11-22T09:58:17.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/5/H/R/t/d/W/My15VXFYo549VXrX5hpjyzhNphSCj3Y1aJjLMDn/423x237x2768x1557-1024x576.webp"
-   },
-   {
-    "titel": "Influencer Vera Dijkmans terug in Nederland na detentie in VS",
-    "normalized": "influencer vera dijkmans terug in nederland na detentie in vs",
-    "link": "https://nos.nl/l/2640542",
-    "samenvatting": "De Nederlandse influencer Vera Dijkmans is terug in Nederland. Vanmorgen kwam ze aan op Schiphol, na elf dagen in een Amerikaanse cel. Dijkmans (29) werd anderhalve week geleden opgepakt door immigratiedienst ICE omdat ze zich niet aan de voorwaarden van haar visum had gehouden. Haar familie zegt da",
-    "datum": "2026-11-22T08:19:08.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/1/8/1/B/e/f/DJ1g8srbZaqsmmsqMqSwopSquYZS8PKX13qeZH5/0x508x1536x864-1024x576.webp"
    }
   ],
   "buitenland": [
    {
-    "titel": "Koning geeft premier De Wever weer week uitstel voor begrotingsakkoord België",
-    "normalized": "koning geeft premier de wever weer week uitstel voor begrotingsakkoord belgie",
+    "titel": "Premier België stelt deadline: vóór 2027 geen begroting is einde regering",
+    "normalized": "premier belgie stelt deadline voor 2027 geen begroting is einde regering",
     "link": "https://nos.nl/l/2640698",
-    "samenvatting": "Koning Filip geeft de Belgische premier De Wever nog meer tijd om tot een begrotingsakkoord te komen in zijn coalitie. Dit keer krijgt hij een week om tot een vergelijk te komen. De Wever, van de Vlaams-nationalistische N-VA, had al meermaals uitstel gekregen vanwege de moeizame onderhandelingen. Ko",
+    "samenvatting": "De Belgische premier De Wever zegt de stekker uit zijn regering te zullen trekken als er voor het einde van het jaar geen nieuwe begroting ligt. De Wever kreeg vandaag van koning Filip opnieuw uitstel om het eens te worden met zijn coalitiepartners. Nadat de koning hem nog zeker een week de tijd had",
     "datum": "2026-11-23T11:57:18.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/2/H/G/P/w/z/LaafEhp2dzkCcX1JsnHireELwaoKp66q3RQcoYT/2x157x2928x1647-1024x576.webp"
@@ -560,7 +560,7 @@
     "titel": "Bommelding bij honderden Duitse scholen, ook meldingen in Denemarken",
     "normalized": "bommelding bij honderden duitse scholen ook meldingen in denemarken",
     "link": "https://nos.nl/l/2640696",
-    "samenvatting": "In Duitsland zijn honderden scholen opgeschrikt door bommeldingen. Volgens Duitse media gaat het om ongeveer 900 scholen. Ook in Denemarken bevestigt de politie dat bij meerdere scholen bommeldingen zijn binnengekomen. De Duitse scholen, verspreid over het hele land, ontvingen de melding per e-mail.",
+    "samenvatting": "In Duitsland zijn honderden scholen opgeschrikt door bommeldingen. Volgens Duitse media gaat het om ongeveer 900 scholen. Ook in Denemarken bevestigt de politie dat meerdere scholen, ziekenhuizen en gevangenissen bommeldingen hebben ontvangen. De Duitse scholen, verspreid over het hele land, ontving",
     "datum": "2026-11-23T11:24:16.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/2/5/R/6/t/b/25JiqpVAWPHsk8Zp4Yw4gj7xg9m9BPabu9CnRFT/8x172x3984x2241-1024x576.webp"
@@ -1274,6 +1274,15 @@
   ],
   "sport": [
    {
+    "titel": "Vollering op bezoek bij de paus: 'Beetje spannend, ik laat me verrassen'",
+    "normalized": "vollering op bezoek bij de paus beetje spannend ik laat me verrassen",
+    "link": "https://nos.nl/l/2640699",
+    "samenvatting": "Een bijzondere dag voor wereldkampioen Demi Vollering en oud-renster Annemiek van Vleuten: samen met wielerlegendes als Eddy Merckx, Bernard Hinault en Miguel Indurain mogen ze op privé-audiëntie bij paus Leo XIV. \"Het is een hele eer om zoiets te mogen delen met zulke grote namen\", zegt Vollering, ",
+    "datum": "2026-11-23T12:08:49.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/8/9/4/U/8/G/mUHyqCW49PKK7db9dwNJmZq6zdhYuf4ci4WPm5C/6x228x3152x1773-1024x576.webp"
+   },
+   {
     "titel": "Dumfries ontbreekt op training Real en lijkt duel met oude club PSV te missen",
     "normalized": "dumfries ontbreekt op training real en lijkt duel met oude club psv te missen",
     "link": "https://www.nu.nl/voetbal/6417495/dumfries-ontbreekt-op-training-real-en-lijkt-duel-met-oude-club-psv-te-missen.html",
@@ -1533,15 +1542,6 @@
     "datum": "2026-11-22T15:45:36.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/6/9/U/Y/c/z/tcpks1eGXVCDtMM3kq7td1sQwjSU1gFhKV8jDoy/8x237x3984x2241-1024x576.webp"
-   },
-   {
-    "titel": "AZ rolt na rust Sparta op en springt over Feyenoord heen naar vierde plaats",
-    "normalized": "az rolt na rust sparta op en springt over feyenoord heen naar vierde plaats",
-    "link": "https://nos.nl/l/2640605",
-    "samenvatting": "AZ heeft op bezoek bij Sparta aan een sterke tweede helft drie punten overgehouden. Na de 1-1 ruststand stoomden de Alkmaarders door naar een 5-1 zege. AZ passeerde door die zege Feyenoord, dat zaterdag had verloren van Excelsior, en staat nu vierde op de ranglijst. AZ pakte meteen het initiatief in",
-    "datum": "2026-11-22T15:28:17.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/8/2/2/m/o/D/x6Kwpb3xGfThDLVriGQLDeMgnyhbseBdD6x4ZQF/7x3x2032x1143-1024x576.webp"
    }
   ],
   "cultuur": [
@@ -1955,15 +1955,6 @@
     "foto": ""
    },
    {
-    "titel": "Natuurliefhebbers trekken vanuit Westmalle op ganzentocht naar Zeeland",
-    "normalized": "natuurliefhebbers trekken vanuit westmalle op ganzentocht naar zeeland",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa1VRa2hPeEhtUXVqVEVyYU5VQkMtZlhoY202QmtRNXhEVnlGbTVOOFhvWHJ5ekx0b0p4WnNjOU9RTzZCZmpRWDVROXRuRW01UXFWMXN6MGpGRWFJNHA3QWZXVmV4bDhvd1lUTjh6dG42OTZaUmYyNFBfRVI0eTcwU2F6OVRBVXM1cVVvNUVLcHhjUGZ6TmZ6LVhRbHUzeEM1WE1SdGFsd1Q?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-23T10:27:22.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "AIR Zeeland presenteert werk van vier kunstenaars in Terneuzen",
     "normalized": "air zeeland presenteert werk van vier kunstenaars in terneuzen",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdjB0NkhTTG9RNXMxYkhQYTdneEVKemc5TmJLWUZuamY5Zk4zV1J1R2FaaW43eUYxbU5RRGQ5NjV0b1g3eHczUkE0cnlDYmwzYWsxYzRsUEJBUFlSSUhPUkpmY2tkUFFuSHhheF8zQXVsNU92X1ZUVWZMNWg2RUlUV3QwaHRNYjIzV3VyOGJ5cktEYWdtOXBGLVVERkdESDN1ZUE?oc=5",
@@ -2178,9 +2169,27 @@
     "datum": "2026-11-21T15:24:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
+   },
+   {
+    "titel": "Sport Kort: Zeeuws getint Jong Feyenoord kampioen beloftecompetitie",
+    "normalized": "sport kort zeeuws getint jong feyenoord kampioen beloftecompetitie",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcFBHTi11SlR6SjhLcUpuZldYNzVxb2hCZFR2ZkcwRkQ2anM3WE5HN2E1R29RbXV4dFVzTHhKMi14Mms3dUNidGJhLVh1d2d6YmtiTkJiUUdIZ0JwcGFzX3pfeHhudG5rVFJELVZMTVNDMmhGOWlJZTlXYWtvMEpqMUJwT0FSalQ4UGtOaVA3RjRocUc0MWJBSGhINEVOQ1NpSWdrdWZxSVQ2ZDd6blpB?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T14:45:56.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
    }
   ],
   "brabant": [
+   {
+    "titel": "Bouwhal Oeteldonkse Club weer open na steekvlam bij laswerkzaamheden",
+    "normalized": "bouwhal oeteldonkse club weer open na steekvlam bij laswerkzaamheden",
+    "link": "https://www.omroepbrabant.nl/nieuws/6035831/bouwhal-oeteldonkse-club-weer-open-na-steekvlam-bij-laswerkzaamheden",
+    "samenvatting": "Bouwers van carnavalswagens in de bouwhal van de Oeteldonkse Club in Den Bosch kunnen weer aan de slag. De gemeente heeft maatregelen genomen, waardoor de hal weer open kan. Vorige week werd de hal gesloten nadat er tijdens laswerkzaamheden een steekvlam ontstond. &#xD;&#xA; Het pand aan de Ertveldw",
+    "datum": "2026-11-23T12:13:02.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTE1OTEtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1DWjdmWlUzWEh6Yzg4S3RtVndTTDRCUG51WUFpJTJGc0hDNFkySnBzZkYwd2MlM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
+   },
    {
     "titel": "Prestaties Van Gerwen geven dartskenner vertrouwen richting komend WK",
     "normalized": "prestaties van gerwen geven dartskenner vertrouwen richting komend wk",
@@ -2236,10 +2245,10 @@
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTMzMzMtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz0yUVB5bjdaVmNickxMMUxJUzlDOXFHJTJCdW9TV1hBM1h6V0tHVGQwekwxY0UlM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
    },
    {
-    "titel": "Nog urenlang problemen op het spoor rond Eindhoven door seinstoring",
-    "normalized": "nog urenlang problemen op het spoor rond eindhoven door seinstoring",
-    "link": "https://www.omroepbrabant.nl/nieuws/6035733/nog-urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring",
-    "samenvatting": "Een seinstoring veroorzaakt sinds maandagochtend problemen op het spoor rond Eindhoven. Zo rijden er tot kwart over drie geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch reden maandagochtend minder treinen dan gebruikelijk.&nbsp; &#xD;&#xA; Vanwege ",
+    "titel": "Urenlang problemen op het spoor rond Eindhoven door seinstoring",
+    "normalized": "urenlang problemen op het spoor rond eindhoven door seinstoring",
+    "link": "https://www.omroepbrabant.nl/nieuws/6035733/urenlang-problemen-op-het-spoor-rond-eindhoven-door-seinstoring",
+    "samenvatting": "Een seinstoring veroorzaakte tot het begin van de maandagmiddag problemen op het spoor rond Eindhoven. Zo reden er tot kwart over een geen treinen tussen Eindhoven en Helmond en tussen Eindhoven en Weert. In de richting van Den Bosch reden maandagochtend door hetzelfde probleem minder treinen dan ge",
     "datum": "2026-11-23T05:52:00.000Z",
     "bron": "Omroep Brabant",
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzMxNjEzNzktMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz0zbFNkQ0FCVXcxTHEwUHV3VndnTzkwTXdzREQlMkZPZ3hNUktFZ0MwJTJCYXRKZyUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
@@ -2369,15 +2378,6 @@
     "datum": "2026-11-22T11:50:33.000Z",
     "bron": "Omroep Brabant",
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.48/0.58/cmV2aXNpb25zLzQ4MDEyMTMtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1kSWtxb2NPMGxLWVljRGE0QjR0RXZ3YlBTUnFyTUNRb3JTRXNqcllFJTJCRFklM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
-   },
-   {
-    "titel": "Alice zag een joekel van een gele rups en wil weten wat ze heeft gezien",
-    "normalized": "alice zag een joekel van een gele rups en wil weten wat ze heeft gezien",
-    "link": "https://www.omroepbrabant.nl/nieuws/6035448/alice-zag-een-joekel-van-een-gele-rups-en-wil-weten-wat-ze-heeft-gezien",
-    "samenvatting": "Boswachter Frans Kapteijns deelt wekelijks zijn kennis van de natuur. Iedereen kan vragen insturen via stuifmail@omroepbrabant.nl . Dit keer besteedt Frans onder meer aandacht aan een vogel die poepend duidelijk maakt dat er geen plek is voor een tweede vogel, een joekel van een gele rups, een vreem",
-    "datum": "2026-11-22T07:30:00.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTE3NjktMi5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1aU3JNTFlzc2VvREdka3VzUEtCbmtuT3BYVEVDWXllVWlpRXZueDd3Skh3JTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
    },
    {
     "titel": "Iris (18) leerde poolen aan vaders tafel, nu is ze Europees jeugdkampioen",
@@ -2526,6 +2526,15 @@
     "foto": ""
    },
    {
+    "titel": "Pepernotenexpress rijdt tussen Goes en Hoedekenskerke: spelletjes voor kinderen en pietendiploma",
+    "normalized": "pepernotenexpress rijdt tussen goes en hoedekenskerke spelletjes voor kinderen en pietendiploma",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYjhVSGc4UUZfUUdpWi1uVHFmZkp1NTJTRTdld2RxN3pJQmJfZG8tZnI4VG1tSDAtVWpuX2xHQk1Fc0gzNWVYX0RCckUzVGJGLVQ3QWFwSDNpcnM2cXA3VExlejY1STFaRWlPSFFMUHRHSTF5WGFqZmdMRkc0U3FseEVHSnhVYXk5eGcwTEl1Ym9GQ2pLOFdGMGwyQXd6VGI1bm5aZzZOZ0dJN1BaRkF4eU1SZmdKSWYxUUdGTldBOGpTeTh5MEFXNUtRWkR1UQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-05T08:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "PRO Borsele niet blij met burgemeester: 'Raad hoort dit niet via de media te vernemen'",
     "normalized": "pro borsele niet blij met burgemeester raad hoort dit niet via de media te vernemen",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOXE2UHRrNFh1Um1mX085MVRpRVZfTk5HRHhxX2VzaVpHdFpucDNYdVllNkJVSmVMRlNMRHI3QjA2TG0xWDA4Q0tySTY0c3Z3ZjBVeFZrM2dycmVOTUpoV2ktdWZQVWg5UDVYVjRLb3ozWF9JN1RFb3BJSmVjblZwVGYyMzZtcEs3cEI3TFctOWtyQ3Bxb19mc3kwSnJBX2pkR3JBcG5uUEhGU0pmcVNuR0tKRDdYc2NnMFZnb1NYU0QyUnE3UDA0?oc=5",
@@ -2666,15 +2675,6 @@
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUhwUDlFUEN0QmdOVVRIUkx3NDcwNUxIMWxheE94MmpnZzAzTGZ4Z3JtS0NXYUxCNjZDRWlpWGI5U0VXeXNwaGg0SkRkZnFSNl9aQ2JTWXhtaTBnUzhrSDRrcC1sVTBxNHFyd1hmV3FWbEhoRHNkUlY2aHE4THFvWGE4VXFlM1dPb2xITlFqMjdmUUtZSER2b3dTLWh4Y0k0VXFINDJuTUxOSWNMT0FrWjRR?oc=5",
     "samenvatting": "",
     "datum": "2026-02-16T08:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Baggerwerkzaamheden in en rond Ovezande in Borsele",
-    "normalized": "baggerwerkzaamheden in en rond ovezande in borsele",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeS1JZkVJc2pyOGlOc0ZzTnNLemQ1UnJFajlFcndWSS1Dam5KSGhuOXNkUU1wUC1YVlpaZVpxSEppeUFRTS1UY2dJdUd5QWI3OTBTckg0TEVHV01UckR2UWk5N1J4Nzhzc0R3QmkteDdOaUNBMV90aTlVQjQ0Z0tDUzd3TVBUUVFjYURkNlNSUmg?oc=5",
-    "samenvatting": "",
-    "datum": "2026-02-11T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2955,7 +2955,7 @@
    {
     "titel": "Gewonde bij ongeval op A4 bij Bergen op Zoom, rijstrook dicht",
     "normalized": "gewonde bij ongeval op a4 bij bergen op zoom rijstrook dicht",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlZ3NTBsZzQxWERjQ2tEeDM0TG5kdDNnb18tM3g0NnFNMVBQbTMtUHdsQ2NIdUdVN2lIQjgxWGJCXzVIdGRVQnhmdndzR05BcDc2ekJYcGlfSWl2U0ExbzczZGFGTjZPY3JOUkZoMnZEY1lST2pWZHk1UVRwY0lxLWJJRV9xYzYzMDZFc1NXSVVmREtfSGNBQXdBSWVLZTlm?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUVJwVHE4d1lQV25Xcnp5Q3EtWWZYbUREUkxUOVBlLTY4MTVueGV1ZWxzVTFqR3NWLWFHYXpGTU5mMHctMm9ReDRVUnViR05RNVozUjVqYzRJcW1zY0d2NnlTallldUxkTjZ0cVlBN01MYXd3R3NWd1pFU0R4WUptejZtcnlZLVdSX09GUm81VU9aLUdNMGZDSWtxVElGVHlWaG5nZmZabTdqU0tyemRITGRHQjZRX2szTWlOcg?oc=5",
     "samenvatting": "",
     "datum": "2026-11-23T11:52:03.000Z",
     "bron": "Google Nieuws",
@@ -2973,7 +2973,7 @@
    {
     "titel": "Brand in een gebouw op Brugstraat in Roosendaal",
     "normalized": "brand in een gebouw op brugstraat in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcDRaaUxBNWFlQ2hhZ0tuNDd4Z3I4bkhkTTB1STNhSVRyZW9ETTZlUE10eGZyb19LaUVFZ3p3dVZnU3ZSdUVXS0ItSzhQZmg1bVFMRnNwOHZraVVUWldYeGRHQWlSOS03T1ZYeFg1ZXdtSG9nZ2FrclRyUjN3TXBOS05RUlNWcmJiMlI1UlR6ckZyalJnQ3hLNk1WcFFXQQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYk45MEgxbmxtNXRkc1FKQmhyd3lrYmF5MElsNEsyNXd4em5INmtjNnktZnozaU85Z3dvdHNNQm0wOC11OU9GTU9zM19PcFVWdVF2d05JYlB5aEdZVm8tMEFIenJHWU5sTXlhelJLdGkwNXhldU1NOWdnSHBxNEJtRXBWRE8zM0RhQ2dkdjNKbS1FSUNyVDRadkZLOUxPTTFacVczWG9B?oc=5",
     "samenvatting": "",
     "datum": "2026-11-23T11:22:11.000Z",
     "bron": "Google Nieuws",
