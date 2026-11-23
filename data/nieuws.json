@@ -1,8 +1,53 @@
 {
- "gegenereerd": "2026-11-23T15:09:59.659Z",
+ "gegenereerd": "2026-11-23T15:35:27.193Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "ACM: effect algoritmes aan de benzinepomp is beperkt",
+    "normalized": "acm effect algoritmes aan de benzinepomp is beperkt",
+    "link": "https://nos.nl/l/2640726",
+    "samenvatting": "Het gebruik van algoritmes door pomphouders leidt niet tot onnodig hoge benzineprijzen, meldt de Autoriteit Consument & Markt (ACM) na onderzoek . Het merendeel van de tankhouders in Nederland maakt gebruik van prijssoftware om benzineprijzen te bepalen, maar de invloed hiervan op wat de automobilis",
+    "datum": "2026-11-23T15:21:09.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/7/8/S/V/W/m/1r7jR4xF9oRnnJFY5ugNoWzhwJaZundqNFaEcf2/8x8x3984x2241-1024x576.webp"
+   },
+   {
+    "titel": "Linda Hakeboom onthult details over verrassingsbruiloft en Gerard Joling duikt terug in 2007",
+    "normalized": "linda hakeboom onthult details over verrassingsbruiloft en gerard joling duikt terug in 2007",
+    "link": "https://www.rtl.nl/boulevard/artikel/5666717/linda-hakeboom-deelt-details-over-verrassingsbruiloft-en-gerard-joling",
+    "samenvatting": "Wat hield de BN'ers vandaag bezig? Je ziet de opvallendste, leukste en meest besproken berichten in Bouleviraal.",
+    "datum": "2026-11-23T15:20:27.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/23/boulvir.jpg?itok=kxfQu7gy&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1200&amp;cropHeight=675&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
+   {
+    "titel": "'Gettowet' over gedwongen verhuizing is niet discriminerend, oordeelt hoogste Deense rechter",
+    "normalized": "gettowet over gedwongen verhuizing is niet discriminerend oordeelt hoogste deense rechter",
+    "link": "https://nos.nl/l/2640725",
+    "samenvatting": "De Deense \"gettowet\" is niet discriminerend, zo heeft de Deense Hoge Raad bepaald. De Deense regering voerde de omstreden wet acht jaar geleden in om een einde te maken aan migrantenwijken met hoge criminaliteitscijfers en werkloosheid. De wet treft duizenden bewoners van sociale huurflats. Een deel",
+    "datum": "2026-11-23T15:16:58.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/1/B/H/X/w/B/WhnSmBdyK3HDSVRkAt9j4Sfy5cyyVmasMFXAfkv/8x132x3984x2241-1024x576.webp"
+   },
+   {
+    "titel": "Grote vertraging op de weg rondom Utrecht, 'stel je reis tot na de spits uit'",
+    "normalized": "grote vertraging op de weg rondom utrecht stel je reis tot na de spits uit",
+    "link": "https://nos.nl/l/2640724",
+    "samenvatting": "Weggebruikers die van plan zijn tijdens de avondspits de weg op te gaan in de regio Utrecht kunnen daar beter mee wachten, adviseert Rijkswaterstaat. Op de A27 richting Gorinchem is de vertraging inmiddels ruim 100 minuten. Die vertraging loopt naar verwachting verder op. Op de Hagesteinsebrug wordt",
+    "datum": "2026-11-23T15:16:31.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/2/9/i/8/Y/w/Ejg7eCZpWrb8TMuETPS1AUKBAsBaZ7nJGoMuMso/0x417x4000x2250-1024x576.webp"
+   },
+   {
+    "titel": "Olcay Gulsen laat van zich horen na aanhouding verdachte horlogeroof",
+    "normalized": "olcay gulsen laat van zich horen na aanhouding verdachte horlogeroof",
+    "link": "https://www.rtl.nl/boulevard/video/2c1b7082-3e87-49da-88f8-f0442c77fa6b/olcay-gulsen-laat-van-zich-horen-na-aanhouding",
+    "samenvatting": "Er is een belangrijke ontwikkeling in de zaak rond de gewelddadige beroving van Olcay Gulsen (46). De politie heeft een 25-jarige Amsterdammer aangehouden die wordt verdacht van betrokkenheid bij de roof van haar horloge. Daarmee is het onderzoek nog niet afgerond, want de recherche is nog altijd op",
+    "datum": "2026-11-23T15:10:12.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=2c1b7082-3e87-49da-88f8-f0442c77fa6b"
+   },
    {
     "titel": "Zoekactie naar loslopende leeuwin in Istanbul: autoriteiten zetten warmtecamera's in",
     "normalized": "zoekactie naar loslopende leeuwin in istanbul autoriteiten zetten warmtecamera s in",
@@ -227,54 +272,27 @@
     "datum": "2026-11-23T12:28:18.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/6/F/N/1/Q/2/ppiyHKCGH1tppQ6xTCrxwXD57JwxEGToB1Y9SCe/0x281x4000x2250-1024x576.webp"
-   },
-   {
-    "titel": "Dienstplicht pakt vaak ongunstig uit voor jongeren: 'Inkomen blijft lang achter'",
-    "normalized": "dienstplicht pakt vaak ongunstig uit voor jongeren inkomen blijft lang achter",
-    "link": "https://www.rtl.nl/nieuws/economie/artikel/5666672/dienstplicht-kan-mensen-op-lange-termijn-zorgen-voor-lagere",
-    "samenvatting": "Vrijdag liepen scholieren en studenten door heel Nederland de collegezalen uit, om te protesteren tegen de mogelijke terugkeer van de dienstplicht. Wat vaak over het hoofd wordt gezien: zo'n verplichte periode in het leger kan jaren later nog negatieve gevolgen hebben voor je carrière en je inkomen.",
-    "datum": "2026-11-23T12:10:02.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/23/ANP-522317967.jpg?itok=HDRMt4h4&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Al vroeg in het seizoen winters: koudste november sinds 1998 in zicht",
-    "normalized": "al vroeg in het seizoen winters koudste november sinds 1998 in zicht",
-    "link": "https://www.rtl.nl/nieuws/weer/artikel/5666657/koudste-november-sinds-1998-zicht-hebben-we-de-herfst-overgeslagen",
-    "samenvatting": "November stevent mogelijk af op de koudste editie in 28 jaar. Afgelopen nacht kwam het lokaal tot 10 graden vorst aan de grond en zeker tot zaterdag blijft het koud. Op sommige plekken wordt daarom al voorzichtig gewerkt aan natuurijs.",
-    "datum": "2026-11-23T12:05:25.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/23/ANP-458111593.jpg?itok=ezFgiLtD&amp;offsetX=0&amp;offsetY=65&amp;cropWidth=1280&amp;cropHeight=720&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
-   },
-   {
-    "titel": "Splinter Chabot neemt na 4 jaar afscheid van MolTalk: 'Het was een feest'",
-    "normalized": "splinter chabot neemt na 4 jaar afscheid van moltalk het was een feest",
-    "link": "https://www.rtl.nl/boulevard/artikel/5666671/splinter-chabot-neemt-na-vier-jaar-afscheid-van-moltalk-het-was-een-feest",
-    "samenvatting": "Voor Splinter Chabot (30) zit het speurwerk bij MolTalk erop. Na vier jaar neemt hij samen met Marlijn Weerdenburg (43) afscheid van het napraatprogramma van 'Wie is de Mol?'. Op Instagram staat Splinter stil bij zijn avontuur en verwelkomt hij zijn opvolgers met open armen.",
-    "datum": "2026-11-23T12:03:34.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2022/12/23/ANP-457060480.jpg?itok=fSZZqvf2&amp;offsetX=0&amp;offsetY=4&amp;cropWidth=1023&amp;cropHeight=575&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
-   },
-   {
-    "titel": "Premier België stelt deadline: vóór 2027 geen begroting is einde regering",
-    "normalized": "premier belgie stelt deadline voor 2027 geen begroting is einde regering",
-    "link": "https://nos.nl/l/2640698",
-    "samenvatting": "De Belgische premier De Wever zegt de stekker uit zijn regering te zullen trekken als er voor het einde van het jaar geen nieuwe begroting ligt. De Wever kreeg vandaag van koning Filip opnieuw uitstel om het eens te worden met zijn coalitiepartners. Nadat de koning hem nog zeker een week de tijd had",
-    "datum": "2026-11-23T11:57:18.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/2/H/G/P/w/z/LaafEhp2dzkCcX1JsnHireELwaoKp66q3RQcoYT/774x156x1696x954-1024x576.webp"
-   },
-   {
-    "titel": "'Jullie hebben ons in de steek gelaten': enorme frustraties na mislukte klimaattop",
-    "normalized": "jullie hebben ons in de steek gelaten enorme frustraties na mislukte klimaattop",
-    "link": "https://www.rtl.nl/nieuws/klimaat/artikel/5666676/50000-hittedoden-maar-geen-deal-bij-klimaattop-jullie-hebben-ons-de",
-    "samenvatting": "50.000 hittedoden in Europese steden dit jaar, steeds meer en heftigere overstromingen en bosbranden, maar geen deal tijdens de klimaattop in Turkije. De onderhandelingen mislukten, tot grote frustratie van velen. \"De temperatuur blijft records verpulveren, elke vertraging wordt steeds kostbaarder.\"",
-    "datum": "2026-11-23T11:49:37.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/23/brand.jpg?itok=0o2OfC4I&amp;offsetX=0&amp;offsetY=188&amp;cropWidth=1797&amp;cropHeight=1011&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    }
   ],
   "binnenland": [
+   {
+    "titel": "ACM: effect algoritmes aan de benzinepomp is beperkt",
+    "normalized": "acm effect algoritmes aan de benzinepomp is beperkt",
+    "link": "https://nos.nl/l/2640726",
+    "samenvatting": "Het gebruik van algoritmes door pomphouders leidt niet tot onnodig hoge benzineprijzen, meldt de Autoriteit Consument & Markt (ACM) na onderzoek . Het merendeel van de tankhouders in Nederland maakt gebruik van prijssoftware om benzineprijzen te bepalen, maar de invloed hiervan op wat de automobilis",
+    "datum": "2026-11-23T15:21:09.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/7/8/S/V/W/m/1r7jR4xF9oRnnJFY5ugNoWzhwJaZundqNFaEcf2/8x8x3984x2241-1024x576.webp"
+   },
+   {
+    "titel": "Grote vertraging op de weg rondom Utrecht, 'stel je reis tot na de spits uit'",
+    "normalized": "grote vertraging op de weg rondom utrecht stel je reis tot na de spits uit",
+    "link": "https://nos.nl/l/2640724",
+    "samenvatting": "Weggebruikers die van plan zijn tijdens de avondspits de weg op te gaan in de regio Utrecht kunnen daar beter mee wachten, adviseert Rijkswaterstaat. Op de A27 richting Gorinchem is de vertraging inmiddels ruim 100 minuten. Die vertraging loopt naar verwachting verder op. Op de Hagesteinsebrug wordt",
+    "datum": "2026-11-23T15:16:31.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/2/9/i/8/Y/w/Ejg7eCZpWrb8TMuETPS1AUKBAsBaZ7nJGoMuMso/0x417x4000x2250-1024x576.webp"
+   },
    {
     "titel": "Heilooër die vriendin (19) doodde deed dat volgens zijn advocaat 'dwangmatig'",
     "normalized": "heilooer die vriendin 19 doodde deed dat volgens zijn advocaat dwangmatig",
@@ -526,27 +544,18 @@
     "datum": "2026-11-22T14:29:09.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/m3cxgxva9dgj_sqr256/1302/1/4122/4122/acht-gewonden-door-op-hol-geslagen-roltrap-bij-station-bijlmer-arena.jpg"
-   },
-   {
-    "titel": "Halsema deelt boodschap voor ontvoerde Insiya wegens Indiase internetblokkade",
-    "normalized": "halsema deelt boodschap voor ontvoerde insiya wegens indiase internetblokkade",
-    "link": "https://www.nu.nl/binnenland/6417419/halsema-deelt-boodschap-voor-ontvoerde-insiya-wegens-indiase-internetblokkade.html",
-    "samenvatting": "De Amsterdamse burgemeester Femke Halsema heeft zondag een videoboodschap gedeeld op sociale media in de hoop het naar India ontvoerde meisje Insiya te bereiken. Daarmee omzeilt Halsema de recent ingevoerde internetblokkade in India rondom alle publicaties over de ontvoering uit 2016.",
-    "datum": "2026-11-22T13:28:39.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/6jmx6z5ati3n_sqr256/2918/0/4669/4669/halsema-deelt-boodschap-voor-ontvoerde-insiya-wegens-indiase-internetblokkade.jpg"
-   },
-   {
-    "titel": "NOS-Europacorrespondent Tijn Sadée (62) na kort ziekbed overleden",
-    "normalized": "nos europacorrespondent tijn sadee 62 na kort ziekbed overleden",
-    "link": "https://www.nu.nl/binnenland/6417414/nos-europacorrespondent-tijn-sadee-62-na-kort-ziekbed-overleden.html",
-    "samenvatting": "NOS-Europacorrespondent Tijn Sadée is op 62-jarige leeftijd overleden. Sadée versloeg jarenlang nieuws over de Europese Unie. Enkele weken geleden kreeg hij de diagnose kanker. Hij overleed zaterdag in Eindhoven, meldt de NOS .",
-    "datum": "2026-11-22T12:42:25.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/4p4xymca7e3q_sqr256/407/0/1062/1062/nos-europacorrespondent-tijn-sadee-62-na-kort-ziekbed-overleden.jpg"
    }
   ],
   "buitenland": [
+   {
+    "titel": "'Gettowet' over gedwongen verhuizing is niet discriminerend, oordeelt hoogste Deense rechter",
+    "normalized": "gettowet over gedwongen verhuizing is niet discriminerend oordeelt hoogste deense rechter",
+    "link": "https://nos.nl/l/2640725",
+    "samenvatting": "De Deense \"gettowet\" is niet discriminerend, zo heeft de Deense Hoge Raad bepaald. De Deense regering voerde de omstreden wet acht jaar geleden in om een einde te maken aan migrantenwijken met hoge criminaliteitscijfers en werkloosheid. De wet treft duizenden bewoners van sociale huurflats. Een deel",
+    "datum": "2026-11-23T15:16:58.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/1/B/H/X/w/B/WhnSmBdyK3HDSVRkAt9j4Sfy5cyyVmasMFXAfkv/8x132x3984x2241-1024x576.webp"
+   },
    {
     "titel": "Zoekactie naar loslopende leeuwin in Istanbul: autoriteiten zetten warmtecamera's in",
     "normalized": "zoekactie naar loslopende leeuwin in istanbul autoriteiten zetten warmtecamera s in",
@@ -762,15 +771,6 @@
     "datum": "2026-11-22T13:43:15.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/1/C/s/x/q/w/ZizmM5LwCmo2HsVNydHHUQF9KR21DFHGiRWCW9S/713x424x3168x1782-1024x576.webp"
-   },
-   {
-    "titel": "Zuid-Koreaanse onderwijsminister treedt af na examenschandaal",
-    "normalized": "zuid koreaanse onderwijsminister treedt af na examenschandaal",
-    "link": "https://nos.nl/l/2640585",
-    "samenvatting": "De Zuid-Koreaanse minister van Onderwijs is afgetreden nadat er onrust was ontstaan over plotselinge anti-spiekmaatregelen bij toelatingsexamen voor de universiteit de Suneung , het belangrijkste examen in het land. Tijdens het examen werden landelijke noodwaarschuwingen naar telefoons gestuurd om s",
-    "datum": "2026-11-22T13:20:18.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/4/A/N/o/7/v/NLT7AFpzK9JiMW7W4W6YisiowYQvXhpinARxDmX/8x181x3984x2241-1024x576.webp"
    },
    {
     "titel": "Minister stapt op na telefoongebruik van 111 scholieren bij examen in Zuid-Korea",
@@ -1001,6 +1001,15 @@
    }
   ],
   "economie": [
+   {
+    "titel": "Big Bazar keert terug met nieuwe eigenaar na faillissement",
+    "normalized": "big bazar keert terug met nieuwe eigenaar na faillissement",
+    "link": "https://www.nu.nl/economie/6417529/big-bazar-keert-terug-met-nieuwe-eigenaar-na-faillissement.html",
+    "samenvatting": "Big Bazar keert terug in de winkelstraat. De koopjesketen is maandag overgenomen door een nieuwe eigenaar, die begin december de eerste winkel wil openen in Den Haag. Het komende jaar moeten er vijftien tot twintig vestigingen worden geopend.",
+    "datum": "2026-11-23T15:22:27.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/cxgxft4ajirr_sqr256/1140/0/3648/3648/big-bazar-keert-terug-met-nieuwe-eigenaar-na-faillissement.jpg"
+   },
    {
     "titel": "Chipbedrijf Nvidia haalt na affaires afgetreden Jensen Huang terug als topman",
     "normalized": "chipbedrijf nvidia haalt na affaires afgetreden jensen huang terug als topman",
@@ -1261,15 +1270,6 @@
     "datum": "2026-11-20T14:39:54.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/7/E/M/k/J/C/RD1PUsCpbK9xfYsn4t16X8GuxpQduVFKfGghY9U/0x287x4000x2250-1024x576.webp"
-   },
-   {
-    "titel": "ECB-baas: 'Europa wacht te lang met aanpakken van economische problemen'",
-    "normalized": "ecb baas europa wacht te lang met aanpakken van economische problemen",
-    "link": "https://www.nu.nl/economie/6417249/ecb-baas-europa-wacht-te-lang-met-aanpakken-van-economische-problemen.html",
-    "samenvatting": "Europa moet in de toekomst sneller ingrijpen bij economische problemen om niet achterop te raken bij andere delen van de wereld. Dat zegt Christine Lagarde, de baas van de Europese Centrale Bank.",
-    "datum": "2026-11-20T14:36:14.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/fxfx4h7ap7ya_sqr256/1828/2/4874/4874/ecb-baas-europa-wacht-te-lang-met-aanpakken-van-economische-problemen.jpg"
    }
   ],
   "sport": [
@@ -1367,7 +1367,7 @@
     "titel": "Vollering op bezoek bij de paus: 'Beetje spannend, ik laat me verrassen'",
     "normalized": "vollering op bezoek bij de paus beetje spannend ik laat me verrassen",
     "link": "https://nos.nl/l/2640699",
-    "samenvatting": "Een bijzondere dag voor wereldkampioen Demi Vollering en oud-renster Annemiek van Vleuten: samen met wielerlegendes als Eddy Merckx, Bernard Hinault en Miguel Indurain mogen ze op privé-audiëntie bij paus Leo XIV. \"Het is een hele eer om zoiets te mogen delen met zulke grote namen\", zegt Vollering, ",
+    "samenvatting": "Een bijzondere dag voor wereldkampioen Demi Vollering en oud-renster Annemiek van Vleuten: samen met wielerlegendes als Eddy Merckx, Bernard Hinault en Miguel Indurain mochten ze op privé-audiëntie bij paus Leo XIV. \"Het is een hele eer om zoiets te mogen delen met zulke grote namen\", zegt Vollering",
     "datum": "2026-11-23T12:08:49.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/2/E/a/m/4/F/6TxQcuLhSqpgQtjvuNJwrMRtTgiYBGqVd3BxPrq/8x64x3984x2241-1024x576.webp"
@@ -1955,6 +1955,15 @@
     "foto": ""
    },
    {
+    "titel": "Code rood-groen op Walcheren en Noord-Beveland: tientallen kerstmannen rijden per motor voor het Prinses Máxima Centrum",
+    "normalized": "code rood groen op walcheren en noord beveland tientallen kerstmannen rijden per motor voor het prinses maxima centrum",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVkQ1ZkZXSG1MQXU1RExzeXNZdnM3cVRFUW5xS0ZUWUlCTUlkZm5jc2x3Vzl4V2M0ZFlDZGJJam9zOFpqSEJWVklLckVZY01KVTV6Y0NRQi1yUFlVRUJpeEpoVU0zOWNyV3VkeFJGckxlRGVzNGotUGZTQ2dIekRGb25Bb0pwemR5UXBLVHhiR25aWjR2dkZ3VWNkcy1oN3Znd2NTYmZFZWhKZXBuUVJqRi1SOTZGajE0Z05QSkptSWtldWF2Q2YzWEM0bHk2TGdQNlZoRGxJekEzdG1fbFpwZ0hMdkFDN1pSNWhaSHhSMFNzQQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-23T11:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Roep om ruimte voor huisvesting arbeidsmigrant in Zeeland",
     "normalized": "roep om ruimte voor huisvesting arbeidsmigrant in zeeland",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmU4bThLbklHZDU1eTNVVXBpd3ZSRFM0dTZUMTVWTzlXUUNhMGxqN0lKOC1xRkhwSWJld2dtMXBiMnV5aGdUWjlwcWtzTkRDYkkyRzViNnFpVjgxZVJJWFhfbmw1ODM4eUc5dDFKR0ZIQWc1SUFNLWVuRlFkQXJPMVlrZ2NSd1pCZlhRVGhaVGtNRVh6dGxJQ01lUW85QU0?oc=5",
@@ -1993,7 +2002,7 @@
    {
     "titel": "Black Friday: koopjesfeest of complete koopgekte?",
     "normalized": "black friday koopjesfeest of complete koopgekte",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnNyX0UwNEJuQURUV1ZpSFcyYVJWRTRRU0huNVpVV1VjcHFXc3V0ZWl2V05OV1dIYzJjekREdGtoMHNLcmdZYnBvTXpPZWRwX0loV1FyM3cyODgxNTg0UDQyMnd4ejNSNlBTLVdTZFY0NUtPY1dZZnFud0w1Z0VGWkpPUW5SUjBKdEdYS1BHNG1iVFRlVFJwdU1pcTVnTGtjNE14b1k0aw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPckZzaENoYU5lRDROMHNGS1JFemZjZFhXRUdObU10bHhoQ3lMX2xaV2hhQVhLSXd3bXFlZTBDdjI3bW9SelRDbHdhSzVwQjNsdmxLX0tsRDkyRlpSTlAzWkVqUzg0MjJRSzNaYVRORTJTOG1KaUMtdVVHLW1iTDVvTlhVWTVIaENnR3JTZ3AzNVc?oc=5",
     "samenvatting": "",
     "datum": "2026-11-23T09:51:14.000Z",
     "bron": "Google Nieuws",
@@ -2041,6 +2050,15 @@
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNk1CMVc3Y0NqajF1bjNlOTZmTkZGMGdzQzNnWVQ2bkZNSmtmMWo2U2t0eUhLMVZseGQ3TFFrby1ha0J6LUR3QWhsS2I0WWtSN2lpSjY1cmV0SWdiV1pyd3dONUI4VzRuWkZmSW5BS1hjdDdEckJyQ3hSaXgzZmU4ZmxWbEptYnFjdzhLenFJel9PRGphVzhaNGpLc1o1LXpC?oc=5",
     "samenvatting": "",
     "datum": "2026-11-23T06:48:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Tweedaagse staking buschauffeurs begonnen: 'Gaat niet om loon'",
+    "normalized": "tweedaagse staking buschauffeurs begonnen gaat niet om loon",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbVo2bFRwdm9WNzl6OEJ4dUpHZTJ1OGdYNTI0Z0NpckdTbkhkeWUwenFTQTljYkdkdzRseVR2a1BBZHNuckpPUzF5YjN5N2s5amtTMXlRMjhiWXFqMUpmVW96b1ZiOVkwWHc4QXNGSWt0U21US1NQSzJyNVdSWGhPWTJDaGpoenBPZjdMZmRFUDFUYmhhR2otNXBvTzJJcXBGVWxqMjBvRQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-23T05:45:23.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2158,24 +2176,6 @@
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDJvR0NyRG1kNGxNb3B2cUxEbDREZ0xNUVR3V2syX2VoakVaVmI3Mm5EeTlfMms2ZnZfd3M2RVRJVHdmT1ctT0J6R2pPQ1pnTkZ4WUpIdDB5SVNmWlNFR0d1QVV6c0Fqa3dSZllGVk1wNmR1Mlh1MFk0UmkyTEFJdC1RWXBVNkZTem1tNGxoUGdxMHNRb2dJTlFB?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T15:36:06.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Auto belandt in water bij Scharendijke: vrouw en hond komen om het leven",
-    "normalized": "auto belandt in water bij scharendijke vrouw en hond komen om het leven",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFI5ZTc0N1ZNNkpxdlhtSjA3cjNJSE5uNkR4Q1JVZ0xUdHR2LXlvSTVBWG1aNFpyY3JxNFBGdHVmNWVsWllQU25VUUhVb1JyX3hkMzFOenp5TmwwS01yTmtZQm92cTVmTkVMeUZMV3llendUUFZfenNTUXVWYm5VcktJMmtXcmxEQWhVSHNFOUxMLWxiby1nb1Rnd0xDOWNWaHFMdXpSY2xlV3N2RlVfek41MnJkUW8?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T15:24:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Sport Kort: Zeeuws getint Jong Feyenoord kampioen beloftecompetitie",
-    "normalized": "sport kort zeeuws getint jong feyenoord kampioen beloftecompetitie",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcFBHTi11SlR6SjhLcUpuZldYNzVxb2hCZFR2ZkcwRkQ2anM3WE5HN2E1R29RbXV4dFVzTHhKMi14Mms3dUNidGJhLVh1d2d6YmtiTkJiUUdIZ0JwcGFzX3pfeHhudG5rVFJELVZMTVNDMmhGOWlJZTlXYWtvMEpqMUJwT0FSalQ4UGtOaVA3RjRocUc0MWJBSGhINEVOQ1NpSWdrdWZxSVQ2ZDd6blpB?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T14:45:56.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2454,15 +2454,6 @@
     "foto": ""
    },
    {
-    "titel": "Kunstwerk De Man van De Overkant wordt onthuld in Hoedekenskerke",
-    "normalized": "kunstwerk de man van de overkant wordt onthuld in hoedekenskerke",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmcwTUlXOVpiM2tQWGRvRmt6QnBUMU1DVGxjMWtDQ0otNjhxek5wdDBEdXFEUFAzRXdNSmRfR3pqdDZ5OW5GODRVN0pRMHhOVTlhb18zWmxiUGt2MjhKc21TSlZnTlhZZGpuVzlER0FJZThvMk5mUzBqMkJRYmEtTGxYUGlhTmwxSGlVSE9YeDFidlpuRWNhRVhRSU1sTm9Ha2c?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-19T13:30:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Brand in schuur aan Wolphaartsweg Borsele",
     "normalized": "brand in schuur aan wolphaartsweg borsele",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2VCRFNPbmZOX0lDOGxYT0kzYUNUdzRfLWlsYUV1NGtDSzhvZjc5cThDZm5wQks3OVUtemt1SUpKRUlvX1hGMUl5Q0l6RG9SQnAxUERQU3pWcUNmbmp5WXZxNFFjOF9FUkk0ay1EN0h3RXhaTXRjNHJKVHdESHZNNVpBY2ZVQkk?oc=5",
@@ -2675,6 +2666,15 @@
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR1ZuYzlSWjFFZU9jU0V6MXBBR2RKZ1VraVhISW1PV0ZROEpCU0pIRE1qR3FibDBtbmRZX25CQ0lPX3dLR1JCV2hDTUtPSFZNaGRLRENPbVZrdEhtb3AwZjU3ZG5QRFhBR0Y3LXNDZ3RwZEh3d1JPci1SRmhZLUl0ZGx4QXg3QkpiVlZuQmY1elQyalRYY0ozWnl1c0wyOS1BbTh4andpaHV5aWxuX1NXaHEzQkw5cDVyMFpza0l0UkQyRUkyNTNaT1hxUDQtWms?oc=5",
     "samenvatting": "",
     "datum": "2026-03-02T08:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Misschien wordt deze kandidaat de jongste wethouder ooit in Borsele",
+    "normalized": "misschien wordt deze kandidaat de jongste wethouder ooit in borsele",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUhwUDlFUEN0QmdOVVRIUkx3NDcwNUxIMWxheE94MmpnZzAzTGZ4Z3JtS0NXYUxCNjZDRWlpWGI5U0VXeXNwaGg0SkRkZnFSNl9aQ2JTWXhtaTBnUzhrSDRrcC1sVTBxNHFyd1hmV3FWbEhoRHNkUlY2aHE4THFvWGE4VXFlM1dPb2xITlFqMjdmUUtZSER2b3dTLWh4Y0k0VXFINDJuTUxOSWNMT0FrWjRR?oc=5",
+    "samenvatting": "",
+    "datum": "2026-02-16T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2971,11 +2971,11 @@
     "foto": ""
    },
    {
-    "titel": "RBC-leden gaan naar de stembus: supporters snakken naar antwoorden na roerige periode",
-    "normalized": "rbc leden gaan naar de stembus supporters snakken naar antwoorden na roerige periode",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcm5YVHZUeHhqWnVrMy1vcVUyV2k0Zjc3U3VPU1M4RFNDRk5MTUE3eUVyQ2dWeWJrelJ4MnFNUk9oZk1kblo1RXpieFFicUhBT2R4TUd0YURRdWgwc3RHamMwb1h4ZEpybExwQkRXV3cwRURPVTNUMUtPdHpjdmRydkw2ME9ldmN2dE4zREdqMUhEY2s0LWJldm5td2FvYmtKMEZfNXdGZHhVWXdBUk9HTWl3UTNUNDRuLTM5djJmWkFFeDVWbWc0WlpfY2pNZmg4?oc=5",
+    "titel": "Roosendaalse lezersfoto van de week is gemaakt door Frank Bookelaar",
+    "normalized": "roosendaalse lezersfoto van de week is gemaakt door frank bookelaar",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmR4Yzc3QWpqUEpmdjV3YmF4ZDk5OTRRdXBkYUxKd0REbjBhbTZiaHM5UmU5dWhEejYxVU05Z0NsU0xaQldXX2lTVURkM1JjWV93Uk54alZUTTZhU3V4QkczRzBKN1paNXdsNTlqVzBUT19yNWExQkFPRHVHcC05YzZFZmFEcEQ4bVF2RlZqUVdmR3FPSHNUcWpOYlpnbUFfeWNfUW53OFVuSko4Q1hBaFpIMA?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-23T14:00:42.000Z",
+    "datum": "2026-11-23T14:07:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
