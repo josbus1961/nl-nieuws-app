@@ -1,8 +1,53 @@
 {
- "gegenereerd": "2026-11-24T21:17:36.852Z",
+ "gegenereerd": "2026-11-24T21:42:57.883Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Moeder Joey grijpt in na liefdesproblemen in Boer zoekt vrouw",
+    "normalized": "moeder joey grijpt in na liefdesproblemen in boer zoekt vrouw",
+    "link": "https://www.rtl.nl/boulevard/artikel/5666909/moeder-joey-liefdesadvies-boer-zoekt-vrouw",
+    "samenvatting": "Is Joey een ijskonijn of willen Tim en Koen simpelweg te veel? Die vraag houdt de boer bezig in 'Boer zoekt vrouw'. Terwijl zijn logés hopen op een liefdesverklaring, trapt Joey juist op de rem. Moeder Astrid weet raad, al praat ze haar zoon niet naar de mond.",
+    "datum": "2026-11-24T21:39:22.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/24/lkrengl%27.jpg?itok=dubMxI81&amp;offsetX=0&amp;offsetY=3&amp;cropWidth=1180&amp;cropHeight=664&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
+   {
+    "titel": "Gijzeling in Colombiaanse supermarkt, overvallers eisen 2 miljoen dollar",
+    "normalized": "gijzeling in colombiaanse supermarkt overvallers eisen 2 miljoen dollar",
+    "link": "https://www.nu.nl/buitenland/6417686/gijzeling-in-colombiaanse-supermarkt-overvallers-eisen-2-miljoen-dollar.html",
+    "samenvatting": "Gewapende mannen die een supermarkt in Colombia probeerden te overvallen, hebben verschillende mensen gegijzeld. De krijgsmacht en politie is volop aanwezig in de onder toeristen populaire stad Cartagena.",
+    "datum": "2026-11-24T21:38:46.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/ibqxwpta2ahl_sqr256/457/0/3777/3777/gijzeling-in-colombiaanse-supermarkt-overvallers-eisen-2-miljoen-dollar.jpg"
+   },
+   {
+    "titel": "Van Weel wil wapenwet aanpassen na toename vervalste vuurwapens",
+    "normalized": "van weel wil wapenwet aanpassen na toename vervalste vuurwapens",
+    "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5667008/david-weel-illegaal-gemaakte-vuurwapens",
+    "samenvatting": "Dat er steeds meer vervalste vuurwapens in handen van criminelen komen, noemt justitieminister David van Weel een 'nieuwe en zorgelijke trend'. Met een speciale taskforce en aangepaste wetgeving hoopt hij de ontwikkeling een halt toe te roepen.",
+    "datum": "2026-11-24T21:37:18.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/24/ANP-575229877.jpg?itok=LhzIzo-G&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Hongaarse premier bezoekt Oekraïne voor het eerst sinds 2015: 'Historische dag'",
+    "normalized": "hongaarse premier bezoekt oekraine voor het eerst sinds 2015 historische dag",
+    "link": "https://nos.nl/l/2640891",
+    "samenvatting": "Voor het eerst sinds 2015 heeft een Hongaarse premier een officieel bezoek gebracht aan Oekraïne. Premier Magyar heeft in de grenzende regio met president Zelensky gepraat en samen een militaire begraafplaats bezocht. Het is een belangrijk symbolisch moment voor de nieuwe relatie tussen beide landen",
+    "datum": "2026-11-24T21:35:14.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/4/B/U/Z/b/X/UDEMtYWRxHe7xxRBfKpRUspNAQq6emzJcvAECpj/801x607x1904x1071-1024x576.webp"
+   },
+   {
+    "titel": "Zwartrijder slaat NS-conducteur bewusteloos met volle wijnfles",
+    "normalized": "zwartrijder slaat ns conducteur bewusteloos met volle wijnfles",
+    "link": "https://nos.nl/l/2640889",
+    "samenvatting": "Een treinconducteur is afgelopen zaterdag bewusteloos geslagen door een zwartrijder. De hoofdconducteur werd van achteren op zijn hoofd geslagen met een volle wijnfles. Dat heeft de NS bevestigd na berichtgeving van diverse media. \"De fles brak volledig\", meldde spoorwegvakbond VVMC gisteren op zijn",
+    "datum": "2026-11-24T21:24:52.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/2/9/C/7/o/B/CSE3LoWEayBUwjJti4PeZ9Tjb3wCem1fcoQyStS/636x1060x2528x1422-1024x576.webp"
+   },
    {
     "titel": "Treinkaartjes voorlopig niet duurder: prijs blijft tot zeker eind mei gelijk",
     "normalized": "treinkaartjes voorlopig niet duurder prijs blijft tot zeker eind mei gelijk",
@@ -13,13 +58,13 @@
     "foto": "https://images.cdn.nos.nl/7/4/7/e/q/T/UFRzUpdgnHaxsr424wh6Ahc7MhJaMNSqyddBgGX/655x423x3488x1962-1024x576.webp"
    },
    {
-    "titel": "Disney maakt Aquamarine-serie 20 jaar na originele film",
-    "normalized": "disney maakt aquamarine serie 20 jaar na originele film",
-    "link": "https://www.rtl.nl/boulevard/artikel/5667007/disney-maakt-aquamarine-serie-20-jaar-na-originele-film",
-    "samenvatting": "Disney gaat een serie maken gebaseerd op de zeemeerminnenfilm Aquamarine. Dat schrijft Variety. De liveactionserie zal zowel op Disney Channel als op Disney+ te zien zijn. Emma Roberts en Jake McDorman, die beiden in de originele film uit 2006 speelden, zullen hun rollen in de serie opnieuw vertolke",
-    "datum": "2026-11-24T21:06:51.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP241126179-1.jpg?itok=WhnZDDWw&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+    "titel": "Video | Gijzelaars zitten vastgebonden in Colombiaanse supermarkt",
+    "normalized": "video gijzelaars zitten vastgebonden in colombiaanse supermarkt",
+    "link": "https://www.nu.nl/332604/video/gijzelaars-zitten-vastgebonden-achter-ramen-van-colombiaanse-supermarkt.html",
+    "samenvatting": "",
+    "datum": "2026-11-24T21:11:30.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/iyuxyqya2pto_sqr256/439/0/1080/1080/gijzelaars-zitten-vastgebonden-achter-ramen-van-colombiaanse-supermarkt.jpg"
    },
    {
     "titel": "Merel Ek ondergepoept tijdens fotoshoot in Het Perfecte Plaatje",
@@ -227,54 +272,18 @@
     "datum": "2026-11-24T18:55:35.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://redactie.rtl.nl/sites/default/files/ANP241126167-1.jpg?itok=dEPGfMzB&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Zoon Emilio blijft vrezen dat verdwenen vader Emile Ratelband niet meer leeft: 'Kijk nergens meer van op'",
-    "normalized": "zoon emilio blijft vrezen dat verdwenen vader emile ratelband niet meer leeft kijk nergens meer van op",
-    "link": "https://www.rtl.nl/boulevard/video/534315f0-8917-45d2-9e43-5cc45dd347e8/zoon-emilio-vrezen-verdwenen-vader-emile",
-    "samenvatting": "Van Emile Ratelband (77) ontbreekt nog altijd ieder spoor en dat valt zijn naasten zwaar. Zijn nicht Marsha heeft inmiddels besloten hem uit haar testament te schrappen. Ook zijn zoon Emilio Ratelband (17) zit met veel vragen, onder meer omdat de maandelijkse financiële bijdrage van zijn vader is st",
-    "datum": "2026-11-24T18:53:34.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/24/Emile%20en%20zoon.jpg?itok=M9ZVqv1I&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Niels Oosthoek en Martijn Manschot wagen zich aan de vrouwenwereld met eigen serie",
-    "normalized": "niels oosthoek en martijn manschot wagen zich aan de vrouwenwereld met eigen serie",
-    "link": "https://www.rtl.nl/boulevard/video/f92a73d3-a4eb-4a2a-bb98-ff95ab306299/niels-oosthoek-en-martijn-manschot-duiken-de",
-    "samenvatting": "Niels Oosthoek (36) en Martijn Manschot (38) proberen in hun online video's de wereld van vrouwen te doorgronden. En dat doen ze binnenkort niet alleen meer op social media: de mannen krijgen hun eigen serie op Prime Video. Vanaf 7 december is het resultaat te zien.",
-    "datum": "2026-11-24T18:50:27.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/24/Scherm%C2%ADafbeelding%202026-11-24%20om%2019.45.jpg?itok=192ck3Dg&amp;offsetX=22&amp;offsetY=0&amp;cropWidth=1959&amp;cropHeight=1102&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
-   },
-   {
-    "titel": "Video | Mexicaans leger deelt bodycambeelden van arrestatie drugsbaron",
-    "normalized": "video mexicaans leger deelt bodycambeelden van arrestatie drugsbaron",
-    "link": "https://www.nu.nl/332594/video/mexicaans-leger-deelt-bodycambeelden-van-arrestatie-drugsbaron.html",
-    "samenvatting": "",
-    "datum": "2026-11-24T18:48:21.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/i2exlvma89tt_sqr256/705/0/1080/1080/mexicaans-leger-deelt-bodycambeelden-van-arrestatie-drugsbaron.jpg"
-   },
-   {
-    "titel": "Chi en Lodewijk uit De Bondgenoten bezegelen liefde met romantische zoenfoto",
-    "normalized": "chi en lodewijk uit de bondgenoten bezegelen liefde met romantische zoenfoto",
-    "link": "https://www.rtl.nl/boulevard/artikel/5666975/oud-deelnemers-de-bondgenoten-chi-lodewijk-relatie",
-    "samenvatting": "De liefde tussen oud-deelnemers Chi en Lodewijk van 'De Bondgenoten' is nu ook officieel op Instagram. De twee maken hun relatie bekend met een zoenende post.",
-    "datum": "2026-11-24T18:45:39.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/24/CHI.jpg?itok=lwRygzNn&amp;offsetX=0&amp;offsetY=517&amp;cropWidth=1216&amp;cropHeight=684&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
-   },
-   {
-    "titel": "Moordverdachte Lisa (17) twaalf weken onderzocht in Pieter Baan Centrum: dit is de uitkomst",
-    "normalized": "moordverdachte lisa 17 twaalf weken onderzocht in pieter baan centrum dit is de uitkomst",
-    "link": "https://www.rtl.nl/boulevard/video/7b6737bc-be88-48d5-8e39-67682995a35a/deskundigen-kunnen-geen-psychische-stoornis",
-    "samenvatting": "Deskundigen hebben na twaalf weken onderzoek in het Pieter Baan Centrum geen psychische stoornis kunnen vaststellen bij Chris Jude, die onder meer wordt verdacht van de moord op de 17-jarige Lisa uit Abcoude. Dat blijkt dinsdag tijdens de zesde inleidende zitting, die in het teken staat van het psyc",
-    "datum": "2026-11-24T18:44:21.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/24/Lisa%20moord.jpg?itok=c_AGWPd4&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    }
   ],
   "binnenland": [
+   {
+    "titel": "Zwartrijder slaat NS-conducteur bewusteloos met volle wijnfles",
+    "normalized": "zwartrijder slaat ns conducteur bewusteloos met volle wijnfles",
+    "link": "https://nos.nl/l/2640889",
+    "samenvatting": "Een treinconducteur is afgelopen zaterdag bewusteloos geslagen door een zwartrijder. De hoofdconducteur werd van achteren op zijn hoofd geslagen met een volle wijnfles. Dat heeft de NS bevestigd na berichtgeving van diverse media. \"De fles brak volledig\", meldde spoorwegvakbond VVMC gisteren op zijn",
+    "datum": "2026-11-24T21:24:52.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/2/9/C/7/o/B/CSE3LoWEayBUwjJti4PeZ9Tjb3wCem1fcoQyStS/636x1060x2528x1422-1024x576.webp"
+   },
    {
     "titel": "OM eist 3 jaar cel tegen man voor gewelddadige verkrachting in 1993",
     "normalized": "om eist 3 jaar cel tegen man voor gewelddadige verkrachting in 1993",
@@ -301,15 +310,6 @@
     "datum": "2026-11-24T19:09:03.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/dtfxks1an8l4_sqr256/42/0/894/894/elf-jaar-vermiste-kat-vlak-voor-dood-herenigd-met-baasjes-in-nederland.jpg"
-   },
-   {
-    "titel": "Zwartrijder slaat NS-conducteur bewusteloos met volle fles wijn",
-    "normalized": "zwartrijder slaat ns conducteur bewusteloos met volle fles wijn",
-    "link": "https://www.nu.nl/binnenland/6417664/zwartrijder-slaat-ns-conducteur-bewusteloos-met-volle-fles-wijn.html",
-    "samenvatting": "Een hoofdconducteur is zaterdagavond bewusteloos geslagen nadat hij een zwartrijder had aangesproken, bevestigt de NS aan NU.nl na een persbericht van de Vakbond voor Machinisten en Conducteurs. De zwartrijder sloeg de conducteur met een volle fles wijn.",
-    "datum": "2026-11-24T18:50:25.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/t3jxvkca9hwz_sqr256/2042/972/1779/1779/zwartrijder-slaat-ns-conducteur-bewusteloos-met-volle-fles-wijn.jpg"
    },
    {
     "titel": "Hogeschool Rotterdam stelt docent uit neonazi-documentaire Zembla op non-actief",
@@ -547,6 +547,24 @@
    }
   ],
   "buitenland": [
+   {
+    "titel": "Gijzeling in Colombiaanse supermarkt, overvallers eisen 2 miljoen dollar",
+    "normalized": "gijzeling in colombiaanse supermarkt overvallers eisen 2 miljoen dollar",
+    "link": "https://www.nu.nl/buitenland/6417686/gijzeling-in-colombiaanse-supermarkt-overvallers-eisen-2-miljoen-dollar.html",
+    "samenvatting": "Gewapende mannen die een supermarkt in Colombia probeerden te overvallen, hebben verschillende mensen gegijzeld. De krijgsmacht en politie is volop aanwezig in de onder toeristen populaire stad Cartagena.",
+    "datum": "2026-11-24T21:38:46.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/ibqxwpta2ahl_sqr256/457/0/3777/3777/gijzeling-in-colombiaanse-supermarkt-overvallers-eisen-2-miljoen-dollar.jpg"
+   },
+   {
+    "titel": "Hongaarse premier bezoekt Oekraïne voor het eerst sinds 2015: 'Historische dag'",
+    "normalized": "hongaarse premier bezoekt oekraine voor het eerst sinds 2015 historische dag",
+    "link": "https://nos.nl/l/2640891",
+    "samenvatting": "Voor het eerst sinds 2015 heeft een Hongaarse premier een officieel bezoek gebracht aan Oekraïne. Premier Magyar heeft in de grenzende regio met president Zelensky gepraat en samen een militaire begraafplaats bezocht. Het is een belangrijk symbolisch moment voor de nieuwe relatie tussen beide landen",
+    "datum": "2026-11-24T21:35:14.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/4/B/U/Z/b/X/UDEMtYWRxHe7xxRBfKpRUspNAQq6emzJcvAECpj/801x607x1904x1071-1024x576.webp"
+   },
    {
     "titel": "Legerhelikopter stort neer in Turkije, tweede fatale crash in korte tijd",
     "normalized": "legerhelikopter stort neer in turkije tweede fatale crash in korte tijd",
@@ -798,24 +816,6 @@
     "datum": "2026-11-23T19:26:44.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/7/3/3/U/k/w/PADQMSis36VjuRQQ1YGvay5wKZ1NCUrAxoVnQeg/387x681x2624x1476-1024x576.webp"
-   },
-   {
-    "titel": "Aanval op Russisch marineschip in Libië laat groot Oekraïens bereik zien",
-    "normalized": "aanval op russisch marineschip in libie laat groot oekraiens bereik zien",
-    "link": "https://www.nu.nl/spanningen-oekraine/6417522/aanval-op-russisch-marineschip-in-libie-laat-groot-oekraiens-bereik-zien.html",
-    "samenvatting": "Oekraïne heeft maandag bevestigd dat het een Russisch marineschip tot zinken heeft gebracht in Libië. Met die aanval laten de Oekraïners opnieuw zien dat Rusland zich nergens veilig kan wanen.",
-    "datum": "2026-11-23T19:15:36.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/g82xitta111l_sqr256/3436/1220/3981/3981/aanval-op-russisch-marineschip-in-libie-laat-groot-oekraiens-bereik-zien.jpg"
-   },
-   {
-    "titel": "Gisèle Pelicot klaagt uitgever aan die haar naaktfoto's gebruikte in boekpromotie",
-    "normalized": "gisele pelicot klaagt uitgever aan die haar naaktfoto s gebruikte in boekpromotie",
-    "link": "https://www.nu.nl/buitenland/6417551/gisele-pelicot-klaagt-uitgever-aan-die-haar-naaktfotos-gebruikte-in-boekpromotie.html",
-    "samenvatting": "Gisèle Pelicot zegt juridische stappen te nemen tegen een uitgever en auteur die naaktfoto's van haar hebben gebruikt voor een boekpromotie. Het Franse verkrachtingsslachtoffer baalt ook van de inhoud van het boek.",
-    "datum": "2026-11-23T19:14:07.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/8c2xek4aup7n_sqr256/530/0/2519/2519/gisele-pelicot-klaagt-uitgever-aan-die-haar-naaktfotos-gebruikte-in-boekpromotie.jpg"
    }
   ],
   "politiek": [
@@ -1274,13 +1274,22 @@
   ],
   "sport": [
    {
+    "titel": "Félix scoort met schitterende omhaal, Ronaldo goal dichter bij magische grens",
+    "normalized": "felix scoort met schitterende omhaal ronaldo goal dichter bij magische grens",
+    "link": "https://www.nu.nl/voetbal/6417684/felix-scoort-met-schitterende-omhaal-ronaldo-goal-dichter-bij-magische-grens.html",
+    "samenvatting": "João Félix heeft dinsdag op schitterende wijze gescoord voor zijn Saoedische club Al Nassr in de Aziatische Champions League. De Portugees scoorde met een omhaal ter hoogte van het strafschopgebied. Cristiano Ronaldo en Tijjani Reijnders waren ook trefzeker.",
+    "datum": "2026-11-24T21:21:17.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/r1txjnqa83ji_sqr256/1581/1040/4263/4263/felix-scoort-met-schitterende-omhaal-ronaldo-goal-dichter-bij-magische-grens.jpg"
+   },
+   {
     "titel": "Live | Tussenstanden bij alle duels met Arsenal-Dortmund en City-Napoli",
     "normalized": "live tussenstanden bij alle duels met arsenal dortmund en city napoli",
     "link": "https://www.nu.nl/voetbal/6417674/tussenstanden-bij-alle-duels-met-arsenal-dortmund-en-city-napoli.html",
     "samenvatting": "Naast Feyenoord-FC Porto en Real Madrid-PSV staan er nog vijf wedstrijden op het programma in de Champions League. Onder meer Arsenal en Borussia Dortmund treffen elkaar. Bekijk hier de tussenstanden.",
     "datum": "2026-11-24T19:59:19.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/pz1xypdada5a_sqr256/1419/124/2713/2713/tussenstanden-bij-alle-duels-met-arsenal-dortmund-en-city-napoli.jpg"
+    "foto": "https://images.nu.nl/m/ut9xbpwa4fmt_sqr256/689/1/3104/3104/tussenstanden-bij-alle-duels-met-arsenal-dortmund-en-city-napoli.jpg"
    },
    {
     "titel": "Waar Boot kwam, werd gewonnen: 'Hij was hard, eerlijk en duidelijk'",
@@ -1310,13 +1319,13 @@
     "foto": "https://images.cdn.nos.nl/1/1/i/f/p/H/cmh9ttCLy9xPhHGwTGQxabeRFVnAChGQMZP22J/190x54x3568x2007-1024x576.webp"
    },
    {
-    "titel": "Live | CL | Feyenoord razendsnel op achterstand in Kuip, Van Bommel mist kans",
-    "normalized": "live cl feyenoord razendsnel op achterstand in kuip van bommel mist kans",
-    "link": "https://www.nu.nl/voetbal/6417659/cl-feyenoord-razendsnel-op-achterstand-in-kuip-van-bommel-mist-kans.html",
+    "titel": "Live | CL | Real Madrid plots op rozen tegen PSV, Feyenoord raakt lat in Kuip",
+    "normalized": "live cl real madrid plots op rozen tegen psv feyenoord raakt lat in kuip",
+    "link": "https://www.nu.nl/voetbal/6417659/cl-real-madrid-plots-op-rozen-tegen-psv-feyenoord-raakt-lat-in-kuip.html",
     "samenvatting": "Welkom in dit liveblog! Hier houden wij, Suus ten Kate en Lieve Wils, je op de hoogte van de wedstrijden in de Champions League, met speciale aandacht voor Real Madrid-PSV en Feyenoord-FC Porto (21.00 uur). Veel plezier!",
     "datum": "2026-11-24T17:07:23.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/scexdhxalu31_sqr256/314/2/3998/3998/cl-feyenoord-razendsnel-op-achterstand-in-kuip-van-bommel-mist-kans.jpg"
+    "foto": "https://images.nu.nl/m/c0ixy7mazy9o_sqr256/1090/2/2853/2853/cl-real-madrid-plots-op-rozen-tegen-psv-feyenoord-raakt-lat-in-kuip.jpg"
    },
    {
     "titel": "'Verbaasde' Marokkaanse voetbalbond gaat in beroep tegen uitspraak Afrika Cup",
@@ -1533,15 +1542,6 @@
     "datum": "2026-11-23T21:29:02.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/o6nx4ubapmna_sqr256/539/1/2361/2361/de-graafschap-wint-derby-van-vitesse-na-schrik-om-hoofdblessure-leemans.jpg"
-   },
-   {
-    "titel": "Giménez gaat niet juichen als hij scoort in Kuip: 'Mis de band met Feyenoord-fans'",
-    "normalized": "gimenez gaat niet juichen als hij scoort in kuip mis de band met feyenoord fans",
-    "link": "https://www.nu.nl/voetbal/6417559/gimenez-gaat-niet-juichen-als-hij-scoort-in-kuip-mis-de-band-met-feyenoord-fans.html",
-    "samenvatting": "Santiago Giménez mist de supporters van Feyenoord. De spits van FC Porto is blij dat hij dinsdagavond terugkeert in De Kuip, maar hoopt wel te scoren in het Champions League-duel met de Rotterdammers.",
-    "datum": "2026-11-23T20:46:14.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/5w0xt3jaijxm_sqr256/1646/0/5708/5708/gimenez-gaat-niet-juichen-als-hij-scoort-in-kuip-mis-de-band-met-feyenoord-fans.jpg"
    }
   ],
   "cultuur": [
@@ -1910,6 +1910,15 @@
   ],
   "zeeland": [
    {
+    "titel": "Robert Dingemanse (62) verloor zijn vrouw en brak zijn nek, maar bleef geloven in zijn vliegende auto",
+    "normalized": "robert dingemanse 62 verloor zijn vrouw en brak zijn nek maar bleef geloven in zijn vliegende auto",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZmMxNEdfZ1lCdFRJYUoxUkEwTGRxeFRoRWZNa0p4NGJ0Nmk2dkk2d3hYR2t2d0dnUldlSzNiZzY5alFDT25zaEtGZzNLcU9fVHIxZUNLdUloY1NGeFphbVFPWG56ZDAtQ3Vkc0JxdDBPM0MxOW5WS1J3eDVMNnFJb1otYTItZWV5cFNidjQ3YUVwcVhLZEdnLU5ISkVPVVgxZDQ0UmdNQ0RfeEFLb2VBbTFOLTdvREFzc1pXWGkwUzNCUFhoWUs2d2g2eHladVFQOUhWWA?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T19:00:20.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Nieuwe stap in uitbreiding aanvoer zoet water in Reimerswaal",
     "normalized": "nieuwe stap in uitbreiding aanvoer zoet water in reimerswaal",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWkI4V084ZGtNZGtwYVhlQjVyZlBzbzJJSXNqUnFlQm1TUmVKeko4MWo5ckhnQjVZOWYzMDhobmF2NUgxUW5wbWg1bFEtTWNwN0VqOUhSeEVuNmY0cG96V1RLYVdIdFQ2LWVISXVKdkZmX0RfVzZ4OU1PTmxnYmFzNC04ZjRDTTIydDdhalh3?oc=5",
@@ -2169,15 +2178,6 @@
     "datum": "2026-11-23T22:10:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
-   },
-   {
-    "titel": "Brandweer spoelt riool vanwege benzinelucht Nieuwerkerk",
-    "normalized": "brandweer spoelt riool vanwege benzinelucht nieuwerkerk",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMkNhRXYxRTdnUG5IbjVkTkl3RWV0bzNTSXZfN0E5UXoxdE0tVmRpYkp2UmpRejBwUjBCdEYyRW5MWXg5aHdCaEJCLVlHZy12Qm1VeENxbERGdFhVZGp0dVM2TEdJb0NaOTFxcTFmbHhSMDFrWFlQdFZWbEJkLUNhS1RaQ2MzQ0FEMVhTWDhjV0s0a3U5WklibFVn?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-23T22:04:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
    }
   ],
   "brabant": [
@@ -2411,7 +2411,7 @@
    {
     "titel": "Afvalcontainers vastgevroren: niet alle containers geleegd in Borsele, gemeente heeft tips",
     "normalized": "afvalcontainers vastgevroren niet alle containers geleegd in borsele gemeente heeft tips",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0pHSEdZY0dxdzl2bVNkWFgwbl9sY1I4dDhfZ2UyazdJSlJQMjFlQ1R2U3pQd1Z0c1p0d3dvU0Jud2EyRm9JcjVTaGtSbXAzNWxHOW9qTExLY0RtXzhLNTl3LXhGQjVLRmoyVEoxWFF2Z0VCVWp3ZUxuQnFTMGVacjdfTTMtT3ZQdnQ1cmRqd0xLcmkzSE5xbjBXTUdBNk5DaVNpMUJZRHhhRkVIdEwybjhJSUplQkhMYlAtUC1fYjdSUQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3g4OXVJWmx4WlNNMXNjUlhrejRuN183My1CdUpfbEFPVGJFcWJYeVBMUUtEcUJBcFBoZUt3UVN1VmhxX2d2MnNVdDB1ZE5ReUZxRTJ0Mm82M3BRSHlJM1ZkeFNSbkNObF9jaXhKbnJoZUF2LWxuVFczS2VZY2JNZFdURW9uSnpwRmZSUHJZMEt2U3lTVlo5MGpPcmlPb1ZQRzdLU3BzQUZVT1NJblkySzY4OFdNZnZTU0JWc2pNNXdQTDg?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T12:13:48.000Z",
     "bron": "Google Nieuws",
@@ -2427,11 +2427,56 @@
     "foto": ""
    },
    {
+    "titel": "Grondwerk voor uitloopgebied Zuidzaksedijk in volle gang",
+    "normalized": "grondwerk voor uitloopgebied zuidzaksedijk in volle gang",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLVFabmVUeURpUWNMOTlaNndzeTJZa3Zzb1NoZzBSNF9CY21LMHNqTFRZZFdqaE1KQTBXYXVxUU9RbVpDZlFUNEFRWHlZLS1ZT2hDRUg1ekVOREpfOXVGRFZCS25aM3JqNHFSSGNPcFpiTVNLRXlWelV1RUlSUEREbW9KQnVRRWpRSHlGOGRqYmhfd3dlUThSWm9OUGltaTVfb3prYldtd0pIeFE?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T07:51:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Let op: fietsverlichting in donkere maanden",
+    "normalized": "let op fietsverlichting in donkere maanden",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXZRS1VQNHBxSUp0NEw5SHdKZEFoalFWWlI4ZVV4bWxCRE43YVpQLUQ4OFA5WnBVTTlIeTJabGpjaFZXTU8tUF9wU29XNmNaNTIyLXA3NUFoR3NvTnpTdDJSUU42OHVjUi0zZlJPMEc2eXoyRTNSa2NoRl9sbTJMNDJzYldmM3FUeTQ4eWg0NUtiSGYyWW5Obw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-23T17:37:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "ZRD waarschuwt voor bevroren afval in afvalcontainers: 'Als het achterblijft, komen we er niet voor terug'",
     "normalized": "zrd waarschuwt voor bevroren afval in afvalcontainers als het achterblijft komen we er niet voor terug",
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNREI3aXdIRzVSTnE0d05aZnNSRVZEV1FoMGJtLS1BMkRxTHZRcEg5U3M0TDZ3OWxJQl9KaktCSlcwUzk3VDIxRWwyNldxcDNOaEl5OWZHS2VuaXdCQjk5cEYyS2J1VlVzVF91NDlnclpyWVBKRG9jblF4QmZIbERVWWlQeXRYTUtZVUNZQXFhaTN0OWdFbVBKdGZPbkdZNFNrZWtNUGdZSG9CV2tXZWRtckhSdTBJQ05DQVNLR2ZuNzZiVzN0d1lVbTNjV1dZdjVHd3ZiX25EX2xLVnJTNTFMQQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-23T15:53:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Waterschap heft Zeeuws onttrekkingsverbod op",
+    "normalized": "waterschap heft zeeuws onttrekkingsverbod op",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVjZCUWV5MnJITUI1QmxWdkVSSkV0UGthM0Q3RXVzWDk1ZGhCclpCVlQ2NHh1d1ZoWEh2X2MxR0twZDJXS3JSNVJZY3M3a25NZUgtUXZMOXgzX3RXQWdsdGdIdGM5ZGJSaVJNeHVGSEJsTzlDT01oclZKX3Rtak5Ib2I3NlFuV0diQWdtVVZpQ0lkWlQ3RG5Wa1dmdw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-23T15:04:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Werkzaamheden voor uitloopgebied in Heinkenszand begonnen",
+    "normalized": "werkzaamheden voor uitloopgebied in heinkenszand begonnen",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPalRxbm4yaVMzcS1Ld2g4Y2d3LUF5MXgzdENsMUlCSHdpaGQzZkZpYlpjTXZoVmd0TjBxcHpnSVQxRlRqNW93ODNKVVphM0ZMdmtOY29STVRsU21rR2VObTIxclp2bjhIc21VeURFcF85ZlQwZmgyT2ZxMzkwck01ZldkYUExdWxfWUkycVBDczZneW9rNEF4NA?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-23T10:46:59.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Containers in Borsele deels niet geleegd door vorst",
+    "normalized": "containers in borsele deels niet geleegd door vorst",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX25LMHVya3hFcGV0M1VCaDlPb2tOWUd3RUt5Y3FFdEtvNFd2aVhyMHNYMTRtNjc0bFgzMHJMejJmdlJMcC1Nb0s1SlpMczlnQ040elVPVlRVUjk2eXFURE4xUjg3TmVjR1ZqMzZMZjBtdDBVTEp5ZEhxQWlOOHFGelNHdEw0MlZzU0lNWU5BcnBPNm1qNTh4ZFpTaWNGaXZIOWl2OQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-23T08:58:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2445,6 +2490,60 @@
     "foto": ""
    },
    {
+    "titel": "Rubriek De Vermues: Een koe als boosdoener?",
+    "normalized": "rubriek de vermues een koe als boosdoener",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWTNfQUVVUXI0aExOTkw0cnBXWjhmY1N2UGstSlJ4WWRYcUw3bDlSR2ZrUzFCcGs0YTZqWFFCQ01yajB3c242RjhIdjQ0Sm5MdkY1VGJ3Z2plTmZFN090blZyY0d2MklCSWlDZGRtZzh4Z0RHNXBpSm5wVUd3V3AxUDNkNkNQeFNiMmNYd0djZGFwUjBmRnJuSg?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-20T18:55:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Jeugdzorg in Borsele: 11 procent van de jongeren krijgt hulp",
+    "normalized": "jeugdzorg in borsele 11 procent van de jongeren krijgt hulp",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWxtWGpzNG1tRl9YR0I2eDBmT1Z2a1hNd01CcW5yQmZSaXZxRUtCWTFJSk9HTzQ2OTlTTWZ2VW5RbElyQkVFeFBPUkFDYjB6NlI5aGlBMkhwTVNwOFNGVnJXQjFUQkZJcXcwejhvXzU1R2lJR2JMVGdpal95QnMxRXRTdFozYllGZGIzWVlpRTNKR0lzbnFUbU4zLXg?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-20T16:29:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Geen vuurwerk, wel carbidschieten: dit zijn de regels in Borsele",
+    "normalized": "geen vuurwerk wel carbidschieten dit zijn de regels in borsele",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXRBY3U3Y0x1VjVwRFlOamVVQ1pvUVgzZVU1UDRtcllOZ0xmcUdnSVE5NHpad1M5R3FKWDhiMDZHOGRsUE1Fbk9uU2RVdlcwcDVMZTZTTHBrejdCLVRiUkRib1ZBaVFqTHRJOTNBWllCM0taeWJUQkVLbDJnY2FlS1U2MDJ5dXpUcnhrOXI0Slo5QjVRNldrX1BUWVdMRDJWYlBnenRYZDd1SGdjMUF0YWpURQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-20T13:57:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "€49 miljoen voor Zeeuwse gebieden waar stroom aan land komt",
+    "normalized": "49 miljoen voor zeeuwse gebieden waar stroom aan land komt",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUdybmg2YVBOM1BRVjFEbjdQS2owUVlRZnpYMmJCZi1WYzJ3dlA3MXgtbk5YZjdLQnM5OThOdjEtRTh2XzB4QkxpcVdBZy1xZThDQ0ZTVjBibmIyTkI1VU9FR1RDMUxfaVRFQ1JUVzhIbmZtRTBYamZWX2pMZGl6Vk1pdWp5ZHFIVndENnJLUG1US0xqeTd6QnRVTEV6aENVWnp1cWxySjBBVG5RZUVTaWU4NA?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-19T19:16:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Zeeland Refinery Cultuurprijs gaat naar jong talent in Borsele",
+    "normalized": "zeeland refinery cultuurprijs gaat naar jong talent in borsele",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGg0ajJnaEhsTDZ1OXRvUTFBVUtjVmFEanU5bGdBQlk1dnhLVS1DbFlaelRVd25Ta2NzQmd1TVQ2ZXVYQVBZMmJXTHM4OFg1NnoyVnk2bkp1RVNnR1NET2NiYWRtSGJkLVlYXzE1b0YxQUZLUUgwU2l0YlJfMk1lR3oyNkdkZ2NpQVNTTzlpUlN4VGZNeE5mVnpSUEtDaUE?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-19T15:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Kunstwerk De Man van De Overkant wordt onthuld in Hoedekenskerke",
+    "normalized": "kunstwerk de man van de overkant wordt onthuld in hoedekenskerke",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmcwTUlXOVpiM2tQWGRvRmt6QnBUMU1DVGxjMWtDQ0otNjhxek5wdDBEdXFEUFAzRXdNSmRfR3pqdDZ5OW5GODRVN0pRMHhOVTlhb18zWmxiUGt2MjhKc21TSlZnTlhZZGpuVzlER0FJZThvMk5mUzBqMkJRYmEtTGxYUGlhTmwxSGlVSE9YeDFidlpuRWNhRVhRSU1sTm9Ha2c?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-19T13:30:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Politie vindt mogelijk drugslab in schuur waar brand uitbrak in Borssele",
     "normalized": "politie vindt mogelijk drugslab in schuur waar brand uitbrak in borssele",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2Z6SUlXZG1yb2JFbE5jS2NtWDg3aS1LQWx5Sl81Q1k2U3ZQVzM3MzRNcHNzWWxJVmlhdDhWTjZvUjBUYmx6NFlFQTE4b1h0QTZnNTlvYU9FMmg4eERyLVpvZDJhZmdYcU1kaGNNM1NmZnRpTEZiQVFqVk5GR2thWXlNZ1pZV1dOODZVSElFQS1QZkQtMk1MUTROQUlLS2JsNzZVVTd3clkxYzdWWnc?oc=5",
@@ -2454,238 +2553,148 @@
     "foto": ""
    },
    {
-    "titel": "Regels rondom de jaarwisseling",
-    "normalized": "regels rondom de jaarwisseling",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQVczQjBaT2tBdV91OVBUSHJfRi0ycVFtNlZaXzl3R016TXJyMkltQ3ZJckJ1NkFFV05wZWF4QTZiSjgtVWVmaGdtY2tEX3dOdHllOFdURmo1ZVVNTjV1aTBpZEJPeHFmQk9PMUdRaWozd0xQaEJZa1J0VFc0dDlYazFzQ1FmYmRDUTRFX1hicjBTVzQ?oc=5",
+    "titel": "Brand in schuur aan Wolphaartsweg Borsele",
+    "normalized": "brand in schuur aan wolphaartsweg borsele",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2VCRFNPbmZOX0lDOGxYT0kzYUNUdzRfLWlsYUV1NGtDSzhvZjc5cThDZm5wQks3OVUtemt1SUpKRUlvX1hGMUl5Q0l6RG9SQnAxUERQU3pWcUNmbmp5WXZxNFFjOF9FUkk0ay1EN0h3RXhaTXRjNHJKVHdESHZNNVpBY2ZVQkk?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-18T12:43:00.000Z",
+    "datum": "2026-11-18T21:29:14.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "Zeeuwse plaatsnamen en dorpswapens op komborden Borsele",
-    "normalized": "zeeuwse plaatsnamen en dorpswapens op komborden borsele",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDJfS0o2WFZIWWg5RXRQZk5mcVlGamlzTk52Y1FCSDctSmJPVXNDMjFQYWRNay1ya2pteEdmRFF6MFpOcFUyaGFHSHRDbGg5cF85LUR5UXIxa2ZhcVgyMTN3eXhvbzJ1d28xal9jMGpTQTg4SnI4bXpLbFFnLWFKSFNHbEx1QXdLOGlRaDluZ0lZbGliYlhtWFJHYkpGSXU1N2c?oc=5",
+    "titel": "Kennismakingsavond Alzheimer Café over dementie en mantelzorg",
+    "normalized": "kennismakingsavond alzheimer cafe over dementie en mantelzorg",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN0JhR1htcm13QnpoVGxSVVFHLWRkM0NTMTJsaWtPR0E0RE9jVkJJYlJLYjNSdU5wQWZJck9QNUpRTTJXYjRMRmNsSHRWUGw3Z2dSWjZyVzcyNkpDU2ZLSzJ0dWZ0MHRwS1hVdGZsOUhfQnp4YUgyRndwQldWSVBEWGpKMFRGMHAzVGRWZmxYTGdNRlh1ZGxpWnVsQTM4ODhPbnlKai1URDEzaFlwb0c4OTRB?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-10T08:00:00.000Z",
+    "datum": "2026-11-18T16:56:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "Defensie houdt militaire oefening in gemeente Borsele",
-    "normalized": "defensie houdt militaire oefening in gemeente borsele",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2gtRGtHQllKejRIMUdNV1Y2b0RadDFxS0ZOY3ZpcHdNandqZzFzXzhvNERVcjdSXzJUSks2VElmb3BVcVFpVzg1Zkd5QWdkYzJRbVhXMEhUUkFPYmRhdnFqLVAycU01cHpNeGhXMWpGbVljdkZnUmVIRS12R3U2OGd0ckNwV2VmTF9DWmV5SFlpTVhK?oc=5",
+    "titel": "Focusflitser controleert nu bij Zeelandbrug",
+    "normalized": "focusflitser controleert nu bij zeelandbrug",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTU1yQUZSdDMyRVVmZDZtOHFXdi1KZTlVQlRha3JHRjNhTUZUM3lVM2FKSXYxVEw5cUo0cnFCU3JWZUhJam04dUxBeFZ1R3FzbVV2OGlHdzBNOW9FbnVhakRNVEJNZnVuT0VPc0tvZFhla09pLVVoWEtnRHctQkpRVXZRWUtKSVRZOFMybmJTNHVxN3VHM2lVRDdn?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-10T08:00:00.000Z",
+    "datum": "2026-11-18T14:28:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "Busdienstregeling in Borsele verandert vanaf 13 december",
-    "normalized": "busdienstregeling in borsele verandert vanaf 13 december",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWNfOW12WHBZb1VkTWZhbVhlQXJxTVdhTXZrVE5rUmY0MnV5dHlwWG1GTkxFcVlfTTA2R19mUFJJX2NvNEU1M05xSzlRLWJwbGl0NHFDQ0taQW4wSUk1QndMMHFpbEVWV2JPV3lTaEkxU0FhaDFZSjZWS2ZWbExiSjlPaWtBZ2RTT2pXSnNyWWhUWjZhc1k5Rg?oc=5",
+    "titel": "Sinterklaas is weer in het land: Dit valt er komende tijd te beleven!",
+    "normalized": "sinterklaas is weer in het land dit valt er komende tijd te beleven",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTNiQ2pTR3YzWFhSTktQYWtIUmV4dlNxWkF4X3FPQUpLUXlIcHVnZnZLdnhJdjNFemVrV25MZDEybVhRR2ppdG84V1BJNjZlYnNQelNDcjhYWkVfUHhSVjhHSmRwdXhfcWI4MnFuNEtIZDgxZTl5WVd6X3g2RmJVc1E3aGVvMXdQQlN3Y3RwRGJlcjBsSnozZjhKdXZlX3lYamRDVkx1VjRIQ05UdFdDNGdR?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-06T08:00:00.000Z",
+    "datum": "2026-11-18T13:44:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "PRO Borsele niet blij met burgemeester: 'Raad hoort dit niet via de media te vernemen'",
-    "normalized": "pro borsele niet blij met burgemeester raad hoort dit niet via de media te vernemen",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOXE2UHRrNFh1Um1mX085MVRpRVZfTk5HRHhxX2VzaVpHdFpucDNYdVllNkJVSmVMRlNMRHI3QjA2TG0xWDA4Q0tySTY0c3Z3ZjBVeFZrM2dycmVOTUpoV2ktdWZQVWg5UDVYVjRLb3ozWF9JN1RFb3BJSmVjblZwVGYyMzZtcEs3cEI3TFctOWtyQ3Bxb19mc3kwSnJBX2pkR3JBcG5uUEhGU0pmcVNuR0tKRDdYc2NnMFZnb1NYU0QyUnE3UDA0?oc=5",
+    "titel": "Afgelopen week 4 meldingen van de gemeente over vergunningen in Borsele",
+    "normalized": "afgelopen week 4 meldingen van de gemeente over vergunningen in borsele",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXZfLWJTbzlCS1lOclk4b3RxOUJJUDZBQXpiVTlWQzVrVGt1eG5xbEhvOUEyb0Y1cHl4aHdsbXA5ZnNBUFdkYVJkY0tMSWxZMnNBc1ZQYUgwaEcwWlpyRzZRSE1iQkhuVk9jZWVFVGp4eUZURVZET1pLVmxfYngtRUU2RDFBVnBmck04MG5OTnZjUHAyWEtPX2N3VHdtUkdSbDU4QmVOWVROeWc?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-02T08:00:00.000Z",
+    "datum": "2026-11-18T10:03:29.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "'Doe dan een SMR': Borsele zet in op kleinere kerncentrale",
-    "normalized": "doe dan een smr borsele zet in op kleinere kerncentrale",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObXdNQ3BDa0dOY1N5MElZSnRDZVdNcGtORjlPcjZnQndiNWlqOGZLcDh6N0dTUGR1MmdmcmRrOHcyVEJhbnA1WFI4X1pQZ1lyeUtKLUo1Yl9ZQVJBczhqc0xoRmRmb2xYcExlYXBSNzA1SEpqbkc1eHp6M0czZ3NBUW8zRVVlaUFRQnVmWUExSS1xMzdqTjZjVnFNb3FlTkREd2c?oc=5",
+    "titel": "Veilig Thuis Zeeland sluit aan bij Week tegen Kindermishandeling",
+    "normalized": "veilig thuis zeeland sluit aan bij week tegen kindermishandeling",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY1Y5b2d5aE04OGtNNm5PWm1CN2hkOFk0RU9xZTVjMWVoekw3OVoxbmdjMnRzbWdaRUZSbkRxMFdLTVBUSWJkSXFCOG9tNjRQb2ZtQ09Vdlg5b1RjS0R6SS1qckZlbHVjRnctVWI2ek5YSWlzWTZkOFI1NnpjVjNzVHBwUFZrN2lqa3A2MTBQN3VnSkZaS0d0NkVwdHRnRldQQk1BSUltQ0t1WklQX211M1NJX2ZWZw?oc=5",
     "samenvatting": "",
-    "datum": "2026-10-30T07:00:00.000Z",
+    "datum": "2026-11-18T07:30:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "Heb jij Luna of Piepmuis gezien? Deze twee huisdieren worden in Borsele vermist",
-    "normalized": "heb jij luna of piepmuis gezien deze twee huisdieren worden in borsele vermist",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNzBqc3BRNFUwSHZaMFJfVzhKdzZ2NVRDeUpOa082Q09QYWs0bEJTM01DaFBWMVgzajVZOGVLVW9OQXZhbjBNanR3MWppa1R0N1J6NzkyQUdETnFZVmpuWVFqY29JSzJRaWs2Qjd2TnlDbHUxdlJNSUkycU9OUXVlLXo1aG5fdk9jNTlxSFo4aEozRWU5OFY5WUp2RzhYdkJkQ1J1czY4ZjE4SFB2UmNBTnV2OExOZw?oc=5",
+    "titel": "Laatste oude hoogspanningsmast verdwijnt uit Zeeuws landschap",
+    "normalized": "laatste oude hoogspanningsmast verdwijnt uit zeeuws landschap",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFNOX2NDUUs2dmxmVlBCeGJMWVg2Rkd0elBtR2dQZUhzcmFWcFJTQ2dwaENhaGE3QjNJYndtam1pOVphVmRpTHNSV0YtNlhqSW52SkllUlhLQ1FjLXR4NHhjR3N4eVdfeUI2SUoycTJPYmNEaE9RMWNuUmt3djhxd1hpMkdMU3NiS0Y3aWpKeEtNdGtUaEhGV2RPU3ZYaEVVSVRlTk95LUZkc3pjRjlOaFFB?oc=5",
     "samenvatting": "",
-    "datum": "2026-10-04T07:00:00.000Z",
+    "datum": "2026-11-17T14:51:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "Van vieze klompen naar nette kleren - Gemeenteraad Borsele vergadert in monumentale boerderij",
-    "normalized": "van vieze klompen naar nette kleren gemeenteraad borsele vergadert in monumentale boerderij",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdm5SWkdHRGgtVDlfZjVWN2liQnpVY21IODlpcTZVM3RzYk1hdjMxT3ZFVGZSdUQ5Sm1WSExHdVl5LThOdFg0dHlmY0RSWnBvT0tTSnh2YUpXUE9nVTZKNWk0bXMxX25RX1J0S045aE4tMHdXaURPMm1hM04wYi11dmt1ME1nY1llRlZzdVRyczFhS1pNVWQxaDQtU05pSmlYN25FeTNTdWg3bUxIRUE?oc=5",
+    "titel": "Wat verandert er voor zonnepanelen vanaf 2027?",
+    "normalized": "wat verandert er voor zonnepanelen vanaf 2027",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV25BS2FNaUN2Yl9LdUN6Y3lkZ01hTlJEdGw5ZUJQLTBVMy1NQ3R0OElrd1RHeWkwdHQxZjcyQUduSGxvUVlzbkhpZ0dmbGY3eEgzQV9OTHNmaGE1TVdwd3AtZmpXeE9EWlVlU1FuNllhWDd1WHkzbGM3RVFzWFJZZVN4VjZNc1ZhZXR1OVpfLWt5VDczRFJCZjhrNnhYQQ?oc=5",
     "samenvatting": "",
-    "datum": "2026-09-28T07:00:00.000Z",
+    "datum": "2026-11-17T10:02:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "78 echtparen uit Borsele vieren minstens 50 jaar huwelijk in Heinkenszand: 'Je bent twee verschillende mensen'",
-    "normalized": "78 echtparen uit borsele vieren minstens 50 jaar huwelijk in heinkenszand je bent twee verschillende mensen",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQakxtTUx0X2NCWDVJM0tOdmlGVVd5N2lIRjZmZHVWWFNUR1plcFNiZno3NHJHRDR1TTVaNzllc1QwYXdrV3ozcVJsSzllY2ozRVNTNDBrS2xqTVBDdXlHeE5lY2RKOWp5anZ6R1A4eWdYMkxNWXV3VnRYWms1c2R2N0VwbktwQnhadWNqUzRfWG40NjhlTVU1dEVyRVRJcEF3LUk4NmV1MlNSSl9hT0wwQk1kenhVU254c0dJS2x4Um9Zc2YtMi1aOFl1U1dBZGlpTkhfR3dlM0pabEdQNGNacU1jUEt4c00?oc=5",
+    "titel": "Woningbrand Everingestraat Borssele snel geblust",
+    "normalized": "woningbrand everingestraat borssele snel geblust",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVThjX0hta0RmTVR6akZnY0Y1M2Z4OFRDaHJsb3NEdEUwM1Y3SDBtbkdjNGdENGpjMDFpZXFNTFVxRkc2RldEWThvaEhBZWMzUDZ5Y05fVDZQTEtlamh5NG1RcGVOMzk2MlpBZmZIWll2NlU1VndRNWY4MU1yM19XSmZuMV9VTnJySjJKdF9ZOExIRDE3UVlqbm9fanpHZmJp?oc=5",
     "samenvatting": "",
-    "datum": "2026-09-25T07:00:00.000Z",
+    "datum": "2026-11-17T06:49:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "74-jarige man uit gemeente Borsele overleden bij ongeluk op de A4: 71-jarige vrouw ernstig gewond",
-    "normalized": "74 jarige man uit gemeente borsele overleden bij ongeluk op de a4 71 jarige vrouw ernstig gewond",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWVA1NHpqUFgwMy1ZdjNSdGR3UW9IN2dsaFpEMkRxVkt3UkVBMDZkbGJPb2NzSXVnT2JUaDNnTmRISVIwMUl5UFk5MzJnRUotNkVDWnZLM3lWRW5aTzlSVVgyRzczenpiOUxldnpVMmpZMUdoWHlMVU5qV1Fpc3U5eVBRSUVBNk1QQ0VZaGJxSG14WE1XOTNyNGhlUUJ4RktaREhsb1d0NTJ1N2JmS0tVZmlFWFNMcjUtMXd1Z0lOSG9nRVhRdUdnWUJhUFdVbXVXYk1vWDhPbW0?oc=5",
+    "titel": "Pendelbus Westerscheldetunnel vanaf 18 november te reserveren",
+    "normalized": "pendelbus westerscheldetunnel vanaf 18 november te reserveren",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVklBUGVSem5FcXg4VXJBUmV6Wk8xcEVFclZ0Umt2MndaT2tqbG56NElhWkh1MUlSNXdsbVZEdnBqOFV5YkxCTU1qOWE3alJRV2czd2VtZHh3ejRVYlFtT01IS3dwa20xOFh4U1lBNzNGU040aXM0OVlDVndDYmE3T2RnamFYTTk3aFg4cmtCcDg0RnF3cUVsV2JMYVluMjNfc1dGc3FuSmdUekFnT2xsdjNR?oc=5",
     "samenvatting": "",
-    "datum": "2026-09-24T07:00:00.000Z",
+    "datum": "2026-11-16T10:03:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "Geduld van gemeente Borsele met opslag van auto’s raakt op: ‘Er is gewaarschuwd en nu nemen we maatregelen’",
-    "normalized": "geduld van gemeente borsele met opslag van auto s raakt op er is gewaarschuwd en nu nemen we maatregelen",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLTZ3d1BaOGRtamhQckdHOHlvWkozZXhDY1VuVnE0NmFTVDgtMlh6dE5VYVVJR0RUaG1Ydi01M3B4WkZib0pvMlZEdHBRNlpWaklLQWxEakpqYjBsVWszQ0ZteFgtbEs0WkhIWHUwcE95WXR1N1dJUmpHbjhKaGdmVjliZ3ZfVFRUOEQ5N2RFOEd3UEpMMjd4TlBQOEdtamZjNUhvSnVtTXBJTDVsMmZ4SWhmMktLU21yeVNneUlxbnN1Yk03UHltVjl0MGdkbWZaX0ROZkJLRQ?oc=5",
+    "titel": "Niet erg in trek als woonplaats, maar wie in Borsele woont heeft het goed",
+    "normalized": "niet erg in trek als woonplaats maar wie in borsele woont heeft het goed",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3AwN1dVUU96dVhqTG4zZnZtYTlFR2xkSl9NNDVTb2ttMlo2WGptajd1TDhwN0JFV3pJYVhVeUdkSm0wMWVKbzBNalAtTUdFbkk4TWt0ZXcwV2RYT2ZFNG5jRWwyTGlhVGJWeThCRlc0NUZlSHdZRFNWbUk1M1NHTnZqY1JNY2lUOHdPUzZHSlN4UEpFRXBJZG5ud0NHVHBieko3VmlPdjc0U2l4amc?oc=5",
     "samenvatting": "",
-    "datum": "2026-09-13T07:00:00.000Z",
+    "datum": "2026-11-13T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "Provincie kritisch over meer salaris voor bestuurders Borsele",
-    "normalized": "provincie kritisch over meer salaris voor bestuurders borsele",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWxsMWpycWIyeWNJbklZUUs2aEVZdW42SXFOS1NzTy13NHVGQ1dTZnhCQkxGLXYzbm1PanNFOGpUNEwzUVFmTmFVeHJiQmlDZjVfM05ENDBzN0x4V3Q4MktfOVJoTmgyMGdfQWs1TDgyLVRsbThWRVhaODIwNEtjWVRPd1RYcnE0YnNoQXo5Rm15bjVPc3NGQ3JhaFVlWnNMNXZmaVlkNk9xdw?oc=5",
+    "titel": "Wereldwijde storing bij Microsoft raakt ook Nederland",
+    "normalized": "wereldwijde storing bij microsoft raakt ook nederland",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVpFVHBDZ0h2aDNPVjl2VS1UUG1HZTFTMmhqLUdPTWx6ZGJsVHFMNDNEUmllajBRdEZYN2tPTjN0aE1hdVFIWFlEZGFjQU5vQklRRlYzODFTbnZlcTVHZktwUmtzRTdVaDBaSW1faGowcmdpcG9hMHlhczQyTWJYOVJDUzdGaC1WZkZGeXdiaS1yQ0taLU9uWExacGcwUTVobFdjVGc3cw?oc=5",
     "samenvatting": "",
-    "datum": "2026-09-08T07:00:00.000Z",
+    "datum": "2026-11-13T07:51:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "Ook Borsele wil hoger salaris voor burgemeester en wethouders",
-    "normalized": "ook borsele wil hoger salaris voor burgemeester en wethouders",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkdwOE51TFpHZHdibGRkQkxKWDEtenZBMnlJTnBkczYzZXdzbDZaamo2NTlqU3Z5XzNpdWhYTU1LZGZFRHNDNHJLczZWTkllVy12aFVGR3RmSUJFUUw2N3ZLb09DeG9OMmVQcXIya1dXRmNINWwzYjJvQ1JZaW1EaGh5SWxlWnJmenRYSXNXTF9MSl9HT0NvaHZ2TEg1N2J6Ylk4RUlhU1BDdw?oc=5",
+    "titel": "Borsele onderzoekt verlenging huidige noodopvang en langdurige opvang",
+    "normalized": "borsele onderzoekt verlenging huidige noodopvang en langdurige opvang",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPak1VUlhDSDNXMVJiem5hclJBbUVmWGFKS0x5anpsc3J6NTNFQnZxZ0FGMk1rN2RyTjJjb2JkSFN6UXd0T0QwRmt4QkEwT2hfNGJSMU9jYzk5RElqQnZIRk9pdzFoZXVURTJRcTlMNS1YN3I1dU9waUFGcjN6bU50a1FlNlh4bG5EY0tKMG0wazAzd0xEZHk0YlBONkdfalQyQm1DaEFfaDRtNFhtZXE5YXpn?oc=5",
     "samenvatting": "",
-    "datum": "2026-09-03T07:00:00.000Z",
+    "datum": "2026-11-11T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "Gemeente Borsele begint groot historisch onderzoek naar bommen in de grond",
-    "normalized": "gemeente borsele begint groot historisch onderzoek naar bommen in de grond",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDhoQVZMRFZUZGJSbVZnb20xeTRLSmR2LUxmY1U5ZTNMZlI2ejUxN1ZDMzlhcWxzeThZRUZLa2dGOExSSWJyNGlrbVJ6T0RXLXFJUW52WTZwc1dFSHd3a1VHYm12Q1Y4aHNKY2VhVklBeHYxa1VvWHBVdWtCTldBNG1YbUFSMzltcWl0Mlh6NWhoeHg5VHBUMGVLZWRtSVQzdU9HSmdUdHZJMU9XM3hGQg?oc=5",
+    "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Borsele",
+    "normalized": "afgelopen week 16 meldingen van de gemeente over onder meer bouw in borsele",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2RvUmJudjNzTXBEcFo1ZDhDWEZPYVVSeUVfTkxvdEV3MEN0c2lGLTlTLWJhXzAyaXl2bDFWVFVVRDk2SFZMMmJqT3NzbEFlVmZ4SVlkQmZOR3FHcFZIUGZrWUtNSGVhUHFaZUJ6VjlFRkRMVExnRE1HZC1ZNmQwZjcyRmtBUDJ1OHVsd0FSUTQySlpNekpQbzZDRk4tUkpGRXhnRV94cWJsTlg1VlZQQw?oc=5",
     "samenvatting": "",
-    "datum": "2026-09-02T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Knops looft aanpak Borsele bij kerncentrales: ‘Voorbeeld voor Nederland’",
-    "normalized": "knops looft aanpak borsele bij kerncentrales voorbeeld voor nederland",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOElmSnlWU1RTdGNnSUlfbm1rUjNBQk1QOFNzVjVua0Zqb09ObzNrTTRHQ2xWdzBVNFVzX24zYmJyTW9YcHF0am5QcV9uUERTZ2dlZlFkVUV5TG5oYzBKSUdLYXN2RTRteHBwYjVIVWFici1wQ3BRWTAyVWtnei1CZi16WnkyTXZURHpGNjdLbDhzcFZqa01Jem9hNFhHM3lRNUxpWG9FbU5sdw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-07-23T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Borsele trekt aan de bel over stapeling energieprojecten in Sloerand",
-    "normalized": "borsele trekt aan de bel over stapeling energieprojecten in sloerand",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObG4ycHRUR2hHcFpMQzc2dTZMTHlXajJDTGFDLXZHUGYtM1hyZExsYW1fd1BGTDZKLVZTWHRnQ3VEX2gzbXd1QmZ0ZzRTUUlvY1BpVmtCM2RQMFNNSFFicVE2bjZxREZDajg5LTZlUnJBeGRwdWNmd1JYZE1PVGxRUUNOZWpZMV9YV2hNcjg4QlNXSnRYMS11dU1ONUwzUmZ3Z2xNbWpIZTc?oc=5",
-    "samenvatting": "",
-    "datum": "2026-07-01T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Coalitie Borsele rond: ‘Voldoende vertrouwen voor een stabiel bestuur’",
-    "normalized": "coalitie borsele rond voldoende vertrouwen voor een stabiel bestuur",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2FUMFdfMXRtbmNQX3FoQnJCQy1PcmRRYmJqR2hMdlFIS1VVWHEtQUVORkhvWkVJeEswc2M0di1uNUFJUUdhT2dVRG9keFJrUlo3YVRiSHBlT1VmQUhnR1NnTDNsZmR5UnVjaXdWclhXUFJhUzF4SXBtc0NfclJsMlk3eExXUUZralVDaERNV2F5cUd0X1F0bkR0d0xlbWtVcEtSQ2d4Zw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-06-24T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Gemeente Borsele trekt nu bijna half miljoen uit voor drukke Stenevate: fietsers en voetgangers ‘heel kwetsbaar’",
-    "normalized": "gemeente borsele trekt nu bijna half miljoen uit voor drukke stenevate fietsers en voetgangers heel kwetsbaar",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObmVTbFd6MGE3b0x0TGZyRmRVdHJaVm5IbDBRUmVqY2hncWRDTkV1V3dJc2RfYzRlUGRDOFg5VTNVRjQwOThob3o4TXN1TUpHUTh4dEEyMGRCSFZocWhONnBjMTJaMUtTODBHenBNVXFFU1lFdjNGekxBSTZQNEJqcUpINFNSNkRfS1g0UEhjclBtQjl3S21VUzJxSVhUUmt3WjNnZUJ0ZmVkY1VYSVAydnQ3TjhFLTBhVXBfUWx0T2FYZHVBV3JXOEVLdk9wTU93VGVBaTluQ1VaMGZvUXlF?oc=5",
-    "samenvatting": "",
-    "datum": "2026-05-28T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Borsele wil plaatsnaamborden in het Zeeuws: 'Oetjeskerke op het bord zou toch mooi zijn'",
-    "normalized": "borsele wil plaatsnaamborden in het zeeuws oetjeskerke op het bord zou toch mooi zijn",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLXl4LUtRYmFXWGtoNV8wVk9yOTYzUE9YLWNxWEp5Q0lCaW9JVXhrUmFJTmxta0NEdWRfa2JSYncycHZNbGhJRXd3NFlsQ2ZCcTFYbGZYN19WZjliRThEbTdfUkZTYWw3YjZIR18yZTFaQmhDd3V2MEpWVWRCZEN0RUtZQzRnSFNRbS1mbTZ5eWdPQmFvRnI4eGZPaDBJOXZEQTRPLUZRRzhBLXYwR2xmblZmOTdoOEZkRExfVm9HM3JjSE8zdGlzTEhn?oc=5",
-    "samenvatting": "",
-    "datum": "2026-04-21T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Inwoners Borsele mogen 5 miljoen euro verdelen om de leefbaarheid in hun dorp te vergroten",
-    "normalized": "inwoners borsele mogen 5 miljoen euro verdelen om de leefbaarheid in hun dorp te vergroten",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLWl5ZVpFRjJpaHNjY0tJNVI1NFYxVXQ0T2t5OVh2TVRNbUQwZ0VubHI3MFlfZkw2TzJYQVdiVC1obUlIeW5WZ0NBUVdkendDbk5JNkZuMldBd1VOcGd1bno5T0pEQ1M2RUlMTUQyb05MMHpCRU1jQlRvYlFmMC03V1NmSWxka0F3dVA1aE1kSWFlRnZyMk1yd0NnN19lcTliYzM4QTFBT3VKM0RjNml4YmV0dEpaMmw0Z2dEd015SmlfdEkwNkVHVUpGV0JZRlJW?oc=5",
-    "samenvatting": "",
-    "datum": "2026-04-03T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "In de gemeente Borsele kerncentrales met koeltorens? 'Dan denk ik dat hier oorlog uitbreekt'",
-    "normalized": "in de gemeente borsele kerncentrales met koeltorens dan denk ik dat hier oorlog uitbreekt",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR1ZuYzlSWjFFZU9jU0V6MXBBR2RKZ1VraVhISW1PV0ZROEpCU0pIRE1qR3FibDBtbmRZX25CQ0lPX3dLR1JCV2hDTUtPSFZNaGRLRENPbVZrdEhtb3AwZjU3ZG5QRFhBR0Y3LXNDZ3RwZEh3d1JPci1SRmhZLUl0ZGx4QXg3QkpiVlZuQmY1elQyalRYY0ozWnl1c0wyOS1BbTh4andpaHV5aWxuX1NXaHEzQkw5cDVyMFpza0l0UkQyRUkyNTNaT1hxUDQtWms?oc=5",
-    "samenvatting": "",
-    "datum": "2026-03-02T08:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Misschien wordt deze kandidaat de jongste wethouder ooit in Borsele",
-    "normalized": "misschien wordt deze kandidaat de jongste wethouder ooit in borsele",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUhwUDlFUEN0QmdOVVRIUkx3NDcwNUxIMWxheE94MmpnZzAzTGZ4Z3JtS0NXYUxCNjZDRWlpWGI5U0VXeXNwaGg0SkRkZnFSNl9aQ2JTWXhtaTBnUzhrSDRrcC1sVTBxNHFyd1hmV3FWbEhoRHNkUlY2aHE4THFvWGE4VXFlM1dPb2xITlFqMjdmUUtZSER2b3dTLWh4Y0k0VXFINDJuTUxOSWNMT0FrWjRR?oc=5",
-    "samenvatting": "",
-    "datum": "2026-02-16T08:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Zeventien gewonden bij botsing bus en vrachtwagen in gemeente Borsele",
-    "normalized": "zeventien gewonden bij botsing bus en vrachtwagen in gemeente borsele",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZHlzVmItdW0wV3hIUkVJdTRuWWU2Z0wwQ3czbXJwdFh3V0RGUk15TXNJS0hVZXh3ZTFtYjc4Z0NyTU53WE9LRGRhd1FVQW1UdUxhVmxEdGNXUF9QbGFtNUZ1cEwxdzRjZHo0MHdVOTNaRUd5R1U2ZVBjNkUyUXJlSHBxeFpMV1RFMnA5NFhOQkpsR202QkhqSHhZc3A3aUhSMmc?oc=5",
-    "samenvatting": "",
-    "datum": "2025-09-05T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Wisselende resultaten Hoek, Kloetinge en GOES op Borsele Sloepoort Cup",
-    "normalized": "wisselende resultaten hoek kloetinge en goes op borsele sloepoort cup",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWm9rOU1lX05nQjB3LWI2ZmJfUmZYblJQZlozY2VaRjNLV01WT2c1RHFXSFNJMFBncWM3NUk0dE5yc2NGOGpEYTc2WEVYMHlGbzFKV244YkVobzJHWUdmcFAzZGJvc19Bck9hUWJhcU05MXAyRFZ5R2FmeDBuNnR5NGNDdWRFN0dfbkdVUmZNa2NtZmJwX0ZoQ0trZkFNX3JFYlBzLUZwMXRreUEycDd2RDQwUEI?oc=5",
-    "samenvatting": "",
-    "datum": "2025-08-03T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "WOZ-waarde het hoogst in Veere, grootste stijging in Borsele",
-    "normalized": "woz waarde het hoogst in veere grootste stijging in borsele",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEJEZ2RwaFJrS3ZVc0FGbnNaRnkwTHJjZGtaNDcxTC16anlFSlQ5Z0x1ai1Vc0hxN2ZuVVp0NldVMV9FWTYzT2Q2TjROZ2thLWNHa2ZKYlE4SmV3dDNPVndpQmM5aGFRWTBIczdSei1RNkcza2xCbzJadjZvTk5MWVMtcWFNWU1HdW4yZzJOOC1pa3R1SWhlMmVUZXp0RUJSR0hyMkU4Zw?oc=5",
-    "samenvatting": "",
-    "datum": "2025-06-19T07:00:00.000Z",
+    "datum": "2026-11-11T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
   ],
   "kwadendamme": [
    {
-    "titel": "Politie onderzoekt overlijden student (22) uit Kwadendamme in Dronten - 112 | BEVELANDEN Nieuws",
-    "normalized": "politie onderzoekt overlijden student 22 uit kwadendamme in dronten 112 bevelanden nieuws",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNelFmVnp6VVNXSlJtcS1uZ1pVeWJoWllza1IwV2tUaXFnMHgxVUYzb2xEakVXYWVVZHVwTDFfOHVyaFFzNjJXdTBfcV9JcmNWSEs4aU1fd2lKRTRHcVlEVm1tOFZpdlhEQUhkeU0yVlJiY2V1WThzNWJNVk1rZmJwZHYyWE9sSlNOV2xMeTlmWUFIdjZjbHg4a0N0b3E?oc=5",
+    "titel": "Ambulance met normale urgentie naar Kwadendamme op 24 november 2026",
+    "normalized": "ambulance met normale urgentie naar kwadendamme op 24 november 2026",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV0NiNUFMNjEyY3htU29HS3FRUHU5eVVPMHZVb1IzN2NjYXp0UHVVVUdfTlhrSUlqTDByZXNBWXBBM29ZLTduVWxqUTJrUFhLSld3QXdMa0Q5dmRzR3Z1UGhHTFRfeXpGVjhCTjNqVldlcmx4MTRIdVduLW84dmEzUkw2QS1mYVlHVjdSX3pBQXB2M1dZemplRUdDMGU?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-21T05:13:31.000Z",
+    "datum": "2026-11-24T13:48:02.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Politie onderzoekt overlijden student (22) uit Kwadendamme in Dronten",
+    "normalized": "politie onderzoekt overlijden student 22 uit kwadendamme in dronten",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYnVRckdjRld4VjJUdGRPSjIzVzdsbVlRZlctNHZqWW1KWmxKcWN0ZlgycU5sRWx2bldhQ0c5b0RZRDdxa0RjOHlkNmZIUUxHcDJMa2dHbVdSLXdxZ1VqM3Y0RGVDQklNQXdGeVlzS1U1ZktZdUZ3T1A4WVBKZ1BkaldLdl83dUVvMlVyTXVKVVYxSlJxR01rTE15Y0hZbzdBSm5OeEhicU5WeVpPUk52ekJB?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-20T14:25:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2708,24 +2717,6 @@
     "foto": ""
    },
    {
-    "titel": "Drie carnavalsdorpen slaan handen ineen: 'We willen over jaren nog door de dorpen rijden'",
-    "normalized": "drie carnavalsdorpen slaan handen ineen we willen over jaren nog door de dorpen rijden",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaDZWdlRQREFkdUkzbEI3eDMyNGQ4amw4OWxleXVTWEFoNVBEWG8zR05FMFR3aDdVanZLb3RwdVk2NlhXMnpueHlYMFFJZ0huZmFPOVVxYXBxNGJnbnNaQ0Nselo1eWhXbC16Z3hLTS1mbDJYdHVTZzhYNXRMeFlBYWZBOGVIR19YQTFDUlkyb2k0bEotZ2I3dmtWTmRNX1Q0U0R5Y0hEZHpNcWFxemlmaFFuVF9Ydk5Cd0ZRRXY2RGZ3NmFjVldfWUFZTQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-10-29T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Drie carnavalsdorpen in Borsele werken samen aan toekomst van optochten",
-    "normalized": "drie carnavalsdorpen in borsele werken samen aan toekomst van optochten",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDJ3SGVwUUpGdFhrWmJKUTRiemxCdVpOa0pETm5WRlBycmlwMHpfQ2dSQVJRVlU3b3cyMFdjWGZGZGpYZkYyQkVxNTREMzQ0LThGQmF4RGwxRDR2VTNkYWprcnQtMFlNSjh3dTFZUl9xckY1SDIzanJUTWgtQ0hrQmNzbks1MWRURjk2bjhUV0szX2hlclFOV2VsWTc3WmRXdkZCd0hFaUYta0ky?oc=5",
-    "samenvatting": "",
-    "datum": "2026-10-21T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Travalje in Kwadendamme compleet dankzij nieuwe voorvoetsteun en hielijzer met kontketting",
     "normalized": "travalje in kwadendamme compleet dankzij nieuwe voorvoetsteun en hielijzer met kontketting",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ1d5bmxKdFRtVkdlRU5qZUhRaG16V1d2VmNjNE1CNFhwQ3NKUU5Ya3YyV3VDb2N6ajJyMjkzdTV2T0J4aWZ4QUdWUmFTdDhYMnBYQTJrbTJ6UzJDbUNzYVFEeEhWS2J4Rm1IeUc0bHl4dWwzdzhBeC1IUm9peWI4Yzl5SVprYWRLR000a1NEcEZKUjN3QzR0S2VIR1dOVjhPZzFWUjFMcS1kNlpZVzNCZHdjaHV4OFdZelhxODdRX1YyM3pDYWc?oc=5",
@@ -2744,29 +2735,11 @@
     "foto": ""
    },
    {
-    "titel": "11 weken na zware val start Pim van de Swaluw aan de Ronde van Kwadendamme: „Ik wil die koers gewoon niet missen”",
-    "normalized": "11 weken na zware val start pim van de swaluw aan de ronde van kwadendamme ik wil die koers gewoon niet missen",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOHlGZTZpSlhCU21TMnpvSjM1cXpJMUpHWTdnTTRyQlNJdFkzNE1lc3hNQmlDQ1dCOTM3Ry1IQWJPLUVINk1PZEh4X0c2czhqQTZ3Z05OV0hVckFGdHpGcko5bDZlNHBJZ0xvY2dBM2JZVEktSFZUVm5YZzA4cFlaVHZtSlVUTTJDbl83VTVsQzU2NGxIdlc4NDlJLWxkUVBkd3JUYlAyaGpQc2Uxa2hWbVBJRTZEX04tMlI2YUEzN2pER3l5X3JDNkdvajdDSEpPaG5YR3hZMmhEQTB6Y0h3N3NrTUFBNjBRUHJFdw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-09-19T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Marjolein (40) uit Kwadendamme is Nederlands kampioen skyrunning: ‘De combinatie tussen lopen en klimmen is onweerstaanbaar’",
     "normalized": "marjolein 40 uit kwadendamme is nederlands kampioen skyrunning de combinatie tussen lopen en klimmen is onweerstaanbaar",
     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVHZiT1MxUmFUR09pQWQwVGJqc0hmTlJqUlYwbGF4RVQxVUtrMERNS0JQdGRMS01nTXdRUXlSV29UQ1lhR0h2Q3hoa1M4NENKQi1tSFI3cHhKSXRHcFJET0d1eEVrblNPVEJlTnlJaWExUjdZLVlyLXVDS2NXcHRoUjR1eWFYS1YtQ1dzbVpOZk5yeG1TaDRIYlZ1WnhZaXNZc1pBT1VqNVV2UEFyZzVLSXlnaVBmMjhHclUtcDNidTFxZkpYVlVZTEVPQ1p4dUxqS1gtRHRKRkJpTkxhY0o5RzZLYVlBbHZZU1o3Z1pua1p4am5vckxVZA?oc=5",
     "samenvatting": "",
     "datum": "2026-08-27T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Badkamerbrand zorgt voor flinke rookontwikkeling in Kwadendamme",
-    "normalized": "badkamerbrand zorgt voor flinke rookontwikkeling in kwadendamme",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd2ZBTHNKVnB5UFVhWW5jZ09zX2lkWU5SaHF1NDhsSHJ6ZjY1QUVJMWpvSWd3aUZBcmVNcjlSZFpVelpLbFVvTnh1UXQtTFdJWWpwemtPdFNaMElDbVpzVTB6YmduSG55ZTNqeUVNMWh2QlNkUjVCUDFPa3Z5NXpxVjU1Z1Q3a0xxR1BNTTY2Z01VTG0xN2FWakFUbzgzSGlhbXMzZA?oc=5",
-    "samenvatting": "",
-    "datum": "2026-08-18T07:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2798,27 +2771,9 @@
     "foto": ""
    },
    {
-    "titel": "Broers uit Kwadendamme krijgen 30 maanden cel, waarvan 10 voorwaardelijk, na brute wraakactie op verkeerde jongen",
-    "normalized": "broers uit kwadendamme krijgen 30 maanden cel waarvan 10 voorwaardelijk na brute wraakactie op verkeerde jongen",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY25aS19qRGlfbk9CczA5MlB2NEYwZ01NMzRXQlN2bjAxMEt1Slg2enhnOFlYUWJZOEdDMmZkYV9EcTY0QkZuVjJ3cDk0bDhtdVYxYVlMekJNUWt2YnFzZ2p6NEdpV09VbU5hWWF0aDBBTlhrazB2cTZKUzRnbGtnNkdaMGpuTzl2M2xRa25NbUpNT0M1QVIxRmM0ZWpOQVM5Y3BjQnhIZEpOQkwxLVZpR1VTbThyMkE4YXY3bFRYbjJUWjdzUWRxeDgxZEJSTlZkS1lHejYxZ3EzajgxTGV5SlotSQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-07-07T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Grote brand Kerkeboomgaardstraat Kwadendamme",
-    "normalized": "grote brand kerkeboomgaardstraat kwadendamme",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTktTN0FnOUhEeWRiR2Z0aEIzVE5tYzdyd1lyMlJjNTBxVkJzSXc3VjBMLUc3dlFYbktlQ01FZVdzdjdYX3pQd1Q5bzZpWTE2c01aZEpMQVRobHpFUlh1U1NrS0Y0X0l4MWNkcFBBc1JGUkkwbThFcTRYckV1eEFodWZOV19RRmc1eExV?oc=5",
-    "samenvatting": "",
-    "datum": "2026-06-16T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Grote brand in schuur aan Kerkeboomgaardstraat in Kwadendamme, heg vat ook vlam",
     "normalized": "grote brand in schuur aan kerkeboomgaardstraat in kwadendamme heg vat ook vlam",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYmFlTTlkNWtLWUVNaE5pdlhfa2JhcnRwLVk3alZHMEQySkdMNzFfZ2haYVlfQnZSZ3QyVFFmXzhrVksxSXNic0dDUDdGcktXeGwwNmFoWDJ1RV8tZ2xWMzEwYV9iYzl5VTFRcVAzbVpXSHZSMFM5TkR5WnN3bzF6aXI0RG9kbVJ2ek0xU0R6YkhSQzJKelJGRjBkZTlrbjlYOWc0am84U2NQQ2gwRG9pbkpoanVvWFlSN0NINFRoMVdzLW9Z?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOclZLXzd1ZC1QdXhmYXhhNWNDUTE3MW03LTVsQ21WSlpfUy1nOXI5QmFwaWxGeTdKZjlxQTlzZ0pTR3o1cUdxNm1lM0R3X1pvTjJXeF9hTG1rZnhkXzVEUVRpSkpMQUxEbUZXNEVpZkMwNGZBUE0yRVlSNlRYLWd4ZE4ycXdMcVhxQzB2VWxta0diaXNFT1ZydjRDV3k3b2g0NFFWRlNTZ19vTTJSb3U5NQ?oc=5",
     "samenvatting": "",
     "datum": "2026-06-16T07:00:00.000Z",
     "bron": "Google Nieuws",
@@ -2843,47 +2798,11 @@
     "foto": ""
    },
    {
-    "titel": "Fotoverslag Kwadendamme Bluesfestival 2026",
-    "normalized": "fotoverslag kwadendamme bluesfestival 2026",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MREdsM1hfMy1EVllYSlpDT3MxaEFpbllJbWFtc1JyS1dkNWlFRnpWV3dQMGJkcFNHdVI3ZzU2ZWJyZGVmV09hcVFnV0ZiTlNsSGJsMUpsNElpZm5RYl9zVHhKY0dqZFlmLVA3TDRIS0xyRWROdFJ3X2lQSTA?oc=5",
-    "samenvatting": "",
-    "datum": "2026-05-14T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Dit was het Bluesfestival Kwadendamme",
     "normalized": "dit was het bluesfestival kwadendamme",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzdFM3BrNkY4aWZCd1hRbTF6UFZmb1lQSWlpS1RlMW82eEduSUlWeHlmM1BuV2pVclNSQ1EwS0JDdmMwbHYwdDNHR2FKYXNXYmJwTXl6RHY2TEttLVl5S0Vnd1MyN3U1UUJpT2hVSHpZUjc5cF81Z1dUMEpUZkUybzVIRjhrdkJy?oc=5",
     "samenvatting": "",
     "datum": "2026-05-12T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Trouwe bluesfan Joop (84) slaapt in tent van 60 jaar oud in Kwadendamme: 'Ik ga er altijd met open vizier in'",
-    "normalized": "trouwe bluesfan joop 84 slaapt in tent van 60 jaar oud in kwadendamme ik ga er altijd met open vizier in",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX2w1RWFEUE1LSzlkaUZuWnJUeTlZYTRDVlh6SlRmVkg0akdtNVFka2c0ZFYwTy1FbVk1N05DYmdlRFhCc3NZbE9tWE53RlpTN2x6aXZtaWpCaThVSF9CeVNlTWJaa1dWdFhCSEdmOEFJbmR5ZlRnc050MF9mRXNrNVBpNmdGa2Y1bXNXSVFSa2dKT0VNQlVzMDMtM0JjZUdlaFhIRmhYX0ZBWWFNd3p0VGI2UkQ4ZHVYWFNhajg1V0YyRVpQQjY3WEpIYWlBd01iZmtpVkZKSFM?oc=5",
-    "samenvatting": "",
-    "datum": "2026-05-10T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Al 32 jaar vaste prik: Jan ontwerpt affiches, tapt bier én geniet op het Bluesfestival Kwadendamme",
-    "normalized": "al 32 jaar vaste prik jan ontwerpt affiches tapt bier en geniet op het bluesfestival kwadendamme",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa0lVbzZlZktpN09vNEF5dk1YOU56WkJvZHNram41RDRvaGZEend1LUxPSklqeHEtRDltbnV1cU9nNk4yS25LaFBwTkJhaG1yWUkxWjQ1dDNmTHRWeTRsdGo4aDZBWTlFMm1hczJESWthaElEZFpCbGZpYlNLZFNxT1A1VnBaM2Y4QU5DMURUTjJEVU1OMG11QlF5NkI0bjFCNl9STTd3SWt0T28yVnZuV3p3UzJvZnloSGRiZFAxaHBIeGtXeU1TQ0hBSW9ZQQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-05-10T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Kwadendamme: Motorrijder (20) overleden na ernstig eenzijdig ongeval",
-    "normalized": "kwadendamme motorrijder 20 overleden na ernstig eenzijdig ongeval",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT1hhUUtOMWhMYjh0cVg1OVJNWHdYVkU2UFhSSFFLTldkcG41djhEbTVjb2NDR3JhTXF6NFJQcEF6aDdhdW9lSWd3RGl3UG95bXFmX2RXR3ZYWFo4bjU2aTg0dlF4Mk0zbV9sb2U2RklFYW9VSm1TQnhnZjBLWURYM0Z5ejBPSW5hbUotczlabVo?oc=5",
-    "samenvatting": "",
-    "datum": "2026-04-20T07:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2897,9 +2816,9 @@
     "foto": ""
    },
    {
-    "titel": "Ernstig ongeval met motor Baarlandsezandweg Kwadendamme",
-    "normalized": "ernstig ongeval met motor baarlandsezandweg kwadendamme",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOekV4a3RwbzREVHdtcjNZeEhXdF92OFV6dUpPYWZuc3NhREprOGFrWjdxLUt1MWM5Z2s2al90MFBQTEZPSWpVcW9pTEhIV0djdmJzSml5aWNRLW5mOWI3M3hUUTVtV0xzc182bFFiOU5jSm1RS3NTQ2dRX0toUVZSS2RJWUVoTXJqN0hPN2p1NUNtb1lwVGJwcVRR?oc=5",
+    "titel": "20-jarige motorrijder overleden na eenzijdig ongeval in Kwadendamme",
+    "normalized": "20 jarige motorrijder overleden na eenzijdig ongeval in kwadendamme",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDRGcTJPbGpuRzlsY0VGLThkNVZiamZHS2JaV3ZaSE9vRnNSRUVaYkRrVzlHdm4zYWViY1Njanh0aWNJRklNS3Y5VGsyMXVmbi13MjJoOWcxOWNUa1dGRVNudThZRE91T3hfdFNqZGlROXQxWGFxZFJSQlNlV29Fd2RIVmZjX0xFUzVMNW9CZnRJcHhJSTRUbVVpNVo3TkVjY1hXVEk1R3FSRTJBaWFGUUhKNVlnQQ?oc=5",
     "samenvatting": "",
     "datum": "2026-04-19T07:00:00.000Z",
     "bron": "Google Nieuws",
@@ -2924,29 +2843,110 @@
     "foto": ""
    },
    {
-    "titel": "Motorrijder (20) overleden na ongeluk Kwadendamme",
-    "normalized": "motorrijder 20 overleden na ongeluk kwadendamme",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcDE2LURMME1ScUVmc041QkNUZjdWb05CTDNEb2g1WFZQR3pZRnpYa2Z6aHZrRGVkWW01REhDZmdBSER6V3o5dUJBb1I3UXAzUnZhTU5TVXNkNG5TYjNNQnYzbXZhWnU0VTNpSS1kVHFMMWJsQ2haRy1qWi1QWDh6bUxCOHRhOTBJYWdaRnVKd2lLTVQwbVBJ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-04-19T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Carnaval in De Pikpot: gezellig met een prachtig zonnetje",
-    "normalized": "carnaval in de pikpot gezellig met een prachtig zonnetje",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGlnUElTMFF6Wk5RLU9pYlRCeFZOMVBaNDFxRGwxbWhzN0V5eXMzNGU1QmxuS2hSZ0RvTHV6ZHJockZ4X3lUa1dZWWMtUGg1ZFhZOURrdThNZEpYZVlqeHFTQzktOFBhWi1kdHZlMmU3YWFycWRabWtObVRiZnczQ0lwSVIxWjBEZnN0czJoeVItR1RsY0p6TWtkeG5JTU44TFBmamdwbEVuTmc?oc=5",
-    "samenvatting": "",
-    "datum": "2026-02-16T08:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Carnaval in Kwadendamme",
     "normalized": "carnaval in kwadendamme",
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXNm5YcS1MZXdUM2VBVlQ2ZnRXZzlqWmJ4ZGRXZHhQYUwzTWcyZmtHVlNkNjVzMzM4NEhjd1BfQ1NxMVFDRXZiQVNRZ1hIQWpIbDliNlRMZm1QeXhhVXhDQjc4aVRiMC00N0Q0NzduNHg3dG44UnpHV1BB?oc=5",
     "samenvatting": "",
     "datum": "2026-02-14T17:03:55.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Oeteldonkse praktijken in Kwadendamme: carnavalsbal alleen nog met kaartje",
+    "normalized": "oeteldonkse praktijken in kwadendamme carnavalsbal alleen nog met kaartje",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTndmc0hRczY4bi1oT2oybDh3a3dzQ1kwVVVWOUFoSjVZdUx3RF9GYjFRZ2NqLWQ4VmdCWFFIbERjS1d0NEFyeHZyM2JfTkZReFFxZmhmTFNZTVRuenFsXzAyYzg5cHhOSmZ5VlF5LXd3azdFQkJlV01oNkpndzhhbGFkcW9DNTlKTF9kaEtNamt3Tm10RkdmREdpekZDOTNuNWhRZ3paNmd1eEpUWGhuaW1vdU82eFF5R0E?oc=5",
+    "samenvatting": "",
+    "datum": "2026-02-14T08:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Dieseltrein botst met tractor op spoorovergang bij Kwadendamme",
+    "normalized": "dieseltrein botst met tractor op spoorovergang bij kwadendamme",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkNLQi1TQzA0WVBGNURvd0hMN3NhTGRLX3hZbFl6RTl3V0VxYWJha09iR3RHeEI2b2p5eGFFeGtFcU51WHA5UnRwbTNfZUNOUmo4R1g4aGJYYlB4b1BtQ1MwQ2Z5U19tSzZTTzE5b0NsSkJQZEY3TGxyMTRtMlNmSHAwdjJHRGJmenhTTlNGME9jLXRmNE40MGhNeTZ2b1p1QkI2LW5lbGQyZEE?oc=5",
+    "samenvatting": "",
+    "datum": "2025-12-29T08:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Trekker botst met historische trein in Kwadendamme: ‘Gelukkig geen gewonden’",
+    "normalized": "trekker botst met historische trein in kwadendamme gelukkig geen gewonden",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVmZCQWc1ZGhOanMydXNDUHFKNmlfTnR1U1pDbW9lT1VZVDJZVkZCdjFmN2NpWTVjX3ZZeXlWVk1TNjg0Vm9fcVJkZzlkLXJiWHRBVnBMeDdMd3NSbGltamw5OHc0SFNTajdoeVpZR09vTkNCYTBRNjFvenBaLVN4ekY5el96RlpXVDhlZm5JYTdPOHRuY29FdXFfRTk1Qy05NE54MFdSU3Q1Y0RHNENYUG5CVHpMd3FCRDVFdW5B?oc=5",
+    "samenvatting": "",
+    "datum": "2025-12-29T08:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Na vierenhalf jaar en halve ton korting is monumentale boerderij in Kwadendamme nog steeds niet verkocht",
+    "normalized": "na vierenhalf jaar en halve ton korting is monumentale boerderij in kwadendamme nog steeds niet verkocht",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQakpIdzVpS01aWVlxT2tsUjF0WmN4ZE5HUHdtLUhLdUdjVnB6a0pNZnVPRkNZV2xmSnVQNGMxc252ellPUUI2djkwMU5qZDdXdXYxUWZOMGY0cVdrY0xodFJtNzFXMzJQLTNyaVJocWV2Z3pHZGFuYmRFbVRSNG5hUUg4bWtqaE9PNFRZcTZBVWZPLVp5VG1GVjhFd1R3bkhIVDdHX0dnMG5qMDc3aERMaHp2eG1fZmxMU2RpLXNOX0xDemVXalpaS3JmMHFDQUJMRGRJUEpNNA?oc=5",
+    "samenvatting": "",
+    "datum": "2025-10-22T07:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Sacramentsprocessie trekt weer door de straten van Kwadendamme",
+    "normalized": "sacramentsprocessie trekt weer door de straten van kwadendamme",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVRKOUlZaHdKS1dxczFEUk0zV3hHY0lnQllCUXNaUlJ6cFB5UDB0ZXZxcXB0RFZqYVlZOENkVW5ld1Y3S3dPMGlvYlgwVjBZY1dtMVBqclJ2RlJMZ0VubWxJMGs1N1g4emExQS1VLVl2NEl4VHhWUkVFZjFRNmNaeHkzdVB0b2o1M0haYU9GM3pjWjI3NnlpRkNXcTZpVG1Ba3h3bjE1MVBxX28?oc=5",
+    "samenvatting": "",
+    "datum": "2025-06-19T07:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Opnieuw valt buizerd fietser aan bij Kwadendamme: 'Ik dacht eerst dat ik een klap kreeg'",
+    "normalized": "opnieuw valt buizerd fietser aan bij kwadendamme ik dacht eerst dat ik een klap kreeg",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ3pPYlJHQWtzY1VUNzE2aUQ2dWhueGhEbkdHZWM2dER4a2d0dWw1UkJvVFh0dkNrWlcyZGlxbEEyY0d2R0JnQXhZUVZxYTAxLWk5OUIyd0RVb0xmb1ZmMkUwbFdlNmVzUVFaV3h6V0NTRjg1UW5lTXhNY1dmSDdLUk13ZzdLd1BNcENVNmIwUDVjMmg4M2dWVHFvbUlna2dfUVFwN1pIUnFVR0tOMDhxTkpEalhGeVFhNFMwZHY2S19xbDJOQmVHblF3?oc=5",
+    "samenvatting": "",
+    "datum": "2025-06-04T07:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Gaslekkage op Vreelandsedijk in Kwadendamme",
+    "normalized": "gaslekkage op vreelandsedijk in kwadendamme",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWIzMXYyWmhyQ2Y5MUFJUGdGZFBvc2JKZHRhRktBYWpRMW5BS0owRTRGQVFISDg5Ymdielp6OU55TUZCQnJwVXl4cVhxZTM2WTFRbHpvUE5RTjNCb1BfUUJYSnIyR1lHNFQtTThUaGNzS1UtZFgzOThfRWNhQnhEdXRhOVdsMUc2cmFXSkxiSkZkc3ZmRGc?oc=5",
+    "samenvatting": "",
+    "datum": "2025-05-13T07:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Het wapen van Kwadendamme weg bij de burgemeester: 'Ik ben heel blij'",
+    "normalized": "het wapen van kwadendamme weg bij de burgemeester ik ben heel blij",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUxtY2dFUWZQWVJUQktLTkJEenQzenpnZ0cyU24yaG41MHYtTW1MVEpqUkNYQXdXZlRXSnBWTnNtcDIyUkw2dzhxM3E1YWFuZG5ESmFVNWtaczJzNG1nZVFudzJhMmhRa1NmZng3VWRrampPSjBDS3NBNHdSeVVTeVFHQkhjakFid1dSU3FHa3pFM3dKaVRlWENxcTd2RVI4T0dhQTByT0I3YndVRENaMg?oc=5",
+    "samenvatting": "",
+    "datum": "2024-12-20T08:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Ongeloof in Kwadendamme over sluiting katholieke kerk: ‘Het hart van het dorp wordt ons ontnomen’",
+    "normalized": "ongeloof in kwadendamme over sluiting katholieke kerk het hart van het dorp wordt ons ontnomen",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVVk1dC1UUTJNZVBTeGQ2S0xWdkxtanJ0NGJycHZKalVoVUR3WGJwdWtGanllaWpaVC1IWmdhb25zbzBta0dSYkxIVzFMcm9QUXltN0E2SUhLYjJsQlRtQ29odWp5LTZBVkdHaXEyanpVQk9zbDdPZldYblFYeXZFdnlwYUsyd2FkMU80T1c1LXB2bVgyNnJBNFMxd24wbEhVaXNOUDVSdUg2M3VHakRKUDdwWmQ2a01LdUdBTTBSN0lickp4d0VxYUZHMA?oc=5",
+    "samenvatting": "",
+    "datum": "2024-11-21T08:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Spar-supermarkten in de problemen, in Kwadendamme vrezen ze voor de toekomst",
+    "normalized": "spar supermarkten in de problemen in kwadendamme vrezen ze voor de toekomst",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSE9PVnJhWFl3SWs4cllNV1JaSzZJbms2eEdYOGpFM1BGNlpvME5DZ3VFdnpidkFvc1dVXzZBTXE0a3RaSFhFdi0yXzNleWxwSDZtR21rTDhmRDlzOUNZc2JNak1ZRG1ZZ3A2SFlIUlhLb2NhUmxMWWRDdVhLN1hDSGswWHRwT3hDQXZjRll1ZDhpREpBZU5taGlrTl9OTWl4X1JVUTM4T1hNZWEwV2tDVXExb2trUG1pTnk1ZA?oc=5",
+    "samenvatting": "",
+    "datum": "2024-11-06T08:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Het 'oude wielerrondje' keert terug in Kwadendamme: 'Het werd zo gemist'",
+    "normalized": "het oude wielerrondje keert terug in kwadendamme het werd zo gemist",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOemRLXzR5Q1owRDZrZTQxMHVvVzFvb2Q4WllMaXdQNS1HY2hKdnVXN0Z5a29qZzlnRWdKdDl5Nl9kVGhJX1pNb0pEU0RJSDdMclNhQVl2NWFRa0hITjJUS09QUE0wczEwSXh0RVRZMHQyN3M5a09sVEpJUGZ1dkxGblNEU3F0TkNhYkVNTXJmVlpCenJGUHpuUV9WM1BDbTNpT3k0eUlFS2FiQktWSkQwOQ?oc=5",
+    "samenvatting": "",
+    "datum": "2024-09-20T07:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2958,6 +2958,24 @@
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDVkSi1zdEJQLUFkejBfXzRyYWJCZWlWTlE3d3k0czBFVlBBMHZOZFpfT1FHVHlzS2dqR1ZXREZleEV1MHk0RTZETWpVRG4tSVY2RFZmanJxRW4zSHRIQk1pWUdhUW12ajIyNDU1OEJYdXRfNWNYZk5JbjZ2WjBfTEZUS3NiQVlaZk1UUEtVZw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T18:13:07.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Waterschap trekt nu pas deel van maatregelen tegen droogte in",
+    "normalized": "waterschap trekt nu pas deel van maatregelen tegen droogte in",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTlY2dVRDeGpWVHlVMGlCZzhfSXhfSWFGTFVNYjdNXzBSckFJeWNNQ2poU3lJbDVrUnhIS1ZQWnVoUjhFRmtIYXJ6Z2lBdWVlRGNGLXNzcC1tUmlVblUzU2RvN2czQWl0ZFphYnU4RXZOU2I2Y1JrZW1FODVsaXRURzE5SkpxcER2Q2ZFcm5uaE04Y3V6OHgycF8wdUJYbHZk?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T18:05:15.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Mark Buijs terug als burgemeester: 'Door het oog van de naald gekropen'",
+    "normalized": "mark buijs terug als burgemeester door het oog van de naald gekropen",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTjJLeGFPMzZac0txa0lhdGZpZE5SSTQxMFNXUi1Da1NDMEVFaVdZUkppOU5ZLURwaHdfbTdOaEhqWGk5NGk3cFM4UXJUa0Z3VjRHSWRyazY2VnBCXzhIOVlhbllvNUZGNHdUV1FBdnBoOXV5alNLdlVqOUMwVkNibzdPamctVE1TX0FqNWxKaEtNVDRTeGZIWVluOVZjNHZoV0JyYnFqU0FsWjdudExfRHF3?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T16:28:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2980,6 +2998,15 @@
     "foto": ""
    },
    {
+    "titel": "Mark Buijs keert terug als burgemeester: ‘Ik ben echt een geluksvogel met engeltje op mijn schouder’",
+    "normalized": "mark buijs keert terug als burgemeester ik ben echt een geluksvogel met engeltje op mijn schouder",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNUdfN1QyMEJTbTJxWjZIV0hqZWZpR09jRjRDM0I2MW5PRWZhNmlQSFV2UVgtY3RBMGZOcDR4dkxLN0ZSVDdlN2l1bTNqcEgybHd6TC1JQ1owVGdCc29sS0NTQVFIVzYxX1JiSU9kT3pSSERtUlByM29RVmxhSmFXdkY4ZG1meDRwWXBJeFdoeGotSERIRm9GaWZORUU3dGF2eXdHc2tKOTNUWWZPSk1TblMxY3hpWGlVVzZQaGJlR1RJc1RNdXBNSzhzWjFSdU5JNWtwZ0NrOVhMd1k?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T15:06:16.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Jan (1940-2026) werd verliefd op een ander, maar Mariëtte en hij bleven maatjes: ‘We hadden zoveel moois samen’",
     "normalized": "jan 1940 2026 werd verliefd op een ander maar mariette en hij bleven maatjes we hadden zoveel moois samen",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSnJlU1JRZGJQUUZROVlvTFdCY0cyNEJ1TXVtX0loZ0J3OS1pNjJManVkTUxlSVBWLWhYQzc3MWViNlNxbldrWGNXUVZyMTJ5VXNRWFFBR3NDY1RpSHRtRDFpaFJHQ0JBOUE2LUNkbEIxQXR0RlZOMmNuNHYwdDhjbkJNNDVfSHl2TlR2TVZOei11UEVUcFlodFVDQnZWUnVZWG1PQWRtNEV3OUVsMGwxTHlEYW1UNmFMLU5STmZ6WXlSZ2FiZE9LTlZWX3ZMWWgtNzFOalgtQjA2YTE4Mm1oMkFHdWk?oc=5",
@@ -2991,7 +3018,7 @@
    {
     "titel": "Welke verdachte situaties zie jij in Bergen op Zoom of Roosendaal?",
     "normalized": "welke verdachte situaties zie jij in bergen op zoom of roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbHdvT3ZKUTNOZ25FZnA4bmdkUlZROE5jVWlyXzMtRDJOdl9fOHBLRThET0xiclBJTWp5MEpDMU9yNHFLRWZVRlltM196dks3NXNkZE1wa0J1NmtMNV9pRVliakdUQ21mNzhlWlc4Q2RWRV9sSFVGd0d0OGdLRzY5NTlNaUNlNUxlVm9FWHRJTEthdnMxTG1sQ2dqNFlZMWl2ZUl0Z0NKZ0ZjX2hG?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNkJXd3dLT3NheEJnNkhlWTdES0RpYUN1WVNQT1dhdHNid1JTQlZIWW4yQnpxQ09maVBzdDA4Z0pxeTJlcWJUc1kyWnlfR3ZfUTROeDJsaUdOdVEzZEhQVG5UQi0zV3pjNlFPYkoyV3dGZExUcFozUjd0MldIX0JUQUxOU1lhanc0bXpMemxlN1E0SlBvN3pMcHFuam1xcnp1V0J2aU5aZXF5cjY0OXdr?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T14:15:04.000Z",
     "bron": "Google Nieuws",
@@ -3018,7 +3045,7 @@
    {
     "titel": "Ongeval met letsel op Dolomietdijk in Roosendaal",
     "normalized": "ongeval met letsel op dolomietdijk in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFJsN1BLQnY1TnJjaFFsRTJUVGhxUF9WQnd2WVhVbzdzaWRjc3ROdnpndTEwSnZxSjhFUF9aWkpwU004TGJhRmxCbm12MlFyMUpnUUx4YWtZZ3dqOXBQOTVfMktFSUpqdms5c3p2YUEwbHFlWGJmcV9jckZVX1hhdUh3SmZFMUFGSFM5U1pjcmNUcmVjQWFuaDgxNEhZUXpZMGJqcVRubw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPckdSbjA0STV5V3RFTEVheWh6TkRlcTg1QVF3QS1IQ1hVTE0td1FNNEFiU2M0ajFPMHlORm5lY2lBakRxdlNCYVBrc09ScFExUjV1RDM2WnRxMl9ZcUxiS3ZXX3dweVVtMWd2aXhEb1ZBVlJHdVZKSUk2cXVrUXRQZ0E1VFVoNHItZmhPN2Q0X21Wa09FS3lmZ2g0UDF1X2s?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T10:54:30.000Z",
     "bron": "Google Nieuws",
@@ -3027,16 +3054,34 @@
    {
     "titel": "Essen wil cultuurwerking vzw Kobie vanaf 2028 zelf organiseren: ook hogere politiebijdrage op gemeenteraad",
     "normalized": "essen wil cultuurwerking vzw kobie vanaf 2028 zelf organiseren ook hogere politiebijdrage op gemeenteraad",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTGFtUUNFR2hwcjVJR0EzVEQzYUJDbGNWcDJSMWktMEhOMU5sRDFnbzA1OXZxa1M2R1JISU5HbGtwOExndzRtSFNBY1FjbkU2WHRiNXFJTFYxM1hzZV9TZVY5M21qMDl5V2FEbVFsR0VlQXF0ZnBzdXBQWjNoQ0haVmZpTzJpWE9QWVNUOXAyQmFBTHloODdSSTRRb2NmUDVWbExHb2tmMFRNR00zNG0xS1pJN0Y2dDFaeFlVamRQSGt6NzZOblN6d3BYaFhUTmhqZ09JekhOZ2Z5TVlyX0E?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOWl6cjctaUt1eVhjMWNXSGtVaDNteGlETC01RjBNWGcwMlVMM0hzRERzaV9teEY0NUQ4akVKZVluZGRzbzN2Q0ozX2sxZHdlT0tXakNVejNZb1pRMUtmLTFMa1dEa0FvbF9MTFh0SHZtVXI1NEk3ZzBDTFVVbjZrOFYzRVJ1V200b2t5bHhnTWVqQko0b1BtQThZT2JHdzdZSUY2by1nOWhFR25nWWJWYVBlc20zLXJlVWlFcDFrbndaMFEtcUNGQ21WaFhwRnpVU0xqQ053RDZuVzZBNUJwc0l5c2JCQQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T10:33:01.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
+    "titel": "Plaatselijke gladheid op kruispunt Heikantstraat en Oude Baan door waterlek",
+    "normalized": "plaatselijke gladheid op kruispunt heikantstraat en oude baan door waterlek",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYnJSaE45QmxJRXllWlhLb1R5QzRwM0p0QlloSlFEMzQwcjFKOWMySC1obzJiQW5hOW9wdWd1MkVyQXFvTXYwaWJUU052M183SjQ3U1F1YTYtdWRpc1o5eVk0N3F3d05obC1PVER6M1NSZjFaQVFSeFNtcTdzdWhlaVlxNFZvdmphZGgtYTlVRFB2QWVHYTRqSkZScVdET3dxWHE2SHl1SmhaRkx1cGpzZ05jVDhYLUNjd2pjXw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T10:17:41.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Penningmeester stapt op bij bewogen ledenvergadering RBC, hoofdsponsors halen uit naar voorzitter",
+    "normalized": "penningmeester stapt op bij bewogen ledenvergadering rbc hoofdsponsors halen uit naar voorzitter",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcHd4WW5qUURDcUh0RU4xbFc3VVhfN2F6Z1ppY0M0YnhoNmZTd2lvcXNIYkZ3XzNZR1dkZHZtcW4teEJ1SkdGeTdGN0JoZGtPQjF1N09rX0tudHlkQlZ5YVYzSG0tSGM3M1ZDQ05WNkxvcUlGS0hsaVItakcwVmpFSWJ6N1l0MFh4YkpqUGlDVW5ud19mX3g0VjhlS3lhWjl5UW9SbXhGUXNqYVNzMHN1VXhrR3FHcVhqTUY0dGxXOG0taXNfc2xDSXFZR05KdTBVQmsxck5CTndGUl92OUU4?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T08:44:52.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Overleden persoon aangetroffen op parkeerplaats in Roosendaal",
     "normalized": "overleden persoon aangetroffen op parkeerplaats in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnozTVJWZGJiT09ZT0VteklycHNCSkp2dlpBenRFQ1ZQcGNsNWpoelVJTE1oNFFhN084bFhQTEhGaVFsVUZPMnQwLXdPczY2eTAxbFV2NXk1dk5UNU1QOXNSanZLUzZGeTNhaV9ka2JDRkRPcVpvQ3VwVlpxYWFiaE9sNzZYN19nekNVWVZ3eU94M1NlRHg0TzNsdzktVDM1OVR3SUlNemk?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY216aC1LY0lBeHJwRG9WMjNYaXludkMya1hFNVN0dGpzczVGLURqMTJkRnlFUFJ6bzA0Mld4VHhtN3BOR0pLUmZIak5WRi11Nkk2NEQxR3JVTGRscXBfX2FNTWw5ZzVfZWozaFlSdEkzbmszRnlHT0o3Sk1KbUpBVEN4MnU2empWcWNoVWRmbWI4LU1rVGZOVzVxRTlGVFc4Q25mamdpWjVCOUhOQjEwRw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T08:39:27.000Z",
     "bron": "Google Nieuws",
@@ -3063,7 +3108,7 @@
    {
     "titel": "‘Het gebeurt ook bij mij in de straat’: raadsleden uit Roosendaal en Bergen op Zoom zien criminaliteit zelf ook",
     "normalized": "het gebeurt ook bij mij in de straat raadsleden uit roosendaal en bergen op zoom zien criminaliteit zelf ook",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWGUwQ2hZTVhNeTNYVGotSUo4VHMwX295LThvbFhhallnNy14bEN3ZHN3VGJKN1k4a1VLNkY2b2E1SFZ1S1A5SnVPbDVUQW5URlVFNk5DT2E0MExUMjNYeWV5X2FHZFlEYXVWYzBCN19aY2NGdGp6UTA4eWxybkdrVEItNXgwLVZXYXFmT09ZX0lXcTVUUndNOEFaaGYtVE83anA4OWthQzdKZXJDWHZ2aGtMQTNsTHBJSzJ6SzY4NE1oNkg3dGg5aUpaTS1xMVJoNmN1elZ3Y0JJNS1md3dFck8ybEI2UQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUmJvTU5OQVlCZGRpSEl1Y24tNGVqQjBIbUEzN2Z3N2xfdGxEb0F0Q21EbGc0ajN6Nk53czd5R3ViUTdVX0hzYmdJMngtQjRmc1g4enNLTVhCQWx0aTdWZ05VQndxcTFrS2tmUkpZVEV4ZGh2MXlKLWhCdW5EZUk1U25yVlBZNHo3YkJzcWFlaVRCTm90OEcydlBidEMzc0dha1Z5MHlpWk5ObUtOVzlwOGQzS1ZzR256MHBCcmVNOWRPdTY4RWNHd3BOWkMyVkswVHlkR09CZkFWZjN6M3dKcG00U1FmZEQz?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T05:55:00.000Z",
     "bron": "Google Nieuws",
@@ -3106,11 +3151,29 @@
     "foto": ""
    },
    {
+    "titel": "Roosendaalse Lijst vreest extra sluipverkeer door Nispen",
+    "normalized": "roosendaalse lijst vreest extra sluipverkeer door nispen",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObXhkcktjVDZWNkU0MGxiZ2VxRDRNclVST2dtMk5xZGw5dHl5Q3UzUjQ2Z3FmX2NXeEFZNDhzNVBET2FpU01WRUxTdW5KbjFCTXFKS1RrWUVfWGZ2aTltQzBSVEJPVS02LVkyS3VfTXl4SnhyeWdSd3dKZ0VpTllreFZJc3ZiakhITmZhdE5WYUVIblZRa2xRYUtMeF9jeExBLVhjUw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-23T12:03:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Gewonde bij ongeval op A4 bij Bergen op Zoom, rijstrook dicht",
     "normalized": "gewonde bij ongeval op a4 bij bergen op zoom rijstrook dicht",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbnNBUVJHLWpWdG53Z2IyalJUSEtnRE5aVUJLdDFsdFU0bkdOcTZGU1BJZmpVSTJydVpucy1HbEd5b3FWTFpoakxXLThLWmZULW1Bd1J6aVVwdkZlNnlLOG5kdEZtVUNXR180dnhEaV9qcXdtTkxRR2U5c0FlVkdyRmNEY0hCQUNmaUxBQ3pJc1NDTzR4UklFZXRWc3JlaFVuemc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUVJwVHE4d1lQV25Xcnp5Q3EtWWZYbUREUkxUOVBlLTY4MTVueGV1ZWxzVTFqR3NWLWFHYXpGTU5mMHctMm9ReDRVUnViR05RNVozUjVqYzRJcW1zY0d2NnlTallldUxkTjZ0cVlBN01MYXd3R3NWd1pFU0R4WUptejZtcnlZLVdSX09GUm81VU9aLUdNMGZDSWtxVElGVHlWaG5nZmZabTdqU0tyemRITGRHQjZRX2szTWlOcg?oc=5",
     "samenvatting": "",
     "datum": "2026-11-23T11:52:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Brand in een gebouw op Brugstraat in Roosendaal",
+    "normalized": "brand in een gebouw op brugstraat in roosendaal",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcDRaaUxBNWFlQ2hhZ0tuNDd4Z3I4bkhkTTB1STNhSVRyZW9ETTZlUE10eGZyb19LaUVFZ3p3dVZnU3ZSdUVXS0ItSzhQZmg1bVFMRnNwOHZraVVUWldYeGRHQWlSOS03T1ZYeFg1ZXdtSG9nZ2FrclRyUjN3TXBOS05RUlNWcmJiMlI1UlR6ckZyalJnQ3hLNk1WcFFXQQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-23T11:22:11.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3126,25 +3189,16 @@
    {
     "titel": "‘Het wordt stiller om me heen’: RBC-boegbeeld neemt gedwongen afscheid van het voetbal",
     "normalized": "het wordt stiller om me heen rbc boegbeeld neemt gedwongen afscheid van het voetbal",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcTZPNFNkcTJuQzNmaG41RlRLNnlwRUFfcHFsQUFqQThVZHpfVGJuZ3RWbG14Zk5IVDM3c08yMkhsQm42emRObldaY0xxdDA4UVNZczY1TkQzSDNKS1dNS2dVWnMwZS1UVmJfaHZwRjZxa2R0czk1MGNJSUpNcWVRT3A5Si1MSWtPamRDWlp3dlNCQkVEbTRyVmlqcWlGNmVqVzFXakZ1TGhUaHRtUXdiQzl6bEpjUHROZDBLbXUtYw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT3hYZ3Yxd3E1dVBXeUNDVERiVm9QcE40RDlYMHI0WGdyN2c4cmtnZkVfTHVwTDNucDUtZU5wd3NxRUJNNGZGU3FUME1SWTloWUxPT195azBPMWl1SHpzTWdIWm1xME9tdVBRanJaX29PMlVnbHB1cU5fNGpnb2ZfTFIybjMxa1FuMTQtS0pzYm5BVExWQUlPbXVHelhZaTBrcWNrRHF4M1JPekZaY3pXdWdmNU10U2hpTF8yQ0Z1VlhBZDUwZUxv?oc=5",
     "samenvatting": "",
     "datum": "2026-11-23T08:14:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "Bergen op Zoom en Roosendaal landelijke koplopers: twee op de drie inwoners zien verdachte praktijken",
-    "normalized": "bergen op zoom en roosendaal landelijke koplopers twee op de drie inwoners zien verdachte praktijken",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTnpwUEwwZHl5cm13NW9MMDd3ZTFxbTBBa185VUFXN1BPa21vUFNWTXl3TWpaZzVMS0JWSERWU0tQSS1YV2d2SXlTWFNUdUNZZzRaLXFRX1VuUW9IemJvWklvNng0S2pfMWItQk5WTGhSV05wc0RIWDlTTW5nUkF3WWFiS1lfQkNyTGh0a0NDZmZFc3RUNWVtNVUzWnFvT2hNQXBqa2h5X1ZVeDN6dHlpcFhoSHRMTnNxdEZQZzg4QllaZmQzdHJydmZRRm9keGhXRnM1a3lLVk5tczg2TVQ4TWJibw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-23T05:33:55.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Wat is er aan de hand in Roosendaal en Bergen op Zoom? Twee op de drie inwoners zien verdachte praktijken",
     "normalized": "wat is er aan de hand in roosendaal en bergen op zoom twee op de drie inwoners zien verdachte praktijken",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZVctTG44cGtyeWVfZ3lXUlFwbmZoLTUyTjNRQjUydTcwcXg4eUlWelRWdkxDa3lTWUFNdWxqd2pscTBSNGVya1Azb0ZFRzVXazBnd0VlWXBJeWNNU2kyR0dDaW05MzVLQTVXRUd5dThwVHZTd3dDR2JYR21NUG5ENnZqaklnQ2F3NHR0ZENOTWdneGVkYWFnb194aXNnN0RRZ0ozR3UxY1R5T0xfRi1fb0pWTl9oYk1BekJQMmdad1FYYmdBS29FZFYtQ3R4N2FoRGVvVVlvVEhfUFJsZG9UcA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZDFsUVJ0ekNMTlFfLVZvSHBTSlc5N1AyV2pYc2hhbW45NHd0SWczZ1YwQ3Y2dmJCVVJUWHlTdmI5VHZQYkd0Vk9IUkxCT3h1TWNQbmU3Ym4tQ0FpZEZENUh0WG5RMzRoX2xmNlgxcEVCbFZnbnktQnVjSGFzTmZGQThDeVZ2aWRxcG11eDQ0Ulg1M3pnQTl0VWR5WVRmMlRCM3ZaSUk5UzNZdnZQb2lXTTBBMTJPY1hkTmhzaEJXS1NvNXI5bWROdlkyQkhiZlpOUGxpWEg2cEM2U2VaeDJBc3NlT0ZHVGNp?oc=5",
     "samenvatting": "",
     "datum": "2026-11-23T05:33:00.000Z",
     "bron": "Google Nieuws",
@@ -3153,36 +3207,18 @@
    {
     "titel": "Rood-Wit blijft doordenderen en wint ook van Roosendaal: ‘Moeten nu niet naast onze schoenen gaan lopen’",
     "normalized": "rood wit blijft doordenderen en wint ook van roosendaal moeten nu niet naast onze schoenen gaan lopen",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEdwbUt1UDR2WkdLOURSS1U0dkZkckVXdmpjYlo1dGk2cUl6TjJSVnQ5eVplVGJSQmJ5WVZtZHNYNkNkUUZSVnktLS1FR1JaTWlHS3NoQWpuWVZHOFhxdzRjeGtYR21oeGVHVUpoYzBUZmZyWG1IVmFfbW5SUEh1VHY0RDNtX3lDeFRJVk9nV2gzRHhqN25tVlpGQUJhdkNocEJKTzR5OUNxLWR5Z000bERGTXBzQ1dORW12SXVMU0k3X28wQXlNV0ZZd2duUjhHWE9sQ3BHZmRjRUMwbldOUHZxN1dSaEpfVnZUb3hmWQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLTlFaDFndHBQNGIyTmdVTWhmcHBQRzJWaUVFeVhxV2xfWmVFN0tFVnluaWVHVnZkNDV3ckhSRUJ0c2FyUE1yWUZEVm5sR3JOenMzVXNva3gyWDh5T0FLNE1JUFl6UW1fY0w2VE5UZUowWmhid2JIUDRKc1JkTDJ4eXd3bzFydFVldHFEVzZIVXZUUXVyQU1zQ3M3YlA0anMtcS1uZ1Z3SEYtRWNvMHREa2djVDZiVW1FcnBVWUk0c0NoY0lzNnN5MTB5dEdueG9hWlM0ckFvNUQ2NUFQbkJVTVZWbF8?oc=5",
     "samenvatting": "",
     "datum": "2026-11-22T18:57:45.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "Automobilist (32) aangehouden na aanrijding met minderjarige fietser in Roosendaal",
-    "normalized": "automobilist 32 aangehouden na aanrijding met minderjarige fietser in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGNRRDRDUlF4R281V3FBakFFdUtoTHpQNkkzN0FlYkJ4MnR5WW9MU3Y4Yi12MzFQWENZZm12Ty1oclAyaG10Rm1TQjU1MjJSY1BEdVNjSmZYMWdIY0g5R2l5VnZxV011MUpUYW1WWXB1OWpOZjdJR0ZTcG52RzNIbzc0TlNMY05EaVVXVk1TNjVHREZ4Q2dTQ3Y3NnRBUU5oZHB6MzdMSVdQV1I1?oc=5",
+    "titel": "Minderjarige fietser zwaargewond bij aanrijding in Roosendaal, gevluchte automobilist (32) alsnog aangehouden",
+    "normalized": "minderjarige fietser zwaargewond bij aanrijding in roosendaal gevluchte automobilist 32 alsnog aangehouden",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNTFpdzVSSHE1aDdVb19CalhWQm1ONkl4V2FLZWhLczIyZTBtbU5sdEI3aVh1dnJvU1JGc09wRnhsZE9yN1BuVERoSjVJYVlDX25COFRKYXpNdGN6cWluWXJvWWNCa0VIdjJ5VGhjTzIyUWo1cXJORkhMc1hOLVRLendCLURwdXh6d3VxZllGN3hjODlvNEp2NHFreG9tRjZBNFh5X2RTRktyd2NiNHlpenBpVWRUakgyMnN6X2FsX0lKSHYwNXgtMDJBQ3VnLUx0TlZhWWxkREN5c1Y0OEpCSW41bllCNmhBWG1xWWVNOHUyczRv?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-22T07:42:20.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Minderjarige fietser zwaargewond bij aanrijding in Roosendaal",
-    "normalized": "minderjarige fietser zwaargewond bij aanrijding in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQUVIcTJub0Q0cERPUUhaVWtoWTJQOVhablZpOUxyOENaS1BlQ0tlYjcyWS1zWEt1ckp6TjFPSmU5RmJqZkV6cnZ6bVJCV0l4TTIzbDNHbFNKNm4yZEpkdTZYYW45UmhsUGRxUWVxNFB6TWRrRmlyM3U0NDdQQTBjVFk4dFlfLWxhMWxzcjFFQ3BlV3dfNlBTT3FWQWxhMVd4LVBKeQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T12:36:29.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Kind op fiets zwaargewond na ongeluk in Roosendaal, bestuurder vlucht",
-    "normalized": "kind op fiets zwaargewond na ongeluk in roosendaal bestuurder vlucht",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3hyV1NBVGdCcDh1SFItZ2MyTE5QM2dLR2V3ZnpjemJmbWFrRmJhcUpzV0FiR1pwdURuUmhXRmtoSnVwNU9fb3Jab2ltN0VwREw1emI4eFVkemhPX3lOSEVSTHhOR2JQVGVlRTRQN3d6bmxOMlFCU0VWTllsbHZlZnBrS2hpTXB0VUNaUFVfUlZabFlZLWgxRV9BLWZBaWoxbnpsS05tb3hDeU9IWkRkRnd3?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-21T09:37:30.000Z",
+    "datum": "2026-11-21T12:14:25.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
