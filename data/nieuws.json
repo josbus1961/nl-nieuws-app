@@ -1,8 +1,44 @@
 {
- "gegenereerd": "2026-11-24T22:08:19.679Z",
+ "gegenereerd": "2026-11-24T22:33:41.652Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Arsenal blijft op gelijkspel steken tegen Borussia Dortmund",
+    "normalized": "arsenal blijft op gelijkspel steken tegen borussia dortmund",
+    "link": "https://www.rtl.nl/nieuws/sport/artikel/5667019/arsenal-blijft-op-gelijkspel-steken-tegen-borussia-dortmund",
+    "samenvatting": "Arsenal heeft voor de tweede keer gelijkgespeeld in het hoofdtoernooi van de Champions League. De Engelse kampioen van coach Mikel Arteta kwam in het eigen Emirates Stadium niet verder dan 1-1 tegen Borussia Dortmund.",
+    "datum": "2026-11-24T22:12:19.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP241126192-1.jpg?itok=8LQteHtV&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Hogeschooldocent in nazi-uitzending Zembla op non-actief",
+    "normalized": "hogeschooldocent in nazi uitzending zembla op non actief",
+    "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5667014/hogeschooldocent-nazi-uitzending-zembla-op-non-actief",
+    "samenvatting": "Een docent medische hulpverlening van de Hogeschool Rotterdam is op non-actief gesteld nadat hij werd herkend in de recente uitzending van Zembla, waarin onder meer neonazistische kooigevechten worden getoond. Dat bevestigt een woordvoerder van de hogeschool.",
+    "datum": "2026-11-24T22:11:55.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/18/Scherm_afbeelding%202026-11-18%20om%2020.33.10.png?itok=GBvm88Rc&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1226&amp;cropHeight=690&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
+   {
+    "titel": "VN noemt geseling van zangeres zonder hijab 'weerzinwekkend'",
+    "normalized": "vn noemt geseling van zangeres zonder hijab weerzinwekkend",
+    "link": "https://www.rtl.nl/boulevard/artikel/5667018/vn-noemt-geseling-van-zangeres-zonder-hijab-weerzinwekkend",
+    "samenvatting": "De Verenigde Naties en mensenrechtenorganisaties noemen de geseling van zangeres Parastoo Ahmadi door de Iraanse overheid \"weerzinwekkend\" en \"onmenselijk\". De internationale organisatie heeft het land volgens persbureau AFP opgeroepen om het straffen met zweepslagen af te schaffen.",
+    "datum": "2026-11-24T22:11:11.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP241126191-1.jpg?itok=eUlSTlQ4&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Scorende Lang speelt met Napoli gelijk bij Manchester City",
+    "normalized": "scorende lang speelt met napoli gelijk bij manchester city",
+    "link": "https://www.rtl.nl/nieuws/sport/artikel/5667017/scorende-lang-speelt-met-napoli-gelijk-bij-manchester-city",
+    "samenvatting": "Mede door een doelpunt van Noa Lang is de wedstrijd in de Champions League tussen Manchester City en Napoli in een 2-2-gelijkspel geëindigd. De Oranje-international tekende een kwartier voor tijd met een volley voor de 2-1 van de Italianen, maar Rayan Cherki bracht de thuisploeg in de slotfase op ge",
+    "datum": "2026-11-24T22:10:07.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP241126190-1.jpg?itok=PdEqXhNI&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
    {
     "titel": "Chinese Huawei in Amerika veroordeeld voor zakelijke activiteiten met Iran",
     "normalized": "chinese huawei in amerika veroordeeld voor zakelijke activiteiten met iran",
@@ -28,7 +64,7 @@
     "samenvatting": "Nvidia-topman Jensen Huang heeft in een vergadering bij zijn terugkomst bij de chipfabrikant zijn excuses aangeboden aan medewerkers van het bedrijf. In een vergadering erkent hij dat hij \"vreselijke fouten heeft gemaakt\". Gisteren werd bekendgemaakt dat Huang terugkeert als ceo van het bedrijf, nad",
     "datum": "2026-11-24T21:58:37.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/6/4/5/3/L/h/FURfgbczUu4HWGTgQDjYq7uXbcdBVftz61og2UP/394x116x960x540-960x540.webp"
+    "foto": "https://images.cdn.nos.nl/8/2/3/m/K/Y/dUStkChfDvHwdr7kTUDMPT4dQUSnJyUWvDTjCQc/151x131x880x495-880x495.webp"
    },
    {
     "titel": "Real Madrid bezorgt PSV derde nederlaag in Champions League",
@@ -236,42 +272,6 @@
     "datum": "2026-11-24T20:02:56.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/24/ANP-551570274.jpg?itok=LrV-E4DS&amp;offsetX=0&amp;offsetY=22&amp;cropWidth=1023&amp;cropHeight=575&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
-   },
-   {
-    "titel": "Tamara Elbaz roept Tim Hofman in podcast op om te stoppen met framen",
-    "normalized": "tamara elbaz roept tim hofman in podcast op om te stoppen met framen",
-    "link": "https://www.rtl.nl/boulevard/artikel/5666999/tamara-elbaz-tim-hofman-boos-framen",
-    "samenvatting": "De afgelopen week ontstond er veel reuring rond Tim Hofman (38) en Tamara Elbaz (44). In haar podcast 'Geen Filter', die ze samen met Maria Tailor (43) maakt, spreekt Tamara zich uit over de kwestie. Haar boodschap aan Tim is duidelijk: ze vindt het goed dat hij misstanden aan de kaak stelt, maar ro",
-    "datum": "2026-11-24T20:00:52.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/18/Tamara%20Elbaz%20en%20Tim%20Hofman.jpg?itok=JiwbqqMa&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Problemen op ic staan niet op zichzelf, zeggen artsen: 'Willen dat het ophoudt'",
-    "normalized": "problemen op ic staan niet op zichzelf zeggen artsen willen dat het ophoudt",
-    "link": "https://nos.nl/l/2640883",
-    "samenvatting": "Dat de inspectie ingrijpt bij de intensivecareafdeling (ic) van het Erasmus MC zorgt voor geschrokken reacties onder artsen en patiënten. Toch staat de situatie niet op zichzelf. Er wordt dan ook gepleit voor een brede cultuurdiscussie over de zorgsector. \"Rotterdam is een casus in een serie van vel",
-    "datum": "2026-11-24T19:58:39.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/6/C/9/k/H/v/tMDnEVKpksGv6JyvoeuUNcjAfBrGuKxLckjjCGt/8x4x3984x2241-1024x576.webp"
-   },
-   {
-    "titel": "Aston Villa verliest bij Galatasaray tweede CL-duel op rij",
-    "normalized": "aston villa verliest bij galatasaray tweede cl duel op rij",
-    "link": "https://www.rtl.nl/nieuws/sport/artikel/5666998/aston-villa-verliest-bij-galatasaray-tweede-cl-duel-op-rij",
-    "samenvatting": "Aston Villa heeft zijn tweede wedstrijd op rij in de Champions League verloren. Na de nederlaag bij FC Barcelona (3-0) ging de ploeg van Oranje-international Ian Maatsen met 1-0 onderuit bij Galatasaray.",
-    "datum": "2026-11-24T19:48:10.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP241126170-1.jpg?itok=v3a5RDor&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Vijf doden door crash militaire helikopter in Turkije",
-    "normalized": "vijf doden door crash militaire helikopter in turkije",
-    "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5666996/vijf-doden-crash-militair-helikopter-turkije",
-    "samenvatting": "Een militaire helikopter is in Turkije tijdens een training neergestort en daarbij zijn vijf doden gevallen, meldt het Turkse ministerie van Defensie. Het zou gaan om een AS-532-helikopter van de Turkse luchtmacht.",
-    "datum": "2026-11-24T19:38:14.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/24/ANP-528964502.jpg?itok=6zUEniS2&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    }
   ],
   "binnenland": [
@@ -315,7 +315,7 @@
     "titel": "Hogeschool Rotterdam stelt docent uit neonazi-documentaire Zembla op non-actief",
     "normalized": "hogeschool rotterdam stelt docent uit neonazi documentaire zembla op non actief",
     "link": "https://nos.nl/l/2640876",
-    "samenvatting": "Een hbo-docent Verpleegkunde is door zijn werkgever Hogeschool Rotterdam op non-actief gesteld, omdat hij voorkomt in de Zembla- documentaire De neonazi - files . In de uitzending, die vorige week verscheen, zijn beelden te zien van neonazistische bewegingen die onder meer Adolf Hitler vereren en on",
+    "samenvatting": "Een hbo-docent Medische Hulpverlening is door zijn werkgever Hogeschool Rotterdam op non-actief gesteld, omdat hij voorkomt in de Zembla- documentaire De neonazi - files . In de uitzending, die vorige week verscheen, zijn beelden te zien van neonazistische bewegingen die onder meer Adolf Hitler vere",
     "datum": "2026-11-24T18:16:41.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/6/A/W/h/n/E/JpUoCxRGg8HcmAPTFv3M3BqnQ5cxthqbjCQbNSF/0x0x1920x1080-1024x576.webp"
@@ -563,7 +563,7 @@
     "samenvatting": "Nvidia-topman Jensen Huang heeft in een vergadering bij zijn terugkomst bij de chipfabrikant zijn excuses aangeboden aan medewerkers van het bedrijf. In een vergadering erkent hij dat hij \"vreselijke fouten heeft gemaakt\". Gisteren werd bekendgemaakt dat Huang terugkeert als ceo van het bedrijf, nad",
     "datum": "2026-11-24T21:58:37.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/6/4/5/3/L/h/FURfgbczUu4HWGTgQDjYq7uXbcdBVftz61og2UP/394x116x960x540-960x540.webp"
+    "foto": "https://images.cdn.nos.nl/8/2/3/m/K/Y/dUStkChfDvHwdr7kTUDMPT4dQUSnJyUWvDTjCQc/151x131x880x495-880x495.webp"
    },
    {
     "titel": "Gijzeling in Colombiaanse supermarkt, overvallers eisen 2 miljoen dollar",
@@ -1017,7 +1017,7 @@
     "samenvatting": "Nvidia-topman Jensen Huang heeft in een vergadering bij zijn terugkomst bij de chipfabrikant zijn excuses aangeboden aan medewerkers van het bedrijf. In een vergadering erkent hij dat hij \"vreselijke fouten heeft gemaakt\". Gisteren werd bekendgemaakt dat Huang terugkeert als ceo van het bedrijf, nad",
     "datum": "2026-11-24T21:58:37.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/6/4/5/3/L/h/FURfgbczUu4HWGTgQDjYq7uXbcdBVftz61og2UP/394x116x960x540-960x540.webp"
+    "foto": "https://images.cdn.nos.nl/8/2/3/m/K/Y/dUStkChfDvHwdr7kTUDMPT4dQUSnJyUWvDTjCQc/151x131x880x495-880x495.webp"
    },
    {
     "titel": "Topman NVIDIA biedt personeel excuses aan na terugkeer en krijgt therapie",
@@ -1274,6 +1274,15 @@
   ],
   "sport": [
    {
+    "titel": "Goal Lang net geen drie punten waard voor Napoli bij City, ook Arsenal wint niet",
+    "normalized": "goal lang net geen drie punten waard voor napoli bij city ook arsenal wint niet",
+    "link": "https://nos.nl/l/2640899",
+    "samenvatting": "Noa Lang leek voor Napoli drie belangrijke punten in de Champions League binnen te halen, maar door een laat doelpunt van Rayan Cherki kwam Manchester City toch nog langszij: 2-2. Door het gelijkspel staan Lang en zijn ploeggenoten na vijf speelronden in de competitiefase 27ste, drie plekken onder d",
+    "datum": "2026-11-24T22:18:25.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/5/E/n/j/1/o/ywKNidqg2xNuLvy2wnjqECgTJrqQ6QxgRRzakhs/0x141x4000x2250-1024x576.webp"
+   },
+   {
     "titel": "Manchester City voorkomt heldenrol Noa Lang in bijzonder duel voor De Bruyne",
     "normalized": "manchester city voorkomt heldenrol noa lang in bijzonder duel voor de bruyne",
     "link": "https://www.nu.nl/voetbal/6417682/manchester-city-voorkomt-heldenrol-noa-lang-in-bijzonder-duel-voor-de-bruyne.html",
@@ -1319,13 +1328,13 @@
     "foto": "https://images.cdn.nos.nl/2/B/s/U/y/k/BzFn7B42eQRe4DuyGkrxTuwLPQcrETUFygVrjwe/7x217x3424x1926-1024x576.webp"
    },
    {
-    "titel": "PSV gaat na sensationale voorsprong alsnog hard onderuit bij Real Madrid in CL",
-    "normalized": "psv gaat na sensationale voorsprong alsnog hard onderuit bij real madrid in cl",
-    "link": "https://www.nu.nl/voetbal/6417675/psv-gaat-na-sensationale-voorsprong-alsnog-hard-onderuit-bij-real-madrid-in-cl.html",
-    "samenvatting": "PSV heeft dinsdag niet voor een stunt gezorgd bij Real Madrid in de Champions League. De ploeg van Peter Bosz stond bij rust op een sensationele voorsprong, maar ging na de pauze alsnog hard onderuit: 5-1.",
+    "titel": "PSV gaat na sensationele voorsprong alsnog hard onderuit bij Real Madrid in CL",
+    "normalized": "psv gaat na sensationele voorsprong alsnog hard onderuit bij real madrid in cl",
+    "link": "https://www.nu.nl/voetbal/6417675/psv-gaat-na-sensationele-voorsprong-alsnog-hard-onderuit-bij-real-madrid-in-cl.html",
+    "samenvatting": "PSV heeft dinsdag niet kunnen stunten bij Real Madrid in de Champions League. De ploeg van Peter Bosz stond bij rust op een sensationele voorsprong, maar ging na de pauze alsnog hard onderuit: 5-1.",
     "datum": "2026-11-24T21:52:11.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/0b0xl53ainqb_sqr256/0/0/3995/3995/psv-gaat-na-sensationale-voorsprong-alsnog-hard-onderuit-bij-real-madrid-in-cl.jpg"
+    "foto": "https://images.nu.nl/m/0zsx273abz1t_sqr256/203/4/3996/3996/psv-gaat-na-sensationele-voorsprong-alsnog-hard-onderuit-bij-real-madrid-in-cl.jpg"
    },
    {
     "titel": "Félix scoort met schitterende omhaal, Ronaldo goal dichter bij magische grens",
@@ -1355,13 +1364,13 @@
     "foto": "https://images.cdn.nos.nl/4/A/u/C/W/A/gDuw8hKF9hUYtihi7LmY17ujWp2HkroRWTjwR1U/153x3x1840x1035-1024x576.webp"
    },
    {
-    "titel": "Feyenoord-keeper Ernst moet plaatsmaken voor Kastenmeier: 'Hebben ervaring nodig'",
-    "normalized": "feyenoord keeper ernst moet plaatsmaken voor kastenmeier hebben ervaring nodig",
-    "link": "https://www.nu.nl/voetbal/6417668/feyenoord-keeper-ernst-moet-plaatsmaken-voor-kastenmeier-hebben-ervaring-nodig.html",
+    "titel": "Feyenoord-keeper Ernst moet plaatsmaken voor Kastenmeier: 'Ervaring nodig'",
+    "normalized": "feyenoord keeper ernst moet plaatsmaken voor kastenmeier ervaring nodig",
+    "link": "https://www.nu.nl/voetbal/6417668/feyenoord-keeper-ernst-moet-plaatsmaken-voor-kastenmeier-ervaring-nodig.html",
     "samenvatting": "Tjark Ernst is niet langer de eerste doelman van Feyenoord. Trainer Giovanni van Bronckhorst heeft besloten een keeperswissel door te voeren. De bekritiseerde Duitser maakt daardoor plaats voor zijn landgenoot Florian Kastenmeier.",
     "datum": "2026-11-24T18:46:10.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/tzdxol5avqi0_sqr256/578/0/5747/5747/feyenoord-keeper-ernst-moet-plaatsmaken-voor-kastenmeier-hebben-ervaring-nodig.jpg"
+    "foto": "https://images.nu.nl/m/tzdxol5avqi0_sqr256/578/0/5747/5747/feyenoord-keeper-ernst-moet-plaatsmaken-voor-kastenmeier-ervaring-nodig.jpg"
    },
    {
     "titel": "Mané viert Afrika Cup-zege Senegal, Boukhari noemt CAS-besluit 'belachelijk'",
@@ -1373,13 +1382,13 @@
     "foto": "https://images.cdn.nos.nl/1/1/i/f/p/H/cmh9ttCLy9xPhHGwTGQxabeRFVnAChGQMZP22J/190x54x3568x2007-1024x576.webp"
    },
    {
-    "titel": "Live | CL | Arbitrage gaat fout in bij Feyenoord, PSV verliest in Madrid",
-    "normalized": "live cl arbitrage gaat fout in bij feyenoord psv verliest in madrid",
-    "link": "https://www.nu.nl/voetbal/6417659/cl-arbitrage-gaat-fout-in-bij-feyenoord-psv-verliest-in-madrid.html",
+    "titel": "Live | CL | Feyenoord en PSV beleven pijnlijke avond: 'We werden overlopen'",
+    "normalized": "live cl feyenoord en psv beleven pijnlijke avond we werden overlopen",
+    "link": "https://www.nu.nl/voetbal/6417659/cl-feyenoord-en-psv-beleven-pijnlijke-avond-we-werden-overlopen.html",
     "samenvatting": "Welkom in dit liveblog! Hier houden wij, Suus ten Kate en Lieve Wils, je op de hoogte van de wedstrijden in de Champions League, met speciale aandacht voor Real Madrid-PSV en Feyenoord-FC Porto (21.00 uur). Veel plezier!",
     "datum": "2026-11-24T17:07:23.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/c0ixy7mazy9o_sqr256/1090/2/2853/2853/cl-arbitrage-gaat-fout-in-bij-feyenoord-psv-verliest-in-madrid.jpg"
+    "foto": "https://images.nu.nl/m/gqyxd43adlyu_sqr256/494/0/3998/3998/cl-feyenoord-en-psv-beleven-pijnlijke-avond-we-werden-overlopen.jpg"
    },
    {
     "titel": "'Verbaasde' Marokkaanse voetbalbond gaat in beroep tegen uitspraak Afrika Cup",
@@ -1533,15 +1542,6 @@
     "datum": "2026-11-24T09:02:38.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/r97x10zayijo_sqr256/1048/2/3998/3998/psv-target-de-bruyne-boos-op-italiaanse-pers-onprettig-voor-mij-en-mijn-vrouw.jpg"
-   },
-   {
-    "titel": "Leemans hoefde na botsing bij Vitesse-De Graafschap niet in ziekenhuis te blijven",
-    "normalized": "leemans hoefde na botsing bij vitesse de graafschap niet in ziekenhuis te blijven",
-    "link": "https://www.nu.nl/voetbal/6417578/leemans-hoefde-na-botsing-bij-vitesse-de-graafschap-niet-in-ziekenhuis-te-blijven.html",
-    "samenvatting": "Clint Leemans maakt het naar omstandigheden goed na zijn botsing tijdens Vitesse-De Graafschap. De middenvelder van De Graafschap werd maandagavond naar het ziekenhuis gebracht, maar mocht na een controle weer naar huis.",
-    "datum": "2026-11-24T07:47:33.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/artxf2eavgbv_sqr256/1008/0/2360/2360/leemans-hoefde-na-botsing-bij-vitesse-de-graafschap-niet-in-ziekenhuis-te-blijven.jpg"
    }
   ],
   "cultuur": [
@@ -1910,6 +1910,15 @@
   ],
   "zeeland": [
    {
+    "titel": "PRO gaat met nieuw gezicht de verkiezingen in: Ay Ling van der Spek (31) voorgedragen als lijsttrekker",
+    "normalized": "pro gaat met nieuw gezicht de verkiezingen in ay ling van der spek 31 voorgedragen als lijsttrekker",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOVU5R1pBTUIxNkFCQ2dic3hJalRtV0lXRWtqWm5kOEN2Qml5YXgxVVlzdFE4MS1IeXo2X3JFRW40bWJkZGVLWnpWV3BTZE5LSjVoeVBQT0tfcXBKa1MyVFZXSkJzQXVTcTNmNUU5Mmo1ODQyMk5fZTlMSVBJM0dra2JFZFR4ZzA1RWZPQThhVDE5aHFTbjRLMkRfZjVLWTEtbEdtRDZ1MC1KaVBBN19SZkd3WngtWnBVQXpGVWtuYkRWM0thREFaS1ZXOGg3RGJvVWdOMXNJREZVS2s?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T20:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Robert Dingemanse (62) verloor zijn vrouw en brak zijn nek, maar bleef geloven in zijn vliegende auto",
     "normalized": "robert dingemanse 62 verloor zijn vrouw en brak zijn nek maar bleef geloven in zijn vliegende auto",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZmMxNEdfZ1lCdFRJYUoxUkEwTGRxeFRoRWZNa0p4NGJ0Nmk2dkk2d3hYR2t2d0dnUldlSzNiZzY5alFDT25zaEtGZzNLcU9fVHIxZUNLdUloY1NGeFphbVFPWG56ZDAtQ3Vkc0JxdDBPM0MxOW5WS1J3eDVMNnFJb1otYTItZWV5cFNidjQ3YUVwcVhLZEdnLU5ISkVPVVgxZDQ0UmdNQ0RfeEFLb2VBbTFOLTdvREFzc1pXWGkwUzNCUFhoWUs2d2g2eHladVFQOUhWWA?oc=5",
@@ -2054,6 +2063,15 @@
     "foto": ""
    },
    {
+    "titel": "Duitse minister 'geschokt' om rol Trump bij terugkeer baas Nvidia",
+    "normalized": "duitse minister geschokt om rol trump bij terugkeer baas nvidia",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeEFJOUhRb0dock1zZmF3djhPSVMyNmRieU9iZHVUZnN1WUg5R1h1NmI0UXRwNTBvQmxFOF9ES2FPODhoMDctdDBLLUNESmtZUVRVSGo3dWphTzlBZW5pUFA3V1c3N3FfS3RWNEZHRGFDZXc5RXpicXdoeHlBdFNCNG9zRzdfV3ZGci1kaFBIejlNdTBacnEzcW1QV1g?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T12:28:29.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Brandje in schuur achter brandweerkazerne Middelburg",
     "normalized": "brandje in schuur achter brandweerkazerne middelburg",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTEZUaGVTUmlSaFBlRUxZbks2ZG1hMFB4M0ExSmVTTy1CZVJHYzl0Nmg2TDlZUnpxRnd1aTliNi1CLWdGNXFDMTVuTjYyVmRZbkt5UWlhNWpjSTd4YWVuNXZmQVBtYVdSbFdiNEwwRW9KWXBZYzBiQ1FTMXV3Q0VSRG13cFRmWmRiaENfZTNnbjFMcDdEaFE?oc=5",
@@ -2158,24 +2176,6 @@
     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcFdvY2RWZHc3MnFlSkVsamVyX2NNNjQ0eWhOMHE4Mk4xMkY5eE82NHpRbjRQT1hoeGlWQmIySWFQY0dTa2pmRWdxY3huQ0xXaFhmRXJLRFJQUHk0MTF5Zy1zMXAxaEZ2ZmV5NHZpNk1pN1d0ODU2a2U4RHdHQjR2QUN0TWduNkdJYmRUekRyWnM0TjFHUnJBNmwyTlE4ajMtenllLTlmaUluVTZPZENJaWxrTHBVRWZVZUxjWHFjNm9jNWpGUklHZHBIOExHdTZIVUQydktIcEhnRy1HQkZfczhPbmtnLUVfZGhpSHViMXdSX1VvTTU5UktGdE91WGJXR0tsTkwtUlQ0VEpqZkE?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T07:36:25.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Kenneth (17) en Lars (14) willen dat Zeeland meer naar jongeren luistert: 'We hopen dat er nu actie komt'",
-    "normalized": "kenneth 17 en lars 14 willen dat zeeland meer naar jongeren luistert we hopen dat er nu actie komt",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTBxaThrSnA0YjZIN1hnNFdxc052OURYMm90R3F1T2dDY2RMYzBGWllmQkx3aUFmY002aWhPSFRhaHJROU0zaHhaRzVTWlVoVGE0UjhoY29XMGxYb2xKRjlMYTVhd2kzZTNpVUc3RFZEaEtGa1pQQTVVOXBEYndRWV91NlJqX1gwX1h0aWRJWk96eUlOMm9qdmNNeXI4NlV6bXV3X0hyNFpFaUhKUU80SDZOd055NGcyU0NGSEVXMnktVGRZdk9LRlpnc3gyakhBQ2d1bmJLbFRiTjA?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-24T05:31:15.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Explosie verwoest zijgevel van woning in Philippine, buurvrouw gewond en bovenverdieping gesloopt",
-    "normalized": "explosie verwoest zijgevel van woning in philippine buurvrouw gewond en bovenverdieping gesloopt",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbTNSaW5RNWhVSHVzdmZxOW5EY2hZbGhVZ0xsWVhCalYwNGNqT2VzanRJUFRzeHNKXzgxcDZLbUlvaHNaVlozb29vZ2N0LXdtQUJNUWZyZXUxT3BUbDBxYWxHWmlwNUJPMGtBX19WRVNBeDZYWjRlZW1DZHhnNW9XWg?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-23T22:58:44.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2490,6 +2490,15 @@
     "foto": ""
    },
    {
+    "titel": "Rubriek De Vermues: Een koe als boosdoener?",
+    "normalized": "rubriek de vermues een koe als boosdoener",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWTNfQUVVUXI0aExOTkw0cnBXWjhmY1N2UGstSlJ4WWRYcUw3bDlSR2ZrUzFCcGs0YTZqWFFCQ01yajB3c242RjhIdjQ0Sm5MdkY1VGJ3Z2plTmZFN090blZyY0d2MklCSWlDZGRtZzh4Z0RHNXBpSm5wVUd3V3AxUDNkNkNQeFNiMmNYd0djZGFwUjBmRnJuSg?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-20T18:55:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Jeugdzorg in Borsele: 11 procent van de jongeren krijgt hulp",
     "normalized": "jeugdzorg in borsele 11 procent van de jongeren krijgt hulp",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWxtWGpzNG1tRl9YR0I2eDBmT1Z2a1hNd01CcW5yQmZSaXZxRUtCWTFJSk9HTzQ2OTlTTWZ2VW5RbElyQkVFeFBPUkFDYjB6NlI5aGlBMkhwTVNwOFNGVnJXQjFUQkZJcXcwejhvXzU1R2lJR2JMVGdpal95QnMxRXRTdFozYllGZGIzWVlpRTNKR0lzbnFUbU4zLXg?oc=5",
@@ -2504,6 +2513,15 @@
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXRBY3U3Y0x1VjVwRFlOamVVQ1pvUVgzZVU1UDRtcllOZ0xmcUdnSVE5NHpad1M5R3FKWDhiMDZHOGRsUE1Fbk9uU2RVdlcwcDVMZTZTTHBrejdCLVRiUkRib1ZBaVFqTHRJOTNBWllCM0taeWJUQkVLbDJnY2FlS1U2MDJ5dXpUcnhrOXI0Slo5QjVRNldrX1BUWVdMRDJWYlBnenRYZDd1SGdjMUF0YWpURQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-20T13:57:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Recordaantal kittens bij Dierenasiel De Bevelanden",
+    "normalized": "recordaantal kittens bij dierenasiel de bevelanden",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUlpZbUU2ZkYwOFJXSXhZYXpfcWk3RmE5MXd0YW9mbG5ZTDgtMHBIaE5TRm5GYWtDX0p6SWJ5TW53Q0YzWEZWdHozNWtLSVlGRkkya0dfREpvTWl0ZXdRbnFKVWptTldoSWlodU82SFFMbzBUVV9iTEMxUUdrRE5pZnJSMmJZR2ZPR2pxZkFrcmdvNncxNVZMTUNHMVFLZXl3Vmpr?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-20T07:25:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2589,6 +2607,15 @@
     "foto": ""
    },
    {
+    "titel": "Veilig Thuis Zeeland sluit aan bij Week tegen Kindermishandeling",
+    "normalized": "veilig thuis zeeland sluit aan bij week tegen kindermishandeling",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY1Y5b2d5aE04OGtNNm5PWm1CN2hkOFk0RU9xZTVjMWVoekw3OVoxbmdjMnRzbWdaRUZSbkRxMFdLTVBUSWJkSXFCOG9tNjRQb2ZtQ09Vdlg5b1RjS0R6SS1qckZlbHVjRnctVWI2ek5YSWlzWTZkOFI1NnpjVjNzVHBwUFZrN2lqa3A2MTBQN3VnSkZaS0d0NkVwdHRnRldQQk1BSUltQ0t1WklQX211M1NJX2ZWZw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-18T07:30:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Laatste oude hoogspanningsmast verdwijnt uit Zeeuws landschap",
     "normalized": "laatste oude hoogspanningsmast verdwijnt uit zeeuws landschap",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFNOX2NDUUs2dmxmVlBCeGJMWVg2Rkd0elBtR2dQZUhzcmFWcFJTQ2dwaENhaGE3QjNJYndtam1pOVphVmRpTHNSV0YtNlhqSW52SkllUlhLQ1FjLXR4NHhjR3N4eVdfeUI2SUoycTJPYmNEaE9RMWNuUmt3djhxd1hpMkdMU3NiS0Y3aWpKeEtNdGtUaEhGV2RPU3ZYaEVVSVRlTk95LUZkc3pjRjlOaFFB?oc=5",
@@ -2648,33 +2675,6 @@
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPak1VUlhDSDNXMVJiem5hclJBbUVmWGFKS0x5anpsc3J6NTNFQnZxZ0FGMk1rN2RyTjJjb2JkSFN6UXd0T0QwRmt4QkEwT2hfNGJSMU9jYzk5RElqQnZIRk9pdzFoZXVURTJRcTlMNS1YN3I1dU9waUFGcjN6bU50a1FlNlh4bG5EY0tKMG0wazAzd0xEZHk0YlBONkdfalQyQm1DaEFfaDRtNFhtZXE5YXpn?oc=5",
     "samenvatting": "",
     "datum": "2026-11-11T08:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Afgelopen week 16 meldingen van de gemeente over onder meer bouw in Borsele",
-    "normalized": "afgelopen week 16 meldingen van de gemeente over onder meer bouw in borsele",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2RvUmJudjNzTXBEcFo1ZDhDWEZPYVVSeUVfTkxvdEV3MEN0c2lGLTlTLWJhXzAyaXl2bDFWVFVVRDk2SFZMMmJqT3NzbEFlVmZ4SVlkQmZOR3FHcFZIUGZrWUtNSGVhUHFaZUJ6VjlFRkRMVExnRE1HZC1ZNmQwZjcyRmtBUDJ1OHVsd0FSUTQySlpNekpQbzZDRk4tUkpGRXhnRV94cWJsTlg1VlZQQw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-11T08:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Zeeuwse plaatsnamen en dorpswapens op komborden Borsele",
-    "normalized": "zeeuwse plaatsnamen en dorpswapens op komborden borsele",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDJfS0o2WFZIWWg5RXRQZk5mcVlGamlzTk52Y1FCSDctSmJPVXNDMjFQYWRNay1ya2pteEdmRFF6MFpOcFUyaGFHSHRDbGg5cF85LUR5UXIxa2ZhcVgyMTN3eXhvbzJ1d28xal9jMGpTQTg4SnI4bXpLbFFnLWFKSFNHbEx1QXdLOGlRaDluZ0lZbGliYlhtWFJHYkpGSXU1N2c?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-10T08:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Borsele onderzoekt verlenging noodopvang asielzoekers én moet op zoek naar plek langdurige opvang",
-    "normalized": "borsele onderzoekt verlenging noodopvang asielzoekers en moet op zoek naar plek langdurige opvang",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUWJLaTRPUDVfYjZSRHV2dF9QWm9mWHZtb1FtR3hDSXl4MHQtMHkwT3l1a0NzYkFPSlI5YW14c05MNnI3MGFPMkkzQWIyN1puSzI2ZE1XVERXMEc2M1JGMHA5c29mOWd5TUFDNmZWbndiVU1GTXJ1SDI2WFlqTjNHQnZIV3FueHpLZ1JBSF9zVGdVNi1Zd2xjWmYxLWpBT0lnY3BudWRrZDZsRmc5bVlmalZEM0drUzA1NEZkRVdXdWR0WEZRQWF5TWNCY3MzM0k?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-10T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2971,6 +2971,24 @@
     "foto": ""
    },
    {
+    "titel": "Waterschap trekt nu pas deel van maatregelen tegen droogte in",
+    "normalized": "waterschap trekt nu pas deel van maatregelen tegen droogte in",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTlY2dVRDeGpWVHlVMGlCZzhfSXhfSWFGTFVNYjdNXzBSckFJeWNNQ2poU3lJbDVrUnhIS1ZQWnVoUjhFRmtIYXJ6Z2lBdWVlRGNGLXNzcC1tUmlVblUzU2RvN2czQWl0ZFphYnU4RXZOU2I2Y1JrZW1FODVsaXRURzE5SkpxcER2Q2ZFcm5uaE04Y3V6OHgycF8wdUJYbHZk?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T18:05:15.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Mark Buijs terug als burgemeester: 'Door het oog van de naald gekropen'",
+    "normalized": "mark buijs terug als burgemeester door het oog van de naald gekropen",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTjJLeGFPMzZac0txa0lhdGZpZE5SSTQxMFNXUi1Da1NDMEVFaVdZUkppOU5ZLURwaHdfbTdOaEhqWGk5NGk3cFM4UXJUa0Z3VjRHSWRyazY2VnBCXzhIOVlhbllvNUZGNHdUV1FBdnBoOXV5alNLdlVqOUMwVkNibzdPamctVE1TX0FqNWxKaEtNVDRTeGZIWVluOVZjNHZoV0JyYnFqU0FsWjdudExfRHF3?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T16:28:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Voertuigbrand op Boulevard in Roosendaal",
     "normalized": "voertuigbrand op boulevard in roosendaal",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2JMS3BJOFRfdmJSbWlQdl9sRnFCdkNtYW5tbHJoRlV0ZDJfV3ZaLVRmRHJ2Sk9idldrRWlwN0R2OE1sd3h3dGdPaW1FMHdZRTNFbGNWTm5WUVVDS0VEbzZ2OXcxX2h0VFNLTzFsbWxkVmhUd2FLRXdadFR1NlVTLVVGdy00YnJqc0E4M2VpLWFDT19LdWJCMk1ZbHE?oc=5",
@@ -2985,15 +3003,6 @@
     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONmtoSEd2Y09yOEx2bnZmS3lTU19TSDkycjM3OWFqXzJOYzFaaW1Lblc3YzQyUmNFSkVXaXRKZUg0QlpqRjlBamhkQnA4ZlVXQzhCZ0FQc0Q5NjBSX0I5UWR2bzU5TGZXR1BhVGx6a242QjdtZUxBUVM2SGJTVWRSSGxpMHU3WHNBLUs0RVFHSFEta2RPazFNZktiaW9iTVRqUDVsZk9PWXd4X1JTcnl2N090bGY0MnFGV0dCQXplcGREYWc2NkFDNnRDV1ZCdlYyYjFXOE5hdW9PUGJxWUpmbzQycTMtNVlteWZSZU1YZndudmVuVkFSMUE0TFlrYkUtVkE?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T15:49:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Jan (1940-2026) werd verliefd op een ander, maar Mariëtte en hij bleven maatjes: ‘We hadden zoveel moois samen’",
-    "normalized": "jan 1940 2026 werd verliefd op een ander maar mariette en hij bleven maatjes we hadden zoveel moois samen",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSnJlU1JRZGJQUUZROVlvTFdCY0cyNEJ1TXVtX0loZ0J3OS1pNjJManVkTUxlSVBWLWhYQzc3MWViNlNxbldrWGNXUVZyMTJ5VXNRWFFBR3NDY1RpSHRtRDFpaFJHQ0JBOUE2LUNkbEIxQXR0RlZOMmNuNHYwdDhjbkJNNDVfSHl2TlR2TVZOei11UEVUcFlodFVDQnZWUnVZWG1PQWRtNEV3OUVsMGwxTHlEYW1UNmFMLU5STmZ6WXlSZ2FiZE9LTlZWX3ZMWWgtNzFOalgtQjA2YTE4Mm1oMkFHdWk?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-24T15:02:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3054,7 +3063,7 @@
    {
     "titel": "Overleden persoon aangetroffen op parkeerplaats in Roosendaal",
     "normalized": "overleden persoon aangetroffen op parkeerplaats in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVdLbk5hYUY4SjBwN2xyd2JyWXZzTkg0WjNtN2Q1T3NMRVB0dXVkZHdCYzk0dlFWdjJFeE5NZl9FcEN0N1JjcFdOT0J5X0JneFk2eG9NT0hadWVSUlRQeVg4RDJiYU5wMXFzSFRDU3NQMVE2TkVnTkplSnhVZW4tRDZicldVQ1lqUVdKS05FZWZ3LXhEX1JZbmVmZmV6YkxhOTRJV3VMSERkZTNNdzF6bHdKQUo?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnozTVJWZGJiT09ZT0VteklycHNCSkp2dlpBenRFQ1ZQcGNsNWpoelVJTE1oNFFhN084bFhQTEhGaVFsVUZPMnQwLXdPczY2eTAxbFV2NXk1dk5UNU1QOXNSanZLUzZGeTNhaV9ka2JDRkRPcVpvQ3VwVlpxYWFiaE9sNzZYN19nekNVWVZ3eU94M1NlRHg0TzNsdzktVDM1OVR3SUlNemk?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T08:39:27.000Z",
     "bron": "Google Nieuws",
