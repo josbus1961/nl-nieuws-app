@@ -1,5 +1,5 @@
 {
- "gegenereerd": "2026-11-24T02:38:51.028Z",
+ "gegenereerd": "2026-11-24T03:04:15.401Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
@@ -2047,7 +2047,7 @@
    {
     "titel": "Acties tegen stroperij op Schouwen-Duiveland: twee mannen aangehouden",
     "normalized": "acties tegen stroperij op schouwen duiveland twee mannen aangehouden",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT2xjQ2JGT0JxQllYYlMyYUJBcDVVRXJETnNjSWNFQy1mY0oxbGhSLUdOR1Bza2FwWHV4dHh5Qm5QNlp0a2tMQjFtSHY2ZnMtV0Qyc0ttdmVldzc5QTBDZXhLMlZiVGtNaHRRZUF2ZjlkZnlxUDVKb1RGWS1EbllpSlMza0F2Njh2bTdvdWVWaEhlNF83U1hVLWx0bHlMS21sQXlCRENXcXF5MDFiQmNMcl95R0ltY1U?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUVNUTlZ4UWk3bFhuR3JGU3JjRlFCUDUxaklxeUtxRGhJY3JTSnhSZU04Ymt4d1MxRUJhajl1Yjdnajc1cGxhQ2ItS3o4OEZyZzNqQkUxYmFyTGhNMEU3TVVhQVRUZVJYV0ZGQ0JIUWF4ck5ENk9iMnRHN2J0VmhGYWwzNFJCZnhPZkNhM1FmUS1YeFFCY25hVzdCY245dU9qU3NENVNMSFlPUWtGbTZF?oc=5",
     "samenvatting": "",
     "datum": "2026-11-23T11:31:56.000Z",
     "bron": "Google Nieuws",
@@ -2409,15 +2409,6 @@
   ],
   "borsele": [
    {
-    "titel": "Let op: fietsverlichting in donkere maanden",
-    "normalized": "let op fietsverlichting in donkere maanden",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXZRS1VQNHBxSUp0NEw5SHdKZEFoalFWWlI4ZVV4bWxCRE43YVpQLUQ4OFA5WnBVTTlIeTJabGpjaFZXTU8tUF9wU29XNmNaNTIyLXA3NUFoR3NvTnpTdDJSUU42OHVjUi0zZlJPMEc2eXoyRTNSa2NoRl9sbTJMNDJzYldmM3FUeTQ4eWg0NUtiSGYyWW5Obw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-23T17:37:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "ZRD waarschuwt voor bevroren afval in afvalcontainers: 'Als het achterblijft, komen we er niet voor terug'",
     "normalized": "zrd waarschuwt voor bevroren afval in afvalcontainers als het achterblijft komen we er niet voor terug",
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNREI3aXdIRzVSTnE0d05aZnNSRVZEV1FoMGJtLS1BMkRxTHZRcEg5U3M0TDZ3OWxJQl9KaktCSlcwUzk3VDIxRWwyNldxcDNOaEl5OWZHS2VuaXdCQjk5cEYyS2J1VlVzVF91NDlnclpyWVBKRG9jblF4QmZIbERVWWlQeXRYTUtZVUNZQXFhaTN0OWdFbVBKdGZPbkdZNFNrZWtNUGdZSG9CV2tXZWRtckhSdTBJQ05DQVNLR2ZuNzZiVzN0d1lVbTNjV1dZdjVHd3ZiX25EX2xLVnJTNTFMQQ?oc=5",
@@ -2675,6 +2666,15 @@
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2RvUmJudjNzTXBEcFo1ZDhDWEZPYVVSeUVfTkxvdEV3MEN0c2lGLTlTLWJhXzAyaXl2bDFWVFVVRDk2SFZMMmJqT3NzbEFlVmZ4SVlkQmZOR3FHcFZIUGZrWUtNSGVhUHFaZUJ6VjlFRkRMVExnRE1HZC1ZNmQwZjcyRmtBUDJ1OHVsd0FSUTQySlpNekpQbzZDRk4tUkpGRXhnRV94cWJsTlg1VlZQQw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-11T08:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Zeeuwse plaatsnamen en dorpswapens op komborden Borsele",
+    "normalized": "zeeuwse plaatsnamen en dorpswapens op komborden borsele",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDJfS0o2WFZIWWg5RXRQZk5mcVlGamlzTk52Y1FCSDctSmJPVXNDMjFQYWRNay1ya2pteEdmRFF6MFpOcFUyaGFHSHRDbGg5cF85LUR5UXIxa2ZhcVgyMTN3eXhvbzJ1d28xal9jMGpTQTg4SnI4bXpLbFFnLWFKSFNHbEx1QXdLOGlRaDluZ0lZbGliYlhtWFJHYkpGSXU1N2c?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-10T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -3142,15 +3142,6 @@
     "foto": ""
    },
    {
-    "titel": "Koor Escanto brengt sfeervol concert rond het noorderlicht in Essen op 5 en 6 december",
-    "normalized": "koor escanto brengt sfeervol concert rond het noorderlicht in essen op 5 en 6 december",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbUVSQW13b1E2Y1hpWnRvMFJKaFNDbG9kWmFhN05MRDV4QlV5TlVTSFB0Y2lqNDFCQlc4ZXFaMlpVUVVEaTZyS3pKNm5HemJ2Z3V4WDdaWWNjTXoxalNpa1BmS3hRYktYakZSMUJXLUUyRmJGRFlrQnZ2STlzSGQ5REZCT1dxUTlPNnhFOUxRa0lFMmwtcHhHWUQ4dXUtNnk4cGlkWl9yT0s4bENscTh3ZWR4UElKRzhHenA3S1BDQ0prWjZram51MDN0UDVKSW8?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-22T16:25:22.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Heb jij Bubbels of Yusu gezien? Deze twee huisdieren worden in Roosendaal vermist",
     "normalized": "heb jij bubbels of yusu gezien deze twee huisdieren worden in roosendaal vermist",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTTBqUG9fSUdfR3ZJU092Z0xBemY0WUFNaXhpZTdpeGVpQktQckpsc1dVaElXUFBsRGZLX3dURS1YdjRuRlI0d05WRFZtdVRHeFJvNDFudnctMGoyQU5mQkxHMjFteFA1WE9yWTc4aUxLd3RrRVRjeThtMW5zRHV3YnNuVFpOMUNta0dMM09LSnlieXZFdllTY0l1eUlhMVFsOHdqdzJ0VWhaQXAxYVlRVXBIemZYT1BGZW13QjgxYVFyVkk?oc=5",
@@ -3192,6 +3183,15 @@
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcncxbU5xZTlSSkVRRnpjMUNuTXdsZ1BqbXg2YVFFVmNQTWJwRkF4OWFqSW1NcFVaOVQ5ZnRPdFFGbEpmTDNlV01YWjc3Ym16WE9BeWMzYXNaZUdZU2NlZjNKWE83RjFXNEhDckFTT1otWnpaZUlCOEFlUTFOcDZCbWNOdkp1Wl9xT1c1Y3Z3QVZqa05VQm1ONUJiVEJ0ZC1uMzR3X3JTcmJXNGFLWThkeFNCNnJqZWN0NXR3OVdrSGxQTnFDbXFYTnVMSE1UcDROdUFzM3ByTXFLQW5BMVF0cEpUbw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-21T10:06:49.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Fietser ernstig gewond in Roosendaal, auto gaat er vandoor",
+    "normalized": "fietser ernstig gewond in roosendaal auto gaat er vandoor",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1VFSDBBTzJsOVdJY1lQNnlSZGxJcTE3Qmk3eDVpSTFzSnRydWhEMllsejRJb242cUt2c2hHVzlmeXF0Yjhtd0FRMUZhbVBmR1ItOEdQVjNBSmxIZGNXWXQ0TW5IeTBROFYyd1ZIeVN6VGIxMGtYRC12RGhDRlYwMnBmOUdsbGxzU0VhZlJIdHNoVG1BdFVmb1lUSWluWHlpWFBjVnY5Y2xVZw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-21T09:56:14.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
