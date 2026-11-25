@@ -1,8 +1,17 @@
 {
- "gegenereerd": "2026-11-25T01:56:53.713Z",
+ "gegenereerd": "2026-11-25T02:22:19.989Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "PSV en Feyenoord lijden allebei opnieuw Champions League-nederlaag",
+    "normalized": "psv en feyenoord lijden allebei opnieuw champions league nederlaag",
+    "link": "https://www.rtl.nl/nieuws/sport/artikel/5667025/psv-feyenoord-champions-league-nederlaag-fc-porto-real-madrid",
+    "samenvatting": "Het was geen goede avond voor de twee Nederlandse clubs in de Champions League. Feyenoord verloor in De Kuip met 0-1 van FC Porto. PSV was na een goede eerste helft geen partij meer voor Real Madrid, het werd 5-1 in de Spaanse hoofdstad.",
+    "datum": "2026-11-25T02:01:05.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/25/ANP-576721848.jpg?itok=A86EgVd9&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
    {
     "titel": "Treinkaartjes toch nog niet duurder, in ieder geval tot 1 juni zelfde prijs",
     "normalized": "treinkaartjes toch nog niet duurder in ieder geval tot 1 juni zelfde prijs",
@@ -263,15 +272,6 @@
     "datum": "2026-11-24T20:35:29.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=a8b33597-7f23-454e-b817-d959736ca841"
-   },
-   {
-    "titel": "Henriëtte ontdekt verdachte geldtransacties halfbroer in Waar Is Mijn Erfenis?",
-    "normalized": "henriette ontdekt verdachte geldtransacties halfbroer in waar is mijn erfenis",
-    "link": "https://www.rtl.nl/boulevard/artikel/5666734/erfenis-henriette-verzwegen-waar-mijn-erfenis",
-    "samenvatting": "Henriëtte (67) had al tientallen jaren geen contact meer met haar vader toen ze hoorde dat hij was overleden. Tot haar verbazing bleek ze samen met haar halfbroer Joris recht te hebben op zijn erfenis. In 'Waar Is Mijn Erfenis?' schakelt ze Dennis van der Geest (51) in om haar halfbroer te vinden en",
-    "datum": "2026-11-24T20:34:22.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/23/WhatsApp%20Image%202026-11-23%20at%2016.50.16.jpeg?itok=pSkTe1_G&amp;offsetX=0&amp;offsetY=17&amp;cropWidth=1996&amp;cropHeight=1123&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    }
   ],
   "binnenland": [
@@ -1325,7 +1325,7 @@
     "samenvatting": "Feyenoord heeft dinsdag opnieuw een nederlaag geleden in de Champions League. De Rotterdammers kregen tegen FC Porto aardig wat kansen, maar de Portugezen wonnen in De Kuip met 0-1.",
     "datum": "2026-11-24T21:56:41.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/d34xh4macjmx_sqr256/117/0/4000/4000/feyenoord-lijdt-onnodige-nederlaag-tegen-fc-porto-en-doet-slechte-zaken-in-cl.jpg"
+    "foto": "https://images.nu.nl/m/dsqxmyhabhfj_sqr256/3070/0/2920/2920/feyenoord-lijdt-onnodige-nederlaag-tegen-fc-porto-en-doet-slechte-zaken-in-cl.jpg"
    },
    {
     "titel": "Energiek Feyenoord verliest in Champions League nipt van FC Porto",
@@ -1349,10 +1349,10 @@
     "titel": "PSV gaat na sensationele voorsprong alsnog hard onderuit bij Real Madrid in CL",
     "normalized": "psv gaat na sensationele voorsprong alsnog hard onderuit bij real madrid in cl",
     "link": "https://www.nu.nl/voetbal/6417675/psv-gaat-na-sensationele-voorsprong-alsnog-hard-onderuit-bij-real-madrid-in-cl.html",
-    "samenvatting": "PSV heeft dinsdag niet voor een stunt gezorgd bij Real Madrid in de Champions League. De ploeg van Peter Bosz stond bij rust op een sensationele voorsprong, maar ging na de pauze alsnog hard onderuit: 5-1.",
+    "samenvatting": "PSV heeft dinsdag niet kunnen stunten bij Real Madrid in de Champions League. De ploeg van Peter Bosz stond bij rust op een sensationele voorsprong, maar ging na de pauze alsnog hard onderuit: 5-1.",
     "datum": "2026-11-24T21:52:11.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/0b0xl53ainqb_sqr256/0/0/3995/3995/psv-gaat-na-sensationele-voorsprong-alsnog-hard-onderuit-bij-real-madrid-in-cl.jpg"
+    "foto": "https://images.nu.nl/m/0zsx273abz1t_sqr256/203/4/3996/3996/psv-gaat-na-sensationele-voorsprong-alsnog-hard-onderuit-bij-real-madrid-in-cl.jpg"
    },
    {
     "titel": "Félix scoort met schitterende omhaal, Ronaldo goal dichter bij magische grens",
@@ -1382,13 +1382,13 @@
     "foto": "https://images.cdn.nos.nl/4/A/u/C/W/A/gDuw8hKF9hUYtihi7LmY17ujWp2HkroRWTjwR1U/153x3x1840x1035-1024x576.webp"
    },
    {
-    "titel": "Feyenoord-keeper Ernst moet plaatsmaken voor Kastenmeier: 'Hebben ervaring nodig'",
-    "normalized": "feyenoord keeper ernst moet plaatsmaken voor kastenmeier hebben ervaring nodig",
-    "link": "https://www.nu.nl/voetbal/6417668/feyenoord-keeper-ernst-moet-plaatsmaken-voor-kastenmeier-hebben-ervaring-nodig.html",
+    "titel": "Feyenoord-keeper Ernst moet plaatsmaken voor Kastenmeier: 'Ervaring nodig'",
+    "normalized": "feyenoord keeper ernst moet plaatsmaken voor kastenmeier ervaring nodig",
+    "link": "https://www.nu.nl/voetbal/6417668/feyenoord-keeper-ernst-moet-plaatsmaken-voor-kastenmeier-ervaring-nodig.html",
     "samenvatting": "Tjark Ernst is niet langer de eerste doelman van Feyenoord. Trainer Giovanni van Bronckhorst heeft besloten een keeperswissel door te voeren. De bekritiseerde Duitser maakt daardoor plaats voor zijn landgenoot Florian Kastenmeier.",
     "datum": "2026-11-24T18:46:10.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/tzdxol5avqi0_sqr256/578/0/5747/5747/feyenoord-keeper-ernst-moet-plaatsmaken-voor-kastenmeier-hebben-ervaring-nodig.jpg"
+    "foto": "https://images.nu.nl/m/tzdxol5avqi0_sqr256/578/0/5747/5747/feyenoord-keeper-ernst-moet-plaatsmaken-voor-kastenmeier-ervaring-nodig.jpg"
    },
    {
     "titel": "Mané viert Afrika Cup-zege Senegal, Boukhari noemt CAS-besluit 'belachelijk'",
@@ -1400,13 +1400,13 @@
     "foto": "https://images.cdn.nos.nl/1/1/i/f/p/H/cmh9ttCLy9xPhHGwTGQxabeRFVnAChGQMZP22J/190x54x3568x2007-1024x576.webp"
    },
    {
-    "titel": "Live | CL | Feyenoord en PSV beleven pijnlijke avond in Kuip en Bernabéu",
-    "normalized": "live cl feyenoord en psv beleven pijnlijke avond in kuip en bernabeu",
-    "link": "https://www.nu.nl/voetbal/6417659/cl-feyenoord-en-psv-beleven-pijnlijke-avond-in-kuip-en-bernabeu.html",
+    "titel": "Live | CL | Feyenoord en PSV beleven pijnlijke avond: 'We werden overlopen'",
+    "normalized": "live cl feyenoord en psv beleven pijnlijke avond we werden overlopen",
+    "link": "https://www.nu.nl/voetbal/6417659/cl-feyenoord-en-psv-beleven-pijnlijke-avond-we-werden-overlopen.html",
     "samenvatting": "Welkom in dit liveblog! Hier houden wij, Suus ten Kate en Lieve Wils, je op de hoogte van de wedstrijden in de Champions League, met speciale aandacht voor Real Madrid-PSV en Feyenoord-FC Porto (21.00 uur). Veel plezier!",
     "datum": "2026-11-24T17:07:23.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/gqyxd43adlyu_sqr256/494/0/3998/3998/cl-feyenoord-en-psv-beleven-pijnlijke-avond-in-kuip-en-bernabeu.jpg"
+    "foto": "https://images.nu.nl/m/gqyxd43adlyu_sqr256/494/0/3998/3998/cl-feyenoord-en-psv-beleven-pijnlijke-avond-we-werden-overlopen.jpg"
    },
    {
     "titel": "'Verbaasde' Marokkaanse voetbalbond gaat in beroep tegen uitspraak Afrika Cup",
@@ -2643,11 +2643,11 @@
     "foto": ""
    },
    {
-    "titel": "Baggerwerkzaamheden in en rond Ovezande in Borsele",
-    "normalized": "baggerwerkzaamheden in en rond ovezande in borsele",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeS1JZkVJc2pyOGlOc0ZzTnNLemQ1UnJFajlFcndWSS1Dam5KSGhuOXNkUU1wUC1YVlpaZVpxSEppeUFRTS1UY2dJdUd5QWI3OTBTckg0TEVHV01UckR2UWk5N1J4Nzhzc0R3QmkteDdOaUNBMV90aTlVQjQ0Z0tDUzd3TVBUUVFjYURkNlNSUmg?oc=5",
+    "titel": "‘Geen gaten in onze dijk’: Borsele unaniem tegen wisselpolder",
+    "normalized": "geen gaten in onze dijk borsele unaniem tegen wisselpolder",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWo1bS1MTC1wajdrSDRLdmloQjFFeDZSNE9qc0M5R2VaY0EyNFYyVmtXRXJlRFhhbHpxd0d0OUYwRDBiR1J5eEtRMG9FVzYwR09ZYUMyanYtLUxiVUdJTlRCcFJWcmgwNDJvVXFxb25RVjJHaFRSd1hxLTlVeTlnSEFobldYVUlRNHp3MmdWdUs4NE5sa3dIUEFONA?oc=5",
     "samenvatting": "",
-    "datum": "2026-02-11T08:00:00.000Z",
+    "datum": "2026-01-16T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2661,18 +2661,18 @@
     "foto": ""
    },
    {
-    "titel": "Wisselende resultaten Hoek, Kloetinge en GOES op Borsele Sloepoort Cup",
-    "normalized": "wisselende resultaten hoek kloetinge en goes op borsele sloepoort cup",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWm9rOU1lX05nQjB3LWI2ZmJfUmZYblJQZlozY2VaRjNLV01WT2c1RHFXSFNJMFBncWM3NUk0dE5yc2NGOGpEYTc2WEVYMHlGbzFKV244YkVobzJHWUdmcFAzZGJvc19Bck9hUWJhcU05MXAyRFZ5R2FmeDBuNnR5NGNDdWRFN0dfbkdVUmZNa2NtZmJwX0ZoQ0trZkFNX3JFYlBzLUZwMXRreUEycDd2RDQwUEI?oc=5",
+    "titel": "WOZ-waarde het hoogst in Veere, grootste stijging in Borsele",
+    "normalized": "woz waarde het hoogst in veere grootste stijging in borsele",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEJEZ2RwaFJrS3ZVc0FGbnNaRnkwTHJjZGtaNDcxTC16anlFSlQ5Z0x1ai1Vc0hxN2ZuVVp0NldVMV9FWTYzT2Q2TjROZ2thLWNHa2ZKYlE4SmV3dDNPVndpQmM5aGFRWTBIczdSei1RNkcza2xCbzJadjZvTk5MWVMtcWFNWU1HdW4yZzJOOC1pa3R1SWhlMmVUZXp0RUJSR0hyMkU4Zw?oc=5",
     "samenvatting": "",
-    "datum": "2025-08-03T07:00:00.000Z",
+    "datum": "2025-06-19T07:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "WOZ-waarde het hoogst in Veere, grootste stijging in Borsele",
-    "normalized": "woz waarde het hoogst in veere grootste stijging in borsele",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEJEZ2RwaFJrS3ZVc0FGbnNaRnkwTHJjZGtaNDcxTC16anlFSlQ5Z0x1ai1Vc0hxN2ZuVVp0NldVMV9FWTYzT2Q2TjROZ2thLWNHa2ZKYlE4SmV3dDNPVndpQmM5aGFRWTBIczdSei1RNkcza2xCbzJadjZvTk5MWVMtcWFNWU1HdW4yZzJOOC1pa3R1SWhlMmVUZXp0RUJSR0hyMkU4Zw?oc=5",
+    "titel": "Vernieuwd eisenpakket in de maak voor energieprojecten (waaronder twee nieuwe kerncentrales): Borsele zoekt meedenkers",
+    "normalized": "vernieuwd eisenpakket in de maak voor energieprojecten waaronder twee nieuwe kerncentrales borsele zoekt meedenkers",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZEZra1prOUdWRmN1cEpjMUdlanRZdExwdzZTcjRBbDlrX3E5QkZqSVhIWHREZGoxX1NLMVJhc2pNSlJlTm14X1ROcG9xQlFrYnRDNGdVTEEzbDQwR0ZzZ0M1dXhKenZZTWxjdVJ2TUxNSzJBeUZOYkJsaE04cHBaakFQeDFncDFSVXkySzhzQWhMLUt3VzFxSkludnlXMFRYaUJvTjM2MlVJOXdFZnJaYUxWellyenZIMDJib0xNNUZIa01zN0xxU3BrVGtmNERNT1VPei1VSi15ZXRpSHNkSGFYaEgtSkR1VXRJM1JIdFlIZw?oc=5",
     "samenvatting": "",
     "datum": "2025-06-19T07:00:00.000Z",
     "bron": "Google Nieuws",
@@ -2719,7 +2719,7 @@
    {
     "titel": "Gerestaureerde travalje in Kwadendamme wordt feestelijk in gebruik genomen",
     "normalized": "gerestaureerde travalje in kwadendamme wordt feestelijk in gebruik genomen",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeXBDNHA0c1dxcHdkWDAxdVl5WFFDRmpxQzROQXlYdjZESFBQSGZ4TkhtZUpMYlZIZ1hRdDR5NXp4Wk9sWDhwMURxVjE4NDE1Ym15ZEViRHpyNk93ellnQnVTN1I2ODl4UGtvLVBiSFpmZ2ktMngxaG8yTXFKR2xJd0ZsdS1GT2dQbzRlRXN0NS00S0d5cC1zZlJmblhReUZzdVZIcW0ySkZVWUVpOFFj?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeVF5TV96aXJsUF9ndTZwWlVVa3ZxQk5NT3RVVDFZdnNYa2I3Z0JQdnR1ZHRBU0NRem5tVXZhNVZlYW9oaWUwM0JUUzdhVWZiWnZJNmpsNnl3d3pMS2RONnk0T2plS0szUW9iY2dWNDAxNDNyLUI5bEFLbEdJbjU2Yy1LYk5kV1lvWk9ITXU0czNPTEdUWF9vaDNtcjRoV0Fxai10aUg1djhiWWgwYXF5Qg?oc=5",
     "samenvatting": "",
     "datum": "2026-09-23T07:00:00.000Z",
     "bron": "Google Nieuws",
@@ -2731,6 +2731,15 @@
     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVHZiT1MxUmFUR09pQWQwVGJqc0hmTlJqUlYwbGF4RVQxVUtrMERNS0JQdGRMS01nTXdRUXlSV29UQ1lhR0h2Q3hoa1M4NENKQi1tSFI3cHhKSXRHcFJET0d1eEVrblNPVEJlTnlJaWExUjdZLVlyLXVDS2NXcHRoUjR1eWFYS1YtQ1dzbVpOZk5yeG1TaDRIYlZ1WnhZaXNZc1pBT1VqNVV2UEFyZzVLSXlnaVBmMjhHclUtcDNidTFxZkpYVlVZTEVPQ1p4dUxqS1gtRHRKRkJpTkxhY0o5RzZLYVlBbHZZU1o3Z1pua1p4am5vckxVZA?oc=5",
     "samenvatting": "",
     "datum": "2026-08-27T07:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Middelbrand op Uithofstraat in Kwadendamme",
+    "normalized": "middelbrand op uithofstraat in kwadendamme",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEo4T2tzUzRKZEM0WG05dTBJcTRDQ2pWZWFmdTFuOEJzMzU1cWIxNnZnLUVwa2pBQ3hXUTBuOUx0NHh4aTNlOE9aZU1HUHZuSXp1ZTdnY1lQMW9peVZkdmszSEVuWWpZTjgzTGthR1pWREF6d2tVbmhmX1BrT3QyRU55OHJ3VG5IMmctYno4STBIU0ZHNUFzZGdVdE54ZkZsV0dzLU5DZ2F5QQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-08-18T07:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2915,15 +2924,6 @@
     "foto": ""
    },
    {
-    "titel": "Kwekers kunnen bedrijfswoning Kwadendamme op hun buik schrijven",
-    "normalized": "kwekers kunnen bedrijfswoning kwadendamme op hun buik schrijven",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2drODdQVTZpSW5FenREazJ4OEtWQy1qdVAyX0lQSFZDY2FBczRpMTZDUEItSTdrWllQTlNSMllIVDN6dm1Lams4NGltVnFWZ3RwMFNFYXVTYkFQY1NXV1N3VURaTS1vRjUwa28zajhVQjJkTUlwMzBIbVZONFF3bHc4WElmYUpxZnVTQ0prYmI2ZXJTY1FiSGVKd3NyUkFGS0E?oc=5",
-    "samenvatting": "",
-    "datum": "2024-11-12T08:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Spar-supermarkten in de problemen, in Kwadendamme vrezen ze voor de toekomst",
     "normalized": "spar supermarkten in de problemen in kwadendamme vrezen ze voor de toekomst",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSE9PVnJhWFl3SWs4cllNV1JaSzZJbms2eEdYOGpFM1BGNlpvME5DZ3VFdnpidkFvc1dVXzZBTXE0a3RaSFhFdi0yXzNleWxwSDZtR21rTDhmRDlzOUNZc2JNak1ZRG1ZZ3A2SFlIUlhLb2NhUmxMWWRDdVhLN1hDSGswWHRwT3hDQXZjRll1ZDhpREpBZU5taGlrTl9OTWl4X1JVUTM4T1hNZWEwV2tDVXExb2trUG1pTnk1ZA?oc=5",
@@ -3027,7 +3027,7 @@
    {
     "titel": "Welke verdachte situaties zie jij in Bergen op Zoom of Roosendaal?",
     "normalized": "welke verdachte situaties zie jij in bergen op zoom of roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVHVXLUlMX01QQUNXSG04SlE2SkZqRlNpbjFBRzBIeXczUXlvYU9aYXVFb1lzR1JnTlhwYXNEZmRmR2RIMW9zQ2E1d2JvamFla1VPd255M004bExlV0J3a3EtODlGUmFCMjAyeEFCc3lrMXV3a2lrQmZDVXNOVkFFRGx2YW5YcGEtaVdGdXU4NjBIOTRrQ1BjakQzTXNBMjQyNUM0NFhMWmtDcHljMnc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbHdvT3ZKUTNOZ25FZnA4bmdkUlZROE5jVWlyXzMtRDJOdl9fOHBLRThET0xiclBJTWp5MEpDMU9yNHFLRWZVRlltM196dks3NXNkZE1wa0J1NmtMNV9pRVliakdUQ21mNzhlWlc4Q2RWRV9sSFVGd0d0OGdLRzY5NTlNaUNlNUxlVm9FWHRJTEthdnMxTG1sQ2dqNFlZMWl2ZUl0Z0NKZ0ZjX2hG?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T14:15:04.000Z",
     "bron": "Google Nieuws",
@@ -3054,7 +3054,7 @@
    {
     "titel": "Ongeval met letsel op Dolomietdijk in Roosendaal",
     "normalized": "ongeval met letsel op dolomietdijk in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFJsN1BLQnY1TnJjaFFsRTJUVGhxUF9WQnd2WVhVbzdzaWRjc3ROdnpndTEwSnZxSjhFUF9aWkpwU004TGJhRmxCbm12MlFyMUpnUUx4YWtZZ3dqOXBQOTVfMktFSUpqdms5c3p2YUEwbHFlWGJmcV9jckZVX1hhdUh3SmZFMUFGSFM5U1pjcmNUcmVjQWFuaDgxNEhZUXpZMGJqcVRubw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPemVDb2JldHVUTExHRWhxcHk1SmI3WlE5azc2UlE2UThpNm43ekd2MUs0M2xkUU5LSXk0M1ZRZG90MDl3YzJOVHhYeEtjME00bHdzSjFMYldMdk04Y1Z4NHppMk8xYm9zMmUyM1lCZHBEdmtMbHd0ZzRxUlV2U0MyV3c4bUdEVXQ4S2hhSTA4LVRtOUNmaUpuX0p3d29SN29E?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T10:54:30.000Z",
     "bron": "Google Nieuws",
@@ -3214,11 +3214,11 @@
     "foto": ""
    },
    {
-    "titel": "Minderjarige fietser zwaargewond bij aanrijding in Roosendaal",
-    "normalized": "minderjarige fietser zwaargewond bij aanrijding in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQUVIcTJub0Q0cERPUUhaVWtoWTJQOVhablZpOUxyOENaS1BlQ0tlYjcyWS1zWEt1ckp6TjFPSmU5RmJqZkV6cnZ6bVJCV0l4TTIzbDNHbFNKNm4yZEpkdTZYYW45UmhsUGRxUWVxNFB6TWRrRmlyM3U0NDdQQTBjVFk4dFlfLWxhMWxzcjFFQ3BlV3dfNlBTT3FWQWxhMVd4LVBKeQ?oc=5",
+    "titel": "Minderjarige fietser zwaargewond bij aanrijding in Roosendaal, gevluchte automobilist (32) alsnog aangehouden",
+    "normalized": "minderjarige fietser zwaargewond bij aanrijding in roosendaal gevluchte automobilist 32 alsnog aangehouden",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNTFpdzVSSHE1aDdVb19CalhWQm1ONkl4V2FLZWhLczIyZTBtbU5sdEI3aVh1dnJvU1JGc09wRnhsZE9yN1BuVERoSjVJYVlDX25COFRKYXpNdGN6cWluWXJvWWNCa0VIdjJ5VGhjTzIyUWo1cXJORkhMc1hOLVRLendCLURwdXh6d3VxZllGN3hjODlvNEp2NHFreG9tRjZBNFh5X2RTRktyd2NiNHlpenBpVWRUakgyMnN6X2FsX0lKSHYwNXgtMDJBQ3VnLUx0TlZhWWxkREN5c1Y0OEpCSW41bllCNmhBWG1xWWVNOHUyczRv?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-21T12:36:29.000Z",
+    "datum": "2026-11-21T12:14:25.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
