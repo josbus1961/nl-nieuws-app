@@ -1,8 +1,17 @@
 {
- "gegenereerd": "2026-11-25T02:47:48.364Z",
+ "gegenereerd": "2026-11-25T03:13:13.258Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Iraanse zangeres die zonder hoofddoek optrad krijgt 74 zweepslagen",
+    "normalized": "iraanse zangeres die zonder hoofddoek optrad krijgt 74 zweepslagen",
+    "link": "https://nos.nl/l/2640909",
+    "samenvatting": "De 29-jarige Iraanse zangeres Parastoo Ahmadi heeft 74 zweepslagen gekregen nadat ze had opgetreden zonder een hoofddoek. Ahmadi gaf in december van 2024 in een mouwloze jurk en zonder hoofddoek een concert in de stad Qom zonder publiek. Het optreden deelde ze op haar YouTube-kanaal. Bij de beelden ",
+    "datum": "2026-11-25T03:00:46.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/7/5/k/A/j/B/EH13Uioy5Kj6bTjwv1qZPDaJzDGDGQcY15Qnpdz/7x3x1904x1071-1024x576.webp"
+   },
    {
     "titel": "David Tennant krijgt vaste rol in serie The Four Seasons",
     "normalized": "david tennant krijgt vaste rol in serie the four seasons",
@@ -263,15 +272,6 @@
     "datum": "2026-11-24T20:40:59.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/24/ANP-552436452.jpg?itok=O-RLnNdd&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Jan Smit zegt niet of hij weer rechten sinterklaasliedjes heeft",
-    "normalized": "jan smit zegt niet of hij weer rechten sinterklaasliedjes heeft",
-    "link": "https://www.rtl.nl/boulevard/artikel/5667005/jan-smit-zegt-niet-hij-weer-rechten-sinterklaasliedjes-heeft",
-    "samenvatting": "Jan Smit (40) wil niet zeggen of hij weer de rechten bezit van de sinterklaasliedjes van zijn zus Monique Smit (37). Dat laat zijn manager dinsdag aan het ANP weten.",
-    "datum": "2026-11-24T20:39:20.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/10/24/ANP-563190087.jpeg?itok=DO1Ll_QE&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1998&amp;cropHeight=1124&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    }
   ],
   "binnenland": [
@@ -548,6 +548,15 @@
   ],
   "buitenland": [
    {
+    "titel": "Iraanse zangeres die zonder hoofddoek optrad krijgt 74 zweepslagen",
+    "normalized": "iraanse zangeres die zonder hoofddoek optrad krijgt 74 zweepslagen",
+    "link": "https://nos.nl/l/2640909",
+    "samenvatting": "De 29-jarige Iraanse zangeres Parastoo Ahmadi heeft 74 zweepslagen gekregen nadat ze had opgetreden zonder een hoofddoek. Ahmadi gaf in december van 2024 in een mouwloze jurk en zonder hoofddoek een concert in de stad Qom zonder publiek. Het optreden deelde ze op haar YouTube-kanaal. Bij de beelden ",
+    "datum": "2026-11-25T03:00:46.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/7/5/k/A/j/B/EH13Uioy5Kj6bTjwv1qZPDaJzDGDGQcY15Qnpdz/7x3x1904x1071-1024x576.webp"
+   },
+   {
     "titel": "Vrouwen in Gaza verliezen mogelijkheid om zelf te beslissen over kinderwens",
     "normalized": "vrouwen in gaza verliezen mogelijkheid om zelf te beslissen over kinderwens",
     "link": "https://www.nu.nl/midden-oostenconflict/6417601/vrouwen-in-gaza-verliezen-mogelijkheid-om-zelf-te-beslissen-over-kinderwens.html",
@@ -681,15 +690,6 @@
     "datum": "2026-11-24T13:26:23.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/b93xjbcabflo_sqr256/754/0/3332/3332/wereldwijd-129-vrouwen-per-dag-vermoord-door-hun-partner-of-familielid.jpg"
-   },
-   {
-    "titel": "Iraanse zangeres krijgt 74 zweepslagen voor optreden zonder hidjab",
-    "normalized": "iraanse zangeres krijgt 74 zweepslagen voor optreden zonder hidjab",
-    "link": "https://www.nu.nl/buitenland/6417628/iraanse-zangeres-krijgt-74-zweepslagen-voor-optreden-zonder-hidjab.html",
-    "samenvatting": "Een populaire Iraanse zangeres is door autoriteiten in dat land gegeseld omdat ze zonder hidjab optrad, zeggen haar advocaten tegen BBC News . Ook drie bandleden en haar producer kregen zweepslagen.",
-    "datum": "2026-11-24T13:21:44.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/4r1xmata8ffn_sqr256/466/0/749/749/iraanse-zangeres-krijgt-74-zweepslagen-voor-optreden-zonder-hidjab.jpg"
    },
    {
     "titel": "Meer weerstand tegen steun Oekraïne binnen grootste Europese bondgenoot",
@@ -1406,7 +1406,7 @@
     "samenvatting": "Welkom in dit liveblog! Hier houden wij, Suus ten Kate en Lieve Wils, je op de hoogte van de wedstrijden in de Champions League, met speciale aandacht voor Real Madrid-PSV en Feyenoord-FC Porto (21.00 uur). Veel plezier!",
     "datum": "2026-11-24T17:07:23.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/gqyxd43adlyu_sqr256/494/0/3998/3998/cl-feyenoord-en-psv-beleven-pijnlijke-avond-we-werden-overlopen.jpg"
+    "foto": "https://images.nu.nl/m/a9pxrqeaovjf_sqr256/908/0/2853/2853/cl-feyenoord-en-psv-beleven-pijnlijke-avond-we-werden-overlopen.jpg"
    },
    {
     "titel": "'Verbaasde' Marokkaanse voetbalbond gaat in beroep tegen uitspraak Afrika Cup",
@@ -1946,6 +1946,15 @@
     "foto": ""
    },
    {
+    "titel": "Syrische vader (45) gaat met mes, stok en wasmand tekeer tegen vrouw en kinderen, maar hoeft niet de cel in",
+    "normalized": "syrische vader 45 gaat met mes stok en wasmand tekeer tegen vrouw en kinderen maar hoeft niet de cel in",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS0NZaWk4X0ZGOFZsWGpKNEZ4R1FIemZBNS12Q0pMclUzZVJZUnZfT3pjOVNraWR5RmtZNjFGeHlXSjhER056azJlQlh0bnpjS3dKTDVWSWFlZGtMVE1TMG1lWHV3VlhRdTd5TEh0c1lSdHhkRUNDNEI5cUJZNWN4aHlNTlB2SnpOeURRUm51RzU4TXFRektXYnBqM19LdFhDYmxGb2lUVG5LU2UzakFCNmduaXliSG5vX3ZKZUI1U2gtd1U5empUdmdaSE9TSTJFVnRn?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T16:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Nieuwe stap in uitbreiding aanvoer zoet water in Reimerswaal",
     "normalized": "nieuwe stap in uitbreiding aanvoer zoet water in reimerswaal",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWkI4V084ZGtNZGtwYVhlQjVyZlBzbzJJSXNqUnFlQm1TUmVKeko4MWo5ckhnQjVZOWYzMDhobmF2NUgxUW5wbWg1bFEtTWNwN0VqOUhSeEVuNmY0cG96V1RLYVdIdFQ2LWVISXVKdkZmX0RfVzZ4OU1PTmxnYmFzNC04ZjRDTTIydDdhalh3?oc=5",
@@ -2018,15 +2027,6 @@
     "foto": ""
    },
    {
-    "titel": "Automobilist kijkt recht in koplampen van toeterende trein op overweg in Middelburg: ‘Ik schrok me rot’",
-    "normalized": "automobilist kijkt recht in koplampen van toeterende trein op overweg in middelburg ik schrok me rot",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGJXY3oxd3NkcDhaUmdzZl9fdVNwR25xMHo2QW14cWhpbFF0ZkJkOUdETUp6MU5SWG9HLU9uLWwxUTN6el9MS05YMWJxamJieEFNMmthd05hY3Z0R2hRUmNZVmVaVXY4RXVDVVU0c0JTdkUyR2doX3hRX3NWQkkyVFRCeU9TSzNaNFhiNEhrT1BUcnJCZ2EyZHRSdFV0MjFLd1Q4Y09IQkp1WVljYmR0UXlYS3JaVG9nTjhWUHF4RzEtWTkxRWlqQVhXQmRtWDk4MDQ1ZUZBUQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-24T13:31:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Tractor vliegt in brand aan Straatsven in Zeeland - kliknieuws.nl | De snelste lokale nieuwssite van Nederland",
     "normalized": "tractor vliegt in brand aan straatsven in zeeland kliknieuws nl de snelste lokale nieuwssite van nederland",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZi1qX1VnbUhuV1BZeGxTSl9JX3RTQ2VfZDM5NkFQVXBseTNENTJMREdDU0cwYmdyNW9WcnJVaUh6cU5uTjNWWXAwUGxQTmx5QW5JSHhKZ2VCSDRpYXNEWnhhNjJZSXZSZGhwY0ZHdGtXdHVPWC0tZUN6SEpxUlJzNkhNeDNpaDlHek0yRktqUmZFc2pGR1NKVmRqdVJGZkJ5?oc=5",
@@ -2090,11 +2090,29 @@
     "foto": ""
    },
    {
+    "titel": "Schermen en speengebruik zorgen voor meer taalproblemen, zegt Zeeuws-Vlaamse logopedist",
+    "normalized": "schermen en speengebruik zorgen voor meer taalproblemen zegt zeeuws vlaamse logopedist",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdU44ejYwYjhRSUJ1VlZmWDRuOHFoU2NENzZ3bm1PZkhfWlhoZHFEcXU2UGFFRGFnTGdydkNpdjFUbzFvR1hwUjdQLUVZRFZwRmpfVzUwYjJ6Xzk1bjB5U1NyMnl2NUR1RlFLVGdIWUdEdFAxNDJsRkhEWE9GRjlacDNndHBOUTlwcnc5d0Zya3pRNU02T1hKaUs5TUlZVVhYbFM0UkNTSy1oSExXd25pandZSWlfYXVMNTBYYTZ2Z25vejA?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T11:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Twee arrestaties in Oost-Souburg, politieauto beschadigd",
     "normalized": "twee arrestaties in oost souburg politieauto beschadigd",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1dEamZaeG5zODRvaU9HVjZpMFZfRkx3OFZ2T1V3SUhENGlWd09JYVRPVG5CYkl4X2RaTUg3ODRZSjI3czNkd2pCTUZSMzU5MjZlRHptOXJLSFVpODF5TUhUaUZteFRrYk0zSlhYMWdDeFMyaUtBcC1STkpFTmh5ZE1tWFVKYnU1ZUJ0Sjd1NzJHR0VCczd2U1Jn?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T10:50:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Inbraken in gemeente Tholen, oproep alert te zijn",
+    "normalized": "inbraken in gemeente tholen oproep alert te zijn",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTjhyTVZsSUZIcm1ta2N2QVJkZUpUX2UyT2ZsX0hsMmltQ3dwYmRiNTVoZDM3ODJaN1o2RDl0RDlSdEJsbWdxeXVyNnpQN2llRkF1dzVuXzVDLWpleG9OZWE2R202YjF3WF9kVVllcWFoejlWRFVsZDQtNzcxbVNuWmRPQktBd0p2N0lDOGlvZDg?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T10:44:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2158,24 +2176,6 @@
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZE1xNlNUOEJBSUd2YlluN3I2MFBwX1o3SzRMQ0RMallDZGxvSUU4dWttaW5TbVpmWktZWHQxZWJRdW9Razc0VGRPSHVXeWdSLV9qWGVZbjBVNGJWLWFrQm9ZSU9ia1RidmVXUzlzZGpYRm1ESkxXRWNhRjFHdnRzWkhERW9VOVpkb3hpWmwzZF8zck12Tng3RDVLMkZmZ2lUUzBPX1hzOU12WXgxN3lGdG1mYXR6MEFENU5ldXRmQkVFejJraURUbHM0MXhVRnM?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T09:32:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Scheldestromen heft onttrekkingsverbod in Zeeland op",
-    "normalized": "scheldestromen heft onttrekkingsverbod in zeeland op",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sVzhWTzhIWnVGTkEwTWh6RElqOUFGSjdFemhqOFE3MjBsbnRyNlByMzYxZnpCZ2hzOUtYNm4wT3BJT1J5RUlENzQydW1xbXFoZUFaa1JXc3VYWEhaYVozR1p3OXZrdUtyTHoxZnBjYnRJQQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-24T08:42:22.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Goedemorgen! Tweede stakingsdag buschauffeurs, kanshebbers Zeeuwse sportprijzen bekend en dorpsraad Biervliet vergadert over kerncentrales",
-    "normalized": "goedemorgen tweede stakingsdag buschauffeurs kanshebbers zeeuwse sportprijzen bekend en dorpsraad biervliet vergadert over kerncentrales",
-    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcFdvY2RWZHc3MnFlSkVsamVyX2NNNjQ0eWhOMHE4Mk4xMkY5eE82NHpRbjRQT1hoeGlWQmIySWFQY0dTa2pmRWdxY3huQ0xXaFhmRXJLRFJQUHk0MTF5Zy1zMXAxaEZ2ZmV5NHZpNk1pN1d0ODU2a2U4RHdHQjR2QUN0TWduNkdJYmRUekRyWnM0TjFHUnJBNmwyTlE4ajMtenllLTlmaUluVTZPZENJaWxrTHBVRWZVZUxjWHFjNm9jNWpGUklHZHBIOExHdTZIVUQydktIcEhnRy1HQkZfczhPbmtnLUVfZGhpSHViMXdSX1VvTTU5UktGdE91WGJXR0tsTkwtUlQ0VEpqZkE?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-24T07:36:25.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2589,6 +2589,15 @@
     "foto": ""
    },
    {
+    "titel": "Veilig Thuis Zeeland sluit aan bij Week tegen Kindermishandeling",
+    "normalized": "veilig thuis zeeland sluit aan bij week tegen kindermishandeling",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY1Y5b2d5aE04OGtNNm5PWm1CN2hkOFk0RU9xZTVjMWVoekw3OVoxbmdjMnRzbWdaRUZSbkRxMFdLTVBUSWJkSXFCOG9tNjRQb2ZtQ09Vdlg5b1RjS0R6SS1qckZlbHVjRnctVWI2ek5YSWlzWTZkOFI1NnpjVjNzVHBwUFZrN2lqa3A2MTBQN3VnSkZaS0d0NkVwdHRnRldQQk1BSUltQ0t1WklQX211M1NJX2ZWZw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-18T07:30:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Laatste oude hoogspanningsmast verdwijnt uit Zeeuws landschap",
     "normalized": "laatste oude hoogspanningsmast verdwijnt uit zeeuws landschap",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFNOX2NDUUs2dmxmVlBCeGJMWVg2Rkd0elBtR2dQZUhzcmFWcFJTQ2dwaENhaGE3QjNJYndtam1pOVphVmRpTHNSV0YtNlhqSW52SkllUlhLQ1FjLXR4NHhjR3N4eVdfeUI2SUoycTJPYmNEaE9RMWNuUmt3djhxd1hpMkdMU3NiS0Y3aWpKeEtNdGtUaEhGV2RPU3ZYaEVVSVRlTk95LUZkc3pjRjlOaFFB?oc=5",
@@ -2603,6 +2612,15 @@
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV25BS2FNaUN2Yl9LdUN6Y3lkZ01hTlJEdGw5ZUJQLTBVMy1NQ3R0OElrd1RHeWkwdHQxZjcyQUduSGxvUVlzbkhpZ0dmbGY3eEgzQV9OTHNmaGE1TVdwd3AtZmpXeE9EWlVlU1FuNllhWDd1WHkzbGM3RVFzWFJZZVN4VjZNc1ZhZXR1OVpfLWt5VDczRFJCZjhrNnhYQQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-17T10:02:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Woningbrand Everingestraat Borssele snel geblust",
+    "normalized": "woningbrand everingestraat borssele snel geblust",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVThjX0hta0RmTVR6akZnY0Y1M2Z4OFRDaHJsb3NEdEUwM1Y3SDBtbkdjNGdENGpjMDFpZXFNTFVxRkc2RldEWThvaEhBZWMzUDZ5Y05fVDZQTEtlamh5NG1RcGVOMzk2MlpBZmZIWll2NlU1VndRNWY4MU1yM19XSmZuMV9VTnJySjJKdF9ZOExIRDE3UVlqbm9fanpHZmJp?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-17T06:49:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2657,24 +2675,6 @@
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUWJLaTRPUDVfYjZSRHV2dF9QWm9mWHZtb1FtR3hDSXl4MHQtMHkwT3l1a0NzYkFPSlI5YW14c05MNnI3MGFPMkkzQWIyN1puSzI2ZE1XVERXMEc2M1JGMHA5c29mOWd5TUFDNmZWbndiVU1GTXJ1SDI2WFlqTjNHQnZIV3FueHpLZ1JBSF9zVGdVNi1Zd2xjWmYxLWpBT0lnY3BudWRrZDZsRmc5bVlmalZEM0drUzA1NEZkRVdXdWR0WEZRQWF5TWNCY3MzM0k?oc=5",
     "samenvatting": "",
     "datum": "2026-11-10T08:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Defensie houdt militaire oefening in gemeente Borsele",
-    "normalized": "defensie houdt militaire oefening in gemeente borsele",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2gtRGtHQllKejRIMUdNV1Y2b0RadDFxS0ZOY3ZpcHdNandqZzFzXzhvNERVcjdSXzJUSks2VElmb3BVcVFpVzg1Zkd5QWdkYzJRbVhXMEhUUkFPYmRhdnFqLVAycU01cHpNeGhXMWpGbVljdkZnUmVIRS12R3U2OGd0ckNwV2VmTF9DWmV5SFlpTVhK?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-10T08:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Borsele door de ogen van haar inwoners",
-    "normalized": "borsele door de ogen van haar inwoners",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVUzZVg4S0ZLemstQklJZVBILVp5aVpzd3pjc0tLVTNmS0Q4bWp0VTRTMHJnY1JDS0VXRmxZRzg5S3hoMkZVYldEV1JlQTlRemMyOTZjSlRtQnhsd1pfaHFId1d6aTU4LWVkMFpZeGhzZTdQWVFva3U5clVCU0lDV2ZNeVZuZ09nMi04dGZfd3VTMEU?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-09T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2989,6 +2989,15 @@
     "foto": ""
    },
    {
+    "titel": "Levenslang geëist tegen hoofdverdachte Moshtag B. voor explosie Tarwekamp",
+    "normalized": "levenslang geeist tegen hoofdverdachte moshtag b voor explosie tarwekamp",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOblQ2Y08xcWdaQTBZYUxCelkxZnhDMm9zdGtBYi10ZnlMN2pjSE1iM3VEVEtUc0xjeDI3eHJfUkdyeTc0M0NXbVFadTdTeWg2amkyRlRBbVlTOUxyX0hHbnhiNVJmN1VyeWV4ZnB5UVp5SURuNG5HbWIxSnEtblZodVdFTHZxbFVLT3lkejdUdTB3d1NaNC1WMHdId0hxeDYtVzNCUENWdWgyOTJLRVViSXBubHU3NlU?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T17:30:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Mark Buijs terug als burgemeester: 'Door het oog van de naald gekropen'",
     "normalized": "mark buijs terug als burgemeester door het oog van de naald gekropen",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTjJLeGFPMzZac0txa0lhdGZpZE5SSTQxMFNXUi1Da1NDMEVFaVdZUkppOU5ZLURwaHdfbTdOaEhqWGk5NGk3cFM4UXJUa0Z3VjRHSWRyazY2VnBCXzhIOVlhbllvNUZGNHdUV1FBdnBoOXV5alNLdlVqOUMwVkNibzdPamctVE1TX0FqNWxKaEtNVDRTeGZIWVluOVZjNHZoV0JyYnFqU0FsWjdudExfRHF3?oc=5",
@@ -3063,7 +3072,7 @@
    {
     "titel": "Essen wil cultuurwerking vzw Kobie vanaf 2028 zelf organiseren: ook hogere politiebijdrage op gemeenteraad",
     "normalized": "essen wil cultuurwerking vzw kobie vanaf 2028 zelf organiseren ook hogere politiebijdrage op gemeenteraad",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMTVLcTZJNjd5REh4ckhwZlNtV3BQQXVUcnFMUWJuQ0dJZHRfSHdaQTBOOG91anp0WFNTVk9LNDFGeE1HcXpZQVBTTTdvMHlqT0hhMFlSbU51VFlsaF9acTRtQU9CNG5QblU4Zm1xZjJMRWNJRUNMS2E4NmZ5cTZtSWZ4ak5LbVduUzVlS1c5WEk1MDRfRGVFZWxHNFVPaGlqZFJXOFhjZTltLUFnVEtYdE5jNkgtU2EwUWZTU1hEZUxaXzd0Z0daVWUxNktrNjh3UkxoWDdpdndaeG9TTjR3?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOWl6cjctaUt1eVhjMWNXSGtVaDNteGlETC01RjBNWGcwMlVMM0hzRERzaV9teEY0NUQ4akVKZVluZGRzbzN2Q0ozX2sxZHdlT0tXakNVejNZb1pRMUtmLTFMa1dEa0FvbF9MTFh0SHZtVXI1NEk3ZzBDTFVVbjZrOFYzRVJ1V200b2t5bHhnTWVqQko0b1BtQThZT2JHdzdZSUY2by1nOWhFR25nWWJWYVBlc20zLXJlVWlFcDFrbndaMFEtcUNGQ21WaFhwRnpVU0xqQ053RDZuVzZBNUJwc0l5c2JCQQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T10:33:01.000Z",
     "bron": "Google Nieuws",
@@ -3081,18 +3090,9 @@
    {
     "titel": "Overleden persoon aangetroffen op parkeerplaats in Roosendaal",
     "normalized": "overleden persoon aangetroffen op parkeerplaats in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVdLbk5hYUY4SjBwN2xyd2JyWXZzTkg0WjNtN2Q1T3NMRVB0dXVkZHdCYzk0dlFWdjJFeE5NZl9FcEN0N1JjcFdOT0J5X0JneFk2eG9NT0hadWVSUlRQeVg4RDJiYU5wMXFzSFRDU3NQMVE2TkVnTkplSnhVZW4tRDZicldVQ1lqUVdKS05FZWZ3LXhEX1JZbmVmZmV6YkxhOTRJV3VMSERkZTNNdzF6bHdKQUo?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnozTVJWZGJiT09ZT0VteklycHNCSkp2dlpBenRFQ1ZQcGNsNWpoelVJTE1oNFFhN084bFhQTEhGaVFsVUZPMnQwLXdPczY2eTAxbFV2NXk1dk5UNU1QOXNSanZLUzZGeTNhaV9ka2JDRkRPcVpvQ3VwVlpxYWFiaE9sNzZYN19nekNVWVZ3eU94M1NlRHg0TzNsdzktVDM1OVR3SUlNemk?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T08:39:27.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Lintje voor Roosendaalse zussen Hoendervangers",
-    "normalized": "lintje voor roosendaalse zussen hoendervangers",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFp5cXNqVjRuam05Qk5xbzJzQkhHLU1kbHdadWhhY1BfZC1XUFp6UW8zLTNVTFRmWnR0SFNPbWpmWE5MX00xZkNRQ3lfTHJBSlNwUjlmaFAxalpYVE9nNndzNjhKcW9YanJyX09DcDFWU2RSMXVxV3cyZnVNdTVZZGNUazlydXhfeFlJRkxqNlZfMUxaYmJJ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-24T07:45:07.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3108,7 +3108,7 @@
    {
     "titel": "‘Het gebeurt ook bij mij in de straat’: raadsleden uit Roosendaal en Bergen op Zoom zien criminaliteit zelf ook",
     "normalized": "het gebeurt ook bij mij in de straat raadsleden uit roosendaal en bergen op zoom zien criminaliteit zelf ook",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUmJvTU5OQVlCZGRpSEl1Y24tNGVqQjBIbUEzN2Z3N2xfdGxEb0F0Q21EbGc0ajN6Nk53czd5R3ViUTdVX0hzYmdJMngtQjRmc1g4enNLTVhCQWx0aTdWZ05VQndxcTFrS2tmUkpZVEV4ZGh2MXlKLWhCdW5EZUk1U25yVlBZNHo3YkJzcWFlaVRCTm90OEcydlBidEMzc0dha1Z5MHlpWk5ObUtOVzlwOGQzS1ZzR256MHBCcmVNOWRPdTY4RWNHd3BOWkMyVkswVHlkR09CZkFWZjN6M3dKcG00U1FmZEQz?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWGUwQ2hZTVhNeTNYVGotSUo4VHMwX295LThvbFhhallnNy14bEN3ZHN3VGJKN1k4a1VLNkY2b2E1SFZ1S1A5SnVPbDVUQW5URlVFNk5DT2E0MExUMjNYeWV5X2FHZFlEYXVWYzBCN19aY2NGdGp6UTA4eWxybkdrVEItNXgwLVZXYXFmT09ZX0lXcTVUUndNOEFaaGYtVE83anA4OWthQzdKZXJDWHZ2aGtMQTNsTHBJSzJ6SzY4NE1oNkg3dGg5aUpaTS1xMVJoNmN1elZ3Y0JJNS1md3dFck8ybEI2UQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T05:55:00.000Z",
     "bron": "Google Nieuws",
