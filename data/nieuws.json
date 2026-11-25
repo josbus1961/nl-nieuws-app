@@ -1,16 +1,43 @@
 {
- "gegenereerd": "2026-11-25T07:52:22.342Z",
+ "gegenereerd": "2026-11-25T08:17:43.488Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
    {
-    "titel": "Ariana Grande brengt documentaire en concertfilm over tournee uit",
-    "normalized": "ariana grande brengt documentaire en concertfilm over tournee uit",
-    "link": "https://www.rtl.nl/boulevard/artikel/5667048/ariana-grande-brengt-documentaire-en-concertfilm-over-tournee-uit",
-    "samenvatting": "Ariana Grande brengt een documentaire en concertfilm uit over haar Eternal Sunshine-tour. De films verschijnen in de Verenigde Staten op 11 en 12 december op streamingdienst Peacock. Dat meldt onder meer Rolling Stone. Of deze ook in Nederland te zien zullen zijn, is niet bekend.",
-    "datum": "2026-11-25T07:44:49.000Z",
+    "titel": "Meerdere zwaargewonden door botsing tussen vrachtwagen en lijnbus in Lelystad",
+    "normalized": "meerdere zwaargewonden door botsing tussen vrachtwagen en lijnbus in lelystad",
+    "link": "https://www.nu.nl/binnenland/6417710/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.html",
+    "samenvatting": "Bij een aanrijding tussen een vrachtwagen en een lijnbus op de Larserweg in Lelystad zijn dinsdagochtend zeker vier zwaargewonden gevallen, meldt de politie. De hulpdiensten zijn in groten getale aanwezig op de N302",
+    "datum": "2026-11-25T08:12:00.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/gvzxkn9akexw_sqr256/419/0/2400/2400/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.jpg"
+   },
+   {
+    "titel": "Franse tennisser Rinderknech ontkent weigeren dopingcontrole",
+    "normalized": "franse tennisser rinderknech ontkent weigeren dopingcontrole",
+    "link": "https://www.rtl.nl/nieuws/sport/artikel/5667051/franse-tennisser-rinderknech-ontkent-weigeren-dopingcontrole",
+    "samenvatting": "PARIJS (ANP/AFP) - De Franse tennisser Arthur Rinderknech vecht de beschuldiging aan dat hij een dopingcontrole heeft geweigerd. De nummer 57 van de wereld ontkent in een bericht op Instagram dat hij iets fout heeft gedaan.",
+    "datum": "2026-11-25T08:00:32.000Z",
     "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP251126068-1.jpg?itok=49B-sT9u&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP251126073-1.jpg?itok=deLz5c4F&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Vincent Croiset deelt liefdevol eerbetoon aan overleden vader Jules",
+    "normalized": "vincent croiset deelt liefdevol eerbetoon aan overleden vader jules",
+    "link": "https://www.rtl.nl/boulevard/artikel/5667050/vincent-croiset-ongelooflijk-trots-op-overleden-vader-jules",
+    "samenvatting": "Vincent Croiset (54) gaat zijn overleden vader Jules 'heel erg missen'. De acteur reageert op Instagram op het overlijden van zijn vader, die hij zelf Maupie noemde. 'Ik ben ongelooflijk trots op zijn roemruchte carrière in de theater-, film- en televisiewereld', schrijft Vincent.",
+    "datum": "2026-11-25T07:54:49.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP300626143-1.jpg?itok=B3cv8gmi&amp;offsetX=0&amp;offsetY=53&amp;cropWidth=1023&amp;cropHeight=575&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
+   {
+    "titel": "Groningen en Drenthe strooien vanaf nu ook buiten provinciegrens",
+    "normalized": "groningen en drenthe strooien vanaf nu ook buiten provinciegrens",
+    "link": "https://nos.nl/l/2640921",
+    "samenvatting": "De provincies Groningen en Drenthe gaan samenwerken bij het bestrijden van gladheid op de wegen. Normaal lopen strooiroutes niet verder dan de provinciegrens, maar het blijkt in dit geval een stuk efficiënter om dat wel te doen. Het bespaart niet alleen geld, maar ook CO2 en tijd, zegt de provincie.",
+    "datum": "2026-11-25T07:51:55.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/4/D/6/E/t/Q/C6Viz1seVqXfiB6ypWYEwAyWywfPug7VoSW8GL3/7x4x1088x612-1024x576.webp"
    },
    {
     "titel": "Militairen en politie beëindigen gijzeling in supermarkt Colombia, één gijzelnemer gedood",
@@ -34,7 +61,7 @@
     "titel": "Feyenoord-fans juichen voor niets na technologische fout: 'Kan door kou komen'",
     "normalized": "feyenoord fans juichen voor niets na technologische fout kan door kou komen",
     "link": "https://www.nu.nl/voetbal/6417691/feyenoord-fans-juichen-voor-niets-na-technologische-fout-kan-door-kou-komen.html",
-    "samenvatting": "Feyenoord scoorde dinsdagavond niet in de Champions League-wedstrijd tegen FC Porto (0-1), maar de technologie zei van wel. Naar verluidt kreeg de scheidsrechter door de kou een verkeerd signaal, waardoor De Kuip even voor niets juichte.",
+    "samenvatting": "Feyenoord scoorde dinsdagavond niet in de Champions League-wedstrijd tegen FC Porto (0-1), maar de doellijntechnologie zei van wel. Naar verluidt kreeg de scheidsrechter door de kou een verkeerd signaal, waarna De Kuip even voor niets juichte.",
     "datum": "2026-11-25T07:23:09.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/wmgxuldakrqd_sqr256/1491/0/4000/4000/feyenoord-fans-juichen-voor-niets-na-technologische-fout-kan-door-kou-komen.jpg"
@@ -67,13 +94,13 @@
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/25/gordonmarco.jpg?itok=L4jaoPqE&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1200&amp;cropHeight=675&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    },
    {
-    "titel": "Vader Meghan Markle opnieuw aangeklaagd voor bezit van kindermisbruikbeelden",
-    "normalized": "vader meghan markle opnieuw aangeklaagd voor bezit van kindermisbruikbeelden",
-    "link": "https://www.nu.nl/achterklap/6417697/vader-meghan-markle-opnieuw-aangeklaagd-voor-bezit-van-kindermisbruikbeelden.html",
+    "titel": "Vader Meghan Markle weer aangeklaagd voor bezit van kindermisbruikbeelden",
+    "normalized": "vader meghan markle weer aangeklaagd voor bezit van kindermisbruikbeelden",
+    "link": "https://www.nu.nl/achterklap/6417697/vader-meghan-markle-weer-aangeklaagd-voor-bezit-van-kindermisbruikbeelden.html",
     "samenvatting": "Thomas Markle, de vader van Meghan Markle, is in de Amerikaanse stad Los Angeles voor de tweede keer aangeklaagd voor het bezit van kindermisbruikbeelden. Op die beelden zou hij zelf te zien zijn. Markle werd begin november opgepakt vanwege een eerdere aanklacht.",
     "datum": "2026-11-25T06:48:14.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/tzxxeoeap0e4_sqr256/945/0/3452/3452/vader-meghan-markle-opnieuw-aangeklaagd-voor-bezit-van-kindermisbruikbeelden.jpg"
+    "foto": "https://images.nu.nl/m/tzxxeoeap0e4_sqr256/945/0/3452/3452/vader-meghan-markle-weer-aangeklaagd-voor-bezit-van-kindermisbruikbeelden.jpg"
    },
    {
     "titel": "Acteur Jules Croiset (89) overleden",
@@ -87,11 +114,11 @@
    {
     "titel": "Meerdere mensen gegijzeld in supermarkt Colombia",
     "normalized": "meerdere mensen gegijzeld in supermarkt colombia",
-    "link": "https://www.rtl.nl/nieuws/buitenland/video/46192d52-3a21-4305-b600-c0b854a2c914/gijzeling-colombia-supermarkt-overval",
+    "link": "https://www.rtl.nl/nieuws/buitenland/video/4b125cd7-6096-4d87-99f6-15a9972dd15a/gijzeling-colombia-supermarkt-overval",
     "samenvatting": "In de Colombiaanse stad Cartagena worden nog steeds zeker 20 mensen gegijzeld in een supermarkt. Gewapende mannen vluchten de winkel in na een mislukte roofoverval op een gepantserde geldtransportwagen. In de supermarkt houden ze medewerkers en winkelend publiek in gijzeling.",
     "datum": "2026-11-25T06:12:38.000Z",
     "bron": "RTL Nieuws",
-    "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=46192d52-3a21-4305-b600-c0b854a2c914"
+    "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=4b125cd7-6096-4d87-99f6-15a9972dd15a"
    },
    {
     "titel": "Acteur Jules Croiset, bekend van Medisch Centrum West en Amsterdamned, op 89-jarige leeftijd overleden",
@@ -202,13 +229,13 @@
     "foto": "https://images.nu.nl/m/paqxwz7anocl_sqr256/318/1/1439/1439/poetin-daagt-navo-opzettelijk-uit-met-raketaanval-in-polen.jpg"
    },
    {
-    "titel": "PSV laat Europese stunt uit handen glippen: 'Real Madrid heeft te veel kwaliteit'",
-    "normalized": "psv laat europese stunt uit handen glippen real madrid heeft te veel kwaliteit",
-    "link": "https://www.nu.nl/voetbal/6417690/psv-laat-europese-stunt-uit-handen-glippen-real-madrid-heeft-te-veel-kwaliteit.html",
-    "samenvatting": "Een helft lang droomde een sterk PSV van een sensationele zege bij Real Madrid (5-1-verlies) in de Champions League. Maar in de tweede helft bleken de Madrileense \"wereldtoppers\" een maatje te groot. \"Ze draaien bij je weg en het is kassa.\"",
+    "titel": "PSV droomt één helft van Europese stunt: 'Real Madrid heeft te veel kwaliteit'",
+    "normalized": "psv droomt een helft van europese stunt real madrid heeft te veel kwaliteit",
+    "link": "https://www.nu.nl/voetbal/6417690/psv-droomt-een-helft-van-europese-stunt-real-madrid-heeft-te-veel-kwaliteit.html",
+    "samenvatting": "Een sterk PSV droomde een helft lang van een sensationele zege bij Real Madrid in de Champions League. Maar in de tweede helft bleken de Madrileense \"wereldtoppers\" een maatje te groot: 5-1. \"Ze draaien bij je weg en het is kassa.\"",
     "datum": "2026-11-25T05:01:20.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/u8vxiwiay25y_sqr256/744/0/3995/3995/psv-laat-europese-stunt-uit-handen-glippen-real-madrid-heeft-te-veel-kwaliteit.jpg"
+    "foto": "https://images.nu.nl/m/u8vxiwiay25y_sqr256/744/0/3995/3995/psv-droomt-een-helft-van-europese-stunt-real-madrid-heeft-te-veel-kwaliteit.jpg"
    },
    {
     "titel": "President aanwezig bij gijzeling Colombia, nog twintig mensen vast",
@@ -245,36 +272,18 @@
     "datum": "2026-11-25T04:03:17.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/1hixwyha6sbk_sqr256/757/0/3645/3645/vader-van-anna-15-radeloos-door-sluiting-zorgvillas-alternatief-is-er-niet.jpg"
-   },
-   {
-    "titel": "Iraanse zangeres die zonder hoofddoek optrad krijgt 74 zweepslagen",
-    "normalized": "iraanse zangeres die zonder hoofddoek optrad krijgt 74 zweepslagen",
-    "link": "https://nos.nl/l/2640909",
-    "samenvatting": "De 29-jarige Iraanse zangeres Parastoo Ahmadi heeft 74 zweepslagen gekregen nadat ze had opgetreden zonder een hoofddoek. Ahmadi gaf in december van 2024 in een mouwloze jurk en zonder hoofddoek een concert in de stad Qom zonder publiek. Het optreden deelde ze op haar YouTube-kanaal. Bij de beelden ",
-    "datum": "2026-11-25T03:00:46.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/7/5/k/A/j/B/EH13Uioy5Kj6bTjwv1qZPDaJzDGDGQcY15Qnpdz/303x94x1232x693-1024x576.webp"
-   },
-   {
-    "titel": "PSV en Feyenoord lijden allebei opnieuw Champions League-nederlaag",
-    "normalized": "psv en feyenoord lijden allebei opnieuw champions league nederlaag",
-    "link": "https://www.rtl.nl/nieuws/sport/artikel/5667025/psv-feyenoord-champions-league-nederlaag-fc-porto-real-madrid",
-    "samenvatting": "Het was geen goede avond voor de twee Nederlandse clubs in de Champions League. Feyenoord verloor in De Kuip met 0-1 van FC Porto. PSV was na een goede eerste helft geen partij meer voor Real Madrid, het werd 5-1 in de Spaanse hoofdstad.",
-    "datum": "2026-11-25T02:01:05.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/25/ANP-576721848.jpg?itok=A86EgVd9&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Treinkaartjes toch nog niet duurder, in ieder geval tot 1 juni zelfde prijs",
-    "normalized": "treinkaartjes toch nog niet duurder in ieder geval tot 1 juni zelfde prijs",
-    "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5667024/treinkaartjes-zelfde-prijs-tot-1-juni-maatregel-regering-tweede",
-    "samenvatting": "Goed nieuws voor wie vaak met de trein reist: de NS verhoogt de prijs van treinkaartjes toch nog niet. Per 1 januari zouden de treinkaartjes en meeste abonnementen 4,7 procent duurder worden. Dat is nu uitgesteld tot 1 juni.",
-    "datum": "2026-11-25T01:08:26.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/25/ANP-543052378.jpg?itok=HKL8Sa_B&amp;offsetX=60&amp;offsetY=146&amp;cropWidth=879&amp;cropHeight=494&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    }
   ],
   "binnenland": [
+   {
+    "titel": "Meerdere zwaargewonden door botsing tussen vrachtwagen en lijnbus in Lelystad",
+    "normalized": "meerdere zwaargewonden door botsing tussen vrachtwagen en lijnbus in lelystad",
+    "link": "https://www.nu.nl/binnenland/6417710/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.html",
+    "samenvatting": "Bij een aanrijding tussen een vrachtwagen en een lijnbus op de Larserweg in Lelystad zijn dinsdagochtend zeker vier zwaargewonden gevallen, meldt de politie. De hulpdiensten zijn in groten getale aanwezig op de N302",
+    "datum": "2026-11-25T08:12:00.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/gvzxkn9akexw_sqr256/419/0/2400/2400/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.jpg"
+   },
    {
     "titel": "Bij zeker een kwart van alle verkeersdoden is alcohol in het spel",
     "normalized": "bij zeker een kwart van alle verkeersdoden is alcohol in het spel",
@@ -399,7 +408,7 @@
     "samenvatting": "Een docent medische hulpverlening van de Hogeschool Rotterdam is dinsdag op non-actief gesteld, nadat hij was herkend in een recente uitzending van Zembla . Daarin worden onder meer kooigevechten tussen neonazi's getoond.",
     "datum": "2026-11-24T16:58:53.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/0vxxgflakggi_sqr256/31/0/739/739/docent-die-fungeerde-als-medic-bij-neonazistische-kooigevechten-op-non-actief.jpg"
+    "foto": "https://images.nu.nl/m/0vxxgflakggi_sqr256/32/0/739/739/docent-die-fungeerde-als-medic-bij-neonazistische-kooigevechten-op-non-actief.jpg"
    },
    {
     "titel": "40ste verdachte aangehouden voor geweld Overasselt",
@@ -535,15 +544,6 @@
     "datum": "2026-11-24T09:09:17.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/jjwxl3vawva1_sqr256/394/0/2657/2657/fikse-straf-dreigt-voor-chris-j-in-zaak-lisa-geen-stoornissen-vastgesteld.jpg"
-   },
-   {
-    "titel": "Natuurijsbanen geopend: marathonschaatsster verpulvert werelduurrecord",
-    "normalized": "natuurijsbanen geopend marathonschaatsster verpulvert werelduurrecord",
-    "link": "https://nos.nl/l/2640805",
-    "samenvatting": "Op zeker drie natuurijsbanen in het land kan vanochtend worden geschaatst. Onder meer in De Lier, Doorn en Winterswijk kan de schaatspret beginnen. In De Lier hebben de ijsmeesters van ijsvereniging Hard Gaat-ie de hele nacht gewerkt om een laagje ijs op de baan te krijgen, meldt Omroep West . Om 08",
-    "datum": "2026-11-24T08:48:24.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/6/3/X/a/c/K/CHASCEhjzRFnsibkSX962zaHXxYTSECjJvzbucR/151x464x3616x2034-1024x576.webp"
    }
   ],
   "buitenland": [
@@ -560,7 +560,7 @@
     "titel": "26 mijnwerkers na hevige regenval vast in ondergelopen mijn Indonesië",
     "normalized": "26 mijnwerkers na hevige regenval vast in ondergelopen mijn indonesie",
     "link": "https://www.nu.nl/buitenland/6417694/26-mijnwerkers-na-hevige-regenval-vast-in-ondergelopen-mijn-indonesie.html",
-    "samenvatting": "Op het Indonesische eiland Java zitten sinds maandag 26 mijnwerkers vast in een ondergelopen mijn, meldt de politie. Elf andere mijnwerkers wisten te ontsnappen.",
+    "samenvatting": "Op het Indonesische eiland Java zitten sinds maandag 26 mijnwerkers vast in een ondergelopen mijn, meldt een politiewoordvoerder. Elf andere mijnwerkers wisten te ontsnappen.",
     "datum": "2026-11-25T05:56:30.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/sonx2n3a5e0o_sqr256/170/0/682/682/26-mijnwerkers-na-hevige-regenval-vast-in-ondergelopen-mijn-indonesie.jpg"
@@ -647,13 +647,13 @@
     "foto": "https://images.cdn.nos.nl/8/2/3/m/K/Y/dUStkChfDvHwdr7kTUDMPT4dQUSnJyUWvDTjCQc/151x131x880x495-880x495.webp"
    },
    {
-    "titel": "Urenlange gijzeling in Colombiaanse supermarkt beëindigd door ordetroepen",
-    "normalized": "urenlange gijzeling in colombiaanse supermarkt beeindigd door ordetroepen",
-    "link": "https://www.nu.nl/buitenland/6417686/urenlange-gijzeling-in-colombiaanse-supermarkt-beeindigd-door-ordetroepen.html",
-    "samenvatting": "Gewapende mannen die een geldtransport bij een supermarkt in Colombia probeerden te overvallen, hebben dinsdag urenlang verschillende mensen in de winkel gegijzeld. De krijgsmacht en de politie waren volop aanwezig in Cartagena. Ordetroepen hebben de gijzelingssituatie in de nacht van dinsdag op woe",
+    "titel": "Gijzeling in Colombiaanse supermarkt, overvallers eisen 2 miljoen dollar",
+    "normalized": "gijzeling in colombiaanse supermarkt overvallers eisen 2 miljoen dollar",
+    "link": "https://www.nu.nl/buitenland/6417686/gijzeling-in-colombiaanse-supermarkt-overvallers-eisen-2-miljoen-dollar.html",
+    "samenvatting": "Gewapende mannen die een geldtransport bij een supermarkt in Colombia probeerden te overvallen, hebben verschillende mensen in de winkel gegijzeld. De krijgsmacht en politie zijn volop aanwezig in Cartagena.",
     "datum": "2026-11-24T21:38:46.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/ibqxwpta2ahl_sqr256/457/0/3777/3777/urenlange-gijzeling-in-colombiaanse-supermarkt-beeindigd-door-ordetroepen.jpg"
+    "foto": "https://images.nu.nl/m/ibqxwpta2ahl_sqr256/457/0/3777/3777/gijzeling-in-colombiaanse-supermarkt-overvallers-eisen-2-miljoen-dollar.jpg"
    },
    {
     "titel": "Hongaarse premier bezoekt Oekraïne voor het eerst sinds 2015: 'Historische dag'",
@@ -1928,18 +1928,18 @@
     "foto": ""
    },
    {
-    "titel": "Onduidelijke informatie, te late bussen en lange reistijden: Stichting Scholierenvervoer ziet ERTMS-proef somber tegemoet",
-    "normalized": "onduidelijke informatie te late bussen en lange reistijden stichting scholierenvervoer ziet ertms proef somber tegemoet",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS18zbjlpZUJWZVA1TGc5NzRnandoeTdaTnFUWnN0ZUlCblIwTGd6d1RrdldsMmQ4eFVyX2Q4ZGFFcXF0a0NkYUxCdXZNSGZCazhFU1NVaEx6RmRXWDUtbUsxaWFIendnRlZXZ2YwbG10MGhHUFZLaXc1RWtSWGNKeUtvZzVDMy1pbzF1cEFhN3RUejFFQUFpX0R3UzZubTNKUTVPa2l0Zk1oV0w0RFo5dlBidFMxV1Rjc1ppaHBxamxLRU50UGdaQ19PaURkTVlFLUpHMGVyYVc4bUVlY3lJMlBQRVk3ZlN2?oc=5",
+    "titel": "Goes wil bedrijventerrein verder uitbreiden, maar komt er niet uit met grondbezitter",
+    "normalized": "goes wil bedrijventerrein verder uitbreiden maar komt er niet uit met grondbezitter",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM0V4dmhMTE54OEJIWTFxT2dZa3dZbTF0b3lSMFZYS25IRUhnTlYwSmpteUoxbFBKeTdNOHd4S2hBNXRsa1Rnd3RVcFZ3aXNHTGd5Nm1naGNod1pJM1FQLWl6VEFiY2tud2RqVHdORlc5bWxxNmtZZDEwdWJXNXRKVVhoZjFGR0hPOGRtMlJ3WHNBeTkxM2xwbWlHSHBnTDlLeExYdHJ5bHdtbmhWekhnRVhPQUh1ZzF3?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-25T06:30:00.000Z",
+    "datum": "2026-11-25T07:00:54.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "Anderhalf uur onderweg en een examen gemist: kritiek op vervangend vervoer tussen Goes en Vlissingen",
-    "normalized": "anderhalf uur onderweg en een examen gemist kritiek op vervangend vervoer tussen goes en vlissingen",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnR0bXEyaGVHUDZjY3A1aW1pN0tiS2VoS0JmQmgzbkFwbHVDMGpid1M2WjV2aTNabVZFTG5TQTI3ZU5DNHRXMk9Wc3NIYjNVdDJzc2lUMmMtZk9xWU1wWlRxRHA3WlEzUk9RbUVRZnk5ZVRLU2h1MEFRQjREa0hWRlhwZ0k1eDVZQThLcmZjQnVibmZTeUdERlVaRklLQlRCa0o1MVhXWjU2SVhZVlNXZ0dqWnBaVzdtNXNFMzBxTHh0Y0dZa3h5TU42THRNdw?oc=5",
+    "titel": "Onduidelijke informatie, te late bussen en lange reistijden: Stichting Scholierenvervoer ziet ERTMS-proef somber tegemoet",
+    "normalized": "onduidelijke informatie te late bussen en lange reistijden stichting scholierenvervoer ziet ertms proef somber tegemoet",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS18zbjlpZUJWZVA1TGc5NzRnandoeTdaTnFUWnN0ZUlCblIwTGd6d1RrdldsMmQ4eFVyX2Q4ZGFFcXF0a0NkYUxCdXZNSGZCazhFU1NVaEx6RmRXWDUtbUsxaWFIendnRlZXZ2YwbG10MGhHUFZLaXc1RWtSWGNKeUtvZzVDMy1pbzF1cEFhN3RUejFFQUFpX0R3UzZubTNKUTVPa2l0Zk1oV0w0RFo5dlBidFMxV1Rjc1ppaHBxamxLRU50UGdaQ19PaURkTVlFLUpHMGVyYVc4bUVlY3lJMlBQRVk3ZlN2?oc=5",
     "samenvatting": "",
     "datum": "2026-11-25T06:30:00.000Z",
     "bron": "Google Nieuws",
@@ -2009,6 +2009,15 @@
     "foto": ""
    },
    {
+    "titel": "Kamer volgt Staten niet en houdt Paulinapolder als mogelijke plek voor kerncentrales open",
+    "normalized": "kamer volgt staten niet en houdt paulinapolder als mogelijke plek voor kerncentrales open",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTDJ6QmVncTBoVG4zR3k0Z0s2V3JYSWlDeVVnX2g3eHl4dXcxNldUYkhtT0FIRXcyVFhJeElDTUNfekh1cHlYWFJVdHEwdmNiZlJQemh4N1hiMG9fSF9YQ09TaWVtdGNDY2hzYjBBclF1WVRmdXB4dDItblVkMzk2UGMycU9yaWN4bXlpWEFvNEpHX1RuczlyUUczcGJJc3R6bGRFeHJkSHdvUVpvcGVQY2wxTVI4YkhSSS1OYi1QYlY2bmpvbDMw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T19:30:45.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Vrachtwagen op Bellamypark toont film over femicide: 'Bewustwording is heel belangrijk'",
     "normalized": "vrachtwagen op bellamypark toont film over femicide bewustwording is heel belangrijk",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaUdqMTdLeG9XNlA3dW9PR3Y0R3JsZmlzWllfV1JKZmk3RURiOEJpdDhIWDhfN2NYYlJQODFRejV5Q3k5N0FjaGg2QUQ5UEpoYmgwc2REYm8wa25zWkpGWTB4YndUdkNybjlCNnVncV9UVnFsWWhQUmw4VUo1ZVlkMU1KTS00T0dNamxuOXA1dXI3cEVwY0IzMy1PdVN3Rkd6RVRhQlRYakJIeEgtb3FZOGRtWTd5bGVhZzNSNjdxNnktMjRYYkVnVw?oc=5",
@@ -2059,6 +2068,15 @@
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaHBPV1VNTDlDRXFraW8yVzdtRHVhazFpLUZDSF90dUxWaFZDcWF1S29teTlwVzVfb3JubUhfb0dsNnJEd2F5Tmg0R1Q5Q191TTRDWnc3MHZFTC1oaW5qRE5BTVU1MWpkM1lpRHJxbTVLbFFVcURnLXI4OURCYnRHcVpKQjRQTm5PMXhUYzNicS03Y1Uzczk4TFh3Z0laSGVsQ18tRHpFbmg?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T14:32:56.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Buurt leeft mee met eigenaar van verwoest huis in Philippine: ‘Dat zijn kinderen er niet waren is het grootste geluk geweest’",
+    "normalized": "buurt leeft mee met eigenaar van verwoest huis in philippine dat zijn kinderen er niet waren is het grootste geluk geweest",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMzZDcWFoTkdZM2lCbzVaRkFtVHdYSk4tSmVFTEoxNzFWWEdaQ1RiSEh4N0VlV0ZyRlk5RlBWUkZqaWhtOWNTaGN4MHg2Mmgyb1BoZGJ6SXhxQjVZSkl5elZ4bGFPRFVrN3ZpUURqSGZmTF9EZnRSQmJ3cy1WQV9QZF9sNGtDQTdIa3NNX3lMb01sMHdWaklwWk90U2Ezck5QeUNyWXdvMDYtUDZ0VUQ4OFpLb1Z4Qzl6aDcxSVBKNXlEWHBvdTh6dmJuNjd1V2Vxb3lJZDVCNUN4bzlsVWY1aE1XMEY0S28zNGU2aEdpRXdxQ0U?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T14:30:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2158,24 +2176,6 @@
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUy1uT3B5VmZtRmhIU0xkZU04YW1WMTYyQTBKWGNZWEpaV3VLNWc5OHRXSU9jR19YTzUzekFZREF3UHZNNUxNY2NZTi1WY3BmRWl4dFJ0bFhBYkY5YVNBVDNDaV96THZwb3JyeTZoR0JvaERBbE1PTWQ5TUVyVm9xVGgzamhVaUZF?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T10:30:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "File door ongeval met letsel bestelbus-vrachtwagen N62 Borssele",
-    "normalized": "file door ongeval met letsel bestelbus vrachtwagen n62 borssele",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUlN1UFcySkdTZnJlcEtjQmdrZFVWNmsxTjFQYUI4VEJDcFVndG01N2Rla0lUMHVwTmt2ZFEtQTJWM1dCb2dEUEkwTUVTZ21KeXJrZG9iMFY1SURSUjFlQjR4YWRTYVFHYWpsRENaQWJmcXZOTGZVVENPU2JVMG56Mmx0T296cGU4czR0ejZUQjRzU1g3ZWgxQlhsenZidlNKR2c0Mw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-24T10:22:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Vrachtwagen raakt Belgische auto op oprit N57 bij Middelburg",
-    "normalized": "vrachtwagen raakt belgische auto op oprit n57 bij middelburg",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMk11VFFPdVNkUnJFVWVaQ0pkeU1KN2RiSnM5SFcwR2xTTjJ3V2VPbTd5Xy1PcFR2YXNmTHFzX2ljZXNMdHYwMkp3X0t0SnA5ZVdOMEU5MURHdkFkYU84R19NUDBCTEJFMEIzRlViVnlvd1UtZzEyOWlHRmtqellETlZJT2N5OUlqbFVYY3JNQXBNTkk5MFVpNEE3UFRiV29tVVJnOTFUWTJXeVNFQnpZMQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-24T10:04:21.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2481,6 +2481,15 @@
     "foto": ""
    },
    {
+    "titel": "Rubriek De Vermues: Een koe als boosdoener?",
+    "normalized": "rubriek de vermues een koe als boosdoener",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWTNfQUVVUXI0aExOTkw0cnBXWjhmY1N2UGstSlJ4WWRYcUw3bDlSR2ZrUzFCcGs0YTZqWFFCQ01yajB3c242RjhIdjQ0Sm5MdkY1VGJ3Z2plTmZFN090blZyY0d2MklCSWlDZGRtZzh4Z0RHNXBpSm5wVUd3V3AxUDNkNkNQeFNiMmNYd0djZGFwUjBmRnJuSg?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-20T18:55:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Jeugdzorg in Borsele: 11 procent van de jongeren krijgt hulp",
     "normalized": "jeugdzorg in borsele 11 procent van de jongeren krijgt hulp",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWxtWGpzNG1tRl9YR0I2eDBmT1Z2a1hNd01CcW5yQmZSaXZxRUtCWTFJSk9HTzQ2OTlTTWZ2VW5RbElyQkVFeFBPUkFDYjB6NlI5aGlBMkhwTVNwOFNGVnJXQjFUQkZJcXcwejhvXzU1R2lJR2JMVGdpal95QnMxRXRTdFozYllGZGIzWVlpRTNKR0lzbnFUbU4zLXg?oc=5",
@@ -2630,15 +2639,6 @@
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVpFVHBDZ0h2aDNPVjl2VS1UUG1HZTFTMmhqLUdPTWx6ZGJsVHFMNDNEUmllajBRdEZYN2tPTjN0aE1hdVFIWFlEZGFjQU5vQklRRlYzODFTbnZlcTVHZktwUmtzRTdVaDBaSW1faGowcmdpcG9hMHlhczQyTWJYOVJDUzdGaC1WZkZGeXdiaS1yQ0taLU9uWExacGcwUTVobFdjVGc3cw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-13T07:51:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Borsele onderzoekt verlenging huidige noodopvang en langdurige opvang",
-    "normalized": "borsele onderzoekt verlenging huidige noodopvang en langdurige opvang",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPak1VUlhDSDNXMVJiem5hclJBbUVmWGFKS0x5anpsc3J6NTNFQnZxZ0FGMk1rN2RyTjJjb2JkSFN6UXd0T0QwRmt4QkEwT2hfNGJSMU9jYzk5RElqQnZIRk9pdzFoZXVURTJRcTlMNS1YN3I1dU9waUFGcjN6bU50a1FlNlh4bG5EY0tKMG0wazAzd0xEZHk0YlBONkdfalQyQm1DaEFfaDRtNFhtZXE5YXpn?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-11T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3144,7 +3144,7 @@
    {
     "titel": "Gewonde bij ongeval op A4 bij Bergen op Zoom, rijstrook dicht",
     "normalized": "gewonde bij ongeval op a4 bij bergen op zoom rijstrook dicht",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbnNBUVJHLWpWdG53Z2IyalJUSEtnRE5aVUJLdDFsdFU0bkdOcTZGU1BJZmpVSTJydVpucy1HbEd5b3FWTFpoakxXLThLWmZULW1Bd1J6aVVwdkZlNnlLOG5kdEZtVUNXR180dnhEaV9qcXdtTkxRR2U5c0FlVkdyRmNEY0hCQUNmaUxBQ3pJc1NDTzR4UklFZXRWc3JlaFVuemc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUVJwVHE4d1lQV25Xcnp5Q3EtWWZYbUREUkxUOVBlLTY4MTVueGV1ZWxzVTFqR3NWLWFHYXpGTU5mMHctMm9ReDRVUnViR05RNVozUjVqYzRJcW1zY0d2NnlTallldUxkTjZ0cVlBN01MYXd3R3NWd1pFU0R4WUptejZtcnlZLVdSX09GUm81VU9aLUdNMGZDSWtxVElGVHlWaG5nZmZabTdqU0tyemRITGRHQjZRX2szTWlOcg?oc=5",
     "samenvatting": "",
     "datum": "2026-11-23T11:52:00.000Z",
     "bron": "Google Nieuws",
@@ -3214,11 +3214,11 @@
     "foto": ""
    },
    {
-    "titel": "Kind op fiets zwaargewond na ongeluk in Roosendaal, bestuurder vlucht",
-    "normalized": "kind op fiets zwaargewond na ongeluk in roosendaal bestuurder vlucht",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3hyV1NBVGdCcDh1SFItZ2MyTE5QM2dLR2V3ZnpjemJmbWFrRmJhcUpzV0FiR1pwdURuUmhXRmtoSnVwNU9fb3Jab2ltN0VwREw1emI4eFVkemhPX3lOSEVSTHhOR2JQVGVlRTRQN3d6bmxOMlFCU0VWTllsbHZlZnBrS2hpTXB0VUNaUFVfUlZabFlZLWgxRV9BLWZBaWoxbnpsS05tb3hDeU9IWkRkRnd3?oc=5",
+    "titel": "Fietser zwaargewond na aanrijding in Roosendaal, automobilist rijdt door",
+    "normalized": "fietser zwaargewond na aanrijding in roosendaal automobilist rijdt door",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmNjTEZleDRkUzV3TEpQeEhpTVhkbzBjVVRqMXplVVYyNUQxdC1FZEpTeHVzSVRCbmdtRWxLODhaZGFwVjY0YURkUUJJVGEwMlVEaXlTX0szOUhKV2RuOHJ0eExDNzBVQ0FITVRuZ19iVEhGNW9RQ016VWFVS0pfTms4dHpOTUV2VTJLWnFXRzJmTC1DbWNjU2JScE5BZ05PSU5kam9lalpRNjRwZmc?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-21T09:37:30.000Z",
+    "datum": "2026-11-21T10:11:30.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
