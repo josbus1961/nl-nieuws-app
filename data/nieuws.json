@@ -1,8 +1,26 @@
 {
- "gegenereerd": "2026-11-25T04:04:00.490Z",
+ "gegenereerd": "2026-11-25T04:29:22.264Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Nederland geeft gestolen munten uit VOC-schip terug aan Australië",
+    "normalized": "nederland geeft gestolen munten uit voc schip terug aan australie",
+    "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5667027/zeldzame-zilveren-munten-voc-schip-australie-nederland-1712",
+    "samenvatting": "Nederland heeft twee zilveren munten teruggegeven aan Australië. Het gaat om cultureel erfgoed dat werd gestolen uit VOC-schip Zuytdorp, dat in 1712 zonk voor de kust van West-Australië.",
+    "datum": "2026-11-25T04:26:06.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/25/Zuytdorp%20coins%20repatriation%20ceremony-47.jpg?itok=oKIupqTg&amp;offsetX=0&amp;offsetY=32&amp;cropWidth=1918&amp;cropHeight=1079&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
+   {
+    "titel": "Sluiting zorgvilla's levert grote zorgen op bij gezin van Anna (15): 'Acuut probleem'",
+    "normalized": "sluiting zorgvilla s levert grote zorgen op bij gezin van anna 15 acuut probleem",
+    "link": "https://www.nu.nl/binnenland/6417629/sluiting-zorgvillas-levert-grote-zorgen-op-bij-gezin-van-anna-15-acuut-probleem.html",
+    "samenvatting": "De familie Baart leunt voor de zware zorg voor dochter Anna (15) op enkele logeerdagen per maand bij Villa ExpertCare. Die opvang stopt in december, zonder alternatief. De Tweede Kamer debatteert woensdag over dit acute probleem, dat tientallen gezinnen treft. \"Voelt als roepen in de woestijn.\"",
+    "datum": "2026-11-25T04:03:17.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/1hixwyha6sbk_sqr256/757/0/3645/3645/sluiting-zorgvillas-levert-grote-zorgen-op-bij-gezin-van-anna-15-acuut-probleem.jpg"
+   },
    {
     "titel": "Iraanse zangeres die zonder hoofddoek optrad krijgt 74 zweepslagen",
     "normalized": "iraanse zangeres die zonder hoofddoek optrad krijgt 74 zweepslagen",
@@ -254,27 +272,18 @@
     "datum": "2026-11-24T20:55:07.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/24/ANP-575069836.jpg?itok=jX9Dod0L&amp;offsetX=0&amp;offsetY=65&amp;cropWidth=1279&amp;cropHeight=719&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
-   },
-   {
-    "titel": "OM eist 3 jaar cel tegen man voor gewelddadige verkrachting in 1993",
-    "normalized": "om eist 3 jaar cel tegen man voor gewelddadige verkrachting in 1993",
-    "link": "https://www.nu.nl/misdaad/6417681/om-eist-3-jaar-cel-tegen-man-voor-gewelddadige-verkrachting-in-1993.html",
-    "samenvatting": "Het Openbaar Ministerie heeft dinsdag drie jaar gevangenisstraf geëist tegen een 53-jarige man vanwege een verkrachting in 1993. De man uit Loenen zou hebben ingebroken in de woning van een vrouw en haar onder bedreiging van een mes hebben verkracht.",
-    "datum": "2026-11-24T20:50:57.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/wakxukuakqdf_sqr256/839/0/2080/2080/om-eist-3-jaar-cel-tegen-man-voor-gewelddadige-verkrachting-in-1993.jpg"
-   },
-   {
-    "titel": "Grote droom van OGENE-zangeres Amy Vol komt dichterbij na medisch onderzoek",
-    "normalized": "grote droom van ogene zangeres amy vol komt dichterbij na medisch onderzoek",
-    "link": "https://www.rtl.nl/boulevard/artikel/5667006/grote-droom-ogene-zangeres-amy-vol-komt-dichterbij-medisch-onderzoek",
-    "samenvatting": "OGENE-zangeres Amy Vol (31) droomt ervan om moeder te worden, maar haar gezondheid maakt die wens niet vanzelfsprekend. De zangeres heeft een aangeboren hart- en longafwijking, waardoor een zwangerschap intensieve, medische begeleiding vraagt. In een interview met &C vertelt ze over haar gezondheid ",
-    "datum": "2026-11-24T20:40:59.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/24/ANP-552436452.jpg?itok=O-RLnNdd&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    }
   ],
   "binnenland": [
+   {
+    "titel": "Sluiting zorgvilla's levert grote zorgen op bij gezin van Anna (15): 'Acuut probleem'",
+    "normalized": "sluiting zorgvilla s levert grote zorgen op bij gezin van anna 15 acuut probleem",
+    "link": "https://www.nu.nl/binnenland/6417629/sluiting-zorgvillas-levert-grote-zorgen-op-bij-gezin-van-anna-15-acuut-probleem.html",
+    "samenvatting": "De familie Baart leunt voor de zware zorg voor dochter Anna (15) op enkele logeerdagen per maand bij Villa ExpertCare. Die opvang stopt in december, zonder alternatief. De Tweede Kamer debatteert woensdag over dit acute probleem, dat tientallen gezinnen treft. \"Voelt als roepen in de woestijn.\"",
+    "datum": "2026-11-25T04:03:17.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/1hixwyha6sbk_sqr256/757/0/3645/3645/sluiting-zorgvillas-levert-grote-zorgen-op-bij-gezin-van-anna-15-acuut-probleem.jpg"
+   },
    {
     "titel": "Korte tijd grote brand op terrein Tata Steel",
     "normalized": "korte tijd grote brand op terrein tata steel",
@@ -535,15 +544,6 @@
     "datum": "2026-11-24T06:00:01.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/2/H/n/P/w/Y/pBvndprNyA4BhV1B8BbZfyKRPSbSnLhKppMNtES/282x100x3296x1854-1024x576.webp"
-   },
-   {
-    "titel": "Wekdienst 24/11: Strafeis tegen Tarwekamp-verdachten • PSV en Feyenoord Europees in actie",
-    "normalized": "wekdienst 24 11 strafeis tegen tarwekamp verdachten psv en feyenoord europees in actie",
-    "link": "https://nos.nl/l/2640787",
-    "samenvatting": "Goedemorgen! In Den Haag wordt vandaag de strafeis tegen de vier verdachten van de fatale explosie aan de Tarwekamp bekendgemaakt. Ook komen vanavond PSV en Feyenoord in actie in de Champions League. Eerst het weer: Het is koud en het wordt vandaag op veel plekken zonnig. Lokaal kan het mistig zijn.",
-    "datum": "2026-11-24T05:37:58.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/4/8/o/b/C/R/BfrJ3Ma9SGzXtQPUsDkavq1MmSH8ygLb9JoiPm6/0x0x1920x1080-1024x576.webp"
    }
   ],
   "buitenland": [
@@ -1400,13 +1400,13 @@
     "foto": "https://images.cdn.nos.nl/1/1/i/f/p/H/cmh9ttCLy9xPhHGwTGQxabeRFVnAChGQMZP22J/190x54x3568x2007-1024x576.webp"
    },
    {
-    "titel": "Live | Teruglezen CL | Feyenoord en PSV beleven pijnlijke avond: 'We werden overlopen'",
-    "normalized": "live teruglezen cl feyenoord en psv beleven pijnlijke avond we werden overlopen",
-    "link": "https://www.nu.nl/voetbal/6417659/teruglezen-cl-feyenoord-en-psv-beleven-pijnlijke-avond-we-werden-overlopen.html",
+    "titel": "Live | CL | Feyenoord en PSV beleven pijnlijke avond: 'We werden overlopen'",
+    "normalized": "live cl feyenoord en psv beleven pijnlijke avond we werden overlopen",
+    "link": "https://www.nu.nl/voetbal/6417659/cl-feyenoord-en-psv-beleven-pijnlijke-avond-we-werden-overlopen.html",
     "samenvatting": "Welkom in dit liveblog! Hier houden wij, Suus ten Kate en Lieve Wils, je op de hoogte van de wedstrijden in de Champions League, met speciale aandacht voor Real Madrid-PSV en Feyenoord-FC Porto (21.00 uur). Veel plezier!",
     "datum": "2026-11-24T17:07:23.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/a9pxrqeaovjf_sqr256/909/0/2854/2854/teruglezen-cl-feyenoord-en-psv-beleven-pijnlijke-avond-we-werden-overlopen.jpg"
+    "foto": "https://images.nu.nl/m/gqyxd43adlyu_sqr256/494/0/3998/3998/cl-feyenoord-en-psv-beleven-pijnlijke-avond-we-werden-overlopen.jpg"
    },
    {
     "titel": "'Verbaasde' Marokkaanse voetbalbond gaat in beroep tegen uitspraak Afrika Cup",
@@ -2126,6 +2126,15 @@
     "foto": ""
    },
    {
+    "titel": "Fietser gewond aan onderbeen na aanrijding Oost-Souburg",
+    "normalized": "fietser gewond aan onderbeen na aanrijding oost souburg",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUxJS1h2bjlhZF82a09NVzQ2OEY0RWpZODhNdlVlTE1Md0hWZTFkbFk1ZjJwZnoteF84MTRyQUdxRVpqcnIydzRRUFZFWjBqOXdfaWl1QkMyZURUUDkwVS11Y0RoR1BScE1sNTZFeDlBZkRLaXVwM1kwVV95TlA5a3lJbnlLZl8yN0MyTFdESU1GcFF5UTd2ZE53?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T10:03:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Tim in Nieuw-Zeeland: ‘Kunstmest strooien met de helikopter!’",
     "normalized": "tim in nieuw zeeland kunstmest strooien met de helikopter",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSFZQWE9DYm55aWF6bU5oTDZjMEkwOFRsazNLa2cwX014aEpRR0RmV0lDd1FjWDV6YWtVZWdaWXZzeXM1NU13VkJnNGJING40dUxpdkhDRHpiSVZqTWVqR1VnVjdQTDdXVGxtTVFvZnlfcTMyRTg3THVQc2t2R2ZhZzFtSjkxRnJRWkFPRnMzNUIwbUswRVVaY0hiYmxhR3RzUmZVWg?oc=5",
@@ -2167,15 +2176,6 @@
     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcFdvY2RWZHc3MnFlSkVsamVyX2NNNjQ0eWhOMHE4Mk4xMkY5eE82NHpRbjRQT1hoeGlWQmIySWFQY0dTa2pmRWdxY3huQ0xXaFhmRXJLRFJQUHk0MTF5Zy1zMXAxaEZ2ZmV5NHZpNk1pN1d0ODU2a2U4RHdHQjR2QUN0TWduNkdJYmRUekRyWnM0TjFHUnJBNmwyTlE4ajMtenllLTlmaUluVTZPZENJaWxrTHBVRWZVZUxjWHFjNm9jNWpGUklHZHBIOExHdTZIVUQydktIcEhnRy1HQkZfczhPbmtnLUVfZGhpSHViMXdSX1VvTTU5UktGdE91WGJXR0tsTkwtUlQ0VEpqZkE?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T07:36:25.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Kenneth (17) en Lars (14) willen dat Zeeland meer naar jongeren luistert: 'We hopen dat er nu actie komt'",
-    "normalized": "kenneth 17 en lars 14 willen dat zeeland meer naar jongeren luistert we hopen dat er nu actie komt",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTBxaThrSnA0YjZIN1hnNFdxc052OURYMm90R3F1T2dDY2RMYzBGWllmQkx3aUFmY002aWhPSFRhaHJROU0zaHhaRzVTWlVoVGE0UjhoY29XMGxYb2xKRjlMYTVhd2kzZTNpVUc3RFZEaEtGa1pQQTVVOXBEYndRWV91NlJqX1gwX1h0aWRJWk96eUlOMm9qdmNNeXI4NlV6bXV3X0hyNFpFaUhKUU80SDZOd055NGcyU0NGSEVXMnktVGRZdk9LRlpnc3gyakhBQ2d1bmJLbFRiTjA?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-24T05:31:15.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2499,15 +2499,6 @@
     "foto": ""
    },
    {
-    "titel": "Recordaantal kittens bij Dierenasiel De Bevelanden",
-    "normalized": "recordaantal kittens bij dierenasiel de bevelanden",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUlpZbUU2ZkYwOFJXSXhZYXpfcWk3RmE5MXd0YW9mbG5ZTDgtMHBIaE5TRm5GYWtDX0p6SWJ5TW53Q0YzWEZWdHozNWtLSVlGRkkya0dfREpvTWl0ZXdRbnFKVWptTldoSWlodU82SFFMbzBUVV9iTEMxUUdrRE5pZnJSMmJZR2ZPR2pxZkFrcmdvNncxNVZMTUNHMVFLZXl3Vmpr?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-20T07:25:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "€49 miljoen voor Zeeuwse gebieden waar stroom aan land komt",
     "normalized": "49 miljoen voor zeeuwse gebieden waar stroom aan land komt",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUdybmg2YVBOM1BRVjFEbjdQS2owUVlRZnpYMmJCZi1WYzJ3dlA3MXgtbk5YZjdLQnM5OThOdjEtRTh2XzB4QkxpcVdBZy1xZThDQ0ZTVjBibmIyTkI1VU9FR1RDMUxfaVRFQ1JUVzhIbmZtRTBYamZWX2pMZGl6Vk1pdWp5ZHFIVndENnJLUG1US0xqeTd6QnRVTEV6aENVWnp1cWxySjBBVG5RZUVTaWU4NA?oc=5",
@@ -2616,15 +2607,6 @@
     "foto": ""
    },
    {
-    "titel": "Woningbrand Everingestraat Borssele snel geblust",
-    "normalized": "woningbrand everingestraat borssele snel geblust",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVThjX0hta0RmTVR6akZnY0Y1M2Z4OFRDaHJsb3NEdEUwM1Y3SDBtbkdjNGdENGpjMDFpZXFNTFVxRkc2RldEWThvaEhBZWMzUDZ5Y05fVDZQTEtlamh5NG1RcGVOMzk2MlpBZmZIWll2NlU1VndRNWY4MU1yM19XSmZuMV9VTnJySjJKdF9ZOExIRDE3UVlqbm9fanpHZmJp?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-17T06:49:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Pendelbus Westerscheldetunnel vanaf 18 november te reserveren",
     "normalized": "pendelbus westerscheldetunnel vanaf 18 november te reserveren",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVklBUGVSem5FcXg4VXJBUmV6Wk8xcEVFclZ0Umt2MndaT2tqbG56NElhWkh1MUlSNXdsbVZEdnBqOFV5YkxCTU1qOWE3alJRV2czd2VtZHh3ejRVYlFtT01IS3dwa20xOFh4U1lBNzNGU040aXM0OVlDVndDYmE3T2RnamFYTTk3aFg4cmtCcDg0RnF3cUVsV2JMYVluMjNfc1dGc3FuSmdUekFnT2xsdjNR?oc=5",
@@ -2652,6 +2634,15 @@
     "foto": ""
    },
    {
+    "titel": "Borsele onderzoekt verlenging huidige noodopvang en langdurige opvang",
+    "normalized": "borsele onderzoekt verlenging huidige noodopvang en langdurige opvang",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPak1VUlhDSDNXMVJiem5hclJBbUVmWGFKS0x5anpsc3J6NTNFQnZxZ0FGMk1rN2RyTjJjb2JkSFN6UXd0T0QwRmt4QkEwT2hfNGJSMU9jYzk5RElqQnZIRk9pdzFoZXVURTJRcTlMNS1YN3I1dU9waUFGcjN6bU50a1FlNlh4bG5EY0tKMG0wazAzd0xEZHk0YlBONkdfalQyQm1DaEFfaDRtNFhtZXE5YXpn?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-11T08:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Zeeuwse plaatsnamen en dorpswapens op komborden Borsele",
     "normalized": "zeeuwse plaatsnamen en dorpswapens op komborden borsele",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDJfS0o2WFZIWWg5RXRQZk5mcVlGamlzTk52Y1FCSDctSmJPVXNDMjFQYWRNay1ya2pteEdmRFF6MFpOcFUyaGFHSHRDbGg5cF85LUR5UXIxa2ZhcVgyMTN3eXhvbzJ1d28xal9jMGpTQTg4SnI4bXpLbFFnLWFKSFNHbEx1QXdLOGlRaDluZ0lZbGliYlhtWFJHYkpGSXU1N2c?oc=5",
@@ -2673,6 +2664,15 @@
     "titel": "Defensie houdt militaire oefening in gemeente Borsele",
     "normalized": "defensie houdt militaire oefening in gemeente borsele",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2gtRGtHQllKejRIMUdNV1Y2b0RadDFxS0ZOY3ZpcHdNandqZzFzXzhvNERVcjdSXzJUSks2VElmb3BVcVFpVzg1Zkd5QWdkYzJRbVhXMEhUUkFPYmRhdnFqLVAycU01cHpNeGhXMWpGbVljdkZnUmVIRS12R3U2OGd0ckNwV2VmTF9DWmV5SFlpTVhK?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-10T08:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Nieuwe subsidieronde voor cultuur- en erfgoedinitiatieven in North Sea Port District",
+    "normalized": "nieuwe subsidieronde voor cultuur en erfgoedinitiatieven in north sea port district",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0xVMmdGUENkYjkydHBUR2hoUW14ZDFiQzl2RVNfajBfZVpxRS1EcjRfWTNRNTJzNXFkamp4SV9DSUU5QVRKSEVqckl0dVZMSThqclc5TW9GTzNsckpOeHdneEprMFVReDcxN3pHaVNTUEVSTW94TjFDeGh1UFVrWTM0VURZTWw3bnd2a20xLVBFY2Z4cHBZaHhIMXNvME1wTnhsOHVWdDhQcFFxeVEyMg?oc=5",
     "samenvatting": "",
     "datum": "2026-11-10T08:00:00.000Z",
     "bron": "Google Nieuws",
@@ -3016,6 +3016,15 @@
     "foto": ""
    },
    {
+    "titel": "Jan (1940-2026) werd verliefd op een ander, maar Mariëtte en hij bleven maatjes: ‘We hadden zoveel moois samen’",
+    "normalized": "jan 1940 2026 werd verliefd op een ander maar mariette en hij bleven maatjes we hadden zoveel moois samen",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSnJlU1JRZGJQUUZROVlvTFdCY0cyNEJ1TXVtX0loZ0J3OS1pNjJManVkTUxlSVBWLWhYQzc3MWViNlNxbldrWGNXUVZyMTJ5VXNRWFFBR3NDY1RpSHRtRDFpaFJHQ0JBOUE2LUNkbEIxQXR0RlZOMmNuNHYwdDhjbkJNNDVfSHl2TlR2TVZOei11UEVUcFlodFVDQnZWUnVZWG1PQWRtNEV3OUVsMGwxTHlEYW1UNmFMLU5STmZ6WXlSZ2FiZE9LTlZWX3ZMWWgtNzFOalgtQjA2YTE4Mm1oMkFHdWk?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-24T15:02:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Welke verdachte situaties zie jij in Bergen op Zoom of Roosendaal?",
     "normalized": "welke verdachte situaties zie jij in bergen op zoom of roosendaal",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbHdvT3ZKUTNOZ25FZnA4bmdkUlZROE5jVWlyXzMtRDJOdl9fOHBLRThET0xiclBJTWp5MEpDMU9yNHFLRWZVRlltM196dks3NXNkZE1wa0J1NmtMNV9pRVliakdUQ21mNzhlWlc4Q2RWRV9sSFVGd0d0OGdLRzY5NTlNaUNlNUxlVm9FWHRJTEthdnMxTG1sQ2dqNFlZMWl2ZUl0Z0NKZ0ZjX2hG?oc=5",
@@ -3135,7 +3144,7 @@
    {
     "titel": "Gewonde bij ongeval op A4 bij Bergen op Zoom, rijstrook dicht",
     "normalized": "gewonde bij ongeval op a4 bij bergen op zoom rijstrook dicht",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbnNBUVJHLWpWdG53Z2IyalJUSEtnRE5aVUJLdDFsdFU0bkdOcTZGU1BJZmpVSTJydVpucy1HbEd5b3FWTFpoakxXLThLWmZULW1Bd1J6aVVwdkZlNnlLOG5kdEZtVUNXR180dnhEaV9qcXdtTkxRR2U5c0FlVkdyRmNEY0hCQUNmaUxBQ3pJc1NDTzR4UklFZXRWc3JlaFVuemc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUVJwVHE4d1lQV25Xcnp5Q3EtWWZYbUREUkxUOVBlLTY4MTVueGV1ZWxzVTFqR3NWLWFHYXpGTU5mMHctMm9ReDRVUnViR05RNVozUjVqYzRJcW1zY0d2NnlTallldUxkTjZ0cVlBN01MYXd3R3NWd1pFU0R4WUptejZtcnlZLVdSX09GUm81VU9aLUdNMGZDSWtxVElGVHlWaG5nZmZabTdqU0tyemRITGRHQjZRX2szTWlOcg?oc=5",
     "samenvatting": "",
     "datum": "2026-11-23T11:52:00.000Z",
     "bron": "Google Nieuws",
