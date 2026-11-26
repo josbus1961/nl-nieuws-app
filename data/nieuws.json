@@ -1,8 +1,35 @@
 {
- "gegenereerd": "2026-11-26T03:54:52.947Z",
+ "gegenereerd": "2026-11-26T04:20:17.143Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Deel van pier in Californië stort in door hoge vloedgolf",
+    "normalized": "deel van pier in californie stort in door hoge vloedgolf",
+    "link": "https://www.rtl.nl/nieuws/video/video/1dbc4b00-8c9d-4698-a703-6bd3e7f71f05/deel-van-pier-californie-stort-door-hoge",
+    "samenvatting": "Een deel van een pier in de buurt van San Francisco is ingestort door een vloedgolf. De pier had eerder al structurele schade opgelopen en was dicht voor het publiek.",
+    "datum": "2026-11-26T04:04:02.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=1dbc4b00-8c9d-4698-a703-6bd3e7f71f05"
+   },
+   {
+    "titel": "Brad Pitt en Angelina Jolie treffen na jarenlange ruzie schikking over wijngaard",
+    "normalized": "brad pitt en angelina jolie treffen na jarenlange ruzie schikking over wijngaard",
+    "link": "https://nos.nl/l/2641040",
+    "samenvatting": "Brad Pitt en Angelina Jolie hebben een schikking getroffen in de jarenlang slepende zaak over de verkoop van een wijndomein in Frankrijk. Hiermee lijken alle juridische procedures tussen het voormalige getrouwde stel voorbij. De zaak begon in 2022 toen Pitt zijn ex-vrouw voor de rechter sleepte omda",
+    "datum": "2026-11-26T04:02:51.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/1/6/y/U/Q/J/XsFgxwm5LL8bA3t15L32kU2VBZ5gC5De3GEZ9Nr/0x0x1920x1080-1024x576.webp"
+   },
+   {
+    "titel": "Zelfs Vredesraad van Trump is niet optimistisch over vredesproces in Gaza",
+    "normalized": "zelfs vredesraad van trump is niet optimistisch over vredesproces in gaza",
+    "link": "https://www.nu.nl/midden-oostenconflict/6417765/zelfs-vredesraad-van-trump-is-niet-optimistisch-over-vredesproces-in-gaza.html",
+    "samenvatting": "Terwijl de formatie loopt in Israël, verschuift de internationale aandacht langzaam terug naar Gaza. De winter dreigt catastrofaal te worden voor Gazanen, het vredesproces zit muurvast en het Amerikaanse geduld met Israël lijkt op te raken.",
+    "datum": "2026-11-26T03:57:35.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/wq5xiovaik6y_sqr256/800/577/3583/3583/zelfs-vredesraad-van-trump-is-niet-optimistisch-over-vredesproces-in-gaza.jpg"
+   },
    {
     "titel": "Aanhoudingen in vier oude zedenzaken door nieuw DNA-onderzoek: 'Goud in handen'",
     "normalized": "aanhoudingen in vier oude zedenzaken door nieuw dna onderzoek goud in handen",
@@ -38,15 +65,6 @@
     "datum": "2026-11-26T02:09:35.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/2/7/3/U/r/m/E3x8SqL8h6xU4LeGJqAk826SjxNMBg5uo7kun8x/1219x784x2752x1548-1024x576.webp"
-   },
-   {
-    "titel": "Brad Pitt en Angelina Jolie schikken over Franse wijngaard",
-    "normalized": "brad pitt en angelina jolie schikken over franse wijngaard",
-    "link": "https://www.rtl.nl/boulevard/artikel/5667238/brad-pitt-en-angelina-jolie-schikken-over-franse-wijngaard",
-    "samenvatting": "Hollywoodsterren Brad Pitt en Angelina hebben met een schikking een jarenlange ruzie over het eigendom van hun Franse kasteel en wijngaard beëindigd. Dat heeft het voormalige koppel woensdag bekendgemaakt in een gezamenlijke verklaring.",
-    "datum": "2026-11-26T02:02:43.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP261126004-1.jpg?itok=3TTnheyD&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    },
    {
     "titel": "Grafsteen Matthew Perry aangepast: verwijzing naar Friends is weg",
@@ -254,24 +272,6 @@
     "datum": "2026-11-25T20:52:22.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=cc555c16-f075-4547-8861-9456d35890f6"
-   },
-   {
-    "titel": "Video | Vlammenzee bij dodelijk ongeluk op Egyptische snelweg",
-    "normalized": "video vlammenzee bij dodelijk ongeluk op egyptische snelweg",
-    "link": "https://www.nu.nl/332639/video/vlammenzee-bij-dodelijk-ongeluk-op-egyptische-snelweg.html",
-    "samenvatting": "",
-    "datum": "2026-11-25T20:39:54.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/gr8x14fabtc5_sqr256/319/0/1080/1080/vlammenzee-bij-dodelijk-ongeluk-op-egyptische-snelweg.jpg"
-   },
-   {
-    "titel": "Kunnen we de aarde redden van een asteroïde? Deze missie bewijst van wel",
-    "normalized": "kunnen we de aarde redden van een asteroide deze missie bewijst van wel",
-    "link": "https://www.rtl.nl/nieuws/opmerkelijk/artikel/5666886/historische-ruimtemissie-blijkt-geslaagd-mens-kan-asteroide-van",
-    "samenvatting": "Wetenschappers vermoedden het al, maar nu blijkt het ook uit de beelden: voor het eerst heeft de mens een asteroïde doen veranderen van koers. Het is de eerste test met planetaire defensie: de bescherming van onze aarde tegen ruimtepuin dat op ons afkomt. Vandaag deelde ruimtevaartorganisatie ESA de",
-    "datum": "2026-11-25T20:37:52.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/24/TIRI_261106.gif?itok=uukZ2oeY&amp;offsetX=0&amp;offsetY=101&amp;cropWidth=370&amp;cropHeight=208&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    }
   ],
   "binnenland": [
@@ -548,6 +548,15 @@
   ],
   "buitenland": [
    {
+    "titel": "Zelfs Vredesraad van Trump is niet optimistisch over vredesproces in Gaza",
+    "normalized": "zelfs vredesraad van trump is niet optimistisch over vredesproces in gaza",
+    "link": "https://www.nu.nl/midden-oostenconflict/6417765/zelfs-vredesraad-van-trump-is-niet-optimistisch-over-vredesproces-in-gaza.html",
+    "samenvatting": "Terwijl de formatie loopt in Israël, verschuift de internationale aandacht langzaam terug naar Gaza. De winter dreigt catastrofaal te worden voor Gazanen, het vredesproces zit muurvast en het Amerikaanse geduld met Israël lijkt op te raken.",
+    "datum": "2026-11-26T03:57:35.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/wq5xiovaik6y_sqr256/800/577/3583/3583/zelfs-vredesraad-van-trump-is-niet-optimistisch-over-vredesproces-in-gaza.jpg"
+   },
+   {
     "titel": "Inslag op ruimterots uit 2022 veroorzaakte krater zo groot als een stadion",
     "normalized": "inslag op ruimterots uit 2022 veroorzaakte krater zo groot als een stadion",
     "link": "https://nos.nl/l/2641039",
@@ -605,7 +614,7 @@
     "titel": "Zeker dertig doden doordat auto met benzine ontploft op ringweg Caïro",
     "normalized": "zeker dertig doden doordat auto met benzine ontploft op ringweg cairo",
     "link": "https://www.nu.nl/buitenland/6417797/zeker-dertig-doden-doordat-auto-met-benzine-ontploft-op-ringweg-cairo.html",
-    "samenvatting": "Op de ringweg van Caïro heeft woensdag een groot ongeluk plaatsgevonden. Zeker dertig mensen kwamen om het leven en vijftien personen raakten gewond nadat een auto die benzine vervoerde vlam had gevat.",
+    "samenvatting": "Op de ringweg van Caïro heeft woensdag een groot ongeluk plaatsgevonden. 31 mensen kwamen om het leven en 21 personen raakten gewond nadat een auto die benzine vervoerde vlam had gevat.",
     "datum": "2026-11-25T20:13:32.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/gv9xigoaqqzs_sqr256/0/4/3827/3827/zeker-dertig-doden-doordat-auto-met-benzine-ontploft-op-ringweg-cairo.jpg"
@@ -807,15 +816,6 @@
     "datum": "2026-11-25T09:41:08.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/3/A/r/A/H/P/GfVdVecMKuHzL1nhqzfgqxzjqyUEGfy7XvbALJU/309x367x880x495-880x495.webp"
-   },
-   {
-    "titel": "Nederland geeft munten uit VOC-tijd terug aan Australië",
-    "normalized": "nederland geeft munten uit voc tijd terug aan australie",
-    "link": "https://nos.nl/l/2640940",
-    "samenvatting": "Nederland heeft twee zilveren munten uit de VOC-tijd teruggegeven aan Australië. De munten kwamen uit een VOC-schip dat in 1712 zonk voor de westkust van Australië. De munten worden gezien als Australisch cultureel erfgoed. Ze waren gestolen uit het wrak van het schip Zuytdorp. \"Meer dan drie eeuwen",
-    "datum": "2026-11-25T09:15:13.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/4/B/z/w/e/z/ht5SYKK5p42hsuPiRHXPdfdsfmt32Ri4V7LYhvv/0x242x2048x1152-1024x576.webp"
    }
   ],
   "politiek": [
@@ -1301,6 +1301,15 @@
     "foto": "https://images.cdn.nos.nl/7/4/f/q/Y/p/eZL65AeugmGqF7paCtnQUkZmPB4AGhrk4guZCfP/0x193x4000x2250-1024x576.webp"
    },
    {
+    "titel": "Video | Manchester United krijgt twee penalty’s in vier minuten tegen in CL",
+    "normalized": "video manchester united krijgt twee penalty s in vier minuten tegen in cl",
+    "link": "https://www.nu.nl/332640/video/manchester-united-krijgt-twee-penaltys-in-vier-minuten-tegen-in-cl.html",
+    "samenvatting": "",
+    "datum": "2026-11-25T21:28:33.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/n6sxnt3aaiku_sqr256/911/0/1946/1946/manchester-united-krijgt-twee-penaltys-in-vier-minuten-tegen-in-cl.jpg"
+   },
+   {
     "titel": "Barcelona en verdediger Frenkie de Jong winnen bij Sabah in Champions League",
     "normalized": "barcelona en verdediger frenkie de jong winnen bij sabah in champions league",
     "link": "https://www.nu.nl/voetbal/6417791/barcelona-en-verdediger-frenkie-de-jong-winnen-bij-sabah-in-champions-league.html",
@@ -1328,13 +1337,13 @@
     "foto": "https://images.nu.nl/m/xncxtm5atp8p_sqr256/1465/0/3352/3352/f1-teams-williams-en-alpine-hebben-in-2025-regels-kostenplafond-overtreden.jpg"
    },
    {
-    "titel": "Live | Champions League | PSG verliest perfecte score na penalty Malen",
-    "normalized": "live champions league psg verliest perfecte score na penalty malen",
-    "link": "https://www.nu.nl/voetbal/6417770/champions-league-psg-verliest-perfecte-score-na-penalty-malen.html",
+    "titel": "Live | Teruglezen | PSG verliest perfecte score na penalty Malen",
+    "normalized": "live teruglezen psg verliest perfecte score na penalty malen",
+    "link": "https://www.nu.nl/voetbal/6417770/teruglezen-psg-verliest-perfecte-score-na-penalty-malen.html",
     "samenvatting": "Goedenavond en welkom bij dit liveblog! Ik, Bram Schutte, hou je vandaag op de hoogte van al het Champions League-voetbal. Veel plezier!",
     "datum": "2026-11-25T17:16:26.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/4aqx729aw19a_sqr256/71/0/2258/2258/champions-league-psg-verliest-perfecte-score-na-penalty-malen.jpg"
+    "foto": "https://images.nu.nl/m/4aqx729aw19a_sqr256/71/0/2258/2258/teruglezen-psg-verliest-perfecte-score-na-penalty-malen.jpg"
    },
    {
     "titel": "Wéér geen Miedema bij Oranjevrouwen: 'Op dit moment nog niet goed genoeg'",
@@ -1533,18 +1542,18 @@
     "datum": "2026-11-25T05:58:44.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/b0exzaaax9do_sqr256/278/0/1500/1500/psv-en-feyenoord-moeten-aan-de-bak-dit-is-de-stand-in-de-champions-league.jpg"
-   },
-   {
-    "titel": "PSV droomt één helft van Europese stunt: 'Real Madrid heeft te veel kwaliteit'",
-    "normalized": "psv droomt een helft van europese stunt real madrid heeft te veel kwaliteit",
-    "link": "https://www.nu.nl/voetbal/6417690/psv-droomt-een-helft-van-europese-stunt-real-madrid-heeft-te-veel-kwaliteit.html",
-    "samenvatting": "Een sterk PSV droomde een helft lang van een sensationele zege bij Real Madrid in de Champions League. Maar in de tweede helft bleken de Madrileense \"wereldtoppers\" een maatje te groot: 5-1. \"Ze draaien bij je weg en het is kassa.\"",
-    "datum": "2026-11-25T05:01:20.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/u8vxiwiay25y_sqr256/744/0/3995/3995/psv-droomt-een-helft-van-europese-stunt-real-madrid-heeft-te-veel-kwaliteit.jpg"
    }
   ],
   "cultuur": [
+   {
+    "titel": "Brad Pitt en Angelina Jolie treffen na jarenlange ruzie schikking over wijngaard",
+    "normalized": "brad pitt en angelina jolie treffen na jarenlange ruzie schikking over wijngaard",
+    "link": "https://nos.nl/l/2641040",
+    "samenvatting": "Brad Pitt en Angelina Jolie hebben een schikking getroffen in de jarenlang slepende zaak over de verkoop van een wijndomein in Frankrijk. Hiermee lijken alle juridische procedures tussen het voormalige getrouwde stel voorbij. De zaak begon in 2022 toen Pitt zijn ex-vrouw voor de rechter sleepte omda",
+    "datum": "2026-11-26T04:02:51.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/1/6/y/U/Q/J/XsFgxwm5LL8bA3t15L32kU2VBZ5gC5De3GEZ9Nr/0x0x1920x1080-1024x576.webp"
+   },
    {
     "titel": "Andy Taylor (65), gitarist van Duran Duran, overleden",
     "normalized": "andy taylor 65 gitarist van duran duran overleden",
@@ -1715,15 +1724,6 @@
     "datum": "2026-11-13T20:24:54.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/2/G/k/J/J/w/xgqtBdXdDKeF8ADibtizfChFi6DKXBw48wUhCGd/8x145x3984x2241-1024x576.webp"
-   },
-   {
-    "titel": "Eerste Gamemuziek Top 50 van NPO Klassiek: Zelda-game Ocarina of Time op nummer 1",
-    "normalized": "eerste gamemuziek top 50 van npo klassiek zelda game ocarina of time op nummer 1",
-    "link": "https://nos.nl/l/2639371",
-    "samenvatting": "The Legend of Zelda: Ocarina of Time is is het spel met de beste gamemuziek, althans volgens de luisteraars van NPO Klassiek. Vandaag werd voor het eerst de Gamemuziek Top 50 uitgezonden, live vanuit Beeld & Geluid. Met de nieuwe lijst tracht NPO Klassiek een publiek te bereiken dat misschien wat mi",
-    "datum": "2026-11-13T19:06:20.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/3/D/a/8/j/S/ZRRiK85Zy9KJi3kY4unJurqjkAMJLXfNAXnWYhL/0x0x4000x2250-1024x576.webp"
    }
   ],
   "tech": [
@@ -1982,6 +1982,15 @@
     "foto": ""
    },
    {
+    "titel": "Verbod op wateronttrekking in Zeeland voorbij",
+    "normalized": "verbod op wateronttrekking in zeeland voorbij",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMWlpcDZPajZQbVF6czlLaktZZExQQU85ZUdtRmNkLXJIS1U3WFMwWUtJNmlON1dnRWFWdzhzY09tRWRqNTZJTTBtVFg0QnNJUm9NUnRvN2lGV2xnTmJxRmVWT3JBM3hpeEF0eU03UUVDOHd4dHZhb2ZMdmNJMjBCQzJMVVVYbl9RQjRILU5TMUx6QWEyTjhkd2hNekFVMXZkbGhFRDlB?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-25T15:45:49.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "65 jaar Veerse Gatdam en Veerse Meer",
     "normalized": "65 jaar veerse gatdam en veerse meer",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mZnJwdldKVGZqa2RLN0g3N0UySUp0UkZ6dzJVdUQtc0Y2N2Z4Zk1hUzIwa194M3Q1QndBZzVnSEpUclpadE5SV1dSUnVzMkxtY1VOS2Z6bkR1NnZQYnVDRklwM1JRYXZGXzlidFh5R3cxcTdQb2c?oc=5",
@@ -2167,15 +2176,6 @@
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTDJ6QmVncTBoVG4zR3k0Z0s2V3JYSWlDeVVnX2g3eHl4dXcxNldUYkhtT0FIRXcyVFhJeElDTUNfekh1cHlYWFJVdHEwdmNiZlJQemh4N1hiMG9fSF9YQ09TaWVtdGNDY2hzYjBBclF1WVRmdXB4dDItblVkMzk2UGMycU9yaWN4bXlpWEFvNEpHX1RuczlyUUczcGJJc3R6bGRFeHJkSHdvUVpvcGVQY2wxTVI4YkhSSS1OYi1QYlY2bmpvbDMw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T19:30:45.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Vrachtwagen op Bellamypark toont film over femicide: 'Bewustwording is heel belangrijk'",
-    "normalized": "vrachtwagen op bellamypark toont film over femicide bewustwording is heel belangrijk",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaUdqMTdLeG9XNlA3dW9PR3Y0R3JsZmlzWllfV1JKZmk3RURiOEJpdDhIWDhfN2NYYlJQODFRejV5Q3k5N0FjaGg2QUQ5UEpoYmgwc2REYm8wa25zWkpGWTB4YndUdkNybjlCNnVncV9UVnFsWWhQUmw4VUo1ZVlkMU1KTS00T0dNamxuOXA1dXI3cEVwY0IzMy1PdVN3Rkd6RVRhQlRYakJIeEgtb3FZOGRtWTd5bGVhZzNSNjdxNnktMjRYYkVnVw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-24T19:05:28.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2571,15 +2571,6 @@
     "foto": ""
    },
    {
-    "titel": "Welzijnshuis Borsele houdt gratis activiteiten tegen eenzaamheid",
-    "normalized": "welzijnshuis borsele houdt gratis activiteiten tegen eenzaamheid",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUUFfYXdOWlhXcFc0Y2NNWC1ZTDF5MkdIUHk1M211dnNUY0ttcFI3WDBJdnN5MnhXNy1pYVk4eDMzUTEzNTNDN212R1I0QU12OGctak03R1JISnlKY1RkWV9jWng1cmNHYmU1NWYzZmk5alo4ajAwYm5pekRzbXJESjNiRFdJeTZWR2UtMUJVT2ZCc0wwUE96bGJ1LUxjNkpyd1Bn?oc=5",
-    "samenvatting": "",
-    "datum": "2026-09-09T07:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Provincie kritisch over meer salaris voor bestuurders Borsele",
     "normalized": "provincie kritisch over meer salaris voor bestuurders borsele",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWxsMWpycWIyeWNJbklZUUs2aEVZdW42SXFOS1NzTy13NHVGQ1dTZnhCQkxGLXYzbm1PanNFOGpUNEwzUVFmTmFVeHJiQmlDZjVfM05ENDBzN0x4V3Q4MktfOVJoTmgyMGdfQWs1TDgyLVRsbThWRVhaODIwNEtjWVRPd1RYcnE0YnNoQXo5Rm15bjVPc3NGQ3JhaFVlWnNMNXZmaVlkNk9xdw?oc=5",
@@ -2675,6 +2666,15 @@
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUhwUDlFUEN0QmdOVVRIUkx3NDcwNUxIMWxheE94MmpnZzAzTGZ4Z3JtS0NXYUxCNjZDRWlpWGI5U0VXeXNwaGg0SkRkZnFSNl9aQ2JTWXhtaTBnUzhrSDRrcC1sVTBxNHFyd1hmV3FWbEhoRHNkUlY2aHE4THFvWGE4VXFlM1dPb2xITlFqMjdmUUtZSER2b3dTLWh4Y0k0VXFINDJuTUxOSWNMT0FrWjRR?oc=5",
     "samenvatting": "",
     "datum": "2026-02-16T08:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Baggerwerkzaamheden in en rond Ovezande in Borsele",
+    "normalized": "baggerwerkzaamheden in en rond ovezande in borsele",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeS1JZkVJc2pyOGlOc0ZzTnNLemQ1UnJFajlFcndWSS1Dam5KSGhuOXNkUU1wUC1YVlpaZVpxSEppeUFRTS1UY2dJdUd5QWI3OTBTckg0TEVHV01UckR2UWk5N1J4Nzhzc0R3QmkteDdOaUNBMV90aTlVQjQ0Z0tDUzd3TVBUUVFjYURkNlNSUmg?oc=5",
+    "samenvatting": "",
+    "datum": "2026-02-11T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2957,7 +2957,7 @@
     "normalized": "queer cafe roosendaal",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WTGhoaDBqenFxOUhQR1FoVGlzYXBHRWF2V29XbW5vWktOZXN4X1F0MGVRUU9YajJRa28waHhOMElRQVJxRUc3UmdTMm5NTWtFNFBFTA?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-26T02:39:00.000Z",
+    "datum": "2026-11-26T04:10:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3198,7 +3198,7 @@
    {
     "titel": "Gewonde bij ongeval op A4 bij Bergen op Zoom, rijstrook dicht",
     "normalized": "gewonde bij ongeval op a4 bij bergen op zoom rijstrook dicht",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUVJwVHE4d1lQV25Xcnp5Q3EtWWZYbUREUkxUOVBlLTY4MTVueGV1ZWxzVTFqR3NWLWFHYXpGTU5mMHctMm9ReDRVUnViR05RNVozUjVqYzRJcW1zY0d2NnlTallldUxkTjZ0cVlBN01MYXd3R3NWd1pFU0R4WUptejZtcnlZLVdSX09GUm81VU9aLUdNMGZDSWtxVElGVHlWaG5nZmZabTdqU0tyemRITGRHQjZRX2szTWlOcg?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbnNBUVJHLWpWdG53Z2IyalJUSEtnRE5aVUJLdDFsdFU0bkdOcTZGU1BJZmpVSTJydVpucy1HbEd5b3FWTFpoakxXLThLWmZULW1Bd1J6aVVwdkZlNnlLOG5kdEZtVUNXR180dnhEaV9qcXdtTkxRR2U5c0FlVkdyRmNEY0hCQUNmaUxBQ3pJc1NDTzR4UklFZXRWc3JlaFVuemc?oc=5",
     "samenvatting": "",
     "datum": "2026-11-23T11:52:00.000Z",
     "bron": "Google Nieuws",
