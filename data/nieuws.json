@@ -1,5 +1,5 @@
 {
- "gegenereerd": "2026-11-26T00:31:27.959Z",
+ "gegenereerd": "2026-11-26T00:56:55.942Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
@@ -13,10 +13,10 @@
     "foto": "https://redactie.rtl.nl/sites/default/files/ANP251126196-1.jpg?itok=CaFowNwY&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    },
    {
-    "titel": "Onvrede binnen VVD over dubbelfunctie Yesilgöz, zegt oud-minister Van der Wal",
-    "normalized": "onvrede binnen vvd over dubbelfunctie yesilgoz zegt oud minister van der wal",
+    "titel": "Onvrede binnen VVD over dubbelfunctie Yesilgöz, zegt oud-partijvoorzitter Van der Wal",
+    "normalized": "onvrede binnen vvd over dubbelfunctie yesilgoz zegt oud partijvoorzitter van der wal",
     "link": "https://nos.nl/l/2641036",
-    "samenvatting": "Voormalig VVD-minister Christianne van der Wal zegt dat \"veel leden\" van de VVD twijfels hebben over het politiek leiderschap van VVD-leider Yesilgöz in combinatie met haar functie als minister van Defensie. In het programma Pauw & De Wit uitte zij haar twijfels of die taken wel zijn te combineren. ",
+    "samenvatting": "Voormalig VVD-partijvoorzitter Christianne van der Wal zegt dat \"veel leden\" van de VVD twijfels hebben over het politiek leiderschap van VVD-leider Yesilgöz in combinatie met haar functie als minister van Defensie. In het programma Pauw & De Wit uitte zij haar twijfels of die taken wel zijn te comb",
     "datum": "2026-11-25T23:56:18.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/3/D/Z/W/z/7/9gvDFrp7dFS3rpReBGoqpY8coQjSF8fV15Lj4Q7/0x334x4000x2250-1024x576.webp"
@@ -820,10 +820,10 @@
   ],
   "politiek": [
    {
-    "titel": "Onvrede binnen VVD over dubbelfunctie Yesilgöz, zegt oud-minister Van der Wal",
-    "normalized": "onvrede binnen vvd over dubbelfunctie yesilgoz zegt oud minister van der wal",
+    "titel": "Onvrede binnen VVD over dubbelfunctie Yesilgöz, zegt oud-partijvoorzitter Van der Wal",
+    "normalized": "onvrede binnen vvd over dubbelfunctie yesilgoz zegt oud partijvoorzitter van der wal",
     "link": "https://nos.nl/l/2641036",
-    "samenvatting": "Voormalig VVD-minister Christianne van der Wal zegt dat \"veel leden\" van de VVD twijfels hebben over het politiek leiderschap van VVD-leider Yesilgöz in combinatie met haar functie als minister van Defensie. In het programma Pauw & De Wit uitte zij haar twijfels of die taken wel zijn te combineren. ",
+    "samenvatting": "Voormalig VVD-partijvoorzitter Christianne van der Wal zegt dat \"veel leden\" van de VVD twijfels hebben over het politiek leiderschap van VVD-leider Yesilgöz in combinatie met haar functie als minister van Defensie. In het programma Pauw & De Wit uitte zij haar twijfels of die taken wel zijn te comb",
     "datum": "2026-11-25T23:56:18.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/3/D/Z/W/z/7/9gvDFrp7dFS3rpReBGoqpY8coQjSF8fV15Lj4Q7/0x334x4000x2250-1024x576.webp"
@@ -1991,15 +1991,6 @@
     "foto": ""
    },
    {
-    "titel": "Verbod op wateronttrekking in Zeeland voorbij",
-    "normalized": "verbod op wateronttrekking in zeeland voorbij",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMWlpcDZPajZQbVF6czlLaktZZExQQU85ZUdtRmNkLXJIS1U3WFMwWUtJNmlON1dnRWFWdzhzY09tRWRqNTZJTTBtVFg0QnNJUm9NUnRvN2lGV2xnTmJxRmVWT3JBM3hpeEF0eU03UUVDOHd4dHZhb2ZMdmNJMjBCQzJMVVVYbl9RQjRILU5TMUx6QWEyTjhkd2hNekFVMXZkbGhFRDlB?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-25T15:45:49.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Woningen op Marina Beach zitten zonder water: ‘Dit is onaanvaardbaar’",
     "normalized": "woningen op marina beach zitten zonder water dit is onaanvaardbaar",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzdORUF5TlVBLURSUjJHTDMzQ0pKSnRxdDNSb19pUVhvd3Qxek5SMnBfLXYyWjhBR00zN3NsWDk5ODhkVGFmLXVQSzZreGRGNk1hSURsNllXbXRPT1RaeWEzRHN4R2dnVWJpaFFaZnNmLWMwLWlQdldFRTdRU3BCUEJQZm5URDdjRzBBbVMtMDBSQmxHblEySDJGaWhtMlU5OGoxaGl6cHY?oc=5",
@@ -2063,11 +2054,29 @@
     "foto": ""
    },
    {
+    "titel": "Motorjacht urenlang vast in veiligheidslijn van Oosterscheldekering",
+    "normalized": "motorjacht urenlang vast in veiligheidslijn van oosterscheldekering",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ1RxSmlrbnRHTlFlS21oWlB3Ny1KVjRhNDQycXRjU2wtS01PQko3M2VSY2hxMzA3OXpKaEdqZkxzLXQ1NUFSQ1E1alZxX2VMX19BNnN0Z21Oa21WaU1DR1Y1cmJIYWpYWmVVQ096UnlqY0RPYVlTajlFVE9fcTZOYUVpNVIzemwwTmdpTUhCYkIzaC05dHFGcnBuSWRrME1IRFFhWndKb3FhLVJjdmNKc3V3Yk1SUQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-25T12:06:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Eerste Zeeuwse winterfair pakt dit weekend uit met 153 stands, helikoptervlucht en 600 kerstbomen",
     "normalized": "eerste zeeuwse winterfair pakt dit weekend uit met 153 stands helikoptervlucht en 600 kerstbomen",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWlBPY0dYWUxQQ2h3SWtLc0VFNDZJbU5CRVdRVmNBZnU3UHdLMjJiN3NZZ2NNU0VKSUt5UHFfc04yZ0Q5Rm9nOUo2eDJwWUg1bkdYalZhb0xWMVlkV1BGZk90TzkyS1RhUkNYcGFmZlBJZUQyTkxZeWpaUjE2ejVaUVdRNlg0dGFxWldUR2pkVF9YQThkMUY3WmstMzQ5dXJ4dDVDT2JKWk92aDBuLUtkdmxsb185TTFGRHhfSTlUd2NPUEphU1VLcndmNnB3MWg1U3ZrTkFtNzVKVVFw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-25T12:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Steeds meer Zeeuwen nemen een ouder in huis, maar let goed op deze gevolgen",
+    "normalized": "steeds meer zeeuwen nemen een ouder in huis maar let goed op deze gevolgen",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ2FKTEVybW9fNkxjNEswenYzNUdYZDczS2E5ejA4NWJzUmZZWXo0M1dSUFNRT2RvaW1hbnB4Z2hweVVKZUxDRlNGODZqZklCMlBaRVBTRDJUYk52NTBsYng4N1dNT3hvWTZmWXRWNk1XMjhheGg3SUxmcTE3NFRrRkRYQ2pQc0M0Z0pFaUlvMEJwZ2d5cVptMkkwQ3JrSUhyd2dDVjA5cVBnVUZxd1N2aWl2Tjk?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-25T11:00:36.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2095,15 +2104,6 @@
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZHhWX1V1WEhlSWlNVDl2NlA1UGJxUUxra0tiQUNJc2pPSk9TZms2UTBzN1hZZ0VqTzJlQUdKMEFienhvdmVVSnhCcktMcGoyYXR2ZnJ5X0NwUEVUaVJTZGlQNnVXYWNoY0kwZUllYkJ3cTVPOGhjNjMyRVI5eC1PaEJ4R1otZ2dWTld5bFJRYXdOenRQdHhLWWYydGFXN2ZaVER6YThPQjV3VWF2b3o0LTYybXdQN3I2M2JzSXRMNjQ1TTlyVHc?oc=5",
     "samenvatting": "",
     "datum": "2026-11-25T07:45:08.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Klare Taalbokaal voor jeugdrechter en gerechtsjurist Zeeland-West-Brabant",
-    "normalized": "klare taalbokaal voor jeugdrechter en gerechtsjurist zeeland west brabant",
-    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVzgybktLZ1hzMFRNZGV2V2FMZFI0QVExZ2hSdFhhR21yOHV5YTFsYnRIdG43WkZ3WFN1WVhpbTRDRG5LZ3pHbDA2STRlQU1RYTJvRnBBSDN6UElVYVY3S0ZZTHdxYW9OdHlBM0p2Z3BWeV94amczV1dFWGNvUmt2VWRQOXBuZ2t0dnBVQjlSS1c3X0JvbnVrQkhNNjB1UVZrMjluREN0c1NsOTRKR2VoUk82cmFaYjlXVkV5SF9HRHFxLXBlV2ItNEVJU1VEUWpTRHExMjBrWGZPNk02TlBlOW5NblpFVUxwMXE4a19PczFoQnl3TkZpYU44d2hKdzU2NzVsYWZ3?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-25T07:28:20.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3036,7 +3036,7 @@
    {
     "titel": "Roosendaal kiest niet zomaar aan welke themadagen en -weken het aandacht schenkt, maar PRO wil in debat over die keuzes",
     "normalized": "roosendaal kiest niet zomaar aan welke themadagen en weken het aandacht schenkt maar pro wil in debat over die keuzes",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQVBVSUdDOXFBRWdaT2RfM1hvTEVzellvLWNheVpRU25qbGpMZno3M2dXREthTkNqSDNsRmNkSVJpMDBfdHJHRXREQ3F2WEdBOUxXdjVOMlhQd21sS3hlaDY2WEtuS1A5WWRrY3BVNmhhcFJyN3FkWm5IM0VtWlE1SVpLWVpxNFVjYktJeGNwQm5EZ2c2NWhlS18xZHBTQXhqODU3YU5VVVVtc29QX0puRm9lR2NtVjY3TWhPaGZMMERiMTlXd2NQMVVhZUhaTGY4dlRHb25YQV9YQ241dHRORGd1dWlnX2ZpMVNxTUxRN2dlWnZuM2RJ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRExCNmhlNXZFOWlaSWZCbFZSNWNCOXF5QjBJUTdzSWozODFyaHNzbUJhNHAtNFpVamNUN2JGWnpMOU9SQ3dORzJRMDBUeG5MWm9ldzc4US1VNVAyYWdDMm5lNUhVTzI0RXRvWXdvSmxobFNZOWlITWZxa2FNUmU4UG4wb0JON1JSUEVHUEJ4YW9IM0Z1QWdiWThseTJyU3NwUG56MjIxLWRWMnJmeTljaFBVNUFhcnM5dVdxM3VXZHBua1pZX2NzWTZZWUZlblFTaTVDRUJISTZhQk41VTNaNTRqS2pKNVk3MzNnWEZ3?oc=5",
     "samenvatting": "",
     "datum": "2026-11-25T14:04:25.000Z",
     "bron": "Google Nieuws",
@@ -3207,7 +3207,7 @@
    {
     "titel": "Gewonde bij ongeval op A4 bij Bergen op Zoom, rijstrook dicht",
     "normalized": "gewonde bij ongeval op a4 bij bergen op zoom rijstrook dicht",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbnNBUVJHLWpWdG53Z2IyalJUSEtnRE5aVUJLdDFsdFU0bkdOcTZGU1BJZmpVSTJydVpucy1HbEd5b3FWTFpoakxXLThLWmZULW1Bd1J6aVVwdkZlNnlLOG5kdEZtVUNXR180dnhEaV9qcXdtTkxRR2U5c0FlVkdyRmNEY0hCQUNmaUxBQ3pJc1NDTzR4UklFZXRWc3JlaFVuemc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUVJwVHE4d1lQV25Xcnp5Q3EtWWZYbUREUkxUOVBlLTY4MTVueGV1ZWxzVTFqR3NWLWFHYXpGTU5mMHctMm9ReDRVUnViR05RNVozUjVqYzRJcW1zY0d2NnlTallldUxkTjZ0cVlBN01MYXd3R3NWd1pFU0R4WUptejZtcnlZLVdSX09GUm81VU9aLUdNMGZDSWtxVElGVHlWaG5nZmZabTdqU0tyemRITGRHQjZRX2szTWlOcg?oc=5",
     "samenvatting": "",
     "datum": "2026-11-23T11:52:00.000Z",
     "bron": "Google Nieuws",
