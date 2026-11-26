@@ -1,11 +1,101 @@
 {
- "gegenereerd": "2026-11-26T10:17:24.745Z",
+ "gegenereerd": "2026-11-26T10:42:42.732Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
    {
-    "titel": "Schaatskoorts door de vrieskou: zondag kan het, maar wel op eigen risico",
-    "normalized": "schaatskoorts door de vrieskou zondag kan het maar wel op eigen risico",
+    "titel": "DNB waarschuwt consumenten voor energieschok, prijzen kunnen langer hoog blijven",
+    "normalized": "dnb waarschuwt consumenten voor energieschok prijzen kunnen langer hoog blijven",
+    "link": "https://www.rtl.nl/nieuws/economie/artikel/5667257/dnb-waarschuwt-voor-energieschok-consumenten-hoge-prijzen",
+    "samenvatting": "De door de Iranoorlog gestegen olie- en gasprijzen kunnen nog jarenlang doorwerken in de prijzen die consumenten betalen voor voedsel, goederen en diensten. Zelfs nadat de energieprijzen weer zijn gedaald, kunnen de gevolgen lang zichtbaar blijven in de inflatie.",
+    "datum": "2026-11-26T10:41:33.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/26/Energieprijzen.jpg?itok=gWDdwkGj&amp;offsetX=28&amp;offsetY=0&amp;cropWidth=963&amp;cropHeight=542&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
+   {
+    "titel": "Kabinet over regels VS voor ASML: wij laten ons de wet niet voorschrijven",
+    "normalized": "kabinet over regels vs voor asml wij laten ons de wet niet voorschrijven",
+    "link": "https://nos.nl/l/2641087",
+    "samenvatting": "Het kabinet laat zich opnieuw stevig uit over het Amerikaanse wetsvoorstel (Match Act) van het Congres om het Nederlandse bedrijf ASML grote beperkingen op te leggen. \"Nederland laat zich niet de wet voorschrijven\", zei minister Sjoerdsma van Buitenlandse Handel in een Kamerdebat Hij noemt het een k",
+    "datum": "2026-11-26T10:39:10.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/1/H/j/P/F/S/cUVnCDATjEfgQTJGATqMSYEUGQtsVPEQZskzf1J/2310x310x1616x909-1024x576.webp"
+   },
+   {
+    "titel": "Patty Brard heeft een lichte hersenschudding",
+    "normalized": "patty brard heeft een lichte hersenschudding",
+    "link": "https://www.rtl.nl/boulevard/artikel/5667286/patty-brard-heeft-een-lichte-hersenschudding",
+    "samenvatting": "Patty Brard heeft een lichte hersenschudding opgelopen toen zij zondag tegen een glazen deur aanliep. Dat meldt de 71-jarige presentatrice donderdag op Instagram. Brard liet eerder al weten dat zij door het ongeluk een hoofdwond had opgelopen en vijf dagen rust moest houden.",
+    "datum": "2026-11-26T10:37:58.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP261126106-1.jpg?itok=o27j-OnW&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Loonkloof bestaat nog steeds en wet die dat moet veranderen is weer uitgesteld",
+    "normalized": "loonkloof bestaat nog steeds en wet die dat moet veranderen is weer uitgesteld",
+    "link": "https://nos.nl/l/2641084",
+    "samenvatting": "Vandaag is het Equal Pay Day. Dat betekent dat vrouwen in Nederland de rest van het jaar eigenlijk 'voor niks' werken als gevolg van de loonkloof. Deze datum is door de jaren heen wel wat naar achteren geschoven. Maar nog steeds verdienen vrouwen in Nederland 9,8 procent minder per uur dan mannen, b",
+    "datum": "2026-11-26T10:32:32.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/4/F/E/f/s/f/GnnLcsG9ZSviMk895MWbKHXSkLpn9thnwahKzg4/8x107x3984x2241-1024x576.webp"
+   },
+   {
+    "titel": "Kroonprins Hussein ontmoet Ierse president in Dublin",
+    "normalized": "kroonprins hussein ontmoet ierse president in dublin",
+    "link": "https://www.rtl.nl/boulevard/entertainment/artikel/5667283/kroonprins-hussein-ontmoet-ierse-president-dublin",
+    "samenvatting": "De Jordaanse kroonprins Hussein heeft woensdag een ontmoeting gehad met de Ierse president Catherine Connolly. Het bezoek vond plaats in de stad Dublin. Het Jordaanse hof deelt beelden van de ontmoeting op Instagram.",
+    "datum": "2026-11-26T10:28:06.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP261126101-1.jpg?itok=e3bhSRF1&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Deense koningin bezoekt aardbevingsgebied in Colombia",
+    "normalized": "deense koningin bezoekt aardbevingsgebied in colombia",
+    "link": "https://www.rtl.nl/boulevard/entertainment/artikel/5667282/deense-koningin-bezoekt-aardbevingsgebied-colombia",
+    "samenvatting": "Koningin Mary heeft een bezoek gebracht aan Cali, een van de Colombiaanse steden die eerder dit jaar zwaar werden getroffen door een aardbeving. De vrouw van de Deense koning Frederik hoorde over de wederopbouw van de stad en ontmoette mensen die door de ramp zijn getroffen. Ook bezocht ze de wijk E",
+    "datum": "2026-11-26T10:26:50.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP261126099-1.jpg?itok=sTxzUBSl&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Podcast De Dag: de spanningsboog van het microdrama",
+    "normalized": "podcast de dag de spanningsboog van het microdrama",
+    "link": "https://nos.nl/l/2641083",
+    "samenvatting": "Het beeld is verticaal, voor op de telefoon. De afleveringen zijn heel kort, hooguit een paar minuten. En iedere aflevering eindigt met een cliffhanger, waardoor je door blijft kijken. Na groot succes in Azië en in de VS is het er nu ook in Nederland: het microdrama. Series met heel korte aflevering",
+    "datum": "2026-11-26T10:26:15.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/6/E/p/4/Q/h/GeJpndX8kDZFUgkKjeUYLtAuFMJo148nySVCRcs/0x0x1920x1080-1024x576.webp"
+   },
+   {
+    "titel": "Letizia ontvangt Spaans rolstoelhandbalteam op paleis",
+    "normalized": "letizia ontvangt spaans rolstoelhandbalteam op paleis",
+    "link": "https://www.rtl.nl/boulevard/entertainment/artikel/5667280/letizia-ontvangt-spaans-rolstoelhandbalteam-op-paleis",
+    "samenvatting": "De Spaanse koningin Letizia heeft donderdag de sporters van het nationale rolstoelhandbalteam ontmoet op het Zarzuela-paleis in Madrid. Het team kwam op audiëntie nadat het eerder dit jaar tijdens het WK in eigen land voor het eerst in de geschiedenis wereldkampioen werd.",
+    "datum": "2026-11-26T10:25:45.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP261126098-1.jpg?itok=X2366Izq&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Vrouw van in Rusland opgepakte Japanse journalist: 'Geef papa terug aan dochter'",
+    "normalized": "vrouw van in rusland opgepakte japanse journalist geef papa terug aan dochter",
+    "link": "https://nos.nl/l/2641082",
+    "samenvatting": "De vrouw van een Japanse journalist die op verdenking van spionage vastzit in Rusland heeft in een emotionele verklaring gepleit voor zijn vrijlating. \"Alstublieft, geef deze dierbare papa terug aan zijn kleine dochtertje\", schrijft ze in de open brief, verspreid door de krant waarvoor hij werkt. Jo",
+    "datum": "2026-11-26T10:24:06.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/5/9/v/6/U/B/E9GAxvUTMp2bmeQJC9U1iHVp6Z7CV3F4YR7MesK/3x237x928x522-928x522.webp"
+   },
+   {
+    "titel": "Groep olifanten valt toeristen aan in Kameroen, Zwitser omgekomen",
+    "normalized": "groep olifanten valt toeristen aan in kameroen zwitser omgekomen",
+    "link": "https://nos.nl/l/2641081",
+    "samenvatting": "In Kameroen is een Zwitserse toerist om het leven gekomen door een aanval van een groep olifanten. Enkele Britten en een Amerikaan raakten gewond. De groep was aan het wandelen in Mount Cameroon National Park in het westen van het land. Ze liepen met gidsen op een pad dat olifanten gebruiken om bij ",
+    "datum": "2026-11-26T10:19:33.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/6/6/j/b/H/r/yjB3MKgAkmVzeqWGw9ZMWNTU48ysV6PECH2UB4P/8x169x3984x2241-1024x576.webp"
+   },
+   {
+    "titel": "Schaatskoorts door de vrieskou: mogelijk zondag, maar wel op eigen risico",
+    "normalized": "schaatskoorts door de vrieskou mogelijk zondag maar wel op eigen risico",
     "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5667266/schaatskoorts-door-de-vrieskou-kunnen-we-dit-weekend-het",
     "samenvatting": "De eerste schaatsmarathon op natuurijs is vanavond een feit en met lokaal -7 graden in het vooruitzicht groeit de schaatskoorts. Maar kunnen we dit weekend ook massaal de sloten en plassen op? Daarvoor moet nog wel wat gebeuren.",
     "datum": "2026-11-26T10:17:02.000Z",
@@ -182,99 +272,18 @@
     "datum": "2026-11-26T08:33:14.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://redactie.rtl.nl/sites/default/files/ANP261126070-1.jpg?itok=OTW9en0D&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Consultants publieke sector vierden lucratieve deals met limousines en champagne",
-    "normalized": "consultants publieke sector vierden lucratieve deals met limousines en champagne",
-    "link": "https://www.rtl.nl/nieuws/economie/artikel/5666911/limousines-en-champagne-voor-consultants-publieke-sector",
-    "samenvatting": "Limousines en champagne, een reis naar New York en fikse bonussen. Werknemers van een interim- en adviesbureau uit Zoetermeer dat werkt voor opdrachtgevers in de publieke sector, vierden hun successen uitbundig. Moederbedrijf Cohedron zegt de praktijken af te keuren, en greep in.",
-    "datum": "2026-11-26T08:33:11.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/24/Champagne.jpg?itok=Fm-a2lNQ&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1023&amp;cropHeight=575&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
-   },
-   {
-    "titel": "Winterswijk organiseert vanavond opnieuw de eerste marathon op natuurijs",
-    "normalized": "winterswijk organiseert vanavond opnieuw de eerste marathon op natuurijs",
-    "link": "https://www.nu.nl/sport-overig/6417834/winterswijk-organiseert-vanavond-opnieuw-de-eerste-marathon-op-natuurijs.html",
-    "samenvatting": "In Winterswijk wordt donderdagavond de eerste marathon op natuurijs van dit najaar verreden. \"Het ijs is dik genoeg én in staat om de lichte dooi van donderdag te overleven\", meldt de KNSB.",
-    "datum": "2026-11-26T08:26:20.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/mnuxcgja10hr_sqr256/793/0/4000/4000/winterswijk-organiseert-vanavond-opnieuw-de-eerste-marathon-op-natuurijs.jpg"
-   },
-   {
-    "titel": "Dynamisch energiecontract? 3 concrete situaties waarin dit kan lonen",
-    "normalized": "dynamisch energiecontract 3 concrete situaties waarin dit kan lonen",
-    "link": "https://www.rtl.nl/nieuws/artikel/5664752/dynamisch-energiecontract-energie-vast-contract-branded-vattenfall",
-    "samenvatting": "Door de situatie in het Midden-Oosten is de energiemarkt volop in beweging. Ook de toename van energie uit hernieuwbare bronnen, en de overbelasting van het elektriciteitsnet hebben invloed op de stroomprijs. Het wordt steeds interessanter om te kijken naar de momenten waarop je energie verbruikt en",
-    "datum": "2026-11-26T08:24:16.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/12/01_Dynamisch_800x533.png?itok=YTjsy8hE&amp;offsetX=0&amp;offsetY=77&amp;cropWidth=798&amp;cropHeight=449&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
-   },
-   {
-    "titel": "Zwitser overlijdt nadat hij is gespiest bij aanval door olifanten in Kameroen",
-    "normalized": "zwitser overlijdt nadat hij is gespiest bij aanval door olifanten in kameroen",
-    "link": "https://www.nu.nl/dieren/6417827/zwitser-overlijdt-nadat-hij-is-gespiest-bij-aanval-door-olifanten-in-kameroen.html",
-    "samenvatting": "Een Zwitserse toerist is overleden aan zijn verwondingen nadat hij was gespiest bij een aanval door olifanten in Kameroen. Verder raakten meerdere Britten en een Amerikaan gewond.",
-    "datum": "2026-11-26T08:13:39.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/7x7xiiba1i16_sqr256/670/0/2094/2094/zwitser-overlijdt-nadat-hij-is-gespiest-bij-aanval-door-olifanten-in-kameroen.jpg"
-   },
-   {
-    "titel": "Boodschappen worden mogelijk duurder door hoge energieprijzen",
-    "normalized": "boodschappen worden mogelijk duurder door hoge energieprijzen",
-    "link": "https://www.nu.nl/economie/6417829/boodschappen-worden-mogelijk-duurder-door-hoge-energieprijzen.html",
-    "samenvatting": "Consumenten kunnen nog jaren last houden van de hoge olie- en gasprijzen, aangezien die doorwerken in de prijzen van voedsel, goederen en diensten. Dat betekent bijvoorbeeld dat boodschappen en reizen duurder worden.",
-    "datum": "2026-11-26T08:12:02.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/93kxdgxatb8s_sqr256/0/0/3097/3097/boodschappen-worden-mogelijk-duurder-door-hoge-energieprijzen.jpg"
-   },
-   {
-    "titel": "KNSB: nog twee kanshebbers voor eerste marathon op natuurijs",
-    "normalized": "knsb nog twee kanshebbers voor eerste marathon op natuurijs",
-    "link": "https://www.rtl.nl/nieuws/sport/artikel/5667259/knsb-nog-twee-kanshebbers-voor-eerste-marathon-op-natuurijs",
-    "samenvatting": "Er zijn nog twee ijsverenigingen die kans maken om de eerste marathon op natuurijs van deze winter te organiseren. Dat meldt schaatsbond KNSB. Het gaat om de Winterswijkse IJsvereniging en de ijsclub van het Friese Burgum.",
-    "datum": "2026-11-26T08:11:26.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP261126065-1.jpg?itok=uw-ZKhCQ&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "ANWB ziet kloof tussen elektrische rijders en fossiele brandstof-rijders",
-    "normalized": "anwb ziet kloof tussen elektrische rijders en fossiele brandstof rijders",
-    "link": "https://nos.nl/l/2641064",
-    "samenvatting": "In tien jaar tijd is het aantal elektrische auto's in Nederland gegroeid van zo'n 20.000 naar 750.000. Automobilisten die er een hebben, zijn doorgaans uitgesproken positief; mensen die nog rijden op fossiele brandstoffen zijn in de voorbije jaren juist negatiever gaan kijken naar elektrisch rijden.",
-    "datum": "2026-11-26T08:08:51.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/5/3/U/Y/w/W/LxsMgTquAxCjQKRdRPXa6kbxVocAcSr6zDX6ssq/8x212x3984x2241-1024x576.webp"
-   },
-   {
-    "titel": "21 dagen gevangenschap en miljoenenlosgeld: het echte verhaal achter Netflix-serie Toos van der Valk",
-    "normalized": "21 dagen gevangenschap en miljoenenlosgeld het echte verhaal achter netflix serie toos van der valk",
-    "link": "https://www.rtl.nl/boulevard/artikel/5666979/toos-van-der-valk-serie-netflix",
-    "samenvatting": "De ontvoering van Toos van der Valk (94) hield Nederland in 1982 wekenlang in zijn greep. De vrouw achter het Van der Valk-hotelimperium werd uit haar huis in Nuland ontvoerd en drie weken vastgehouden. Nu vertelt Netflix haar verhaal in de zesdelige dramaserie 'Toos: De Van der Valk ontvoering', me",
-    "datum": "2026-11-26T08:01:43.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2025/10/10/ANP-494291073%20%281%29.jpg?itok=jfyZiP-1&amp;offsetX=0&amp;offsetY=205&amp;cropWidth=2000&amp;cropHeight=1125&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
-   },
-   {
-    "titel": "Adelaarsnest van Hitler in de steigers, maar mensen zijn tegen herbouw",
-    "normalized": "adelaarsnest van hitler in de steigers maar mensen zijn tegen herbouw",
-    "link": "https://www.rtl.nl/nieuws/buitenland/video/c27c82c7-fda0-4637-bba5-651be37d796a/afgebrand-theehuis-hitler-de-steigers",
-    "samenvatting": "Na de brand in het Adelaarsnest, in Duitsland, laten nieuwe beelden zien hoe groot de schade is aan het gebouw. Het voormalig theehuis van Adolf Hitler werd vorige maand in brand gestoken. Het was een symbool van het naziregime. Toch vinden sommigen dat het moet blijven.",
-    "datum": "2026-11-26T07:48:41.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=c27c82c7-fda0-4637-bba5-651be37d796a"
-   },
-   {
-    "titel": "Van zeewier naar natuurlijke textielverf: Zeefier ziet kansen in de zee",
-    "normalized": "van zeewier naar natuurlijke textielverf zeefier ziet kansen in de zee",
-    "link": "https://www.rtl.nl/nieuws/economie/artikel/5666908/zeewier-natuurlijke-textielverf",
-    "samenvatting": "Van verpakkingen tot zelfs tampons: zeewier wint aan populariteit als alternatief voor fossiele grondstoffen. Ook Nederlandse ondernemers ontdekken de mogelijkheden. Zo maakt het bedrijf Zeefier al een aantal jaren natuurlijke textielverf van zeewier. De ambities zijn groot, vertelt Anne Boermans, b",
-    "datum": "2026-11-26T07:30:39.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/25/Zeefier.jpeg?itok=YAyBiFJT&amp;offsetX=0&amp;offsetY=165&amp;cropWidth=1998&amp;cropHeight=1124&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    }
   ],
   "binnenland": [
+   {
+    "titel": "Loonkloof bestaat nog steeds en wet die dat moet veranderen is weer uitgesteld",
+    "normalized": "loonkloof bestaat nog steeds en wet die dat moet veranderen is weer uitgesteld",
+    "link": "https://nos.nl/l/2641084",
+    "samenvatting": "Vandaag is het Equal Pay Day. Dat betekent dat vrouwen in Nederland de rest van het jaar eigenlijk 'voor niks' werken als gevolg van de loonkloof. Deze datum is door de jaren heen wel wat naar achteren geschoven. Maar nog steeds verdienen vrouwen in Nederland 9,8 procent minder per uur dan mannen, b",
+    "datum": "2026-11-26T10:32:32.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/4/F/E/f/s/f/GnnLcsG9ZSviMk895MWbKHXSkLpn9thnwahKzg4/8x107x3984x2241-1024x576.webp"
+   },
    {
     "titel": "Wachtwoordbeheerder 1Password gehackt, kluizen van klanten zijn veilig",
     "normalized": "wachtwoordbeheerder 1password gehackt kluizen van klanten zijn veilig",
@@ -291,7 +300,7 @@
     "samenvatting": "Als je naar de thermometer kijkt, lijkt het al winter. De temperatuur komt donderdag en vrijdag maximaal 1 graden boven het vriespunt uit, en dat is \"bijzonder koud\" voor de tijd van het jaar. Vrijdag is er kans op de eerste lokale ijsdag van dit najaar.",
     "datum": "2026-11-26T09:00:10.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/o1gxy4bah18q_sqr256/454/0/3857/3857/morgen-kans-op-eerste-lokale-ijsdag-door-uitzonderlijke-kou.jpg"
+    "foto": "https://images.nu.nl/m/ct9xrbma8aus_sqr256/285/0/3231/3231/morgen-kans-op-eerste-lokale-ijsdag-door-uitzonderlijke-kou.jpg"
    },
    {
     "titel": "ANWB ziet kloof tussen elektrische rijders en fossiele brandstof-rijders",
@@ -535,26 +544,35 @@
     "datum": "2026-11-25T13:22:37.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/3/F/i/b/H/r/KWxXnNqWKNSPu3TzJ3FZ2cJ9LuAMJuWQ7hMKfw2/0x69x4000x2250-1024x576.webp"
-   },
-   {
-    "titel": "Vrouw overleden nadat man haar neersteekt op fietspad in Houten",
-    "normalized": "vrouw overleden nadat man haar neersteekt op fietspad in houten",
-    "link": "https://nos.nl/l/2640971",
-    "samenvatting": "De 34-jarige vrouw die vanmorgen werd neergestoken door een man op een fatbike in Houten, heeft het niet overleefd. De verdachte is een 39-jarige man uit Utrecht. Ze kenden elkaar, laat de politie weten. De steekpartij was vanmorgen rond 08.30 uur in Houten. De verdachte viel de vrouw, die op een ba",
-    "datum": "2026-11-25T13:02:20.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/3/C/T/g/V/w/v4dxCvGdHBkwWmTju42wHQv9q1J6cwmxydRW65j/0x85x1616x909-1024x576.webp"
    }
   ],
   "buitenland": [
    {
-    "titel": "Salvadoraan in VS wordt vlak na winst 1 miljoen dollar in loterij opgepakt door ICE",
-    "normalized": "salvadoraan in vs wordt vlak na winst 1 miljoen dollar in loterij opgepakt door ice",
-    "link": "https://www.nu.nl/buitenland/6417835/salvadoraan-in-vs-wordt-vlak-na-winst-1-miljoen-dollar-in-loterij-opgepakt-door-ice.html",
+    "titel": "Vrouw van in Rusland opgepakte Japanse journalist: 'Geef papa terug aan dochter'",
+    "normalized": "vrouw van in rusland opgepakte japanse journalist geef papa terug aan dochter",
+    "link": "https://nos.nl/l/2641082",
+    "samenvatting": "De vrouw van een Japanse journalist die op verdenking van spionage vastzit in Rusland heeft in een emotionele verklaring gepleit voor zijn vrijlating. \"Alstublieft, geef deze dierbare papa terug aan zijn kleine dochtertje\", schrijft ze in de open brief, verspreid door de krant waarvoor hij werkt. Jo",
+    "datum": "2026-11-26T10:24:06.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/5/9/v/6/U/B/E9GAxvUTMp2bmeQJC9U1iHVp6Z7CV3F4YR7MesK/3x237x928x522-928x522.webp"
+   },
+   {
+    "titel": "Groep olifanten valt toeristen aan in Kameroen, Zwitser omgekomen",
+    "normalized": "groep olifanten valt toeristen aan in kameroen zwitser omgekomen",
+    "link": "https://nos.nl/l/2641081",
+    "samenvatting": "In Kameroen is een Zwitserse toerist om het leven gekomen door een aanval van een groep olifanten. Enkele Britten en een Amerikaan raakten gewond. De groep was aan het wandelen in Mount Cameroon National Park in het westen van het land. Ze liepen met gidsen op een pad dat olifanten gebruiken om bij ",
+    "datum": "2026-11-26T10:19:33.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/6/6/j/b/H/r/yjB3MKgAkmVzeqWGw9ZMWNTU48ysV6PECH2UB4P/8x169x3984x2241-1024x576.webp"
+   },
+   {
+    "titel": "Salvadoraan in VS week na winst 1 miljoen dollar in loterij opgepakt door ICE",
+    "normalized": "salvadoraan in vs week na winst 1 miljoen dollar in loterij opgepakt door ice",
+    "link": "https://www.nu.nl/buitenland/6417835/salvadoraan-in-vs-week-na-winst-1-miljoen-dollar-in-loterij-opgepakt-door-ice.html",
     "samenvatting": "Een man die vorige week 1 miljoen dollar had gewonnen bij een loterij is dinsdag opgepakt door de Amerikaanse immigratiedienst ICE. De man, die oorspronkelijk uit El Salvador komt, was volgens de immigratiedienst sinds 2013 illegaal in de Verenigde Staten.",
     "datum": "2026-11-26T09:31:20.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/z0xxohda6v7i_sqr256/399/0/1080/1080/salvadoraan-in-vs-wordt-vlak-na-winst-1-miljoen-dollar-in-loterij-opgepakt-door-ice.jpg"
+    "foto": "https://images.nu.nl/m/z0xxohda6v7i_sqr256/399/0/1080/1080/salvadoraan-in-vs-week-na-winst-1-miljoen-dollar-in-loterij-opgepakt-door-ice.jpg"
    },
    {
     "titel": "Man in VS wint miljoen met kraslot, wordt paar dagen later opgepakt door ICE",
@@ -575,13 +593,13 @@
     "foto": "https://images.cdn.nos.nl/8/6/s/c/Y/B/6wxfAaYZA2B617cehCsAWcZoLfYkNuVdMC1nnva/186x111x320x180-320x180.webp"
    },
    {
-    "titel": "Zwitser overlijdt nadat hij is gespiest bij aanval door olifanten in Kameroen",
-    "normalized": "zwitser overlijdt nadat hij is gespiest bij aanval door olifanten in kameroen",
-    "link": "https://www.nu.nl/dieren/6417827/zwitser-overlijdt-nadat-hij-is-gespiest-bij-aanval-door-olifanten-in-kameroen.html",
-    "samenvatting": "Een Zwitserse toerist is overleden aan zijn verwondingen nadat hij was gespiest bij een aanval door olifanten in Kameroen. Verder raakten meerdere Britten en een Amerikaan gewond.",
+    "titel": "Zwitser overlijdt nadat hij is gespietst bij aanval door olifanten in Kameroen",
+    "normalized": "zwitser overlijdt nadat hij is gespietst bij aanval door olifanten in kameroen",
+    "link": "https://www.nu.nl/dieren/6417827/zwitser-overlijdt-nadat-hij-is-gespietst-bij-aanval-door-olifanten-in-kameroen.html",
+    "samenvatting": "Een Zwitserse toerist is overleden aan zijn verwondingen nadat hij was gespietst bij een aanval door olifanten in Kameroen. Verder raakten meerdere Britten en een Amerikaan gewond.",
     "datum": "2026-11-26T08:13:39.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/7x7xiiba1i16_sqr256/670/0/2094/2094/zwitser-overlijdt-nadat-hij-is-gespiest-bij-aanval-door-olifanten-in-kameroen.jpg"
+    "foto": "https://images.nu.nl/m/7x7xiiba1i16_sqr256/670/0/2094/2094/zwitser-overlijdt-nadat-hij-is-gespietst-bij-aanval-door-olifanten-in-kameroen.jpg"
    },
    {
     "titel": "'Hoofdrol Duitse botenhandelaar bij mensensmokkel over Het Kanaal'",
@@ -798,27 +816,18 @@
     "datum": "2026-11-25T15:26:53.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/6/C/9/e/J/T/XPA5f4zx2q94ehUhZc161gVf8j4q57Kc4rL94MT/638x143x3344x1881-1024x576.webp"
-   },
-   {
-    "titel": "Polen gaat vliegverbod van tientallen kilometers bij grens met Oekraïne instellen",
-    "normalized": "polen gaat vliegverbod van tientallen kilometers bij grens met oekraine instellen",
-    "link": "https://www.nu.nl/spanningen-oekraine/6417772/polen-gaat-vliegverbod-van-tientallen-kilometers-bij-grens-met-oekraine-instellen.html",
-    "samenvatting": "Polen gaat binnenkort een vliegverbod instellen aan de grens met Oekraïne, meldt het Poolse ministerie van Defensie woensdag. Het land kreeg de afgelopen tijd meermaals te maken met drones in het luchtruim, vermoedelijk vanuit Rusland.",
-    "datum": "2026-11-25T15:25:12.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/jrrxq6eale35_sqr256/213/0/1706/1706/polen-gaat-vliegverbod-van-tientallen-kilometers-bij-grens-met-oekraine-instellen.jpg"
-   },
-   {
-    "titel": "Negen doden door onderlopen Indonesische mijn, nog zeventien mijnwerkers vast",
-    "normalized": "negen doden door onderlopen indonesische mijn nog zeventien mijnwerkers vast",
-    "link": "https://www.nu.nl/buitenland/6417762/negen-doden-door-onderlopen-indonesische-mijn-nog-zeventien-mijnwerkers-vast.html",
-    "samenvatting": "Zeker negen mijnwerkers zijn in Indonesië om het leven gekomen toen de goudmijn waarin ze werkten onderliep door hevige regenval. Zeventien anderen zitten nog vast in de mijn, melden hulpdiensten.",
-    "datum": "2026-11-25T14:42:40.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/gdnxw1ja6vqw_sqr256/652/0/2693/2693/negen-doden-door-onderlopen-indonesische-mijn-nog-zeventien-mijnwerkers-vast.jpg"
    }
   ],
   "politiek": [
+   {
+    "titel": "Kabinet over regels VS voor ASML: wij laten ons de wet niet voorschrijven",
+    "normalized": "kabinet over regels vs voor asml wij laten ons de wet niet voorschrijven",
+    "link": "https://nos.nl/l/2641087",
+    "samenvatting": "Het kabinet laat zich opnieuw stevig uit over het Amerikaanse wetsvoorstel (Match Act) van het Congres om het Nederlandse bedrijf ASML grote beperkingen op te leggen. \"Nederland laat zich niet de wet voorschrijven\", zei minister Sjoerdsma van Buitenlandse Handel in een Kamerdebat Hij noemt het een k",
+    "datum": "2026-11-26T10:39:10.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/1/H/j/P/F/S/cUVnCDATjEfgQTJGATqMSYEUGQtsVPEQZskzf1J/2310x310x1616x909-1024x576.webp"
+   },
    {
     "titel": "Overheid probeert het opnieuw: campagne om buiten de spits te reizen",
     "normalized": "overheid probeert het opnieuw campagne om buiten de spits te reizen",
@@ -989,18 +998,27 @@
     "datum": "2026-11-18T15:59:38.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/2/3/F/a/w/F/SgXieDwxfzQZ4woWvMaya6R3ZwoNc6cfZgTytz6/0x0x1920x1080-1024x576.webp"
-   },
-   {
-    "titel": "Podcast De Dag: poging twee voor het minderheidsexperiment",
-    "normalized": "podcast de dag poging twee voor het minderheidsexperiment",
-    "link": "https://nos.nl/l/2640027",
-    "samenvatting": "Het minderheidskabinet gaat door na een lang weekend crisisoverleg. Vicepresident van de Raad van State Sybrand Buma moet de drie coalitiepartijen helpen om de samenwerking met de Kamer te verbeteren. Wat is er nodig om de doorstart van het minderheidskabinet Jetten te laten slagen? Luister hier: De",
-    "datum": "2026-11-18T14:11:28.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/5/E/E/j/X/j/eXt495a6BdccYTxVF1k3ApEqFhsP2pDEgKUsqbs/0x0x1920x1080-1024x576.webp"
    }
   ],
   "economie": [
+   {
+    "titel": "Kabinet over regels VS voor ASML: wij laten ons de wet niet voorschrijven",
+    "normalized": "kabinet over regels vs voor asml wij laten ons de wet niet voorschrijven",
+    "link": "https://nos.nl/l/2641087",
+    "samenvatting": "Het kabinet laat zich opnieuw stevig uit over het Amerikaanse wetsvoorstel (Match Act) van het Congres om het Nederlandse bedrijf ASML grote beperkingen op te leggen. \"Nederland laat zich niet de wet voorschrijven\", zei minister Sjoerdsma van Buitenlandse Handel in een Kamerdebat Hij noemt het een k",
+    "datum": "2026-11-26T10:39:10.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/1/H/j/P/F/S/cUVnCDATjEfgQTJGATqMSYEUGQtsVPEQZskzf1J/2310x310x1616x909-1024x576.webp"
+   },
+   {
+    "titel": "Loonkloof bestaat nog steeds en wet die dat moet veranderen is weer uitgesteld",
+    "normalized": "loonkloof bestaat nog steeds en wet die dat moet veranderen is weer uitgesteld",
+    "link": "https://nos.nl/l/2641084",
+    "samenvatting": "Vandaag is het Equal Pay Day. Dat betekent dat vrouwen in Nederland de rest van het jaar eigenlijk 'voor niks' werken als gevolg van de loonkloof. Deze datum is door de jaren heen wel wat naar achteren geschoven. Maar nog steeds verdienen vrouwen in Nederland 9,8 procent minder per uur dan mannen, b",
+    "datum": "2026-11-26T10:32:32.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/4/F/E/f/s/f/GnnLcsG9ZSviMk895MWbKHXSkLpn9thnwahKzg4/8x107x3984x2241-1024x576.webp"
+   },
    {
     "titel": "Kabinet haalt hard uit naar Amerikaans wetsvoorstel voor beperkingen ASML",
     "normalized": "kabinet haalt hard uit naar amerikaans wetsvoorstel voor beperkingen asml",
@@ -1089,7 +1107,7 @@
     "samenvatting": "Vrouwen die vermoeden dat ze onterecht minder verdienen dan hun mannelijke collega's, kunnen nu al hun recht halen. Voor een succesvolle zaak moeten ze voorlopig wel zelf met bewijs komen, omdat nieuwe wetgeving op zich laat wachten.",
     "datum": "2026-11-26T05:00:04.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/2r8x8o3ay5h2_sqr256/2757/1838/3666/3666/vrouwen-hoeven-niet-op-nieuwe-wet-te-wachten-om-gelijk-loon-te-eisen.jpg"
+    "foto": "https://images.nu.nl/m/35zxg9ga7864_sqr256/846/0/4052/4052/vrouwen-hoeven-niet-op-nieuwe-wet-te-wachten-om-gelijk-loon-te-eisen.jpg"
    },
    {
     "titel": "Groei woningverkopen tot stilstand gekomen, starters kopen minder huizen",
@@ -1252,24 +1270,6 @@
     "datum": "2026-11-24T21:58:37.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/8/2/3/m/K/Y/dUStkChfDvHwdr7kTUDMPT4dQUSnJyUWvDTjCQc/151x131x880x495-880x495.webp"
-   },
-   {
-    "titel": "Topman NVIDIA biedt personeel excuses aan na terugkeer en krijgt therapie",
-    "normalized": "topman nvidia biedt personeel excuses aan na terugkeer en krijgt therapie",
-    "link": "https://www.nu.nl/tech/6417676/topman-nvidia-biedt-personeel-excuses-aan-na-terugkeer-en-krijgt-therapie.html",
-    "samenvatting": "Topman Jensen Huang van NVIDIA heeft dinsdag tegenover werknemers excuses aangeboden voor het gedrag dat tot zijn kortstondige vertrek leidde. Tijdens een bijeenkomst voor alle medewerkers erkende hij onder meer de gedragscode van het bedrijf te hebben geschonden.",
-    "datum": "2026-11-24T20:11:32.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/6g6xic8aeho4_sqr256/822/0/4326/4326/topman-nvidia-biedt-personeel-excuses-aan-na-terugkeer-en-krijgt-therapie.jpg"
-   },
-   {
-    "titel": "Onrustige beurzen en cyberaanvallen: DNB ziet risico in snelle groei AI",
-    "normalized": "onrustige beurzen en cyberaanvallen dnb ziet risico in snelle groei ai",
-    "link": "https://nos.nl/l/2640847",
-    "samenvatting": "De risico's voor Nederlandse financiële instellingen zoals banken, verzekeraars en pensioenfondsen nemen toe, voornamelijk door de snelle ontwikkeling van kunstmatige intelligentie. Dat schrijft De Nederlandsche Bank (DNB) in een halfjaarlijks rapport waarin de bank kijkt naar risico's voor het fina",
-    "datum": "2026-11-24T15:38:20.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/8/D/t/D/i/e/YschqWpyJ32MEFBWPuqm2Z4fU5W54Lkoy4A9QmV/427x637x3552x1998-1024x576.webp"
    }
   ],
   "sport": [
@@ -1546,6 +1546,24 @@
   ],
   "cultuur": [
    {
+    "titel": "Podcast De Dag: de spanningsboog van het microdrama",
+    "normalized": "podcast de dag de spanningsboog van het microdrama",
+    "link": "https://nos.nl/l/2641083",
+    "samenvatting": "Het beeld is verticaal, voor op de telefoon. De afleveringen zijn heel kort, hooguit een paar minuten. En iedere aflevering eindigt met een cliffhanger, waardoor je door blijft kijken. Na groot succes in Azië en in de VS is het er nu ook in Nederland: het microdrama. Series met heel korte aflevering",
+    "datum": "2026-11-26T10:26:15.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/6/E/p/4/Q/h/GeJpndX8kDZFUgkKjeUYLtAuFMJo148nySVCRcs/0x0x1920x1080-1024x576.webp"
+   },
+   {
+    "titel": "Vrouw van in Rusland opgepakte Japanse journalist: 'Geef papa terug aan dochter'",
+    "normalized": "vrouw van in rusland opgepakte japanse journalist geef papa terug aan dochter",
+    "link": "https://nos.nl/l/2641082",
+    "samenvatting": "De vrouw van een Japanse journalist die op verdenking van spionage vastzit in Rusland heeft in een emotionele verklaring gepleit voor zijn vrijlating. \"Alstublieft, geef deze dierbare papa terug aan zijn kleine dochtertje\", schrijft ze in de open brief, verspreid door de krant waarvoor hij werkt. Jo",
+    "datum": "2026-11-26T10:24:06.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/5/9/v/6/U/B/E9GAxvUTMp2bmeQJC9U1iHVp6Z7CV3F4YR7MesK/3x237x928x522-928x522.webp"
+   },
+   {
     "titel": "Brad Pitt en Angelina Jolie treffen na jarenlange ruzie schikking over wijngaard",
     "normalized": "brad pitt en angelina jolie treffen na jarenlange ruzie schikking over wijngaard",
     "link": "https://nos.nl/l/2641040",
@@ -1706,24 +1724,6 @@
     "datum": "2026-11-16T09:52:25.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/5/C/3/Z/y/t/o1n1745hkQWvSaCV2UgpLjCTPvU6pLyRcztAuRo/2x109x3328x1872-1024x576.webp"
-   },
-   {
-    "titel": "'Er staat nog iets in de gangkast': teruggevonden schilderij moet miljoenen opbrengen",
-    "normalized": "er staat nog iets in de gangkast teruggevonden schilderij moet miljoenen opbrengen",
-    "link": "https://nos.nl/l/2639574",
-    "samenvatting": "Een Amerikaans schilderij dat jarenlang opgeslagen stond in een gangkast in Manhattan, moet komende week op een veiling tussen de 3 en 5 miljoen dollar opbrengen. Decennialang wisten kunstexperts niet waar Near Abiquiu, New Mexico I van Georgia O'Keeffe was gebleven, tot veilinghuis Christie's een m",
-    "datum": "2026-11-15T12:16:52.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/1/A/i/J/w/C/BZsvy1mr3wz4a1PKQYvdkroVT3eD7XmQVUn9E44/0x0x1920x1080-1024x576.webp"
-   },
-   {
-    "titel": "Voormalig Doe Maar-drummer Jan Pijnenburg (70) overleden",
-    "normalized": "voormalig doe maar drummer jan pijnenburg 70 overleden",
-    "link": "https://nos.nl/l/2639401",
-    "samenvatting": "Jan Pijnenburg, voormalig drummer van de band Doe Maar, is op 70-jarige leeftijd onverwachts overleden. Dat schrijft Dagblad van het Noorden. Hij stierf in zijn woonplaats in Spanje. De doodsoorzaak is niet bekendgemaakt. Pijnenburg was slechts twee jaar drummer van Doe Maar, maar wel tijdens crucia",
-    "datum": "2026-11-13T21:52:05.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/7/3/2/i/Q/z/A6foSLCF8FECnaTgW3JbKKvSJcfQSmm7h9cUNwt/185x16x1728x972-1024x576.webp"
    }
   ],
   "tech": [
@@ -1964,18 +1964,9 @@
     "foto": ""
    },
    {
-    "titel": "Bekende familie: broertje vond lichaam Mohammed in vrieskist",
-    "normalized": "bekende familie broertje vond lichaam mohammed in vrieskist",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2wwLXF4cHpRV0FPc3N5bkh1eGV2VVVNMmdWUTlRNVVnT2x0dGFVNkxncWVHUmVWOEJDbkRLeDlOYXN3SXloeU4zVU1fcU1hcWdfTEQzSXc0bzFPdkw0TkRYbkg2YmJiYm9aZXZZQU0xS0kxVGJFNE5ibHBiRDdwWmJuQ0ZmWGJBaXMxTThPdXZOMG5SdGhn?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-25T18:46:07.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Hoe Zeeland al bijna 200 jaar aan de ketting ligt van de Belgen",
     "normalized": "hoe zeeland al bijna 200 jaar aan de ketting ligt van de belgen",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVDFpcTRNeEZKSmxwTURiaU1HZXdrdEhJNWFUZmhuOW4wQi16b0ZoaFlqd3ZnLWhBb2tYT3lMbGpUUzVOakx3Yk9qSDM3T2RaLVlId1dqSGdvMk5wT1FfTW9HcmdJTEhPYlF5MUVwVlZmaHpmb092WUUzOHQ5ajFGNHJKXzlPTVRrY0c3SVBteS0xdGZ1UTNHZEFhZlUtRVlyN1B6cHM2ZWIzRnM?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdVNuMkFJdEtncXAyNUk5R3Z4MWk0cnU3cVZ3TFhPaHBrLWtkVG9pWl9lUG9JckIyUW0tOWZjVTkwV2x4dENEamJBNzUxUngwZnJKSG83T0dMWEZJSkRGZlZGMTZCdDZ5X2U5Q29xcEdCRkV6VXJtS1NKM2xfRzZ0R2hDOU0ycW5nbG1qMFZ3emVWd3ZzUGhJM2RfT0VjM0hiYmQ5LQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-25T18:00:10.000Z",
     "bron": "Google Nieuws",
@@ -1987,6 +1978,15 @@
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOVNTOWo0bEREQ0dzNEJRY1ZUaVBmLXpsWExMVDhDZ0VLMXRnZk5Qdm52eUUzb3FNSWtBSkJCcXZOZVFpWTZfVV9aUDhIZDNpbVhXSldCajU1UDVOcjlEdEliYUxyRTgzNVBkUE42RTFXSlhaejk4X0xyTDRSaTM2NzhjemliRThUa3JjT0xxQ2pqWkNLZUc0SEtPcmVadkx0NTUyODRCZ1BBUEhsa1dTblBXT1N4dG9DclpyNnkzaVBPQQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-25T17:54:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Vijftig jaar na treinramp krijgt school in Vlissingen een blijvende herinnering: ‘Vier namen die we niet mogen vergeten’",
+    "normalized": "vijftig jaar na treinramp krijgt school in vlissingen een blijvende herinnering vier namen die we niet mogen vergeten",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcmo5NWkyTi1wNXJSbzhyYS0wSWxxd01uNUJ4ckVCUEEtQkhtektYM2NNbG1RR05DZ2hfSUdzWk9ENVR0aUl4OF93RzR4bTNMZG1KdEcwN25IRGxDNktGM0N4S1FKb2g0aFdobHB5UWxncDVlQkdJT0JfVlp6elRQZk1wTlV3OVl0SW5uZU1ZWDUzSk01V043SVU4ZThRSU05V0pBMTZnMXBKUk1QNWo0c21aaGNxbWJWMDh5NE1LenRyRFRYUXZpTnd4TUNjUVVXN2otckRyNlVHSkMwa0kwZHdUUUZwWGg3VDlGbTdB?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-25T17:30:43.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2108,6 +2108,15 @@
     "foto": ""
    },
    {
+    "titel": "Zeeland krijgt tweede editie van het WinterFestival in het Dorpshuis",
+    "normalized": "zeeland krijgt tweede editie van het winterfestival in het dorpshuis",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWtmcWlEdmJ2WDM4VkU4bkRvYk1Yd3BJczNiOEFBcE1KVFNOZzBjRGdVbkZjN3BYbXVzSk10bEZFamxvTURsd0JwekloczlCQ0dINjFiTG93VEpWSURjRFpZeWJoX0NDUnNqNXloeEVnbjZaY1JXNTNtbXZEUU5ZX09lTkp0QzNrTHEybzZYdVFNYTFFSE91ejFqZ0xLMFlnWHJzVlM2dw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-25T08:37:57.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Provincie Zeeland houdt inloopbijeenkomst over landbouw, natuur en stikstof in Rilland",
     "normalized": "provincie zeeland houdt inloopbijeenkomst over landbouw natuur en stikstof in rilland",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaHloeVFZSUhkNnpPSFZsMnhRYmZsTWx3YW9OajBzQ2dWWHNJbi1sXzRyVTg2UHRLSEctc0UtQkxOWG02djhhRm5BcGdjZmJHT19XRFFmYmZQSXQtSV96NWFINXQzUloyQTZfdzZXRGNyUERvMlFjUW90aGNvMEx3ZW1TZ0JKOEJXNWt4czNXc2lScVdlWi1ZbzBpNnhyd1liYjhOcmFvdl9ab0xyelhpbTcwM2Q4ZHZmaVg1LUkyUG9jd0Nu?oc=5",
@@ -2144,15 +2153,6 @@
     "foto": ""
    },
    {
-    "titel": "Goedemorgen! Crowdfunding, Orange The World en Feyenoord onder 19",
-    "normalized": "goedemorgen crowdfunding orange the world en feyenoord onder 19",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUC1VX1B6SVlNWjdGa2xWdXFTcWpaTXROTmlhSWhkaWw4UHdLUUdERkxUUG1tMG42NUd1NXdSbmJMdnFjb0FoSEVtNFVrUkdLNUxiYURrRjFFVnRaRjdRUjdyX0Y3clllUDFQVUUtVXBMcWxKNVIwbGJzRERvWlAxYnJtT3JHSWtyS2NaQmpVX0lYUk5ncEE1Yko2SEZNaHRHekZMU2N2YzBDdHZL?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-25T05:10:54.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "ZorgSaam wil miljoenen claimen bij provincie door sluiting Westerscheldetunnel",
     "normalized": "zorgsaam wil miljoenen claimen bij provincie door sluiting westerscheldetunnel",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVzViLTJCS092SDJla29NdVN5NDFSUkpHRlhHelE0U2s1QTZOTHpkbEs3dkRWN082Y3g2Y3BVeE9ETngxd3ljcTVjTXVxejFQRzE0VW9QWm84cUFaSjBYY0ZHRENnU1E1YWtxUXYtXzY4V1VSX2ktR1UzaURKdmJ5TWgyUXVUeE0zZk9hUjY3c1g2eG9heEQwVFBPWDVFYU5xR3BfM2hJT3pVcFY0dERtbDRHS3d5a21h?oc=5",
@@ -2181,6 +2181,24 @@
    }
   ],
   "brabant": [
+   {
+    "titel": "Tweede Kamer wil Amerikaanse maatregelen tegen ASML van tafel krijgen",
+    "normalized": "tweede kamer wil amerikaanse maatregelen tegen asml van tafel krijgen",
+    "link": "https://www.omroepbrabant.nl/nieuws/6036319/tweede-kamer-wil-amerikaanse-maatregelen-tegen-asml-van-tafel-krijgen",
+    "samenvatting": "Tweede Kamerlid Mpanzu Bamenga (D66) uit Eindhoven wil dat het kabinet bij de Europese Commissie erop aandringt dat strenge Amerikaanse wetgeving van tafel gaat. Die wetgeving, bekend onder de naam 'Match Act', geeft Amerika onder meer de mogelijkheid om verdere exportbeperkingen op te leggen aan de",
+    "datum": "2026-11-26T10:37:00.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTU0NjEtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz01cHk5YlRsTSUyRmpkcnFyWTJFbWxOYUxDJTJCYU1KNHlQTm93bDNITThEcm41cyUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
+   },
+   {
+    "titel": "IJskoude nachten op komst, onze weervrouw weet hoe lang het blijft vriezen",
+    "normalized": "ijskoude nachten op komst onze weervrouw weet hoe lang het blijft vriezen",
+    "link": "https://www.omroepbrabant.nl/nieuws/6036318/ijskoude-nachten-op-komst-onze-weervrouw-weet-hoe-lang-het-blijft-vriezen",
+    "samenvatting": "Het is eind november en de temperaturen komen niet of nauwelijks boven het vriespunt uit. Het is volgens meteoroloog Verena M&uuml;lder van Weerplaza &#34;veel kouder dan normaal&#34;. Voor winterliefhebbers is er voorzichtig goed nieuws, want het wordt nog wat frisser. Maar of ook de schaatsen uit ",
+    "datum": "2026-11-26T10:21:00.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTU0NzUtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1EamNHSiUyQkd1Y1R0NFgwVDVub1ZlN3Myd0clMkZsRGpRU3Y5cklPYVIlMkJUVjZzJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
+   },
    {
     "titel": "Studenten ontdekken foutje en zien schoolbestanden in: &#39;Niet de bedoeling&#39;",
     "normalized": "studenten ontdekken foutje en zien schoolbestanden in 39 niet de bedoeling 39",
@@ -2344,15 +2362,6 @@
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzQwNzQxNTctMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1NSFoySCUyRkF2JTJCYzliTDRDN3B3NkJCazFKaFNJam1PTERHNGVkcHozMU1hayUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
    },
    {
-    "titel": "Levenslang geëist en benzine onder 2 euro: dit gebeurde vandaag",
-    "normalized": "levenslang geeist en benzine onder 2 euro dit gebeurde vandaag",
-    "link": "https://www.omroepbrabant.nl/nieuws/6036191/levenslang-geeist-en-benzine-onder-2-euro-dit-gebeurde-vandaag",
-    "samenvatting": "Een strafeis in de zaak rond twee doden, asielzoekers in het nieuwe azc in Uden en benzineprijzen onder de twee euro. Deze vijf verhalen moet je woensdag gelezen hebben. &#xD;&#xA; Het OM eist opnieuw levenslang tegen Bill C. voor de moorden op Willem van der Willigen in Lieshout en Benito van Ommer",
-    "datum": "2026-11-25T18:15:00.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTM5MTEtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1rSnRwZVZiTTJaa3JwWVhQejFmSGxZV1pleVpEOGFrMmt4YXdwMzJ0T0tRJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
-   },
-   {
     "titel": "Kim (28) moet binnen twee dagen haar chalet uit: &#39;Ineens ben ik dakloos&#39;",
     "normalized": "kim 28 moet binnen twee dagen haar chalet uit 39 ineens ben ik dakloos 39",
     "link": "https://www.omroepbrabant.nl/nieuws/6035973/kim-28-moet-binnen-twee-dagen-haar-chalet-uit-ineens-ben-ik-dakloos",
@@ -2396,15 +2405,6 @@
     "datum": "2026-11-25T16:00:00.000Z",
     "bron": "Omroep Brabant",
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTUwMDktMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1hMk5uRWExbEtDZiUyRkppT3pGSmQyWVdLTUc1aU1DcHZvUWppS2txS1Brc28lM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
-   },
-   {
-    "titel": "Explosie in Bergen op Zoom: &#39;Gerichte aanslag op woonwagen Klaas Otto&#39;",
-    "normalized": "explosie in bergen op zoom 39 gerichte aanslag op woonwagen klaas otto 39",
-    "link": "https://www.omroepbrabant.nl/nieuws/6036169/explosie-in-bergen-op-zoom-gerichte-aanslag-op-woonwagen-klaas-otto",
-    "samenvatting": "Meerdere woningen en auto&rsquo;s zijn dinsdagnacht beschadigd geraakt door een explosie aan de Rijsselbergen in Bergen op Zoom. De politie gaat uit van brandstichting. Volgens het Brabants Dagblad was de explosie een aanslag op de woonwagen van Klaas Otto, de oprichter van de verboden motorclub No ",
-    "datum": "2026-11-25T15:17:11.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzI2Mjk0ODMtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1Nd29KelBydHIyWkFUZUszRk9WTXA1Vm54RU03TmdYazJYQ2olMkZWTmEyJTJGcyUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
    }
   ],
   "borsele": [
@@ -2645,18 +2645,9 @@
    {
     "titel": "Afgelopen week 4 meldingen van de gemeente over vergunningen in Borsele",
     "normalized": "afgelopen week 4 meldingen van de gemeente over vergunningen in borsele",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWGtjZG02eE5qbHR2eDExMkoxTlVlUGJZWmtIdDMtRVRaWVRNUlFFMktkT0hTUWJ6S0dvNXlYRnduQm9zZjFPX043WC00TFVwRmFxUEsxb2VpQmFROTVVM09Ld0wtOEEyTDJUaU5Bc2NrSXF4cGlabFIteEdlek1sUVBxNG1wdmVsY2J5b2M3SnZrUThlRENlY3JwNlRKbldsV0otUUt3Ti1vdE9l?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXZfLWJTbzlCS1lOclk4b3RxOUJJUDZBQXpiVTlWQzVrVGt1eG5xbEhvOUEyb0Y1cHl4aHdsbXA5ZnNBUFdkYVJkY0tMSWxZMnNBc1ZQYUgwaEcwWlpyRzZRSE1iQkhuVk9jZWVFVGp4eUZURVZET1pLVmxfYngtRUU2RDFBVnBmck04MG5OTnZjUHAyWEtPX2N3VHdtUkdSbDU4QmVOWVROeWc?oc=5",
     "samenvatting": "",
     "datum": "2026-11-18T10:03:29.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Laatste oude hoogspanningsmast verdwijnt uit Zeeuws landschap",
-    "normalized": "laatste oude hoogspanningsmast verdwijnt uit zeeuws landschap",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFNOX2NDUUs2dmxmVlBCeGJMWVg2Rkd0elBtR2dQZUhzcmFWcFJTQ2dwaENhaGE3QjNJYndtam1pOVphVmRpTHNSV0YtNlhqSW52SkllUlhLQ1FjLXR4NHhjR3N4eVdfeUI2SUoycTJPYmNEaE9RMWNuUmt3djhxd1hpMkdMU3NiS0Y3aWpKeEtNdGtUaEhGV2RPU3ZYaEVVSVRlTk95LUZkc3pjRjlOaFFB?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-17T14:51:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2675,6 +2666,15 @@
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVklBUGVSem5FcXg4VXJBUmV6Wk8xcEVFclZ0Umt2MndaT2tqbG56NElhWkh1MUlSNXdsbVZEdnBqOFV5YkxCTU1qOWE3alJRV2czd2VtZHh3ejRVYlFtT01IS3dwa20xOFh4U1lBNzNGU040aXM0OVlDVndDYmE3T2RnamFYTTk3aFg4cmtCcDg0RnF3cUVsV2JMYVluMjNfc1dGc3FuSmdUekFnT2xsdjNR?oc=5",
     "samenvatting": "",
     "datum": "2026-11-16T10:03:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Brand in een gebouw op Everingestraat in Borssele",
+    "normalized": "brand in een gebouw op everingestraat in borssele",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkZUbVNBcWtrN29VM0hfTDV2Skh4YVRremNDODIzaE9PVlp3ZWNoN0owNXV6N2o0NDlKTUpWZzl4WUU2RXhzdzFzTHFBMlIzdUZxbTB3QWNYSkxzTTJjZ0hReWhKbEt1UUQzc2NWZmRqbkxaVmpJaC1IV3F2elJOYWU0bDZNWW5MbGJXd0x6emFjemhWN2I2U0RUM0g?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-16T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2953,6 +2953,15 @@
   ],
   "roosendaal": [
    {
+    "titel": "Werkzaamheden aan spoor zorgen voor treinuitval tussen Breda en Roosendaal",
+    "normalized": "werkzaamheden aan spoor zorgen voor treinuitval tussen breda en roosendaal",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZWNESHFId1NpXzN4NGtuQ2M5bFRVbjdndGEzWVZxdTJLQndnZVZNWnYtT21FdlZaNmlrLUxHaTFUNmdNVTkzTHlqS0d5RXNsMnVpcEhiVjJlV3pVd21kRC1NVmZ1Tk16R3RIbmFkZVBVemEtNWZ1TU1HcXBFcGcxcThFTUwzNXNndGNObnFXeU9HN05haGRPUEYxMWxqR3FQUXBvd1hiWWtUSHlGdk0wUUFaWWdJQTJrei1R?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-26T10:17:35.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Queer Café Roosendaal",
     "normalized": "queer cafe roosendaal",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WTGhoaDBqenFxOUhQR1FoVGlzYXBHRWF2V29XbW5vWktOZXN4X1F0MGVRUU9YajJRa28waHhOMElRQVJxRUc3UmdTMm5NTWtFNFBFTA?oc=5",
@@ -2998,18 +3007,9 @@
     "foto": ""
    },
    {
-    "titel": "Derde doelman en strijdlust helpen RBC aan punt tegen Gemert: ‘Afwachten wat de ernst van blessures is’",
-    "normalized": "derde doelman en strijdlust helpen rbc aan punt tegen gemert afwachten wat de ernst van blessures is",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWjRRRkt4aVZDRnZjVDlrZlVaTTdYeUZHTTJwR2FFQ21idVNpREtzeHJ1cVpxNEZSeHdEZjFmV2RabVpuclo1aFJiR0xrYk9rYzFUSVl6YWVkWm5DUUZPQ0kwUldQUlJNUGxxa0ZCNkx2N1cyMkNEMjhIaWxEVDZDbGxWWmdPSDFOSGd5LWxLb0JzYWdNSmEwYVZTaWJzZTBUM21aVEUya1VocVE5R0FoeDF4N01GdEN4TTF2XzFQdmJ4eVFHcVItUGtMd0tTVzVYUXpqTE9fRmR2NWFhenJIMVo2VW0?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-26T06:30:56.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Ongeval met letsel op Industriestraat in Roosendaal",
     "normalized": "ongeval met letsel op industriestraat in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZHVHMUFlYkVCdXdtYnJ2RWRHQVRXbE16YjJrYkdTUGRRVWVhQTk4LTBVVFlSWGc3b1R2cGtUYWlkX1B5ZVFSdnV0eFdod1prczdJZ0c2bFNVYThXRWY4U0xQU2IxMWR0ZGRrcW5mQWFVeDlPNGdyVE9zbkdNTHJmZThyLXVqSXNuZDZ1OUFzZEl1eTJwX29PNGFKTmNEbTVBMW11RS1SNzhJclU?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUlBOWlR0WXdJZm0yOUU3d21CSnI2bnBmWHlWc1lZVDY5VkVGY2pEZHJmS1pqWFNGVG4zZV9GUEdLLUZjeDZGUS1taHp5TDQ3QnFQRWRsYllOMzluWmNOVE02QTRYT3ZKdDAwdjZ0M0Y0OXg3YmFkNEkzblhIZnhpb3RCYld4ODlPVmZneTI3THpzcGxhSzlIQWhybzVUM1J0Q2Jj?oc=5",
     "samenvatting": "",
     "datum": "2026-11-26T06:02:30.000Z",
     "bron": "Google Nieuws",
@@ -3081,7 +3081,7 @@
    {
     "titel": "Roosendaal kiest niet zomaar aan welke themadagen en -weken het aandacht schenkt, maar PRO wil in debat over die keuzes",
     "normalized": "roosendaal kiest niet zomaar aan welke themadagen en weken het aandacht schenkt maar pro wil in debat over die keuzes",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQVBVSUdDOXFBRWdaT2RfM1hvTEVzellvLWNheVpRU25qbGpMZno3M2dXREthTkNqSDNsRmNkSVJpMDBfdHJHRXREQ3F2WEdBOUxXdjVOMlhQd21sS3hlaDY2WEtuS1A5WWRrY3BVNmhhcFJyN3FkWm5IM0VtWlE1SVpLWVpxNFVjYktJeGNwQm5EZ2c2NWhlS18xZHBTQXhqODU3YU5VVVVtc29QX0puRm9lR2NtVjY3TWhPaGZMMERiMTlXd2NQMVVhZUhaTGY4dlRHb25YQV9YQ241dHRORGd1dWlnX2ZpMVNxTUxRN2dlWnZuM2RJ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd2kzYV9pczUzblh5LUcwN3ZaNTZkVU80UUJkaG1CaFRxZllEbWVrUzk1Q09FOVpmbzl4WjVIRGNVYVM5VGRFbnpZejZ5UzJmTTAtaFdzWGJNOC1BaG5nbmtkcUlfVVEteVl4QV9VRjVyR3doMkYzODRFVl8xRjZGaEdxaVZhMXFrbWtSOE92S20zVTNRZHB6c0w5dTQteGNPRzZ1aUk2d1NpZ2xWT0lhTmx4SDNraWRVNmNOSjhfOGpYY0lVZGFOaXZybzFFRFB6WkxXWlNhUk91dFpFZG50bXVEcXBKZFlEa3R6TUQ2WQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-25T14:04:25.000Z",
     "bron": "Google Nieuws",
@@ -3171,7 +3171,7 @@
    {
     "titel": "Mark Buijs liep bijna 40 breuken op bij fietsongeval en is nu terug als burgemeester Roosendaal: ‘Ik heb een tweede kans gekregen’",
     "normalized": "mark buijs liep bijna 40 breuken op bij fietsongeval en is nu terug als burgemeester roosendaal ik heb een tweede kans gekregen",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONmtoSEd2Y09yOEx2bnZmS3lTU19TSDkycjM3OWFqXzJOYzFaaW1Lblc3YzQyUmNFSkVXaXRKZUg0QlpqRjlBamhkQnA4ZlVXQzhCZ0FQc0Q5NjBSX0I5UWR2bzU5TGZXR1BhVGx6a242QjdtZUxBUVM2SGJTVWRSSGxpMHU3WHNBLUs0RVFHSFEta2RPazFNZktiaW9iTVRqUDVsZk9PWXd4X1JTcnl2N090bGY0MnFGV0dCQXplcGREYWc2NkFDNnRDV1ZCdlYyYjFXOE5hdW9PUGJxWUpmbzQycTMtNVlteWZSZU1YZndudmVuVkFSMUE0TFlrYkUtVkE?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdXRVYnRRdmZGT205OHc3bWxpdnlQcjlCZWxRRHZ2MDJqQ3NtUGJsLThNUDZ4OS1sdmQwUy1HRjgzai1SRjVIc2J3RWkyRzhLM0Raanljd3VHa2lzcExmeXJwTnpJbERSX202RWIwUmhqNXdCRE5OZVdoRXBJSm02MzJYeC1GSXh1T1RKRllUbkNSU01MVVZNY19EdFB2VEM2cTc1Y1A0Qjc2d2hkbi1zMEZaRVVraGQ1WkJEak03cV9OTjI2QVpZeHR6UHk0TC1WQ054M3hvbXF0bmZRdHJmam9aWXd0SHRidXhqR0dXTVpPRXFEeXc?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T15:49:00.000Z",
     "bron": "Google Nieuws",
