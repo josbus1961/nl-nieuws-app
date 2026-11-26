@@ -1,8 +1,17 @@
 {
- "gegenereerd": "2026-11-25T23:40:38.966Z",
+ "gegenereerd": "2026-11-26T00:05:59.269Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Onvrede binnen VVD over dubbelfunctie Yesilgöz, zegt oud-minister Van der Wal",
+    "normalized": "onvrede binnen vvd over dubbelfunctie yesilgoz zegt oud minister van der wal",
+    "link": "https://nos.nl/l/2641036",
+    "samenvatting": "Voormalig VVD-minister Christianne van der Wal zegt dat \"veel leden\" van de VVD twijfels hebben over het politiek leiderschap van VVD-leider Yesilgöz in combinatie met haar functie als minister van Defensie. In het programma Pauw en de Wit uitte zij haar twijfels of die taken wel zijn te combineren.",
+    "datum": "2026-11-25T23:56:18.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/3/D/Z/W/z/7/9gvDFrp7dFS3rpReBGoqpY8coQjSF8fV15Lj4Q7/0x334x4000x2250-1024x576.webp"
+   },
    {
     "titel": "Woningen ontruimd in Rhenen na vondst zwaar illegaal vuurwerk",
     "normalized": "woningen ontruimd in rhenen na vondst zwaar illegaal vuurwerk",
@@ -263,15 +272,6 @@
     "datum": "2026-11-25T20:06:17.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/2/H/H/f/P/e/fhtUrjBHdeQ5hUdjq8K4aZK39xwGMP9dxQNprHc/0x157x4000x2250-1024x576.webp"
-   },
-   {
-    "titel": "NOS Journaal-presentator Winfried Baijens vertrekt naar BNNVARA",
-    "normalized": "nos journaal presentator winfried baijens vertrekt naar bnnvara",
-    "link": "https://www.nu.nl/media/6417801/nos-journaal-presentator-winfried-baijens-vertrekt-naar-bnnvara.html",
-    "samenvatting": "NOS-presentator Winfried Baijens stapt volgend jaar over naar BNNVARA. De presentator van het NOS Journaal voegt zich bij het team van Roos Moggré, Jeroen Pauw en Tim de Wit.",
-    "datum": "2026-11-25T20:01:59.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/c92xkv3akr40_sqr256/997/0/4557/4557/nos-journaal-presentator-winfried-baijens-vertrekt-naar-bnnvara.jpg"
    }
   ],
   "binnenland": [
@@ -596,7 +596,7 @@
     "titel": "Zeker dertig doden doordat auto met benzine ontploft op ringweg Caïro",
     "normalized": "zeker dertig doden doordat auto met benzine ontploft op ringweg cairo",
     "link": "https://www.nu.nl/buitenland/6417797/zeker-dertig-doden-doordat-auto-met-benzine-ontploft-op-ringweg-cairo.html",
-    "samenvatting": "Op de ringweg van Caïro heeft woensdag een groot ongeluk plaatsgevonden. 31 mensen kwamen om het leven en 21 personen raakten gewond nadat een auto die benzine vervoerde vlam had gevat.",
+    "samenvatting": "Op de ringweg van Caïro heeft woensdag een groot ongeluk plaatsgevonden. Zeker dertig mensen kwamen om het leven en vijftien personen raakten gewond nadat een auto die benzine vervoerde vlam had gevat.",
     "datum": "2026-11-25T20:13:32.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/gv9xigoaqqzs_sqr256/0/4/3827/3827/zeker-dertig-doden-doordat-auto-met-benzine-ontploft-op-ringweg-cairo.jpg"
@@ -820,6 +820,15 @@
   ],
   "politiek": [
    {
+    "titel": "Onvrede binnen VVD over dubbelfunctie Yesilgöz, zegt oud-minister Van der Wal",
+    "normalized": "onvrede binnen vvd over dubbelfunctie yesilgoz zegt oud minister van der wal",
+    "link": "https://nos.nl/l/2641036",
+    "samenvatting": "Voormalig VVD-minister Christianne van der Wal zegt dat \"veel leden\" van de VVD twijfels hebben over het politiek leiderschap van VVD-leider Yesilgöz in combinatie met haar functie als minister van Defensie. In het programma Pauw en de Wit uitte zij haar twijfels of die taken wel zijn te combineren.",
+    "datum": "2026-11-25T23:56:18.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/3/D/Z/W/z/7/9gvDFrp7dFS3rpReBGoqpY8coQjSF8fV15Lj4Q7/0x334x4000x2250-1024x576.webp"
+   },
+   {
     "titel": "Pro en SP doen laatste poging om versobering schadevergoeding Groningen te voorkomen",
     "normalized": "pro en sp doen laatste poging om versobering schadevergoeding groningen te voorkomen",
     "link": "https://nos.nl/l/2641002",
@@ -989,15 +998,6 @@
     "datum": "2026-11-18T06:00:02.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/4/C/2/C/D/K/mwwqsYANeV2THMB4PEB6A5oDkadDvq2zMnu8xX2/2x192x3744x2106-1024x576.webp"
-   },
-   {
-    "titel": "Oppositie kritisch op inzet Buma: keuze tussen links en rechts opnieuw uitgesteld",
-    "normalized": "oppositie kritisch op inzet buma keuze tussen links en rechts opnieuw uitgesteld",
-    "link": "https://nos.nl/l/2639951",
-    "samenvatting": "De inzet van Sybrand Buma, de vicepresident van de Raad van State, is bij veel oppositiepartijen met weinig enthousiasme ontvangen. Dit bleek dinsdagavond tijdens een ruim acht uur durend debat over de 'ontstane politieke situatie', dat tot in de nacht doorging. Onder meer Pro, SP, PVV, Partij voor ",
-    "datum": "2026-11-18T01:26:35.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/7/D/G/Y/9/W/4ZQhNbDZi8sKkoowYwvrwoMR4Kp4EDEf6eTJkpR/8x105x3984x2241-1024x576.webp"
    }
   ],
   "economie": [
@@ -1289,7 +1289,7 @@
     "samenvatting": "Donyell Malen heeft AS Roma woensdag aan een 2-2-gelijkspel geholpen in de Champions League-wedstrijd bij Paris Saint-Germain. De Oranjespits zette vanaf de stip de eindstand op het bord. Ook Sporting CP-Manchester United eindigde in 2-2. Daar gebeurde van alles.",
     "datum": "2026-11-25T21:59:39.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/5ugxwgzalecm_sqr256/628/98/1462/1462/malen-weer-belangrijk-voor-roma-met-gelijkmaker-bij-psg-in-champions-league.jpg"
+    "foto": "https://images.nu.nl/m/hesxe8madipu_sqr256/350/0/1522/1522/malen-weer-belangrijk-voor-roma-met-gelijkmaker-bij-psg-in-champions-league.jpg"
    },
    {
     "titel": "NFL-legende Rodgers in afscheidsjaar ontslagen na beklag over 'snurkende' coach",
@@ -1299,15 +1299,6 @@
     "datum": "2026-11-25T21:36:53.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/7/4/f/q/Y/p/eZL65AeugmGqF7paCtnQUkZmPB4AGhrk4guZCfP/0x193x4000x2250-1024x576.webp"
-   },
-   {
-    "titel": "Video | Manchester United krijgt twee penalty’s in vier minuten tegen in CL",
-    "normalized": "video manchester united krijgt twee penalty s in vier minuten tegen in cl",
-    "link": "https://www.nu.nl/332640/video/manchester-united-krijgt-twee-penaltys-in-vier-minuten-tegen-in-cl.html",
-    "samenvatting": "",
-    "datum": "2026-11-25T21:28:33.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/n6sxnt3aaiku_sqr256/911/0/1946/1946/manchester-united-krijgt-twee-penaltys-in-vier-minuten-tegen-in-cl.jpg"
    },
    {
     "titel": "Barcelona en verdediger Frenkie de Jong winnen bij Sabah in Champions League",
@@ -1337,13 +1328,13 @@
     "foto": "https://images.nu.nl/m/xncxtm5atp8p_sqr256/1465/0/3352/3352/f1-teams-williams-en-alpine-hebben-in-2025-regels-kostenplafond-overtreden.jpg"
    },
    {
-    "titel": "Live | Teruglezen | PSG verliest perfecte score na penalty Malen",
-    "normalized": "live teruglezen psg verliest perfecte score na penalty malen",
-    "link": "https://www.nu.nl/voetbal/6417770/teruglezen-psg-verliest-perfecte-score-na-penalty-malen.html",
+    "titel": "Live | Champions League | PSG verliest perfecte score na penalty Malen",
+    "normalized": "live champions league psg verliest perfecte score na penalty malen",
+    "link": "https://www.nu.nl/voetbal/6417770/champions-league-psg-verliest-perfecte-score-na-penalty-malen.html",
     "samenvatting": "Goedenavond en welkom bij dit liveblog! Ik, Bram Schutte, hou je vandaag op de hoogte van al het Champions League-voetbal. Veel plezier!",
     "datum": "2026-11-25T17:16:26.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/4aqx729aw19a_sqr256/71/0/2258/2258/teruglezen-psg-verliest-perfecte-score-na-penalty-malen.jpg"
+    "foto": "https://images.nu.nl/m/4aqx729aw19a_sqr256/71/0/2258/2258/champions-league-psg-verliest-perfecte-score-na-penalty-malen.jpg"
    },
    {
     "titel": "Wéér geen Miedema bij Oranjevrouwen: 'Op dit moment nog niet goed genoeg'",
@@ -1542,6 +1533,15 @@
     "datum": "2026-11-25T05:58:44.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/b0exzaaax9do_sqr256/278/0/1500/1500/psv-en-feyenoord-moeten-aan-de-bak-dit-is-de-stand-in-de-champions-league.jpg"
+   },
+   {
+    "titel": "PSV droomt één helft van Europese stunt: 'Real Madrid heeft te veel kwaliteit'",
+    "normalized": "psv droomt een helft van europese stunt real madrid heeft te veel kwaliteit",
+    "link": "https://www.nu.nl/voetbal/6417690/psv-droomt-een-helft-van-europese-stunt-real-madrid-heeft-te-veel-kwaliteit.html",
+    "samenvatting": "Een sterk PSV droomde een helft lang van een sensationele zege bij Real Madrid in de Champions League. Maar in de tweede helft bleken de Madrileense \"wereldtoppers\" een maatje te groot: 5-1. \"Ze draaien bij je weg en het is kassa.\"",
+    "datum": "2026-11-25T05:01:20.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/u8vxiwiay25y_sqr256/744/0/3995/3995/psv-droomt-een-helft-van-europese-stunt-real-madrid-heeft-te-veel-kwaliteit.jpg"
    }
   ],
   "cultuur": [
@@ -2027,15 +2027,6 @@
     "foto": ""
    },
    {
-    "titel": "Ondermaatse vis verstopt in geheime ruimtes van kotters: taakstraf en tonnen boete voor vishandelaar in Breskens",
-    "normalized": "ondermaatse vis verstopt in geheime ruimtes van kotters taakstraf en tonnen boete voor vishandelaar in breskens",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRDhRWEY3aDU2Uy00SXJQRDlENzBXWnkyZXBSd3JpamtaXzNDbm5QUUlmNXFObnNwMTh1SlNWZnNJeGUtU1N5a2p2ZEJMbHZ1eTF4UTl5MUdPSDlaRWFMNlRGR0Nra3B5emF2NlJ3Nzc4RGxEQVVEUGo4OFdmQzdHSkk4UTREMjk1RUhZamdaT0x0MG5Ka2ZIT21PYlBhaGFkSVVqVHRmcnJtemc0cnNXc1FnOE54YnUzOW10ejNKQ3NKcXVhZG44NnNOMjZVWkgxYTVteEVfZXM2QmpLUVBr?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-25T13:31:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Illegaal vuurwerk ontdekt in schuur in Middelburg-Zuid na melding van pakketbezorger",
     "normalized": "illegaal vuurwerk ontdekt in schuur in middelburg zuid na melding van pakketbezorger",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTN6STFrVVJPcDRqUUpnWjUtQXdQN0hHcUcyTEtBcXJLR3V0ME92Y3pKWlZvellyTVZpaVVNVTBEZmRrQVU3d3I2V0txMTRuaTU0dmExZDRMdkFIM2o4ak45WXNwUlpidFpHSmlxU0g5cGVaUUtnMTFMdFp1Y0w0VHdBZ1liM3pJQkQ4UEJLN2JjODhDZ0VqOTMwaXFQSndlTkJINGRTRHB5emZXbno3WkQ5NWlpN1o2ZHU0MHItT05hZw?oc=5",
@@ -2095,6 +2086,15 @@
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVmp0dTJPcG92blB1UVdES0NZdlFnUlVOSUNvNXhLbTF1YmotMENGZUdaeU1hbDBQeUNEVzljcFZwejF6SG1IOU5fNjN6YkwtR2JUZFVDc2JHTnBJWlRpRVFjRnJreTlTTTlfbjJxODhVekJ2amhPUVlWVjR3Nks4czlyckVLckg2TzVwUg?oc=5",
     "samenvatting": "",
     "datum": "2026-11-25T10:08:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "COA wil 180 asielzoekers en statushouders in hotel De Elderschans in Aardenburg huisvesten",
+    "normalized": "coa wil 180 asielzoekers en statushouders in hotel de elderschans in aardenburg huisvesten",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1Rydkp6b3ZGcWtURV9mQUJCbm83cEFRVUEtUTBla2JuMDNDWG9xcTZQY3NqdGR5ckY5clB1VnBxTHhPTUdyMGZYOU90T0FPRmJiSUxMQzR2d0ZFR2tvTTdRRmkzcG5vS29XNTl0ZjVOMzNkV0hhbUR6WkR5RVVzUUFVOWl0VUUtd0oxYWlEdTV0enViTE14b2NxSDhCSUJ0dmQwQ1N0TDJoMGNmT2lMUVN0R1FuMFZJQTVNaVFOOVFiU28?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-25T09:26:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3115,9 +3115,9 @@
     "foto": ""
    },
    {
-    "titel": "Jan (1940-2023) werd verliefd op een ander, maar Mariëtte en hij bleven maatjes: ‘We hadden zoveel moois samen’",
-    "normalized": "jan 1940 2023 werd verliefd op een ander maar mariette en hij bleven maatjes we hadden zoveel moois samen",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTFBhSUxnWEZZR1lLMHdSaFRfVklkZHFIdkJOZThNN1RCdkxNcUNRbmREQzN3S1lOWHFlaUxMYi04U01HeWNuV3hOMzdSbWxxUG91QmR4NDVUaFRfOHJCMHo2UVV6dmo0ZVFkNXdITnA5SkhNRmxRMWxhTzZORllwTzI1bjVWeEtKcnRsZnhUUURuTmxuUEVCZnpHZDZTR3plSnVoVFR0TElZbS0ySGdDdFdqNXY1Vm9FaGx5MGdObkp2enRsbWRSa3ZXa1A3QktPTGFuWUtfMkFzd0EzUGxNblUwcjg?oc=5",
+    "titel": "Jan (1940-2026) werd verliefd op een ander, maar Mariëtte en hij bleven maatjes: ‘We hadden zoveel moois samen’",
+    "normalized": "jan 1940 2026 werd verliefd op een ander maar mariette en hij bleven maatjes we hadden zoveel moois samen",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSnJlU1JRZGJQUUZROVlvTFdCY0cyNEJ1TXVtX0loZ0J3OS1pNjJManVkTUxlSVBWLWhYQzc3MWViNlNxbldrWGNXUVZyMTJ5VXNRWFFBR3NDY1RpSHRtRDFpaFJHQ0JBOUE2LUNkbEIxQXR0RlZOMmNuNHYwdDhjbkJNNDVfSHl2TlR2TVZOei11UEVUcFlodFVDQnZWUnVZWG1PQWRtNEV3OUVsMGwxTHlEYW1UNmFMLU5STmZ6WXlSZ2FiZE9LTlZWX3ZMWWgtNzFOalgtQjA2YTE4Mm1oMkFHdWk?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T15:02:00.000Z",
     "bron": "Google Nieuws",
@@ -3180,7 +3180,7 @@
    {
     "titel": "‘Het gebeurt ook bij mij in de straat’: raadsleden uit Roosendaal en Bergen op Zoom zien criminaliteit zelf ook",
     "normalized": "het gebeurt ook bij mij in de straat raadsleden uit roosendaal en bergen op zoom zien criminaliteit zelf ook",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWGUwQ2hZTVhNeTNYVGotSUo4VHMwX295LThvbFhhallnNy14bEN3ZHN3VGJKN1k4a1VLNkY2b2E1SFZ1S1A5SnVPbDVUQW5URlVFNk5DT2E0MExUMjNYeWV5X2FHZFlEYXVWYzBCN19aY2NGdGp6UTA4eWxybkdrVEItNXgwLVZXYXFmT09ZX0lXcTVUUndNOEFaaGYtVE83anA4OWthQzdKZXJDWHZ2aGtMQTNsTHBJSzJ6SzY4NE1oNkg3dGg5aUpaTS1xMVJoNmN1elZ3Y0JJNS1md3dFck8ybEI2UQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUmJvTU5OQVlCZGRpSEl1Y24tNGVqQjBIbUEzN2Z3N2xfdGxEb0F0Q21EbGc0ajN6Nk53czd5R3ViUTdVX0hzYmdJMngtQjRmc1g4enNLTVhCQWx0aTdWZ05VQndxcTFrS2tmUkpZVEV4ZGh2MXlKLWhCdW5EZUk1U25yVlBZNHo3YkJzcWFlaVRCTm90OEcydlBidEMzc0dha1Z5MHlpWk5ObUtOVzlwOGQzS1ZzR256MHBCcmVNOWRPdTY4RWNHd3BOWkMyVkswVHlkR09CZkFWZjN6M3dKcG00U1FmZEQz?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T05:55:00.000Z",
     "bron": "Google Nieuws",
@@ -3207,7 +3207,7 @@
    {
     "titel": "Gewonde bij ongeval op A4 bij Bergen op Zoom, rijstrook dicht",
     "normalized": "gewonde bij ongeval op a4 bij bergen op zoom rijstrook dicht",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbnNBUVJHLWpWdG53Z2IyalJUSEtnRE5aVUJLdDFsdFU0bkdOcTZGU1BJZmpVSTJydVpucy1HbEd5b3FWTFpoakxXLThLWmZULW1Bd1J6aVVwdkZlNnlLOG5kdEZtVUNXR180dnhEaV9qcXdtTkxRR2U5c0FlVkdyRmNEY0hCQUNmaUxBQ3pJc1NDTzR4UklFZXRWc3JlaFVuemc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUVJwVHE4d1lQV25Xcnp5Q3EtWWZYbUREUkxUOVBlLTY4MTVueGV1ZWxzVTFqR3NWLWFHYXpGTU5mMHctMm9ReDRVUnViR05RNVozUjVqYzRJcW1zY0d2NnlTallldUxkTjZ0cVlBN01MYXd3R3NWd1pFU0R4WUptejZtcnlZLVdSX09GUm81VU9aLUdNMGZDSWtxVElGVHlWaG5nZmZabTdqU0tyemRITGRHQjZRX2szTWlOcg?oc=5",
     "samenvatting": "",
     "datum": "2026-11-23T11:52:00.000Z",
     "bron": "Google Nieuws",
