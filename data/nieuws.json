@@ -1,8 +1,62 @@
 {
- "gegenereerd": "2026-11-26T13:42:03.771Z",
+ "gegenereerd": "2026-11-26T14:07:26.021Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Nederland grijpt mis, Klaas Knot gepasseerd voor topbaan Europese Centrale Bank",
+    "normalized": "nederland grijpt mis klaas knot gepasseerd voor topbaan europese centrale bank",
+    "link": "https://www.rtl.nl/nieuws/politiek/artikel/5667323/nederland-grijpt-mis-klaas-knot-president-europsese-centrale-bank",
+    "samenvatting": "Nederland grijpt mis bij een belangrijke Europese functie. Klaas Knot wordt niet de nieuwe president van de Europese Centrale Bank. De Spaanse tegenkandidaat, Hernández de Cos, gaat er met de buit vandoor na handjeklap tussen Frankrijk en Duitsland.",
+    "datum": "2026-11-26T13:59:49.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/26/ANP-488700098.jpg?itok=DurAnlhJ&amp;offsetX=0&amp;offsetY=14&amp;cropWidth=1023&amp;cropHeight=575&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
+   {
+    "titel": "Spanjaard Hernández de Cos wordt president ECB, Klaas Knot grijpt naast Europese topfunctie",
+    "normalized": "spanjaard hernandez de cos wordt president ecb klaas knot grijpt naast europese topfunctie",
+    "link": "https://nos.nl/l/2641111",
+    "samenvatting": "De Spanjaard Pablo Hernández de Cos wordt hoogstwaarschijnlijk februari volgend jaar de nieuwe president van de Europese Centrale Bank (ECB). Hij volgt de Franse Christine Lagarde op, die de functie sinds 2019 vervult. Op de EU-top is Hernández de Cos naar voren geschoven als kandidaat. Daarmee grij",
+    "datum": "2026-11-26T13:57:01.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/3/G/m/p/M/Z/iMD74FXG7xaBBpRwQFFaU5QnaZ6ZGDeD59zg1fz/0x0x1024x576-1024x576.jpg"
+   },
+   {
+    "titel": "Man krijgt acht jaar cel en tbs voor online seksueel misbruik van zeker 245 meisjes",
+    "normalized": "man krijgt acht jaar cel en tbs voor online seksueel misbruik van zeker 245 meisjes",
+    "link": "https://nos.nl/l/2641110",
+    "samenvatting": "Een 40-jarige man uit het Limburgse dorp Herten is veroordeeld tot acht jaar gevangenisstraf en tbs met dwangverpleging. Bas P. maakte zich schuldig aan het online seksueel misbruiken van zeker 245 meisjes en vrouwen via een zelfbedacht spel. Een groot deel van de slachtoffers was kind. P. wist de s",
+    "datum": "2026-11-26T13:52:32.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/2/H/p/8/6/p/5tgz4PG2aVm64J6NyVZBbj1xRc3waEHTTiT2jdu/6x174x3296x1854-1024x576.webp"
+   },
+   {
+    "titel": "Nog geen groen licht voor tweede seizoen Love Is Blind Nederland",
+    "normalized": "nog geen groen licht voor tweede seizoen love is blind nederland",
+    "link": "https://www.rtl.nl/boulevard/artikel/5667327/nog-geen-groen-licht-voor-tweede-seizoen-love-blind-nederland",
+    "samenvatting": "Het eerste Nederlandse seizoen van 'Love Is Blind' heeft de nodige tongen losgemaakt, maar of het liefdesexperiment een vervolg krijgt, is vooralsnog de vraag. Aan presentatieduo Nicolette van Dam (42) en Bas Smit (45) zal het in ieder geval niet liggen. De twee kijken met veel plezier terug op het ",
+    "datum": "2026-11-26T13:48:29.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/26/Scherm%C2%ADafbeelding%202026-11-26%20om%2014.08.38.png?itok=Glpov0OM&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Brits migratiesaldo op laagste niveau sinds 1997, maar niet per se door Brexit",
+    "normalized": "brits migratiesaldo op laagste niveau sinds 1997 maar niet per se door brexit",
+    "link": "https://www.nu.nl/buitenland/6417878/brits-migratiesaldo-op-laagste-niveau-sinds-1997-maar-niet-per-se-door-brexit.html",
+    "samenvatting": "Het Verenigd Koninkrijk heeft het laagste migratiesaldo in bijna dertig jaar tijd geregistreerd. Dat is een belangrijke mijlpaal na pogingen van meerdere opeenvolgende Britse regeringen om het migratiesaldo omlaag te krijgen. Maar er zijn ook zorgen over de economische gevolgen ervan.",
+    "datum": "2026-11-26T13:48:07.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/mhhxbbzaimhr_sqr256/1150/5/5167/5167/brits-migratiesaldo-op-laagste-niveau-sinds-1997-maar-niet-per-se-door-brexit.jpg"
+   },
+   {
+    "titel": "Advocaten Moshtag B. in Tarwekamp-proces willen aanklacht 'moord' van tafel",
+    "normalized": "advocaten moshtag b in tarwekamp proces willen aanklacht moord van tafel",
+    "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5667329/advocaten-moshtag-b-tarwekamp-proces-willen-aanklacht-moord-van",
+    "samenvatting": "De verdachten van de fatale explosie in een bruidswinkel aan de Tarwekamp in Den Haag, waarbij zes mensen omkwamen, hadden niet de bedoeling mensen te doden. Dat stellen de advocaten van hoofdverdachte Moshtag B. vandaag in de rechtbank. Zij willen daarom dat de aanklacht 'moord' van tafel gaat.",
+    "datum": "2026-11-26T13:42:58.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/26/ANP-515336153.jpg?itok=6hoyYe-e&amp;offsetX=0&amp;offsetY=79&amp;cropWidth=1277&amp;cropHeight=718&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+   },
    {
     "titel": "Wielerploeg Visma - Lease a Bike krijgt volgend jaar nieuwe naam",
     "normalized": "wielerploeg visma lease a bike krijgt volgend jaar nieuwe naam",
@@ -20,15 +74,6 @@
     "datum": "2026-11-26T13:34:21.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/26/ANP-576684522.jpg?itok=21GFakIg&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Richard Hammond vond zichzelf te oud voor nieuwe Top Gear",
-    "normalized": "richard hammond vond zichzelf te oud voor nieuwe top gear",
-    "link": "https://www.rtl.nl/boulevard/artikel/5667331/richard-hammond-vond-zichzelf-te-oud-voor-nieuwe-top-gear",
-    "samenvatting": "De BBC heeft Richard Hammond benaderd voor een eventuele terugkeer bij het programma Top Gear. Dat zei Hammond, in het verleden een van de presentatoren van het autoprogramma, tegen Times Radio. Hij was echter niet geïnteresseerd, naar eigen zeggen omdat hij \"te oud\" is.",
-    "datum": "2026-11-26T13:33:37.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP261126134-1.jpg?itok=JlXjnf9F&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    },
    {
     "titel": "DENK-voorstel voor 10 miljoen euro noodhulp voor Gaza krijgt steun CDA en D66",
@@ -49,15 +94,6 @@
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/26/GettyImages-2281237832.jpg?itok=ZLhHeR7-&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    },
    {
-    "titel": "Koning Abdullah en kroonprins Hussein bezoeken Britse premier",
-    "normalized": "koning abdullah en kroonprins hussein bezoeken britse premier",
-    "link": "https://www.rtl.nl/boulevard/entertainment/artikel/5667330/koning-abdullah-en-kroonprins-hussein-bezoeken-britse",
-    "samenvatting": "De Jordaanse koning Abdullah en zijn zoon kroonprins Hussein hebben donderdag een bezoek gebracht aan de Britse premier Andy Burnham in Londen. De koning en de kroonprins gingen in Downing Street op de foto met de premier. Ook spraken ze met de Britse nationale veiligheidsadviseur Jonathan Powell.",
-    "datum": "2026-11-26T13:29:51.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP261126133-1.jpg?itok=8KVPR7vV&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
     "titel": "Meta over stiekeme opnames met camerabril: 'Gebruiker is zelf verantwoordelijk'",
     "normalized": "meta over stiekeme opnames met camerabril gebruiker is zelf verantwoordelijk",
     "link": "https://www.nu.nl/tech/6417883/meta-over-stiekeme-opnames-met-camerabril-gebruiker-is-zelf-verantwoordelijk.html",
@@ -73,7 +109,7 @@
     "samenvatting": "De Tweede Kamer wil dat het kabinet zo snel mogelijk tien miljoen euro vrijmaakt voor noodhulp aan Gaza. Met de winter in aantocht moet het geld gebruikt worden voor onderdak, voedselhulp en het tegengaan van overstromingen. Een voorstel daarover werd vandaag ingediend door fractievoorzitter Van Baa",
     "datum": "2026-11-26T13:27:07.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/2/A/E/b/V/7/hqNW9vd2bEs5jcmXsofRzM4EDCsWSYky4JhHs2V/8x183x3984x2241-1024x576.webp"
+    "foto": "https://images.cdn.nos.nl/6/C/9/7/T/k/ZnAp5TvAiWABqBbNi5hx9y4eRMJ38D6j438s9G4/0x208x4000x2250-1024x576.webp"
    },
    {
     "titel": "Rechter beslist over verbod op Meta-bril vanwege misbruik met stiekem filmen",
@@ -148,15 +184,6 @@
     "foto": "https://images.cdn.nos.nl/6/C/A/V/a/M/XB1vnbH2u6Fep3n6vmSymvqM6sgyAX8mhjZdrQQ/6x512x3264x1836-1024x576.webp"
    },
    {
-    "titel": "Man veroordeeld tot acht jaar cel en tbs voor online misbruik van 245 meisjes",
-    "normalized": "man veroordeeld tot acht jaar cel en tbs voor online misbruik van 245 meisjes",
-    "link": "https://www.nu.nl/misdaad/6417843/man-veroordeeld-tot-acht-jaar-cel-en-tbs-voor-online-misbruik-van-245-meisjes.html",
-    "samenvatting": "Bas P. is donderdag veroordeeld tot acht jaar cel en tbs met dwangverpleging vanwege grootschalig online seksueel misbruik. De man uit het Limburgse Herten misbruikte 245 minderjarige meisjes via een computerspel. Hij maakte daar ook beelden van.",
-    "datum": "2026-11-26T12:52:45.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/v24xz62amu9t_sqr256/213/0/3551/3551/man-veroordeeld-tot-acht-jaar-cel-en-tbs-voor-online-misbruik-van-245-meisjes.jpg"
-   },
-   {
     "titel": "Rechter buigt zich over verbod op camerabril: 'Meta weet zo je pincode'",
     "normalized": "rechter buigt zich over verbod op camerabril meta weet zo je pincode",
     "link": "https://www.rtl.nl/nieuws/tech/artikel/5667126/rechtszaak-meta-camerabril-privacy-offlimits-consumentenbond",
@@ -211,8 +238,8 @@
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/26/ANP-566392837.jpg?itok=zBH41gp7&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    },
    {
-    "titel": "Video | Grote poster met raketten verschijnt bij Nederlandse ambassade in Moskou",
-    "normalized": "video grote poster met raketten verschijnt bij nederlandse ambassade in moskou",
+    "titel": "Video | Poster met raketten verschijnt bij Nederlandse ambassade in Moskou",
+    "normalized": "video poster met raketten verschijnt bij nederlandse ambassade in moskou",
     "link": "https://www.nu.nl/332657/video/enorme-poster-met-raketten-verschijnt-bij-nederlandse-ambassade-in-moskou.html",
     "samenvatting": "",
     "datum": "2026-11-26T12:38:56.000Z",
@@ -245,36 +272,18 @@
     "datum": "2026-11-26T12:00:37.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=205f6392-a3ec-40ae-990f-2258b43a0396"
-   },
-   {
-    "titel": "Advocaat verdachte Tarwekamp: 'Geen moord, hij wilde alleen schade aan winkel'",
-    "normalized": "advocaat verdachte tarwekamp geen moord hij wilde alleen schade aan winkel",
-    "link": "https://www.nu.nl/binnenland/6417867/advocaat-verdachte-tarwekamp-geen-moord-hij-wilde-alleen-schade-aan-winkel.html",
-    "samenvatting": "De advocaten van de hoofdverdachte van de dodelijke explosie aan de Tarwekamp in Den Haag vinden dat hij moet worden vrijgesproken van moord. Volgens hen wilde Moshtag B. alleen schade aan de bruidswinkel van zijn ex-partner veroorzaken.",
-    "datum": "2026-11-26T11:59:46.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/30cxkj3a0z47_sqr256/1000/0/2001/2001/advocaat-verdachte-tarwekamp-geen-moord-hij-wilde-alleen-schade-aan-winkel.jpg"
-   },
-   {
-    "titel": "Miljoen datacenters van Musk in de ruimte? 'Maak me zorgen of het veilig kan'",
-    "normalized": "miljoen datacenters van musk in de ruimte maak me zorgen of het veilig kan",
-    "link": "https://nos.nl/l/2641100",
-    "samenvatting": "De Amerikaanse autoriteiten hebben Elon Musk toestemming gegeven om met zijn bedrijf SpaceX een miljoen datacenters in de ruimte te brengen. Wetenschappers zetten echter grote vraagtekens bij de haalbaarheid en de veiligheid van het plan. \"Dat je het kan doen, wil niet zeggen dat je het ook móet doe",
-    "datum": "2026-11-26T11:49:27.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/5/D/A/t/Z/w/zhmrPuj7gGtHuEn7HWmJMG6TJSGewLhscQoUYEb/8x391x3984x2241-1024x576.webp"
-   },
-   {
-    "titel": "Tennisser Vervoort geschorst vanwege niet afstaan telefoon in corruptieonderzoek",
-    "normalized": "tennisser vervoort geschorst vanwege niet afstaan telefoon in corruptieonderzoek",
-    "link": "https://www.nu.nl/tennis/6417846/tennisser-vervoort-geschorst-vanwege-niet-afstaan-telefoon-in-corruptieonderzoek.html",
-    "samenvatting": "Tennisser Mark Vervoort is voorlopig geschorst door de International Tennis Integrity Agency. De 36-jarige Nederlander heeft geweigerd mee te werken aan een onderzoek naar corruptie. Vervoort was ooit de nummer 116 van de wereld in het dubbelspel.",
-    "datum": "2026-11-26T11:37:33.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/psexmj0aotit_sqr256/416/90/1274/1274/tennisser-vervoort-geschorst-vanwege-niet-afstaan-telefoon-in-corruptieonderzoek.jpg"
    }
   ],
   "binnenland": [
+   {
+    "titel": "Man krijgt acht jaar cel en tbs voor online seksueel misbruik van zeker 245 meisjes",
+    "normalized": "man krijgt acht jaar cel en tbs voor online seksueel misbruik van zeker 245 meisjes",
+    "link": "https://nos.nl/l/2641110",
+    "samenvatting": "Een 40-jarige man uit het Limburgse dorp Herten is veroordeeld tot acht jaar gevangenisstraf en tbs met dwangverpleging. Bas P. maakte zich schuldig aan het online seksueel misbruiken van zeker 245 meisjes en vrouwen via een zelfbedacht spel. Een groot deel van de slachtoffers was kind. P. wist de s",
+    "datum": "2026-11-26T13:52:32.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/2/H/p/8/6/p/5tgz4PG2aVm64J6NyVZBbj1xRc3waEHTTiT2jdu/6x174x3296x1854-1024x576.webp"
+   },
    {
     "titel": "Rechter beslist over verbod op Meta-bril vanwege misbruik met stiekem filmen",
     "normalized": "rechter beslist over verbod op meta bril vanwege misbruik met stiekem filmen",
@@ -292,15 +301,6 @@
     "datum": "2026-11-26T12:53:55.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/6/C/A/V/a/M/XB1vnbH2u6Fep3n6vmSymvqM6sgyAX8mhjZdrQQ/6x512x3264x1836-1024x576.webp"
-   },
-   {
-    "titel": "Man veroordeeld tot acht jaar cel en tbs voor online misbruik van 245 meisjes",
-    "normalized": "man veroordeeld tot acht jaar cel en tbs voor online misbruik van 245 meisjes",
-    "link": "https://www.nu.nl/misdaad/6417843/man-veroordeeld-tot-acht-jaar-cel-en-tbs-voor-online-misbruik-van-245-meisjes.html",
-    "samenvatting": "Bas P. is donderdag veroordeeld tot acht jaar cel en tbs met dwangverpleging vanwege grootschalig online seksueel misbruik. De man uit het Limburgse Herten misbruikte 245 minderjarige meisjes via een computerspel. Hij maakte daar ook beelden van.",
-    "datum": "2026-11-26T12:52:45.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/v24xz62amu9t_sqr256/213/0/3551/3551/man-veroordeeld-tot-acht-jaar-cel-en-tbs-voor-online-misbruik-van-245-meisjes.jpg"
    },
    {
     "titel": "Politie legt beslag op ruim zeshonderd Amsterdamse taxi's in witwasonderzoek",
@@ -548,13 +548,31 @@
   ],
   "buitenland": [
    {
+    "titel": "Spanjaard Hernández de Cos wordt president ECB, Klaas Knot grijpt naast Europese topfunctie",
+    "normalized": "spanjaard hernandez de cos wordt president ecb klaas knot grijpt naast europese topfunctie",
+    "link": "https://nos.nl/l/2641111",
+    "samenvatting": "De Spanjaard Pablo Hernández de Cos wordt hoogstwaarschijnlijk februari volgend jaar de nieuwe president van de Europese Centrale Bank (ECB). Hij volgt de Franse Christine Lagarde op, die de functie sinds 2019 vervult. Op de EU-top is Hernández de Cos naar voren geschoven als kandidaat. Daarmee grij",
+    "datum": "2026-11-26T13:57:01.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/3/G/m/p/M/Z/iMD74FXG7xaBBpRwQFFaU5QnaZ6ZGDeD59zg1fz/0x0x1024x576-1024x576.jpg"
+   },
+   {
+    "titel": "Brits migratiesaldo op laagste niveau sinds 1997, maar niet per se door Brexit",
+    "normalized": "brits migratiesaldo op laagste niveau sinds 1997 maar niet per se door brexit",
+    "link": "https://www.nu.nl/buitenland/6417878/brits-migratiesaldo-op-laagste-niveau-sinds-1997-maar-niet-per-se-door-brexit.html",
+    "samenvatting": "Het Verenigd Koninkrijk heeft het laagste migratiesaldo in bijna dertig jaar tijd geregistreerd. Dat is een belangrijke mijlpaal na pogingen van meerdere opeenvolgende Britse regeringen om het migratiesaldo omlaag te krijgen. Maar er zijn ook zorgen over de economische gevolgen ervan.",
+    "datum": "2026-11-26T13:48:07.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/mhhxbbzaimhr_sqr256/1150/5/5167/5167/brits-migratiesaldo-op-laagste-niveau-sinds-1997-maar-niet-per-se-door-brexit.jpg"
+   },
+   {
     "titel": "Kamer wil 10 miljoen euro voor winternoodpakket Gaza",
     "normalized": "kamer wil 10 miljoen euro voor winternoodpakket gaza",
     "link": "https://nos.nl/l/2641107",
     "samenvatting": "De Tweede Kamer wil dat het kabinet zo snel mogelijk tien miljoen euro vrijmaakt voor noodhulp aan Gaza. Met de winter in aantocht moet het geld gebruikt worden voor onderdak, voedselhulp en het tegengaan van overstromingen. Een voorstel daarover werd vandaag ingediend door fractievoorzitter Van Baa",
     "datum": "2026-11-26T13:27:07.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/2/A/E/b/V/7/hqNW9vd2bEs5jcmXsofRzM4EDCsWSYky4JhHs2V/8x183x3984x2241-1024x576.webp"
+    "foto": "https://images.cdn.nos.nl/6/C/9/7/T/k/ZnAp5TvAiWABqBbNi5hx9y4eRMJ38D6j438s9G4/0x208x4000x2250-1024x576.webp"
    },
    {
     "titel": "Twee Irakezen opgepakt in Duitsland voor voorbereiden terroristische aanslagen",
@@ -791,15 +809,6 @@
     "foto": "https://images.cdn.nos.nl/1/G/d/g/N/M/cV1Z4KvgwEE5zwobjqYvuBeV9ZZQ5WLQ5tD4hTS/3x159x3488x1962-1024x576.webp"
    },
    {
-    "titel": "Twee Libische officieren overleden na aanval Oekraïne, in Kyiv dode na Russische aanval",
-    "normalized": "twee libische officieren overleden na aanval oekraine in kyiv dode na russische aanval",
-    "link": "https://nos.nl/l/2641025",
-    "samenvatting": "Twee Libische marineofficieren zijn overleden nadat zij verwondingen hadden opgelopen bij een Oekraïense droneaanval op een Russisch oorlogsschip dit weekend. Dat hebben de Libische militaire autoriteiten bekendgemaakt. Het schip dat werd aangevallen lag in een haven in Oost-Libië. De Oekraïense pre",
-    "datum": "2026-11-25T21:12:46.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/7/D/J/x/H/7/vu29Gde87bEyH1TskFjj2b3mYSHmSPmhcDVjhWv/8x212x3984x2241-1024x576.webp"
-   },
-   {
     "titel": "Canadese astronaut viert geboorte van zijn dochter vanuit de ruimte",
     "normalized": "canadese astronaut viert geboorte van zijn dochter vanuit de ruimte",
     "link": "https://www.nu.nl/buitenland/6417794/canadese-astronaut-viert-geboorte-van-zijn-dochter-vanuit-de-ruimte.html",
@@ -807,15 +816,6 @@
     "datum": "2026-11-25T21:06:01.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/hcyxi1qagzyo_sqr256/0/0/2659/2659/canadese-astronaut-viert-geboorte-van-zijn-dochter-vanuit-de-ruimte.jpg"
-   },
-   {
-    "titel": "Zeker dertig doden doordat auto met benzine ontploft op ringweg Caïro",
-    "normalized": "zeker dertig doden doordat auto met benzine ontploft op ringweg cairo",
-    "link": "https://www.nu.nl/buitenland/6417797/zeker-dertig-doden-doordat-auto-met-benzine-ontploft-op-ringweg-cairo.html",
-    "samenvatting": "Op de ringweg van Caïro heeft woensdag een groot ongeluk plaatsgevonden. 31 mensen kwamen om het leven en 21 personen raakten gewond nadat een auto die benzine vervoerde vlam had gevat.",
-    "datum": "2026-11-25T20:13:32.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/gv9xigoaqqzs_sqr256/0/4/3827/3827/zeker-dertig-doden-doordat-auto-met-benzine-ontploft-op-ringweg-cairo.jpg"
    }
   ],
   "politiek": [
@@ -826,7 +826,7 @@
     "samenvatting": "De Tweede Kamer wil dat het kabinet zo snel mogelijk tien miljoen euro vrijmaakt voor noodhulp aan Gaza. Met de winter in aantocht moet het geld gebruikt worden voor onderdak, voedselhulp en het tegengaan van overstromingen. Een voorstel daarover werd vandaag ingediend door fractievoorzitter Van Baa",
     "datum": "2026-11-26T13:27:07.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/2/A/E/b/V/7/hqNW9vd2bEs5jcmXsofRzM4EDCsWSYky4JhHs2V/8x183x3984x2241-1024x576.webp"
+    "foto": "https://images.cdn.nos.nl/6/C/9/7/T/k/ZnAp5TvAiWABqBbNi5hx9y4eRMJ38D6j438s9G4/0x208x4000x2250-1024x576.webp"
    },
    {
     "titel": "Kabinet over regels VS voor ASML: wij laten ons de wet niet voorschrijven",
@@ -1001,6 +1001,15 @@
    }
   ],
   "economie": [
+   {
+    "titel": "NS vraagt reizigers afval mee te nemen om aanhoudende schoonmakersstaking",
+    "normalized": "ns vraagt reizigers afval mee te nemen om aanhoudende schoonmakersstaking",
+    "link": "https://www.nu.nl/economie/6417886/ns-vraagt-reizigers-afval-mee-te-nemen-om-aanhoudende-schoonmakersstaking.html",
+    "samenvatting": "De NS roept reizigers op hun afval mee te nemen en elders weg te gooien. Zo wil het spoorbedrijf voorkomen dat treinen en stations door de staking van schoonmakers nog vuiler worden. De acties zijn al ruim twee weken aan de gang en gaan onverminderd door.",
+    "datum": "2026-11-26T14:00:16.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/bugxdncaaugw_sqr256/2278/0/3718/3718/ns-vraagt-reizigers-afval-mee-te-nemen-om-aanhoudende-schoonmakersstaking.jpg"
+   },
    {
     "titel": "Meta over stiekeme opnames met camerabril: 'Gebruiker is zelf verantwoordelijk'",
     "normalized": "meta over stiekeme opnames met camerabril gebruiker is zelf verantwoordelijk",
@@ -1261,15 +1270,6 @@
     "datum": "2026-11-25T09:15:01.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/m5wx3bzanh59_sqr256/1129/0/3331/3331/gasunie-wil-strategische-gasreserve-nu-geen-garantie-voor-de-winter.jpg"
-   },
-   {
-    "titel": "Leids farmaceutisch bedrijf zet productie medicijn stil na fouten bij test",
-    "normalized": "leids farmaceutisch bedrijf zet productie medicijn stil na fouten bij test",
-    "link": "https://www.nu.nl/economie/6417701/leids-farmaceutisch-bedrijf-zet-productie-medicijn-stil-na-fouten-bij-test.html",
-    "samenvatting": "Het Leidse farmaceutische bedrijf Pharming heeft de productie van het geneesmiddel Ruconest wereldwijd stopgezet. Bij een routinematige test zijn er fouten aan het licht gekomen. Daardoor zullen waarschijnlijk leveringsproblemen ontstaan in de VS.",
-    "datum": "2026-11-25T07:05:07.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/xozx5woalnl6_sqr256/920/0/3204/3204/leids-farmaceutisch-bedrijf-zet-productie-medicijn-stil-na-fouten-bij-test.jpg"
    }
   ],
   "sport": [
@@ -1919,6 +1919,15 @@
     "foto": ""
    },
    {
+    "titel": "Vrouw voor 2.000 euro opgelicht via valse sms",
+    "normalized": "vrouw voor 2 000 euro opgelicht via valse sms",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWEY3bUJYNm9Lc2cxMmNKUERNR1R1ZVROX3BWNFMxRUlrZDJmTk84cGpsOVVBWjBwY1dpaDFOcS1zQVlZMUk1U0lrbUtHRWQ3YkJwZG45emMtZjBzWTNLWTFFdHZoeXppZVktYWg0bFA1MDBFVy1fTzN4MG1veTJYMmRqUGFsMUdDUTVTSQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-26T12:38:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Deze 18 Zeeuwse wegen zijn het onveiligst: dit gaat de provincie eraan doen",
     "normalized": "deze 18 zeeuwse wegen zijn het onveiligst dit gaat de provincie eraan doen",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1dsN1d0b0lOTGxMZzZMajlWTWtyeWl4OHFJZnNxRDhTQXBBeVpfeHVvcnBrM3RVVkRRbERSaDc2VDVjTU5McFJDbWNJVkpITEZWaDNWQmtrYjZEZHdJeWVsbXdscTFGQjJvcVNRM29Bbmh3TmE0bXNUUEo5dVcyTFVEZWVJOXBMcHB1ZFNYaWNMRTlkQk5IRUZwR0hEVGdqN0wybjFNNTBzdGRCUHEtbVJ1RWJJQVgwVVZ3?oc=5",
@@ -1957,9 +1966,18 @@
    {
     "titel": "‘Tengels af van onze Westerschelde’, klinkt het steeds vaker in Zeeland",
     "normalized": "tengels af van onze westerschelde klinkt het steeds vaker in zeeland",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmRIWDJSNHE1VFc2Qno2enNmdEZIMWUwTFo4Y21xd281bVJXOVRacjl0MkdXUnpFRUZtcUdxOFl3XzFSM3h5c2FwRXQxZnNKU0hBanctbGVIdzYtWFczZExDM3NTbU1YVUhLTjlPMVFMOUdENHV0YUZSRTNzclc4cEVSbEVfWlRhR1FySmZUb19ZM0JjMUxpQWxLR3lURzE2TzItX3VzenVIUE1VZzdDcEMwWVJRSGM0d2JaUmNyZGU2TkE?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZmh6RDAwZTFyUm5FSExCOGtZS01FeS02cmM1ODIwbi1iTTBIX3hvOE9TY3pKeHJULUFHdkVtR1dLaloyazdTLXZBSXB0emNMNEVMWmVySG1CNElzRk5idERpZG1qUkxzN25adzZZT2E0b2tnbVFFQmxWVzB5ZzZLcWw1bzc2d21wSnlfSGx5dWtlM01rVzdCU29Jc3ZwRmRudlBHbmFtR2FsbFk?oc=5",
     "samenvatting": "",
     "datum": "2026-11-26T10:46:36.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Oud-Zierikzeese Ester Naomi Perquin wint 50.000 euro met prestigieuze literatuurprijs",
+    "normalized": "oud zierikzeese ester naomi perquin wint 50 000 euro met prestigieuze literatuurprijs",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeXI2aFJjUUtVS3VIQ3lxWWtpLUtxVFNzOVRQTGZER3Nvdi1VQkVxTDVITWY1blk1UFhVbEFSSUN0UkxPNHN3ODRndHBvQ1pXdmVlR3BzeVVNVVlCVnpuYnhzS2hTVjZ4N095S1lDQzFjaDUxWXJDN2l1X1BhS2RQeW41NThDUjV1STZzZVhsa3AteVdCQkFMVWNZZmJZdGVjc0dXWm5sdTVuSndJUE0teGd4Q2EtMlVBUjBIbHVVZVp6WHNPNXA5aUFtT240QQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-26T10:37:08.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2027,18 +2045,18 @@
     "foto": ""
    },
    {
-    "titel": "Kannan is al bijna 7 jaar dood, maar wint nog altijd prijzen: ‘Hij heeft 8000 veulens verwekt’",
-    "normalized": "kannan is al bijna 7 jaar dood maar wint nog altijd prijzen hij heeft 8000 veulens verwekt",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZVVmMUVfR2UwOGRzMnN6d2VjcEIxbk95REZDZmZNWHN6V09ISElFdGlUd1pmSkFCSzRlMFV6UWdtTkNrcmtlYmlDV0h5T000WlpLLTh3bldRcUNnQzhQeVpyOHdKNnIwUlFVYVlhNm5kOHZnbkFPZkZGMTlTQjZYLWtfbWV1cjAwRG5qTkpNSTVaaUIxUE9jbmhOSlhDcTItNzZZcWtENWg1VGdoQjhQZndoZ1R0UzVBSEVOMTdad1J1VXFTVTJvX1NybUFSMmUyRFZ3MA?oc=5",
+    "titel": "In de tuin of onder de dakgoot: Hulst moet nesten hoornaar overal verwijderen",
+    "normalized": "in de tuin of onder de dakgoot hulst moet nesten hoornaar overal verwijderen",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUEtxcC1MYWZmbzliMXJRdTJ3b3IwOGF6RENpZ080T2tPRzVIejFXVk9ZdGo4N0pyNVV3TXRBaWZfWUpRMHFKM1dyVklaT19oSThPS1Y2MGZDeTN2dXdiYnc1UV9yM0NQS0lzbzJyVlJ6WHkzRUxENlJXMmdlRVBuVmRza0ljVVU1eEZ6LTg5SEJ4bUtxU1R2THE0SzIyYVpxdTFEeEFnVlJNbFc5RGVqZw?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-26T07:30:00.000Z",
+    "datum": "2026-11-26T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
     "titel": "Zeeland pompt 700.000 euro in wateraanvoer bij Rilland en wil groter deel Reimerswaal aansluiten",
     "normalized": "zeeland pompt 700 000 euro in wateraanvoer bij rilland en wil groter deel reimerswaal aansluiten",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTTFSakppVjJYU2JYajhBRGx6UmVBOE5ILTBOdnEtN2NiM1ViM29qTEZ3cnV5RzVra3pVSk5hTldBQnFwMVN6T2E4NmlxbThKTkRZeS1zMkRqczNCOVFUem5ZQVlrdXpjZjJpd1NzQ1pvaWJPNW9JbFNQSnRaZTRkV19ZUl9YX3diYUpOU1NUYko1UHVldV9kMDk0LWNoUFNpSFZ3Y0J5cFl4QzRCZmtFdnNKYW12TUpaWTJQb256WWlCazRKc2JJZEFJN2U1NkF4VDZV?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMnZydmE5YmkwSlpfQ2pSNWVQT05GQkppSWJtanUtVEdBRG5Xd0lGSnBFWGhNM1I0Y2FrWi1CamJ3T1N5VjhVazJFaFlVZ0ZRYU8xZlBLSFFLZ0VmdXIyZnV6R0E1ekNMb3ZzQm1ESjBRLXp5TEJRTkxsb3FZakkzbnRMREJubU1wSGRyVjdfZjF0U3kxLVFuZGtoTUp0a3NBUktCdWM5V2o5SFl1UkFLbXp3WjRqZHV0V2I3YkRwMlRPdEVDai00Q29jb182U2MtLWxBRQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-26T07:00:15.000Z",
     "bron": "Google Nieuws",
@@ -2081,20 +2099,20 @@
     "foto": ""
    },
    {
+    "titel": "Diagnose Parkinson viel Miranda (49) nóg zwaarder dan haar hartafwijking: omgaan met levend verlies",
+    "normalized": "diagnose parkinson viel miranda 49 nog zwaarder dan haar hartafwijking omgaan met levend verlies",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONUFGOEdEcTBIRXdNR0VDZHZPVFBkQ2U3aV9HYWdjZS1MMFl5N0tMTG1aV2Q5bmJhLXlLZ2JoV2J3TGN0N3hVS3pZdm44c0ExX3VYalg5QTd2ZXp1NGZWZ0R3c3N1NjU5SnROMWlKcjU0UXBLaV9qYkdwWHJJR3lBbU56N1Y3anNLeXIxYnAxejRiTW5HdjVZLXVyLTF5SkZ5MTBhT3Rfb1B3dEZ1VnlldlBOdHlKZUdla1g3ZWh1R1RVMHhLempfakd0Y0FJNVFETS1sdkNwNmJEMUNX?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-25T18:30:25.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Hoe Zeeland al bijna 200 jaar aan de ketting ligt van de Belgen",
     "normalized": "hoe zeeland al bijna 200 jaar aan de ketting ligt van de belgen",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUGRVWDk2T2xoUzdBWGV1bTRvVGVwV1REbnNvbldZRml0UWlCYnRFdF9peWgyVnNWRGNpalRuLWROaWp6UHF3OXJ1aWU5T28wREduZUVxSFplSXZYMWZ4Wnl1VGZYQXhtNEhnRmx2eWhqb1RXRzNIV20xU2dULTNLM1hTWGRQR2dJYno5S1MxMTVJVUZEYnEzOTA4Sm9LcjktbGZ3cg?oc=5",
     "samenvatting": "",
     "datum": "2026-11-25T18:00:10.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Vijftig jaar na treinramp krijgt school in Vlissingen een blijvende herinnering: ‘Vier namen die we niet mogen vergeten’",
-    "normalized": "vijftig jaar na treinramp krijgt school in vlissingen een blijvende herinnering vier namen die we niet mogen vergeten",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcmo5NWkyTi1wNXJSbzhyYS0wSWxxd01uNUJ4ckVCUEEtQkhtektYM2NNbG1RR05DZ2hfSUdzWk9ENVR0aUl4OF93RzR4bTNMZG1KdEcwN25IRGxDNktGM0N4S1FKb2g0aFdobHB5UWxncDVlQkdJT0JfVlp6elRQZk1wTlV3OVl0SW5uZU1ZWDUzSk01V043SVU4ZThRSU05V0pBMTZnMXBKUk1QNWo0c21aaGNxbWJWMDh5NE1LenRyRFRYUXZpTnd4TUNjUVVXN2otckRyNlVHSkMwa0kwZHdUUUZwWGg3VDlGbTdB?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-25T17:30:43.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2117,15 +2135,6 @@
     "foto": ""
    },
    {
-    "titel": "Woningen op Marina Beach zitten zonder water: ‘Dit is onaanvaardbaar’",
-    "normalized": "woningen op marina beach zitten zonder water dit is onaanvaardbaar",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzdORUF5TlVBLURSUjJHTDMzQ0pKSnRxdDNSb19pUVhvd3Qxek5SMnBfLXYyWjhBR00zN3NsWDk5ODhkVGFmLXVQSzZreGRGNk1hSURsNllXbXRPT1RaeWEzRHN4R2dnVWJpaFFaZnNmLWMwLWlQdldFRTdRU3BCUEJQZm5URDdjRzBBbVMtMDBSQmxHblEySDJGaWhtMlU5OGoxaGl6cHY?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-25T14:30:45.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "65 jaar Veerse Gatdam en Veerse Meer",
     "normalized": "65 jaar veerse gatdam en veerse meer",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mZnJwdldKVGZqa2RLN0g3N0UySUp0UkZ6dzJVdUQtc0Y2N2Z4Zk1hUzIwa194M3Q1QndBZzVnSEpUclpadE5SV1dSUnVzMkxtY1VOS2Z6bkR1NnZQYnVDRklwM1JRYXZGXzlidFh5R3cxcTdQb2c?oc=5",
@@ -2140,15 +2149,6 @@
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRDhRWEY3aDU2Uy00SXJQRDlENzBXWnkyZXBSd3JpamtaXzNDbm5QUUlmNXFObnNwMTh1SlNWZnNJeGUtU1N5a2p2ZEJMbHZ1eTF4UTl5MUdPSDlaRWFMNlRGR0Nra3B5emF2NlJ3Nzc4RGxEQVVEUGo4OFdmQzdHSkk4UTREMjk1RUhZamdaT0x0MG5Ka2ZIT21PYlBhaGFkSVVqVHRmcnJtemc0cnNXc1FnOE54YnUzOW10ejNKQ3NKcXVhZG44NnNOMjZVWkgxYTVteEVfZXM2QmpLUVBr?oc=5",
     "samenvatting": "",
     "datum": "2026-11-25T13:31:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Illegaal vuurwerk ontdekt in schuur in Middelburg-Zuid na melding van pakketbezorger",
-    "normalized": "illegaal vuurwerk ontdekt in schuur in middelburg zuid na melding van pakketbezorger",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTN6STFrVVJPcDRqUUpnWjUtQXdQN0hHcUcyTEtBcXJLR3V0ME92Y3pKWlZvellyTVZpaVVNVTBEZmRrQVU3d3I2V0txMTRuaTU0dmExZDRMdkFIM2o4ak45WXNwUlpidFpHSmlxU0g5cGVaUUtnMTFMdFp1Y0w0VHdBZ1liM3pJQkQ4UEJLN2JjODhDZ0VqOTMwaXFQSndlTkJINGRTRHB5emZXbno3WkQ5NWlpN1o2ZHU0MHItT05hZw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-25T13:28:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2181,6 +2181,15 @@
    }
   ],
   "brabant": [
+   {
+    "titel": "Enorme puzzel na schoolbrand opgelost: 300 kinderen kunnen weer naar de les",
+    "normalized": "enorme puzzel na schoolbrand opgelost 300 kinderen kunnen weer naar de les",
+    "link": "https://www.omroepbrabant.nl/nieuws/6036185/enorme-puzzel-na-schoolbrand-opgelost-300-kinderen-kunnen-weer-naar-de-les",
+    "samenvatting": "De ongeveer driehonderd leerlingen van basisschool De Zeilberg in Deurne kunnen vanaf dinsdag weer naar school. Na de verwoestende brand van afgelopen vrijdag is een noodlocatie gevonden in Someren. &#34;Deze locatie zal nooit zo ideaal zijn als het was, maar we zijn heel erg blij&#34;, vertelt scho",
+    "datum": "2026-11-26T14:00:00.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTU2NDAtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1RdnFSV0hVdHltZHB4NXVWRWFoUkVWS1d1cFdjUDZoZmxkYjRUeUpyVEdZJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
+   },
    {
     "titel": "Zinksmelterij Nyrstar legt locatie in Budel stil om dure energie",
     "normalized": "zinksmelterij nyrstar legt locatie in budel stil om dure energie",
@@ -2351,15 +2360,6 @@
     "datum": "2026-11-25T19:00:00.000Z",
     "bron": "Omroep Brabant",
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTUxODktMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1teXlyd2o5cWFub0hFWW5PZGZMdExHeG11JTJCcjA0OWM2d1hQME5wb01WYW8lM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
-   },
-   {
-    "titel": "Ruzie tussen huisgenoten mondt uit in steekpartij, jaar cel geëist",
-    "normalized": "ruzie tussen huisgenoten mondt uit in steekpartij jaar cel geeist",
-    "link": "https://www.omroepbrabant.nl/nieuws/6036172/ruzie-tussen-huisgenoten-mondt-uit-in-steekpartij-jaar-cel-geeist",
-    "samenvatting": "Een ruzie tussen twee huisgenoten in Eindhoven is deze zomer behoorlijk uit de hand gelopen. De mannen gingen met elkaar op de vuist en een van de twee pakte daarna een stanleymes. De 37-jarige M. stak zijn huisgenoot in zijn linkerwang. Het slachtoffer hield er een flinke snijwond aan over. In de r",
-    "datum": "2026-11-25T18:55:00.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzQ4MDE0NjctMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1TZDFTTjRBeGFGRUdZMHIzbHNsVSUyQmZmMno1eGVOOU1IbSUyQjd2U09EQnE4RSUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
    },
    {
     "titel": "Weinig vrouwen commissaris van de Koning: Ina Adema legt uit hoe dat komt",
@@ -2953,6 +2953,15 @@
   ],
   "roosendaal": [
    {
+    "titel": "Gemeente Roosendaal roept inwoners op om vuurwerkoverlast te melden",
+    "normalized": "gemeente roosendaal roept inwoners op om vuurwerkoverlast te melden",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkJkcU1iMXByQVFUOXE4MGwxVjF4RmVKSy1RZDZmLVFEZ25mcVFMdFhocUREX09qU2tmZ0pKcjlRYVp3aklGSXFObWlDeF9JMzUxc0trbmxMN1h6MWhzRHFocmZ1b0I2N081d1dpUm1TVUdiUW1DOWNpOVoxbVJrel81ZXhjTFhkY0NmbzU0SDdfeHplc3VPTUJHUUVCSWw2S2NFT2xBV2hyc0FNaHg2RFR4NA?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-26T14:01:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Queer Café Roosendaal",
     "normalized": "queer cafe roosendaal",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WTGhoaDBqenFxOUhQR1FoVGlzYXBHRWF2V29XbW5vWktOZXN4X1F0MGVRUU9YajJRa28waHhOMElRQVJxRUc3UmdTMm5NTWtFNFBFTA?oc=5",
@@ -2973,18 +2982,27 @@
    {
     "titel": "The Cosmic Carnival speelt Fleetwood Mac-tribute in Roosendaal",
     "normalized": "the cosmic carnival speelt fleetwood mac tribute in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWktCUUItZzBZcXVJWHFwUU40YnhsWUFocVU5aWlDVXNoXzdwbWRETW9pNnpucEJQczBHWUtiUjh1XzlRNWFJb3BZYUZHSlhyTEJVMUtId3lFQnJNdFJ6a3QwNmtnT09TY3RTT2tpRHBKdkJsNVhCTWNvTXFMRVZ3QVVLMngwTDBhaEdHVkpiX29tTDZ2WnkxWlZIaXlXM1ZSa0c0?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGZLaE5ibjdDTjNudmdpdVV1RTI4WHFvd0FQTEItVWptSWdyeGlMb09uRV9CZlloX1JFM3RIYndrYXBjRWdmREdmazVOQUlXRjl4NEl1RnRIc2xaOTJfSnlJeHZSb1Bwb0FkT0l0cVVQcm00S09SMXAtX2lWek9WUE1ET2lROHBQa1RSMVlBRnVhNGxFYUhHT0VoRkpTenpwSFhNX0VTcG02RGc?oc=5",
     "samenvatting": "",
     "datum": "2026-11-26T12:27:28.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
    {
-    "titel": "Bibliotheek Essen lanceert voorleesknuffels om kinderen te helpen bij het leren lezen: “Ze luisteren zonder te verbeteren of te beoordelen”",
-    "normalized": "bibliotheek essen lanceert voorleesknuffels om kinderen te helpen bij het leren lezen ze luisteren zonder te verbeteren of te beoordelen",
-    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbmp3YkJYOFBZa2lSQ29DVGpqZTA3dHFkem9CUXd3TExKUWNZN1JIWFlHT3ZGYlhBUFlZay13YWl5bWh1VHlpRTZ0ZFB4ZlFoejFsVkFMdHNCekZFb1dFbDJRQkh6aDNFM2ZTeDRGWDhOMWdIUU44X3dhWDN4dlU2X01fNG11YjFkQWhYTlc3bVp0WkhaUDk5Tm4yRU9RY1FjamRQV3dhbzVQSW9YWEIwWFJQVmtva003alF6Z3FEcXJ6YVkxTmVZNzNsSVZxUjR6NnoxMTFJSENxbDVzMFIzdDcxMFlZZmRVRVk3YUw0U1RzZDlpcXlQZmdkVi1jV3JTOUpTQWMtYURzVS1fMlE?oc=5",
+    "titel": "Drie dagen hinder door werkzaamheden rond station Roosendaal",
+    "normalized": "drie dagen hinder door werkzaamheden rond station roosendaal",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGZmRGZreGRBSkFYS3U5U1ZVQVNhSGtLbUJNLS1yYmZ1cFhURnNQRGhNVFMwbXI3RGNCU2VNamtrakF6NVlKa0RIYjU5ZFdWcGM0eGRrOE9kQ01kd1Q3b0Q0QUdKOVhPdzFOWDN4b2M2QjdMTzlkWWhPbGMzZVdwUWdfZ0F3dGNzbjdNYmt4NmdhdDJkSzdzVm9SSDdwYTZicXd4cG5UTQ?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-26T12:05:09.000Z",
+    "datum": "2026-11-26T12:24:50.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Ook Roosendaal kleurt oranje in strijd tegen femicide",
+    "normalized": "ook roosendaal kleurt oranje in strijd tegen femicide",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXVXNTVhZ0dNdmY5dnJ1eWtPTW5tdjZUdFc0NENoMkRQU0NLZ3BUVmtQSkk2MkJIbm96WGpUeXMtbGJOdGd2bEdxbUhRcTJ4d2xvNlBnSzFhWGxsWDFqNktFVWpWazVyWFBqY1ktbVIxS0tvWTB4cTZyTVd0eXktaHJFb3UwSTBnam8yR3NBbGFpNWpLOVhWeHJKRW1nR1Mt?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-26T12:03:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3034,6 +3052,15 @@
     "foto": ""
    },
    {
+    "titel": "Felle woningbrand aan de Brugstraat in Roosendaal",
+    "normalized": "felle woningbrand aan de brugstraat in roosendaal",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRURueTZ2QW1zak5ZaXFuREJaR0k5b0ZZMzlwX2x2QVRFb1h3T1NWWXBXMlBwNHFwcXVxT0d1ZGp2elh3dHU0MWV4TDZ5T252Q1hMV1lYSzdsQVA3VVpsMEZLUk5kZm9VNUpvak1VTGhrQWoybVg0M1NBbWhfajhjNGg4MGdUczNMaU13cHRKVGNCUEZyYjJyNXRSSG8tYmJi?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-26T07:35:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Roosendaalse partijen zien verkoop Beeklaan 10 in Wouw als mogelijke bijdrage aan restauratie kerk",
     "normalized": "roosendaalse partijen zien verkoop beeklaan 10 in wouw als mogelijke bijdrage aan restauratie kerk",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMzUtalY2WEdYQkxWQzRKSG5xT1IySDg0LUVoVHpwNEVXemRCYjlYTXFtcnV3dklvNllhUUgwdVNqNGFlWWZpaGM1YVhlazlwclVvWTVELTFPMDRqWWl0VDNRRFlpTWlqcE9TbkJVUURjbTd4VDFSWl9zSHhHZWhGaWJSYmp4bXlZdTF2LU1HeEt0ZnpLejhDRzNBdS1KQmhUelNXZnVJckhCNTRaUnZoOUNzd05ucGphdTFicm5rcmlsRmVLWVBLMXhxQTlHcGpwVWc?oc=5",
@@ -3043,20 +3070,20 @@
     "foto": ""
    },
    {
+    "titel": "‘Wij kennen elkaar vanaf de kleuterschool’",
+    "normalized": "wij kennen elkaar vanaf de kleuterschool",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMzhjMWRDcEhiWklqQnA0N3UwMm5Od0J4WncxYzgwVkpBYS1FODVvTGt1Wng1S2c0ZklPX1B1SldpRlZTZVdqZloyUXdaV2Y3ZEp2N1ZuNzFKMmFYZ01zczdYUEVmVlpHemVxMk1oeXRDM1gzTkNhc1o1UGdGRmxqVm9uYjhMNDJZV242RVdWQQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-26T06:03:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Ongeval met letsel op Industriestraat in Roosendaal",
     "normalized": "ongeval met letsel op industriestraat in roosendaal",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObk00YXdZZ1h0SVZGSDJUdXFSVzRnSTZGRmVWUlJ0bm5kV1VPcUJ2TWtJV1pwVkl2M1FXTndzcnNaVVY5em91dDZJR2tuc2RDanZnd2NIc2pZYXRvUzBFU1ppMjJxV19ZMUhHUHYzazQ3RFJXd2VHNkNFY0Z1OGNzSlp5SVRsUTBsTXdpVEI3cG8yRHExcXJxM1JzdTlFd1NrME5iNQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-26T06:02:30.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Felle woningbrand aan Brugstraat in Roosendaal",
-    "normalized": "felle woningbrand aan brugstraat in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX2QxOENVLWF4b0lpVDgwS2ZTQkd3YTNyOVg3RFBDY0U3eWVrdklpMl9remF2Z2FQMThpMVNvTkQtTWZ6QzN0MHRYc3ZRYmtNcUtVQ08wdXNiUXJIOVJMSGtIRXpNYm15Z2l5TTBoRS1fMk8xTERMV2R0U3ExTk1xbmNSbU1HU0ctdVVMQw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-25T18:36:02.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3081,7 +3108,7 @@
    {
     "titel": "Woningbrand in Roosendaal: veel rook vrijgekomen, geblust vanuit hoogwerker",
     "normalized": "woningbrand in roosendaal veel rook vrijgekomen geblust vanuit hoogwerker",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN1FrYXhaeExOaHI1YkVXZzNBNTlPUXU4QjBBb1FFNkUyQTlUTENlelJheWg0TlppYk1IRzZsU1pLNmRwQ1hxeGsya3lyc244aFB4bWFoblk2NlYwamw3NTN1YkJna2NTZW1tZ1RkV2RkbHVteXZWRkxuLUxmUTJjVVJhTUlEelVoS19SWU9OWFp2Sy1IT1lZZkR1ZlNYbks1ajlJdHNTTmJnSV94LUllY3IzUTNveDZuSXNfenlMMHMtQThPb0xmVA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT3ZIaFo4Ry1xdHZiaEdtYTE2RzVaOTNyNVRkYzBzdWplbWdqS29iR0JQblh4RGUzeEh4VVJOMG9CYjUyUUttNE8yY0EtOXRPdVJRaGFIbVU4LVhuX1ZPeTJFb25IVVF0OXFXaE1jeWxOVFhza18xeTdrbVkzUVpDWmQwMEh1ZktjeWkxcWMyQ19LWlRBVVhIZTRvemNyeEVvd2dBdnpJaXltdTUzalFRc3R3?oc=5",
     "samenvatting": "",
     "datum": "2026-11-25T16:15:00.000Z",
     "bron": "Google Nieuws",
@@ -3192,33 +3219,6 @@
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaHpTNVAzdzhLRkZqNXJiMGowaXJLdW9Xd1Y0dzktU3pYRTBnanVjTER0OFMwVGdTX0FySTFwQnkxNVdKc2xhS0diM01WLVM0ek1tOTAwc19FSkdaVEtQY2g0QlBOMTlRZTh5ZmNHeXBQTDUya3BPTHQyeWhxUUt5Q2VpMHR6LXA5c1d0OUphVlFFdzFab3NGS3ZsUDlBaU9ZQll4VDJHRTROaXJOck1xSFl0SVlkQWdzSVVlS2ZOZmkxUjBXd3pyaDFlUktLTWJ1eVNTaWZhQWhNZw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-24T17:30:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Voertuigbrand op Boulevard in Roosendaal",
-    "normalized": "voertuigbrand op boulevard in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2JMS3BJOFRfdmJSbWlQdl9sRnFCdkNtYW5tbHJoRlV0ZDJfV3ZaLVRmRHJ2Sk9idldrRWlwN0R2OE1sd3h3dGdPaW1FMHdZRTNFbGNWTm5WUVVDS0VEbzZ2OXcxX2h0VFNLTzFsbWxkVmhUd2FLRXdadFR1NlVTLVVGdy00YnJqc0E4M2VpLWFDT19LdWJCMk1ZbHE?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-24T15:58:16.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Mark Buijs liep bijna 40 breuken op bij fietsongeval en is nu terug als burgemeester Roosendaal: ‘Ik heb een tweede kans gekregen’",
-    "normalized": "mark buijs liep bijna 40 breuken op bij fietsongeval en is nu terug als burgemeester roosendaal ik heb een tweede kans gekregen",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONmtoSEd2Y09yOEx2bnZmS3lTU19TSDkycjM3OWFqXzJOYzFaaW1Lblc3YzQyUmNFSkVXaXRKZUg0QlpqRjlBamhkQnA4ZlVXQzhCZ0FQc0Q5NjBSX0I5UWR2bzU5TGZXR1BhVGx6a242QjdtZUxBUVM2SGJTVWRSSGxpMHU3WHNBLUs0RVFHSFEta2RPazFNZktiaW9iTVRqUDVsZk9PWXd4X1JTcnl2N090bGY0MnFGV0dCQXplcGREYWc2NkFDNnRDV1ZCdlYyYjFXOE5hdW9PUGJxWUpmbzQycTMtNVlteWZSZU1YZndudmVuVkFSMUE0TFlrYkUtVkE?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-24T15:49:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Jan (1940-2023) werd verliefd op een ander, maar Mariëtte en hij bleven maatjes: ‘We hadden zoveel moois samen’",
-    "normalized": "jan 1940 2023 werd verliefd op een ander maar mariette en hij bleven maatjes we hadden zoveel moois samen",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTFBhSUxnWEZZR1lLMHdSaFRfVklkZHFIdkJOZThNN1RCdkxNcUNRbmREQzN3S1lOWHFlaUxMYi04U01HeWNuV3hOMzdSbWxxUG91QmR4NDVUaFRfOHJCMHo2UVV6dmo0ZVFkNXdITnA5SkhNRmxRMWxhTzZORllwTzI1bjVWeEtKcnRsZnhUUURuTmxuUEVCZnpHZDZTR3plSnVoVFR0TElZbS0ySGdDdFdqNXY1Vm9FaGx5MGdObkp2enRsbWRSa3ZXa1A3QktPTGFuWUtfMkFzd0EzUGxNblUwcjg?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-24T15:02:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
