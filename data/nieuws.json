@@ -1,8 +1,53 @@
 {
- "gegenereerd": "2026-11-27T12:09:13.619Z",
+ "gegenereerd": "2026-11-27T12:34:37.504Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Mattheüs en Lieke onthullen relatiestatus na winst Love Island VIPS",
+    "normalized": "mattheus en lieke onthullen relatiestatus na winst love island vips",
+    "link": "https://www.rtl.nl/boulevard/video/video/cd4ec167-fe93-4b2e-8e74-2c69767b690f/mattheus-en-lieke-onthullen",
+    "samenvatting": "Mattheüs (29) en Lieke (30) waren vanaf de allereerste aflevering van 'Love Island VIPS' onafscheidelijk. Het was dan ook geen verrassing dat de twee er uiteindelijk met de felbegeerde hoofdprijs vandoor gingen. Maar is de liefde na het programma nog altijd springlevend?",
+    "datum": "2026-11-27T12:30:52.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=cd4ec167-fe93-4b2e-8e74-2c69767b690f"
+   },
+   {
+    "titel": "NFI ontdekt DNA-match tussen in 1976 overleden baby en twee vondelingen",
+    "normalized": "nfi ontdekt dna match tussen in 1976 overleden baby en twee vondelingen",
+    "link": "https://nos.nl/l/2641239",
+    "samenvatting": "Het Nederlands Forensisch Instituut heeft bij onderzoek naar een coldcasezaak een DNA-match gevonden tussen een overleden baby die in 1976 werd gevonden en twee broers. Zij werden rond dezelfde tijd te vondeling gelegd. De overleden baby werd in de zomer van 1976 gevonden in het water in Wateringen,",
+    "datum": "2026-11-27T12:22:18.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/4/6/d/7/C/P/oRfjhqJgWjci6HH8wANMamzABKyDQpuoybCxCSd/8x163x3984x2241-1024x576.webp"
+   },
+   {
+    "titel": "Terugbonken bij geluidsoverlast: burenruzie belandt in de rechtszaal",
+    "normalized": "terugbonken bij geluidsoverlast burenruzie belandt in de rechtszaal",
+    "link": "https://www.rtl.nl/nieuws/editienl/video/76d105ef-1fa3-4727-a643-bc01b7143d56/terugbonken-bij-geluidsoverlast",
+    "samenvatting": "Hoeveel herrie van je buren vind jij acceptabel? In Rijswijk sleepte een gezin de buren voor de rechter omdat die voortdurend op de muren zouden bonken. Volgens de buren is dat een reactie op de geluidsoverlast die zij zelf ervaren.",
+    "datum": "2026-11-27T12:19:58.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=76d105ef-1fa3-4727-a643-bc01b7143d56"
+   },
+   {
+    "titel": "Noorse politie sluit zaak rond indringer woning Marius Borg Høiby",
+    "normalized": "noorse politie sluit zaak rond indringer woning marius borg h iby",
+    "link": "https://www.rtl.nl/boulevard/artikel/5667532/politie-sluit-zaak-man-die-woning-marius-borg-hoiby-binnendrong",
+    "samenvatting": "De Noorse politie heeft de zaak gesloten van een man die de woning van Marius Borg Høiby (29) zou hebben binnengedrongen. Dat melden verschillende Noorse media.",
+    "datum": "2026-11-27T12:17:51.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP011026190-1.jpg?itok=ArCakEUZ&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "AI-video met premier in Marokkaans shirt zet Spaanse verkiezingsstrijd op scherp",
+    "normalized": "ai video met premier in marokkaans shirt zet spaanse verkiezingsstrijd op scherp",
+    "link": "https://www.nu.nl/buitenland/6417997/ai-video-met-premier-in-marokkaans-shirt-zet-spaanse-verkiezingsstrijd-op-scherp.html",
+    "samenvatting": "De Spaanse oppositiepartij Partido Popular (PP) heeft vlak voor de verkiezingen voor ophef gezorgd. De partij deelde een met AI bewerkte video waarin premier Pedro Sánchez een Marokkaans voetbalshirt draagt. In de oorspronkelijke video had hij een Spaans voetbalshirt aan.",
+    "datum": "2026-11-27T12:12:02.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/zn8xtj8awz4w_sqr256/423/0/1080/1080/ai-video-met-premier-in-marokkaans-shirt-zet-spaanse-verkiezingsstrijd-op-scherp.jpg"
+   },
    {
     "titel": "'Meer Russische sabotage in Europa, brandstichting en explosieven vaker ingezet'",
     "normalized": "meer russische sabotage in europa brandstichting en explosieven vaker ingezet",
@@ -25,10 +70,10 @@
     "titel": "Corona gaat weer rond: ben ik nog beschermd, ook als ik al jaren geen prik heb gehad?",
     "normalized": "corona gaat weer rond ben ik nog beschermd ook als ik al jaren geen prik heb gehad",
     "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5667507/mensen-die-zijn-gevaccineerd-tegen-corona-hebben-een",
-    "samenvatting": "Het valt op: veel mensen zijn ziek of zitten te snotteren. Dat is normaal voor de tijd van het jaar, maar wat wel opvalt is dat er een flinke stijging te zien is in de coronacijfers. Ben ik nog voldoende beschermd, nu het voor veel mensen al vijf jaar geleden is dat ze de laatste coronavaccinatie he",
+    "samenvatting": "Veel mensen zijn ziek of zitten te snotteren. Dat is normaal voor de tijd van het jaar, maar wat wel opvalt is dat er een flinke stijging te zien is in de coronacijfers. Ben ik nog voldoende beschermd, nu het voor veel mensen al vijf jaar geleden is dat ze de laatste coronavaccinatie hebben gekregen",
     "datum": "2026-11-27T12:01:36.000Z",
     "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/27/ANP-504166497.jpg?itok=PNPMTKsv&amp;offsetX=0&amp;offsetY=81&amp;cropWidth=1023&amp;cropHeight=575&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/27/ANP-504166497.jpg?itok=PNPMTKsv&amp;offsetX=49&amp;offsetY=235&amp;cropWidth=781&amp;cropHeight=439&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    },
    {
     "titel": "Weer meer mensen met corona, maar geen reden tot zorg, zegt RIVM",
@@ -78,7 +123,7 @@
    {
     "titel": "Giovanni uit Married at First Sight blikt vooruit op vaderschap",
     "normalized": "giovanni uit married at first sight blikt vooruit op vaderschap",
-    "link": "https://www.rtl.nl/boulevard/video/video/db786466-b1fd-4765-a74a-1150c9bb16d2/giovanni-uit-married-first-sight-blikt",
+    "link": "https://www.rtl.nl/boulevard/video/db786466-b1fd-4765-a74a-1150c9bb16d2/giovanni-uit-married-first-sight-blikt-vooruit",
     "samenvatting": "Van een televisiehuwelijk naar gezinsgeluk: voor Giovanni uit het tiende seizoen van 'Married at First Sight' breekt een nieuw hoofdstuk aan. Samen met Hinke, die hij dankzij het programma heeft leren kennen, verwacht hij een baby. Giovanni vertelt hoe hij uitkijkt naar zijn nieuwe rol als vader.",
     "datum": "2026-11-27T11:30:31.000Z",
     "bron": "RTL Nieuws",
@@ -148,10 +193,10 @@
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/27/1920x%201080_ArtistImage.png?itok=b9qjKmZy&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
    },
    {
-    "titel": "Dorian Bindels en Tygo Gernandt: dit is de cast van musical De Kerststal",
-    "normalized": "dorian bindels en tygo gernandt dit is de cast van musical de kerststal",
+    "titel": "Dorian Bindels en Tygo Gernandt: dit is de cast van De kerststal van Nederland",
+    "normalized": "dorian bindels en tygo gernandt dit is de cast van de kerststal van nederland",
     "link": "https://www.rtl.nl/boulevard/artikel/5667517/voorstelling-de-kerststal-venlo-met-verteller-lex-uiting",
-    "samenvatting": "De voorstelling 'De Kerststal' wordt op 15 december opgevoerd in Venlo. Onder anderen Keoma Aidhen (33), Joy Wielkens (46), Dorian Bindels (34) en Tygo Gernandt (52) spelen in de musical over de geboorte van Jezus, meldt de KRO-NCRV. Venlonaar Lex Uiting (40) is de verteller.",
+    "samenvatting": "Het live-optreden 'De kerststal van Nederland' wordt op 15 december opgevoerd in Venlo. Onder anderen Keoma Aidhen (33), Joy Wielkens (46), Dorian Bindels (34) en Tygo Gernandt (52) spelen in het verhaal over de geboorte van Jezus, meldt de KRO-NCRV. Venlonaar Lex Uiting (40) is de verteller.",
     "datum": "2026-11-27T11:00:00.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/27/Splitscreen%202025%20%281%29%20%282%29.jpg?itok=mqfBF_Ag&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=2000&amp;cropHeight=1125&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
@@ -227,54 +272,18 @@
     "datum": "2026-11-27T10:39:25.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/irlx19ca1jbw_sqr256/252/0/1080/1080/hooligans-plegen-fors-geweld-met-metalen-buizen-in-stadion-marseille.jpg"
-   },
-   {
-    "titel": "Marco Borsato krijgt helft advocatenkosten terug: twee ton",
-    "normalized": "marco borsato krijgt helft advocatenkosten terug twee ton",
-    "link": "https://nos.nl/l/2641223",
-    "samenvatting": "De Staat moet Marco Borsato ruim twee ton terugbetalen van de kosten die hij heeft gemaakt in de zedenzaak tegen hem. De rechtbank Midden-Nederland heeft dat bepaald. De zanger werd in december vorig jaar vrijgesproken van ontucht met een minderjarig meisje. Toen bleek dat het Openbaar Ministerie ni",
-    "datum": "2026-11-27T10:34:55.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/3/C/z/N/o/J/ZbZK3xrePCMR7KRTZ3DyHp1Lp5i8iGAdDbGgmPc/8x215x3984x2241-1024x576.webp"
-   },
-   {
-    "titel": "VVD-ministers scharen zich achter Yeşilgöz: 'Frontale aanval is onterecht'",
-    "normalized": "vvd ministers scharen zich achter yesilgoz frontale aanval is onterecht",
-    "link": "https://www.rtl.nl/nieuws/politiek/video/90fe3eec-31aa-4d87-a423-e1b1945afa4f/vvd-ministers-verzamelen-zich-achter",
-    "samenvatting": "Bij de inloop van de wekelijkse ministerraad zijn de VVD-ministers eensgezind: ze staan nog achter hun partijleider Dilan Yeşilgöz. Waar ze gisteren nog niet wilden reageren op de kritiek op hun leider, is de boodschap vandaag dat ze haar steunen.",
-    "datum": "2026-11-27T10:34:00.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=90fe3eec-31aa-4d87-a423-e1b1945afa4f"
-   },
-   {
-    "titel": "Marco Borsato krijgt ruim 200.000 euro aan kosten voor strafzaak vergoed door Staat",
-    "normalized": "marco borsato krijgt ruim 200 000 euro aan kosten voor strafzaak vergoed door staat",
-    "link": "https://www.nu.nl/muziek/6417978/marco-borsato-krijgt-ruim-200000-euro-aan-kosten-voor-strafzaak-vergoed-door-staat.html",
-    "samenvatting": "Marco Borsato krijgt 202.744 euro van de Staat als vergoeding voor de kosten die hij heeft gemaakt in zijn strafzaak. Dat heeft de rechtbank vrijdag bepaald. De zanger, die afgelopen december werd vrijgesproken in een zedenzaak, had om een vergoeding van 434.588,44 euro gevraagd.",
-    "datum": "2026-11-27T10:28:40.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/1mbxlbqaderv_sqr256/910/0/3640/3640/marco-borsato-krijgt-ruim-200000-euro-aan-kosten-voor-strafzaak-vergoed-door-staat.jpg"
-   },
-   {
-    "titel": "Koudste nacht op 27 november ooit op veel plekken: kwik in Twente naar -8",
-    "normalized": "koudste nacht op 27 november ooit op veel plekken kwik in twente naar 8",
-    "link": "https://www.nu.nl/binnenland/6417975/koudste-nacht-op-27-november-ooit-op-veel-plekken-kwik-in-twente-naar-8.html",
-    "samenvatting": "De afgelopen nacht was op 26 plekken in Nederland de koudste nacht van 27 november ooit gemeten. Landelijk was het erg koud, maar er werd nog geen record gebroken. Deze novembermaand staat wel op het punt de koudste in twintig jaar te worden.",
-    "datum": "2026-11-27T10:26:31.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/cozxr8papgj9_sqr256/79/1/395/395/koudste-nacht-op-27-november-ooit-op-veel-plekken-kwik-in-twente-naar-8.jpg"
-   },
-   {
-    "titel": "Politie vindt handboeien en bivakmuts bij omstreden De Slimste Mens-deelnemer El Hadri",
-    "normalized": "politie vindt handboeien en bivakmuts bij omstreden de slimste mens deelnemer el hadri",
-    "link": "https://nos.nl/l/2641220",
-    "samenvatting": "De Belgische politie heeft het huis doorzocht van de Belgische influencer en voormalig De Slimste Mens -deelnemer Mehdi El Hadri. Bij de huiszoeking zijn verschillende laptops en een mobiele telefoon in beslag genomen. Ook stuitte de politie in de woning op handboeien en een bivakmuts. Daarnaast is ",
-    "datum": "2026-11-27T10:20:54.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/1/9/g/5/n/r/MYEUHaiZoKgWcRYschve6WeHWPWLQwyHKhNH6Mz/11x3x1248x702-1024x576.webp"
    }
   ],
   "binnenland": [
+   {
+    "titel": "NFI ontdekt DNA-match tussen in 1976 overleden baby en twee vondelingen",
+    "normalized": "nfi ontdekt dna match tussen in 1976 overleden baby en twee vondelingen",
+    "link": "https://nos.nl/l/2641239",
+    "samenvatting": "Het Nederlands Forensisch Instituut heeft bij onderzoek naar een coldcasezaak een DNA-match gevonden tussen een overleden baby die in 1976 werd gevonden en twee broers. Zij werden rond dezelfde tijd te vondeling gelegd. De overleden baby werd in de zomer van 1976 gevonden in het water in Wateringen,",
+    "datum": "2026-11-27T12:22:18.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/4/6/d/7/C/P/oRfjhqJgWjci6HH8wANMamzABKyDQpuoybCxCSd/8x163x3984x2241-1024x576.webp"
+   },
    {
     "titel": "Weer meer mensen met corona, maar geen reden tot zorg, zegt RIVM",
     "normalized": "weer meer mensen met corona maar geen reden tot zorg zegt rivm",
@@ -535,18 +544,18 @@
     "datum": "2026-11-26T14:10:30.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/jx5xjbtawut5_sqr256/207/7/4055/4055/doodgestoken-vrouw-uit-houten-kreeg-eerder-noodhulp-vanwege-huiselijk-geweld.jpg"
-   },
-   {
-    "titel": "Man krijgt acht jaar cel en tbs voor online seksueel misbruik van zeker 245 meisjes",
-    "normalized": "man krijgt acht jaar cel en tbs voor online seksueel misbruik van zeker 245 meisjes",
-    "link": "https://nos.nl/l/2641110",
-    "samenvatting": "Een 40-jarige man uit het Limburgse dorp Herten is veroordeeld tot acht jaar gevangenisstraf en tbs met dwangverpleging. Bas P. maakte zich schuldig aan het online seksueel misbruiken van zeker 245 meisjes en vrouwen via een zelfbedacht spel. Een groot deel van de slachtoffers was kind. P. wist de s",
-    "datum": "2026-11-26T13:52:32.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/2/H/p/8/6/p/5tgz4PG2aVm64J6NyVZBbj1xRc3waEHTTiT2jdu/6x174x3296x1854-1024x576.webp"
    }
   ],
   "buitenland": [
+   {
+    "titel": "AI-video met premier in Marokkaans shirt zet Spaanse verkiezingsstrijd op scherp",
+    "normalized": "ai video met premier in marokkaans shirt zet spaanse verkiezingsstrijd op scherp",
+    "link": "https://www.nu.nl/buitenland/6417997/ai-video-met-premier-in-marokkaans-shirt-zet-spaanse-verkiezingsstrijd-op-scherp.html",
+    "samenvatting": "De Spaanse oppositiepartij Partido Popular (PP) heeft vlak voor de verkiezingen voor ophef gezorgd. De partij deelde een met AI bewerkte video waarin premier Pedro Sánchez een Marokkaans voetbalshirt draagt. In de oorspronkelijke video had hij een Spaans voetbalshirt aan.",
+    "datum": "2026-11-27T12:12:02.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/zn8xtj8awz4w_sqr256/423/0/1080/1080/ai-video-met-premier-in-marokkaans-shirt-zet-spaanse-verkiezingsstrijd-op-scherp.jpg"
+   },
    {
     "titel": "'Meer Russische sabotage in Europa, brandstichting en explosieven vaker ingezet'",
     "normalized": "meer russische sabotage in europa brandstichting en explosieven vaker ingezet",
@@ -807,15 +816,6 @@
     "datum": "2026-11-26T13:48:07.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/mhhxbbzaimhr_sqr256/1150/5/5167/5167/britten-noteren-laagste-migratiesaldo-in-bijna-dertig-jaar.jpg"
-   },
-   {
-    "titel": "Kamer wil 10 miljoen euro voor winternoodpakket Gaza, kabinet heeft geen bezwaar",
-    "normalized": "kamer wil 10 miljoen euro voor winternoodpakket gaza kabinet heeft geen bezwaar",
-    "link": "https://nos.nl/l/2641107",
-    "samenvatting": "De Tweede Kamer wil dat het kabinet zo snel mogelijk tien miljoen euro vrijmaakt voor noodhulp aan Gaza. Met de winter in aantocht moet het geld gebruikt worden voor onderdak, voedselhulp en het tegengaan van overstromingen. Een voorstel daarover werd vandaag ingediend door fractievoorzitter Van Baa",
-    "datum": "2026-11-26T13:27:07.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/6/C/9/7/T/k/ZnAp5TvAiWABqBbNi5hx9y4eRMJ38D6j438s9G4/0x208x4000x2250-1024x576.webp"
    }
   ],
   "politiek": [
@@ -1274,10 +1274,19 @@
   ],
   "sport": [
    {
+    "titel": "Del Grosso neemt uitdaging Nys aan in wereldbeker: 'Maar zit pas week op crossfiets'",
+    "normalized": "del grosso neemt uitdaging nys aan in wereldbeker maar zit pas week op crossfiets",
+    "link": "https://nos.nl/l/2641240",
+    "samenvatting": "De modder en het slijk zitten bij de meeste veldrijders al achter de oren, maar voor Tibor Del Grosso begint het seizoen nu pas. De Nederlands kampioen rijdt deze winter alle wereldbekerwedstrijden, te beginnen vanavond en zondag met een Tsjechisch tweeluik in de sneeuw van Ostrava en Tábor. \"Het wa",
+    "datum": "2026-11-27T12:25:14.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/7/3/a/q/n/C/jKafN7LkWMJ2QezCA4wKrGG2vjZriCv8iu6DzhS/7x485x928x522-928x522.webp"
+   },
+   {
     "titel": "Rabobank wordt vanaf 2027 hoofdsponsor van vrouwenploeg Visma: 'Bijzonder moment'",
     "normalized": "rabobank wordt vanaf 2027 hoofdsponsor van vrouwenploeg visma bijzonder moment",
     "link": "https://www.nu.nl/wielrennen/6418002/rabobank-wordt-vanaf-2027-hoofdsponsor-van-vrouwenploeg-visma-bijzonder-moment.html",
-    "samenvatting": "Rabobank keert na tien jaar terug als hoofdsponsor in het wielerpeloton. De bank was als co-sponsor van de Nederlandse ploeg en wordt nu de naamsponsor van de vrouwenploeg van Visma-Lease a Bike. De ploeg gaat verder onder de naam Rabobank-Lease a Bike.",
+    "samenvatting": "Rabobank keert na tien jaar terug als hoofdsponsor in het wielerpeloton. De bank was al cosponsor van de Nederlandse ploeg en wordt nu de naamsponsor van de vrouwenploeg van Visma-Lease a Bike. De ploeg gaat verder onder de naam Rabobank-Lease a Bike.",
     "datum": "2026-11-27T12:06:23.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/hhsxcr6aqagi_sqr256/816/0/5356/5356/rabobank-wordt-vanaf-2027-hoofdsponsor-van-vrouwenploeg-visma-bijzonder-moment.jpg"
@@ -1533,15 +1542,6 @@
     "datum": "2026-11-26T19:00:33.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/ycjx6nua4mqj_sqr256/819/5/3520/3520/iconische-ado-keeper-martin-die-lange-van-vianen-85-overleden.jpg"
-   },
-   {
-    "titel": "Verstappen wil niets meer kwijt over rel met Russell: 'Heb alles gezegd in Vegas'",
-    "normalized": "verstappen wil niets meer kwijt over rel met russell heb alles gezegd in vegas",
-    "link": "https://www.nu.nl/formule-1/6417928/verstappen-wil-niets-meer-kwijt-over-rel-met-russell-heb-alles-gezegd-in-vegas.html",
-    "samenvatting": "Max Verstappen wil geen woorden meer vuilmaken aan zijn rel met George Russell. De Red Bull-coureur zei donderdag in Qatar dat de woordenwisseling van afgelopen weekend in Las Vegas hem niet bezighoudt.",
-    "datum": "2026-11-26T18:38:24.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/ik5x169akyav_sqr256/757/0/2497/2497/verstappen-wil-niets-meer-kwijt-over-rel-met-russell-heb-alles-gezegd-in-vegas.jpg"
    }
   ],
   "cultuur": [
@@ -1964,6 +1964,15 @@
     "foto": ""
    },
    {
+    "titel": "Zeeland subsidieert slim stroomnet en energiehub om maakbedrijven en campings te helpen met vol stroomnet",
+    "normalized": "zeeland subsidieert slim stroomnet en energiehub om maakbedrijven en campings te helpen met vol stroomnet",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdlZYc1pybklJNnhRa0ZXY0RMMFpveFhMamlJWXY4OEdUa2ZSU193WEpIdGdqVjg4OEVOYldlcHJBcVhSaTNVcGQzLWRtaVZ0T205Q2tsM1NDQWZqNmtZcW1lcWZDLWJBaDluTG5wNjJsTnhSZnRRU2xtbFVRR3oyUWZ2eC1ZMjJoMmtTTDhmU3NhMms2WXBvOVdXSXZndFdTWVotMHR5ZzU1UDZDSDc2bjQyMUlGZ3VORWotQUVLOWZxQ3VDckFCYUo3UURweFB3dTJtaVk2NGlwWUVLLXhvTVNGaC1iTE94cFVUNkhWWQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-27T07:03:20.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Kamerleden op bezoek bij EDF, maar juist die kerncentrales lijken niet bij Terneuzen te passen",
     "normalized": "kamerleden op bezoek bij edf maar juist die kerncentrales lijken niet bij terneuzen te passen",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcE5nbmQwRGhuYUx3ZDdHcFdHNGNrN2h4WjZVY3ZZZko2WWhQazFxaDNJLVI5YjJNaXAxZ1hlVVhKTk1TbmMwQjZEQmlGbGZpVS05R3ZkSWFtc2hmbjNTWGJ4ck5lU0FKdlRHWDZRel9yYzRRMmtnOVU4dmZnUHRCdFRPQnNtRnE1ZmMwZFE0YkpybEV1MjJOMW1lUUdZa1Z2d0JQSWNTY2dUMTRaMWpoYVhJQl8yZDhHaEg3Y3dlZWpjam5lNkIxYVhzMTJ4Zw?oc=5",
@@ -1973,11 +1982,38 @@
     "foto": ""
    },
    {
+    "titel": "Regeringscoalitie Nieuw-Zeeland komt net tekort voor meerderheid",
+    "normalized": "regeringscoalitie nieuw zeeland komt net tekort voor meerderheid",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcTQwMU9sZDM1Q3pLa0ZWWi15Rjdjb01vZnl0bGtyLVBhSFd5QVAzUEdBVy1oN01ZYmQzdEJBV0ZDUTlGU3VlN21USUloV2wyNnp6NkhlNnBTcFFKQTZ5aEJNRmplSnh2SEViZmR1eG82TDZGM2JVNi12ZlJ4bE4tUkw5YmZ5NF9vdmpjbVBxNTVNOVdMb0I3SmRlbWlsUQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-27T05:12:04.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Goedemorgen! Verjaardag jeugdorkest, auto beschoten en geen black, maar Green Friday",
     "normalized": "goedemorgen verjaardag jeugdorkest auto beschoten en geen black maar green friday",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVjFLa0c0QzJNZ3lKMU5zRWV4eGNXNkRPdVBUOWpKLWdPMy1QSzE5VVZRZW5zSnU2cVRnaXNXalRpUU1iWTl0UTcxZ01BQnJ6V194a25ycV9tZ2N2Q2NIOXJfTzlrZWZhUnljaDl2aUpDRjhfNDBJQ2FpYV9HRUJHSEluTDB3VEtpTUtkTld2RmVDWEVnajFGYmFZQmp5QUptM25JZlJhN0dSOEVaSFpUblFUUTVvdUlOQVRVbzFqX1gxZTZJ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-27T05:08:30.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Definitieve uitslag verkiezingen Nieuw-Zeeland: geen meerderheid voor links of rechts",
+    "normalized": "definitieve uitslag verkiezingen nieuw zeeland geen meerderheid voor links of rechts",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTBCVlVxZDFELUVHMENveS1Ib01NVFBuMl9sb1BCUkZMbG9uVUdDWHM3WVhyZ0NfdmpIb2VOYWJFUTRKMFZSTUFPRXEzNjhGNDJwbG84dF8yYTg3dE1IRWFNUHFvWk1uQVNtTlNxdEVMUUZia201TmNaWk01THpleEgyeG1SQ1VzNzJsaGRTYWFVM0taNnhzM3F4aVBnMlNkNTVYaWpTRXN1X1JtZzNjNTRTSDBjdw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-27T03:31:07.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Na wekenlang stemmen tellen pakt verkiezingsuitslag Nieuw-Zeeland ineens anders uit",
+    "normalized": "na wekenlang stemmen tellen pakt verkiezingsuitslag nieuw zeeland ineens anders uit",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGJDNUxGak9DTDN5cVZfaWdydENQUWRBSEJKeFBHRk1hUDdQWHZJQ0RmRWQxM2hmeUVZc202WlFuX0Q5OHdsRlN5bXZwYjJoWHFCRjVKYWlaeUpFMWNNVkZSeEtObzZjQnB5RjJYX1FiaHMtbDgxR3NUeTdRM20yc0FHdWkyTTg2di1NdHZGRnRmdnRKb0pVT29RX2pOc3N3VkpNeEMtMEhKZ0Zu?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-27T02:25:12.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -1996,24 +2032,6 @@
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSVpURWhBOTVqd0x6TDJaZUgxOGZoT3F0Tnd5NW16TXc1V05wZmZ2Z3h3SEtpX1BKYUgwYnMtSjJ1LTh2NUtLaHcwUmZSLUpFWmFlb3BUbnM1dzR5c2l3UWMzS1dDQTh4WUI0T1o5MEpROUo1eHNvNEFjV25ITXJCd2dWRDRRQzRZeXJRYWFtUUFEZkE?oc=5",
     "samenvatting": "",
     "datum": "2026-11-26T21:08:48.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Rechter wijst eisen vader af in familieruzie bij Zeeuws bedrijf",
-    "normalized": "rechter wijst eisen vader af in familieruzie bij zeeuws bedrijf",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZWdPdmtRMHdLNlplTnJKSjJGZGo0MU1URlBGLWFnZTBPbnltYlRDcE83cHo5WXN1NV9kU3JWYjdQRFdUTV9XbkZubUNTVFRKRGZWVk5uSkxvS1BuaW1IZVFPbGljbTF1YlpUT2lETm5xWkNFN3hQRXRBRGdwb3JXRHUyMGNzU1BoQk1nWG9aT0wzdEFBcndDd0FPUWhxZw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-26T18:30:55.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Hulpsinten slaan hun slag bij de kringloop: 'Voor 50 cent al een cadeautje'",
-    "normalized": "hulpsinten slaan hun slag bij de kringloop voor 50 cent al een cadeautje",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWk1pR2hOX3owbXpRTTZWOTBiQUhGQkU3Tzdtc05PRlNGckhURVNPTnRzeGFvWlQzTnRGZV9Dal83M3dhNXZ4aF8wN2lxUjhfajdtd3Q2TW1aUVdoQUY5QlU4enBjTDRxSjNqb2F3S3o0Ykt5emVmejMtak9ENms4X2RpT19qdC1SczNodDNNVnk1Z2FHY2VrenYzVExHbC0wMk9wcFBjREd1QmFpZzNobGYzQTZUUG5t?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-26T18:18:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2160,24 +2178,6 @@
     "datum": "2026-11-26T10:34:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
-   },
-   {
-    "titel": "Winfried Baijens stopt als presentator bij het NOS Journaal en is straks te zien als talkshowhost",
-    "normalized": "winfried baijens stopt als presentator bij het nos journaal en is straks te zien als talkshowhost",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc3lUZlE0cTJqcmlBV05YRml4WlRCT0JNblJLR1N6NThDNlQ1M1NzTXRrSWx3TmF0WEloZGh4UzhzdDdYbklVcE5ZNUxYUkRkRmJSejNRaXN3RW5zXzk0OW5jVGlPd2VHVEVqb3RxUEdYSXFLY0N5eUxUUWtUaVNHbDY1eUxaMnk4bWZ0SUdYZEpSUXVsaHNZM2NEbWpzLWJYbnVDVWQ1azFkMDZOZHd1UEd6bk9ETzI0emNNOGtPNFRmUmNYSUk0dGh1cm1pRVg5VEktVWxRVVR0UQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-26T10:13:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Voormalige uitbater van restaurant Ockenburgh baalt van sloop: ‘Heel jammer dat het pand verloren gaat’",
-    "normalized": "voormalige uitbater van restaurant ockenburgh baalt van sloop heel jammer dat het pand verloren gaat",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR2tGTmt5NlFFOXprNWRuWi1XM25MRTV4TER2V1hER1NXOXQyZ00wX3laaTVKYTZmNE1vOUkxUGJHU2ZYWVVxNkRZMUN4XzVwQUhBOTJieEk0SEZUdmJRS1d1ZXRrZk8tM3NxdWVYbnF5ZFladjRGM29vNFQ3QW5tYnVxbEs0bWJkRzd6M1pSdUYwZG56NnhSSjNoT0h5cnZCS2t0MmJQbmU2bnlJbWxkODlsOTVUN1oyRzlMTlRLMy1FbFh6WVJnS2JBSHJzcUU?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-26T09:30:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
    }
   ],
   "brabant": [
@@ -2200,9 +2200,9 @@
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTYzMzktMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1yS24xNUk4dHlwa2V5eXZuVjAxdXpVc0VwNEdWYyUyQmQ1bDRmRU05UEJrRFElM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
    },
    {
-    "titel": "Vrouw houdt wond over aan show Rostelli: &#39;Bizar dat hij hiermee wegkomt&#39;",
-    "normalized": "vrouw houdt wond over aan show rostelli 39 bizar dat hij hiermee wegkomt 39",
-    "link": "https://www.omroepbrabant.nl/nieuws/6036330/vrouw-houdt-wond-over-aan-show-rostelli-bizar-dat-hij-hiermee-wegkomt",
+    "titel": "Vrouw bezoekt Rasti Rostelli en komt thuis met brandwond op haar hand",
+    "normalized": "vrouw bezoekt rasti rostelli en komt thuis met brandwond op haar hand",
+    "link": "https://www.omroepbrabant.nl/nieuws/6036330/vrouw-bezoekt-rasti-rostelli-en-komt-thuis-met-brandwond-op-haar-hand",
     "samenvatting": "Een bezoeker van een show van Rasti Rostelli in Best heeft een brandwond overgehouden aan haar bezoek aan de showhypnotiseur. Tijdens een act met een stukje aluminiumfolie ontstond er een wond, die de dagen daarna steeds pijnlijker werd. Volgens de huisarts kan het een blijvend litteken zijn. De vro",
     "datum": "2026-11-27T11:00:00.000Z",
     "bron": "Omroep Brabant",
@@ -2218,9 +2218,9 @@
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.47/cmV2aXNpb25zLzUwMTYzNDUtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz02eXR0TjREZFI4ck4zJTJCVnMzbDElMkJIZG96YzR1V3FNWE0xTzlwQXNEbVpPQSUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
    },
    {
-    "titel": "Ouderen vrezen isolatie door verdwijnen bushalte: ‘Dit is mijn vrijheid’",
-    "normalized": "ouderen vrezen isolatie door verdwijnen bushalte dit is mijn vrijheid",
-    "link": "https://www.omroepbrabant.nl/nieuws/6036349/ouderen-vrezen-isolatie-door-verdwijnen-bushalte-dit-is-mijn-vrijheid",
+    "titel": "Arriva haalt bushalte weg, bewoners teleurgesteld: &#39;Dit betekent isolatie&#39;",
+    "normalized": "arriva haalt bushalte weg bewoners teleurgesteld 39 dit betekent isolatie 39",
+    "link": "https://www.omroepbrabant.nl/nieuws/6036349/arriva-haalt-bushalte-weg-bewoners-teleurgesteld-dit-betekent-isolatie",
     "samenvatting": "Voor veel oudere bewoners in de Tilburgse wijk Witbrant Oost in Tilburg is de bus een dankbaar vervoermiddel om boodschappen te doen, te genieten van een theateravond in de binnenstad of een bezoekje te brengen aan een van de kinderen. Meer dan de helft van de mensen die er wonen, is 65 jaar en oude",
     "datum": "2026-11-27T10:30:00.000Z",
     "bron": "Omroep Brabant",
@@ -2245,36 +2245,36 @@
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTYyNzAtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1CZmdZMmRIOE5xY1Jnd2pvQmFTQU5kQzgxc21JNVpIc2hycFQ2dFlPcUhRJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
    },
    {
-    "titel": "OM start onderzoek naar neonazi&#39;s na Zembla-documentaire",
-    "normalized": "om start onderzoek naar neonazi 39 s na zembla documentaire",
-    "link": "https://www.omroepbrabant.nl/nieuws/6036494/om-start-onderzoek-naar-neonazis-na-zembla-documentaire",
+    "titel": "Justitie start onderzoek naar neonazistisch vechtfestijn op erf in Oeffelt",
+    "normalized": "justitie start onderzoek naar neonazistisch vechtfestijn op erf in oeffelt",
+    "link": "https://www.omroepbrabant.nl/nieuws/6036494/justitie-start-onderzoek-naar-neonazistisch-vechtfestijn-op-erf-in-oeffelt",
     "samenvatting": "Het Openbaar Ministerie (OM) is een onderzoek gestart naar aanleiding van de Zembla-documentaire 'The Neonazi-files'. Daarin kwam onder meer een neonazistisch vechtfestijn aan het licht dat werd georganiseerd op het erf van tandarts Bas E. in Oeffelt. Ook twee Brabantse FVD-prominenten werden na de ",
     "datum": "2026-11-27T09:00:46.000Z",
     "bron": "Omroep Brabant",
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTE5NDMtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1mYkg5akVVdmRyWUFJaWk3R1hlcGxYMiUyQmx5NzFGJTJGYkVxdUpZVlJvUDJhayUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
    },
    {
-    "titel": "Wegpiraat vlucht met hoge snelheid voor politie en weet te ontkomen",
-    "normalized": "wegpiraat vlucht met hoge snelheid voor politie en weet te ontkomen",
-    "link": "https://www.omroepbrabant.nl/nieuws/6036495/wegpiraat-vlucht-met-hoge-snelheid-voor-politie-en-weet-te-ontkomen",
+    "titel": "Dollemansrit door centrum Den Bosch: bestuurder rijdt 120 en ontsnapt",
+    "normalized": "dollemansrit door centrum den bosch bestuurder rijdt 120 en ontsnapt",
+    "link": "https://www.omroepbrabant.nl/nieuws/6036495/dollemansrit-door-centrum-den-bosch-bestuurder-rijdt-120-en-ontsnapt",
     "samenvatting": "Een automobilist is donderdagavond op de vlucht geslagen voor de politie. De bestuurder reed met snelheden ruim boven de 100 kilometer per uur door het centrum van Den Bosch. Tijdens de dollemansrit veroorzaakte de verdachte meerdere aanrijdingen en een voetganger moest wegspringen om niet geraakt t",
     "datum": "2026-11-27T08:48:22.000Z",
     "bron": "Omroep Brabant",
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.57/0.45/cmV2aXNpb25zLzMwNTE1NzItMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1mVUdPUjhzJTJCdWhUVVdCZTVSVDZyM0lMVzA2TzklMkJONnBmZmxxWmpFVlNNOCUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
    },
    {
-    "titel": "Zoveelste brand in Bredase wijk Heuvel: &#39;Ik zie het voortaan aankomen&#39;",
-    "normalized": "zoveelste brand in bredase wijk heuvel 39 ik zie het voortaan aankomen 39",
-    "link": "https://www.omroepbrabant.nl/nieuws/6036499/zoveelste-brand-in-bredase-wijk-heuvel-ik-zie-het-voortaan-aankomen",
+    "titel": "Buurt kijkt niet meer op van alle branden, maar tast in duister over dader",
+    "normalized": "buurt kijkt niet meer op van alle branden maar tast in duister over dader",
+    "link": "https://www.omroepbrabant.nl/nieuws/6036499/buurt-kijkt-niet-meer-op-van-alle-branden-maar-tast-in-duister-over-dader",
     "samenvatting": "Buurtbewoners van de Bredase wijk Heuvel zien de branden tegenwoordig wel een beetje aankomen. &#34;Zodra de gemeente of wie dan ook hier iets op straat zet, staat het ergens de komende dagen in brand&#34;, zegt Jack. Voor zijn huis aan het Don Boscoplein vloog donderdagnacht een container met oude ",
     "datum": "2026-11-27T08:46:34.000Z",
     "bron": "Omroep Brabant",
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTYzMTEtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1SblNFVVQyZXY5YzBEUG43YUE4a3FnSFlSa2ZzQXczRlE5ZEdxWVJmWkl3JTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
    },
    {
-    "titel": "Belgische gemeenten hebben last van Brabantse arbeidsmigranten: &#39;Misbruik&#39;",
-    "normalized": "belgische gemeenten hebben last van brabantse arbeidsmigranten 39 misbruik 39",
-    "link": "https://www.omroepbrabant.nl/nieuws/6036423/belgische-gemeenten-hebben-last-van-brabantse-arbeidsmigranten-misbruik",
+    "titel": "Belgische huizen vol Brabantse arbeidsmigranten: &#39;Geen lusten, wel lasten&#39;",
+    "normalized": "belgische huizen vol brabantse arbeidsmigranten 39 geen lusten wel lasten 39",
+    "link": "https://www.omroepbrabant.nl/nieuws/6036423/belgische-huizen-vol-brabantse-arbeidsmigranten-geen-lusten-wel-lasten",
     "samenvatting": "Zes Belgische gemeenten zitten met de handen in het haar. Steeds meer arbeidsmigranten die in Brabant werken, worden net over de grens ondergebracht. En dat zorgt voor flinke problemen. De grensgemeenten&nbsp; in Vlaanderen blijven zitten met slechte woonomstandigheden en overlast door geparkeerde a",
     "datum": "2026-11-27T08:00:00.000Z",
     "bron": "Omroep Brabant",
@@ -2481,20 +2481,20 @@
     "foto": ""
    },
    {
+    "titel": "Borsele onderzoekt verlenging noodopvang asielzoekers én moet op zoek naar plek langdurige opvang",
+    "normalized": "borsele onderzoekt verlenging noodopvang asielzoekers en moet op zoek naar plek langdurige opvang",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUWJLaTRPUDVfYjZSRHV2dF9QWm9mWHZtb1FtR3hDSXl4MHQtMHkwT3l1a0NzYkFPSlI5YW14c05MNnI3MGFPMkkzQWIyN1puSzI2ZE1XVERXMEc2M1JGMHA5c29mOWd5TUFDNmZWbndiVU1GTXJ1SDI2WFlqTjNHQnZIV3FueHpLZ1JBSF9zVGdVNi1Zd2xjWmYxLWpBT0lnY3BudWRrZDZsRmc5bVlmalZEM0drUzA1NEZkRVdXdWR0WEZRQWF5TWNCY3MzM0k?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-10T08:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Busdienstregeling in Borsele verandert vanaf 13 december",
     "normalized": "busdienstregeling in borsele verandert vanaf 13 december",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWNfOW12WHBZb1VkTWZhbVhlQXJxTVdhTXZrVE5rUmY0MnV5dHlwWG1GTkxFcVlfTTA2R19mUFJJX2NvNEU1M05xSzlRLWJwbGl0NHFDQ0taQW4wSUk1QndMMHFpbEVWV2JPV3lTaEkxU0FhaDFZSjZWS2ZWbExiSjlPaWtBZ2RTT2pXSnNyWWhUWjZhc1k5Rg?oc=5",
     "samenvatting": "",
     "datum": "2026-11-06T08:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Gemeente Borsele roept inwoners op mee te denken over leven in 'North Sea Port District'",
-    "normalized": "gemeente borsele roept inwoners op mee te denken over leven in north sea port district",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN0pwQ01TekZRZmdkWUtSTVVtVHJTcU1ERlp6eEZzSGhsU0xDTmVUcTFfc2dHWkppSDFFcE0wUWg1UEZfSDR3bnJOYW41SHJOME1jaUdNNUlKd3VrdlA2cnh1VkdDZWdOSjQxQm82SnB4VU9ZbzNwajQ4VGFpekowbkVPN1RQQXVxLTNtQmZJYVotMXluaGNoeGpSX0V4a1RvenFmVGg3R1R1YldFaDk1QnYxRVo4V0pHS0w3NExwUQ?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-05T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2955,7 +2955,7 @@
    {
     "titel": "Roosendaal houdt vast aan bouw sporthal van 30 miljoen op veld van BSC",
     "normalized": "roosendaal houdt vast aan bouw sporthal van 30 miljoen op veld van bsc",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX0dJbXZwMTB2d2Q2VXFNSEZ2clZIa01sTnVrSzhaZk9xOU1MWmlLYzUwc1ZKWUtqN295UUtaZjJ5ZlFxV0VoWXhEM0g1eVpaY2RjNHpwMk1FNE1IMmpVcElRNDJCaFdnS1FWbk9LVVBsdDBBR1NUN3pmYTZMZTdjQWROaFRqRHBKQ2tVTDk0MzVGTjZKZk1CcnpuNV9SZkdyQmFUZXQ1YTg1RkVUc0IzaFdJMUlNdw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT2owNGFOejhtdGd0dFB5T3NZWlJteFZuQ2hjT2hoajhuUEs4cU1PQnZQLTVwTDRQZ3M0RG04a18xRk1ZNV8xbEFOR1FGb1lGRHB1aG9makZtRTJodkswVEV2b0VQSXVyTUN0TjdTYy0zTXhsdnZoelFYVm5WdW1xMWV4Z05LcDRVbmRHbzA2YmxpSmJIM2wyWmRpTmUxTm1aT2E1ZlZMUmpBZ1FYdXc?oc=5",
     "samenvatting": "",
     "datum": "2026-11-27T11:10:50.000Z",
     "bron": "Google Nieuws",
@@ -2967,15 +2967,6 @@
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTFLcHFkYnVXN01pTF9zUGpwcFY2aVZ3VS1FX1NobTU4Q1lZOFJUcGprT2o4OElabHZvR1dlYUE5SUlSY3I5Q0RDWnh1WDd3dXZCS3J1ZTFkTTdJTDl3Vm1IWmFEb1NlYlJ6Nk9BOHZlXzhVWEN4OXVLWVVaa1lsQXNhSTdrb2tuMGNjd3NJcTg3RjFaQUd6VHJFZTQ1NENhLTdJ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-27T10:33:19.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Feestelijke opening van winkel op de SDW Plataan",
-    "normalized": "feestelijke opening van winkel op de sdw plataan",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHFCVnRxMXBYNzJhb1JLWGZPMnkxSTBJOUMtT1dSVkQ3VWduV1Z2SXJSS1h5eUJGQjJodXA4Wi11T2dyd3JTNEZ4d3UzWFpHTTRRMWpLcEVTZWYxU1BhckV0RnN6Q1FaSnd0RlFwTlFOX2lWRXJfWDdGcVFzYTdScjItcmhhOTlHdnRCeg?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-27T09:38:14.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3045,7 +3036,7 @@
    {
     "titel": "Het grote aftellen is begonnen in Roosendaal: Bravis zegt nu écht te bouwen, al is die eerste paal niet de eerste",
     "normalized": "het grote aftellen is begonnen in roosendaal bravis zegt nu echt te bouwen al is die eerste paal niet de eerste",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMjBTTUNhWmVnZ01uSXFERVNNNzMyLThTdFNBN2x1NkdPN2xSdE5tRjhId0syVXB1b3dIRUEzWERxY1NxT2I0azIxRk90aG01S1hwT1FqYVB4bFZHVDhoempqcHJNeWUwOU9peDEtU3p1WmswSkFsVHl0OHZUNmxfMnJlQXhMV1JpTnZkemVZd2hVSG1GbjdNeFVONk9zV3BPZmx2X3JMb0lmbzJNbmdFVUJROTgwY1Z0M00tR3FKWTQxX0xrcnY0dDBVcmpJQTdCTjAzSFM3ZVJMZk0xbXUzRTJiN0c?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNlUtVUFyU25tRzdFME14VUc0X05vYVhVQ3dHZ2wxUUp2WUdTLTcyQktrWkl2cG02TGdXZk5HdFR1aERBS05mWWRfdmNlS0FZQ2x3WVRUSWxUUzJYTEJzZk9rUWtBdkVRaUMzdmZybnBRdUJTN1hPT1M3M282LUJFOW1yZ2ZPUnVOSGdtc1JEVlJUSVhGVW1NLU9OMzFDUGhmYkwwdDZHcERxQkNOR3A1QkNCRlJXZElPb2ladVVTaGNnZm5oZDdwN2ZHbTRjNGdGQ0FUSDBnOFVPSmNjRVhfbkVSOVFGLTBESVNKcQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-26T16:24:00.000Z",
     "bron": "Google Nieuws",
@@ -3084,6 +3075,15 @@
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORGtoelAtbk1tREx0UHA1eC14SEpTeFFLZXBOM0JlSGlqUzBfdVpiTXBzMVpTYTMzU2xGdVVMR3htSmpFYUZxNFRpODllQ2h5RTJ5ZFpkR1E1bXllaXVqczRhZUVDZjVKTllOQ1o3WWM4Y1BpcThITGZiTElCNzBiNEM2UWRrQUtEbkR6S2hKRm8tS3RvbWxVcFVNM0RISVR3RmJ4Q2NtTFkzNkJVZ2c?oc=5",
     "samenvatting": "",
     "datum": "2026-11-26T10:17:35.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Geen treinen van, naar en via Roosendaal in Sinterklaas weekend",
+    "normalized": "geen treinen van naar en via roosendaal in sinterklaas weekend",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRXBSbTV2VmRLbWJfYkdGZW0tRHRVdW1nd0ZxN1duVVVaZEtnODd0cFlGYWV0cTZIdFNWem1wcU11NXpDTWg1QjUydkxYaUNqZ2d1ZEcyRnZGUmVhb1V6aURtN2cwYUFqNnUxTUdya01uUndJY2FPVzJrRnlVZlZzVzUyTUJ6M0Q2ZXYzYkhOU1luOVZ4WWNFYlFEcnZGcVk?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-26T10:04:52.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
