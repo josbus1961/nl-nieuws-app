@@ -1,8 +1,35 @@
 {
- "gegenereerd": "2026-11-28T11:00:23.965Z",
+ "gegenereerd": "2026-11-28T11:25:44.082Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Arrestaties na schietpartij op N11 bij Zoeterwoude",
+    "normalized": "arrestaties na schietpartij op n11 bij zoeterwoude",
+    "link": "https://www.rtl.nl/nieuws/binnenland/video/8ae639e4-6220-4357-aa15-d6c756359b11/arrestaties-na-schietpartij-op-n11-bij",
+    "samenvatting": "Op de N11 bij Zoeterwoude heeft zaterdagochtend een schietincident plaatsgevonden. De politie meldt dat er aanhoudingen zijn verricht. Voor het incident werd een traumahelikopter opgeroepen. Of er slachtoffers zijn gevallen, is nog niet bekend.",
+    "datum": "2026-11-28T11:16:58.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=8ae639e4-6220-4357-aa15-d6c756359b11"
+   },
+   {
+    "titel": "Auto beschoten op N11 bij Den Haag, traumahelikopter landt in berm",
+    "normalized": "auto beschoten op n11 bij den haag traumahelikopter landt in berm",
+    "link": "https://www.rtl.nl/nieuws/binnenland/artikel/5667689/auto-beschoten-op-n11-bij-den-haag-weg-beide-richtingen-dicht",
+    "samenvatting": "Op de N11 bij Den Haag is vanochtend rond 09.30 uur een auto beschoten. Dat bevestigt de politie. Die heeft naar aanleiding van de schietpartij meerdere personen opgepakt. De N11 is door het incident in beide richtingen afgesloten.",
+    "datum": "2026-11-28T11:12:01.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/28/897A7100.jpg?itok=j8yoEM35&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Anton uit Married at First Sight geeft update over zijn liefdesleven",
+    "normalized": "anton uit married at first sight geeft update over zijn liefdesleven",
+    "link": "https://www.rtl.nl/boulevard/video/dcfce7f3-c681-414b-b849-4b3fabad2ff5/anton-uit-married-first-sight-geeft-update",
+    "samenvatting": "Voor Anton uit 'Married at First Sight' zit het huwelijksexperiment erop, maar hoe staat het inmiddels met zijn liefdesleven? De oud-deelnemer vertelt hoe het hem op liefdesgebied vergaat en of er inmiddels iemand op zijn pad is gekomen.",
+    "datum": "2026-11-28T11:00:36.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=dcfce7f3-c681-414b-b849-4b3fabad2ff5"
+   },
    {
     "titel": "Boerin Bertie kritisch op Joey: zocht hij wel echt liefde in Boer zoekt vrouw?",
     "normalized": "boerin bertie kritisch op joey zocht hij wel echt liefde in boer zoekt vrouw",
@@ -13,19 +40,19 @@
     "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/27/bert.jpg?itok=sqCix0Qt&amp;offsetX=0&amp;offsetY=0&amp;cropWidth=1200&amp;cropHeight=675&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
    },
    {
-    "titel": "30.000 euro ingezameld voor uitvaart van man die dood werd gevonden in vriezer",
-    "normalized": "30 000 euro ingezameld voor uitvaart van man die dood werd gevonden in vriezer",
-    "link": "https://www.nu.nl/binnenland/6418094/30000-euro-ingezameld-voor-uitvaart-van-man-die-dood-werd-gevonden-in-vriezer.html",
+    "titel": "30.000 euro ingezameld voor uitvaart van man (20) die werd gevonden in vriezer",
+    "normalized": "30 000 euro ingezameld voor uitvaart van man 20 die werd gevonden in vriezer",
+    "link": "https://www.nu.nl/binnenland/6418094/30000-euro-ingezameld-voor-uitvaart-van-man-20-die-werd-gevonden-in-vriezer.html",
     "samenvatting": "Voor de uitvaart van de twintigjarige Mohammed Al Omar, die eerder deze week dood werd aangetroffen in een vrieskist in Utrecht, is inmiddels ruim 30.000 euro ingezameld. Het is de bedoeling dat hij in zijn geboorteland Syrië wordt begraven.",
     "datum": "2026-11-28T10:51:31.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/difx70eadvnp_sqr256/2338/0/4672/4672/30000-euro-ingezameld-voor-uitvaart-van-man-die-dood-werd-gevonden-in-vriezer.jpg"
+    "foto": "https://images.nu.nl/m/difx70eadvnp_sqr256/2338/0/4672/4672/30000-euro-ingezameld-voor-uitvaart-van-man-20-die-werd-gevonden-in-vriezer.jpg"
    },
    {
-    "titel": "N11 dicht tussen Leiden en Zoeterwoude na schietincident",
-    "normalized": "n11 dicht tussen leiden en zoeterwoude na schietincident",
+    "titel": "Schietincident op N11 bij Zoeterwoude, aanhoudingen verricht",
+    "normalized": "schietincident op n11 bij zoeterwoude aanhoudingen verricht",
     "link": "https://nos.nl/l/2641373",
-    "samenvatting": "De N11 was vanochtend vanwege een schietincident tussen Leiden en Zoeterwoude in beide richtingen dicht. Dat zegt een woordvoerder van Rijkswaterstaat tegen persbureau ANP. Op de N-weg waren rond 10.00 uur vanochtend veel politieauto's en ambulances. Ook werd een traumahelikopter ingezet. De politie",
+    "samenvatting": "Op de N11 tussen Leiden en Alphen aan den Rijn was vanochtend een schietincident ter hoogte van Zoeterwoude. Dit gebeurde rond 09.30 uur, meldt de politie. Er zijn aanhoudingen verricht. Op het schietincident kwamen veel politieauto's en ambulances af. Ook werd er een traumahelikopter ingezet. De po",
     "datum": "2026-11-28T10:49:53.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/7/B/8/2/q/6/dabYWwwHsfsKAMKRphasGyJ5bxi3Zno5aJPH13X/4x171x2384x1341-1024x576.webp"
@@ -245,33 +272,6 @@
     "datum": "2026-11-28T08:08:49.000Z",
     "bron": "RTL Nieuws",
     "foto": "https://redactie.rtl.nl/sites/default/files/ANP281126040-1.jpg?itok=zUxyPInK&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Shorttracker Van 't Wout wint 500 meter World Tour, zilver Boer",
-    "normalized": "shorttracker van t wout wint 500 meter world tour zilver boer",
-    "link": "https://www.rtl.nl/nieuws/sport/artikel/5667675/shorttracker-van-t-wout-wint-500-meter-world-tour-zilver-boer",
-    "samenvatting": "Shorttracker Jens van 't Wout heeft bij de vierde World Tour in Shanghai de 500 meter gewonnen. In de finale hield hij landgenoot Teun Boer achter zich. Het betekende voor Van 't Wout de zevende gouden medaille in de World Tour dit seizoen.",
-    "datum": "2026-11-28T07:58:14.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/ANP281126037-1.jpg?itok=s2uI6oG5&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
-   },
-   {
-    "titel": "Jenny Arean stelt duidelijke grens aan zangcarrière: 'Het moet niet gênant worden'",
-    "normalized": "jenny arean stelt duidelijke grens aan zangcarriere het moet niet genant worden",
-    "link": "https://www.rtl.nl/boulevard/artikel/5667674/jenny-arean-stopt-met-optreden-als-stem-haar-de-steek-laat",
-    "samenvatting": "Jenny Arean (84) wil niet meer op het podium staan als haar stem haar in de steek zou laten. \"Het moet niet gênant worden. Ik heb altijd gezegd: zolang die stem het doet, doe ik het ook\", vertelt de zangeres zaterdag aan De Telegraaf.",
-    "datum": "2026-11-28T07:57:27.000Z",
-    "bron": "RTL Nieuws",
-    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/28/ANP-484492596%20%281%29.jpg?itok=tLv2vUlA&amp;offsetX=0&amp;offsetY=104&amp;cropWidth=1998&amp;cropHeight=1124&amp;width=1024&amp;height=576&amp;impolicy=dynamic"
-   },
-   {
-    "titel": "Twee bewakers Artsen zonder Grenzen gedood bij Israëlische aanval op Gaza",
-    "normalized": "twee bewakers artsen zonder grenzen gedood bij israelische aanval op gaza",
-    "link": "https://www.nu.nl/midden-oostenconflict/6418077/twee-bewakers-artsen-zonder-grenzen-gedood-bij-israelische-aanval-op-gaza.html",
-    "samenvatting": "Israël heeft vrijdagavond met een luchtaanval op een kliniek in Gaza-Stad twee bewakers van hulporganisatie Artsen zonder Grenzen gedood. De aanvallen in Gaza gaan ondanks een staakt-het-vuren onverminderd door, terwijl de humanitaire situatie nijpend blijft.",
-    "datum": "2026-11-28T07:50:46.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/5dwxxpiamtyo_sqr256/0/0/2000/2000/twee-bewakers-artsen-zonder-grenzen-gedood-bij-israelische-aanval-op-gaza.jpg"
    }
   ],
   "binnenland": [
@@ -279,16 +279,16 @@
     "titel": "30.000 euro ingezameld voor uitvaart van man die dood werd gevonden in vriezer",
     "normalized": "30 000 euro ingezameld voor uitvaart van man die dood werd gevonden in vriezer",
     "link": "https://www.nu.nl/binnenland/6418094/30000-euro-ingezameld-voor-uitvaart-van-man-die-dood-werd-gevonden-in-vriezer.html",
-    "samenvatting": "Voor de uitvaart van de twintigjarige Mohammed Al Omar, die eerder deze week dood werd aangetroffen in een vrieskist in Utrecht, is inmiddels ruim 30.000 euro ingezameld. Het is de bedoeling dat hij in zijn geboorteland Syrië wordt begraven.",
+    "samenvatting": "Voor de uitvaart van de twintigjarige Mohammed Al Omar, wiens lichaam eerder deze week werd aangetroffen in een vrieskist in Utrecht, is inmiddels ruim 30.000 euro ingezameld. Het is de bedoeling dat hij in zijn geboorteland Syrië wordt begraven.",
     "datum": "2026-11-28T10:51:31.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/difx70eadvnp_sqr256/2338/0/4672/4672/30000-euro-ingezameld-voor-uitvaart-van-man-die-dood-werd-gevonden-in-vriezer.jpg"
    },
    {
-    "titel": "N11 dicht tussen Leiden en Zoeterwoude na schietincident",
-    "normalized": "n11 dicht tussen leiden en zoeterwoude na schietincident",
+    "titel": "Schietincident op N11 bij Zoeterwoude, aanhoudingen verricht",
+    "normalized": "schietincident op n11 bij zoeterwoude aanhoudingen verricht",
     "link": "https://nos.nl/l/2641373",
-    "samenvatting": "De N11 was vanochtend vanwege een schietincident tussen Leiden en Zoeterwoude in beide richtingen dicht. Dat zegt een woordvoerder van Rijkswaterstaat tegen persbureau ANP. Op de N-weg waren rond 10.00 uur vanochtend veel politieauto's en ambulances. Ook werd een traumahelikopter ingezet. De politie",
+    "samenvatting": "Op de N11 tussen Leiden en Alphen aan den Rijn was vanochtend een schietincident ter hoogte van Zoeterwoude. Dit gebeurde rond 09.30 uur, meldt de politie. Er zijn aanhoudingen verricht. Op het schietincident kwamen veel politieauto's en ambulances af. Ook werd er een traumahelikopter ingezet. De po",
     "datum": "2026-11-28T10:49:53.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/7/B/8/2/q/6/dabYWwwHsfsKAMKRphasGyJ5bxi3Zno5aJPH13X/4x171x2384x1341-1024x576.webp"
@@ -557,13 +557,13 @@
     "foto": "https://images.cdn.nos.nl/3/9/k/q/4/b/kYb4nmwKnLaDjMT6UpPr8wm6iWLyRXf98sqp2fo/8x187x3984x2241-1024x576.webp"
    },
    {
-    "titel": "Zeven doden en bijna honderd gewonden door explosie bij Afghaanse school",
-    "normalized": "zeven doden en bijna honderd gewonden door explosie bij afghaanse school",
-    "link": "https://www.nu.nl/buitenland/6418092/zeven-doden-en-bijna-honderd-gewonden-door-explosie-bij-afghaanse-school.html",
-    "samenvatting": "Bij een explosie in een opslagplaats vlak bij een school in Afghanistan zijn zaterdagochtend 7 studenten omgekomen en 99 anderen gewond geraakt. Het is al de derde keer deze maand dat een onderwijsinstelling wordt getroffen door een ontploffing.",
+    "titel": "Zeven studenten omgekomen en 99 gewonden door explosie bij Afghaanse school",
+    "normalized": "zeven studenten omgekomen en 99 gewonden door explosie bij afghaanse school",
+    "link": "https://www.nu.nl/buitenland/6418092/zeven-studenten-omgekomen-en-99-gewonden-door-explosie-bij-afghaanse-school.html",
+    "samenvatting": "In Afghanistan zijn zeven studenten omgekomen en 99 anderen gewond geraakt door een explosie in een opslagplaats vlak bij een school. Het is al de derde keer deze maand dat een onderwijsinstelling wordt getroffen door een ontploffing.",
     "datum": "2026-11-28T10:31:04.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/c09xbfgaqcrk_sqr256/267/0/2688/2688/zeven-doden-en-bijna-honderd-gewonden-door-explosie-bij-afghaanse-school.jpg"
+    "foto": "https://images.nu.nl/m/c09xbfgaqcrk_sqr256/267/0/2688/2688/zeven-studenten-omgekomen-en-99-gewonden-door-explosie-bij-afghaanse-school.jpg"
    },
    {
     "titel": "Rusland claimt neerhalen meer dan 1200 Oekraïense drones, deel bij Moskou",
@@ -573,6 +573,15 @@
     "datum": "2026-11-28T10:09:33.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/6/9/S/t/X/P/qGXF7hBdjvR5Rbu2aSkJ24MyTAezGPhEQg7yN55/8x419x3984x2241-1024x576.webp"
+   },
+   {
+    "titel": "Zeker 7 doden en bijna 100 gewonden door explosie bij school in Afghanistan",
+    "normalized": "zeker 7 doden en bijna 100 gewonden door explosie bij school in afghanistan",
+    "link": "https://nos.nl/l/2641356",
+    "samenvatting": "Bij een explosie bij een middelbare school in het oosten van Afghanistan zijn zeker zeven leerlingen omgekomen. Ook vielen er bijna honderd gewonden, zeggen de lokale autoriteiten van de provincie Kunar. De cijfers zijn voorlopig, benadrukt het hoofd van het provinciale ziekenhuis. Het gaat om een s",
+    "datum": "2026-11-28T09:03:11.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/2/D/z/q/q/9/t9CSLnhcbwYoXKZSYrRXdiXBDphCX195Ha8YJtP/0x621x4000x2250-1024x576.webp"
    },
    {
     "titel": "Wereldwijde temperatuur voor het eerst zeven dagen op rij 2 graden 'te hoog'",
@@ -807,15 +816,6 @@
     "datum": "2026-11-27T15:17:03.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/ag3xlriadbo7_sqr256/1034/0/3400/3400/zwitser-houdt-wolf-als-huisdier-door-hem-te-registreren-als-hond.jpg"
-   },
-   {
-    "titel": "Man vergeet sleutelkaart van hotel en klopt naakt aan bij Duitse politie",
-    "normalized": "man vergeet sleutelkaart van hotel en klopt naakt aan bij duitse politie",
-    "link": "https://nos.nl/l/2641270",
-    "samenvatting": "De Duitse politie in Lübeck is afgelopen nacht verrast door een wel erg schaars geklede toerist. Een man met enkel een boodschappentas om zijn onderlichaam klopte vannacht aan bij het politiebureau in de Noord-Duitse stad. Volgens de politie vertelde de man dat hij even zijn hotelkamer had verlaten ",
-    "datum": "2026-11-27T15:04:27.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/7/C/D/j/d/3/GQM8gL5yQ1cfgM6K6qXZyMD94uHsAqrSjoiEgru/0x294x4000x2250-1024x576.webp"
    }
   ],
   "politiek": [
@@ -1001,15 +1001,6 @@
    }
   ],
   "economie": [
-   {
-    "titel": "Huren bij een hospita: vergane glorie of terug van weggeweest?",
-    "normalized": "huren bij een hospita vergane glorie of terug van weggeweest",
-    "link": "https://nos.nl/l/2641370",
-    "samenvatting": "De één ziet het als kleine verlichting voor het woningtekort, de ander als een verrijking in een eenpersoonshuishouden: het huren van een kamer bij een hospita. Toch is hospitaverhuur nog niet helemaal terug van weggeweest. Vanaf het nieuwe jaar moet het voor veel huiseigenaren aantrekkelijker worde",
-    "datum": "2026-11-28T10:28:19.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/2/8/7/6/p/T/qW7UMQDp4Rwrcds8R1GkPXmbY9CMr5KgLN2Dvxs/0x0x1920x1080-1024x576.webp"
-   },
    {
     "titel": "United Fidelity Bank omgevallen, grootste bankfaillissement in VS in twee jaar",
     "normalized": "united fidelity bank omgevallen grootste bankfaillissement in vs in twee jaar",
@@ -1270,12 +1261,21 @@
     "datum": "2026-11-26T11:49:27.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/5/D/A/t/Z/w/zhmrPuj7gGtHuEn7HWmJMG6TJSGewLhscQoUYEb/8x391x3984x2241-1024x576.webp"
+   },
+   {
+    "titel": "Dieselprijs zakt naar 2,40 euro per liter, laagste niveau sinds juli",
+    "normalized": "dieselprijs zakt naar 2 40 euro per liter laagste niveau sinds juli",
+    "link": "https://www.nu.nl/economie/6417860/dieselprijs-zakt-naar-240-euro-per-liter-laagste-niveau-sinds-juli.html",
+    "samenvatting": "De dieselprijs is donderdag gezakt tot 2,40 euro per liter, blijkt uit cijfers van consumentenplatform UnitedConsumers. Dat is het laagste niveau sinds halverwege juli.",
+    "datum": "2026-11-26T11:00:00.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/bzvx1htapis0_sqr256/0/0/5458/5458/dieselprijs-zakt-naar-240-euro-per-liter-laagste-niveau-sinds-juli.jpg"
    }
   ],
   "sport": [
    {
-    "titel": "'De toppers hebben niets te winnen tegen Kraus', waardoor grote gevechten uitblijven",
-    "normalized": "de toppers hebben niets te winnen tegen kraus waardoor grote gevechten uitblijven",
+    "titel": "'Toppers hebben niets te winnen tegen Kraus', waardoor grote gevechten uitblijven",
+    "normalized": "toppers hebben niets te winnen tegen kraus waardoor grote gevechten uitblijven",
     "link": "https://nos.nl/l/2641365",
     "samenvatting": "Hij slaat de ene na de andere tegenstander knock-out in de eerste ronde. Gradus Kraus won al zijn twaalf partijen op overtuigende wijze, toch komt de Nederlandse bokssensatie nog niet in aanmerking voor een gevecht om de wereldtitel of een partij tegen een echte toptegenstander. Hoe zit dat? Zaterda",
     "datum": "2026-11-28T10:08:16.000Z",
@@ -1295,7 +1295,7 @@
     "titel": "Talent Röttgering verlaat collegetennis VS en gaat met Sijsling samenwerken",
     "normalized": "talent rottgering verlaat collegetennis vs en gaat met sijsling samenwerken",
     "link": "https://www.nu.nl/tennis/6417115/talent-rottgering-verlaat-collegetennis-vs-en-gaat-met-sijsling-samenwerken.html",
-    "samenvatting": "Mees Röttgering heeft al binnen een jaar afscheid genomen van het Amerikaanse collegetennis. Het Nederlandse talent keert terug naar Nederland om te gaan trainen op het Nationaal Tennis Centrum van de KNLTB. Igor Sijsling gaat hem coachen.",
+    "samenvatting": "Mees Röttgering heeft al binnen een jaar afscheid genomen van het Amerikaanse collegetennis. Het Nederlandse talent is teruggekeerd naar Nederland om te gaan trainen op het Nationaal Tennis Centrum van de KNLTB. Igor Sijsling gaat hem coachen.",
     "datum": "2026-11-28T09:33:19.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/gunx81iai21j_sqr256/135/0/708/708/talent-rottgering-verlaat-collegetennis-vs-en-gaat-met-sijsling-samenwerken.jpg"
@@ -1919,6 +1919,15 @@
     "foto": ""
    },
    {
+    "titel": "Stralen als een ster: fotoboek eert Arnemuidse vrouwen die tot het laatst trouw bleven aan hun dracht",
+    "normalized": "stralen als een ster fotoboek eert arnemuidse vrouwen die tot het laatst trouw bleven aan hun dracht",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYk9Tb1czVjJvZzY4RXZ6OHg1M25XZTZodlRVU1RyLTEwV1FMazJXeVFSUWJod2hpbmVxTWM3VDB3OFV0eUkwVC1aMXhFdkNDcF9ia0g0OWVMVFZaakZKZ21CNjhSeDNKQjd4dkJYbUpaTkpuYzJDVU5OTklDck9RSXNreFNnR3FvWVFzcWl3OXM4QmlrVjd3d3Z0bDVsUy15aG9rM0FjTlBJZDBFMkpzdWtOSFZEUkJWUDZ4RDJ3aW1YRWpFREU5cUdvNVhKMXFnblJxRjVhZw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-28T08:30:04.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Provincie Zeeland houdt inloopbijeenkomsten over rijksaanpak voor landbouw, natuur en stikstof",
     "normalized": "provincie zeeland houdt inloopbijeenkomsten over rijksaanpak voor landbouw natuur en stikstof",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU2RpZDJ0czlSU3NTWW5oUWJoSW9jdDJOd2NSNmNUSEN4bXdCV2ItQWRvaThhTWk2S3dqZURaSUE1T3FGX2dkNlg3SVRDdU94Ny1EcVFja0hzUVlDaE1jXzgyNTdRbFdjN0M2SXRmX3RFOGlqSVZwb2lsNFV4MWtDcG1sdFBweVRBUTVWTFFsbEltSThQZWR6WXlnbEw0TmRVcFNYOUFrWk1La1JPcEh5a1l3cVM4WEJzcXFVN2RQV0t2ejRSX051TkYyRQ?oc=5",
@@ -1964,6 +1973,15 @@
     "foto": ""
    },
    {
+    "titel": "Rijkswaterstaat krijgt groen licht voor lozing van mogelijk vervuild water uit zeedijk bij Perkpolder",
+    "normalized": "rijkswaterstaat krijgt groen licht voor lozing van mogelijk vervuild water uit zeedijk bij perkpolder",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOGhlSldlc0ZsXzFQQzBLZ0VjN09UcVFNQ1BxMy1iYjdqb3BkQllNdTlITVNJZG1RQzlCeXVaYkN0ZnAwNzFSOVYwR2ZuQmVIczZDaW5URXNTU2plRnozTEtHSkhmVEUzUlV5NjJIVzZWS0t2MnFybDJtV1dqSTcwd0dGX05qQm9VQ3hqYzR5Ykk3c09QY0cyY2Zwa21tdkFtM1NCeHpxQ3VqNmk4Z05ibF8xLVk0empOOFVCSjRscXlLdkxDOTBQSFFqQVBWSVF5RVE?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-28T07:00:05.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Ernstig ongeval N289 Kapelle, 2 traumahelikopters ingezet",
     "normalized": "ernstig ongeval n289 kapelle 2 traumahelikopters ingezet",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUW5iNW9YVjUxN2Ruc010LU9zNDQzS3EtUGdyUkV2RnB2MVZMNUYyaWk0ZkJsTU9IREpiNDN0dzU3SkFId2ZySHdtSkcxMTd2V1NSOUctYjg4Y3FiWVlCU3VUaHZJS2FpNWV4Qm5JVEExUm92bFFYM0JNMXkyRXRiTEdNdmYtNUhta2pPbWk4dE1kOHYtdTNDQ1Braw?oc=5",
@@ -2000,11 +2018,29 @@
     "foto": ""
    },
    {
+    "titel": "Vrouw beschuldigt collega van verkrachting in resort in Nieuwvliet",
+    "normalized": "vrouw beschuldigt collega van verkrachting in resort in nieuwvliet",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZEFNMklEb2xycFNiRTBpdmNzMzZUejhPcEk5cGJ3cURoX0hfajM1SnhtaktTYmQ4Q0ctc2pydk5PU3JkZkxxM0pjTzhrV01rSVA2NGsyVTVIczNiY0Jvc0EwS0cwQV8zeXZxUi03ZHRkelIybFZldGZHY1RDZlJBY1NRVGoxb0NfU1dZMlVTR1BhQVpjeENlTEJIbjdteE1kMnFB?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-27T19:00:18.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Hiv is geen ver-van-mijn-bed-show, ook niet in Zeeland: ‘Ik dacht dat zulke dingen alleen in Amsterdam gebeurden’",
     "normalized": "hiv is geen ver van mijn bed show ook niet in zeeland ik dacht dat zulke dingen alleen in amsterdam gebeurden",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX1hndTZGczItX0I4eXh0WEhwR014ZmQ4RDdHWVZSZWVLQ1JtV3BGRWdZbUFkM09STkFZSkVxU2FPdmJtSGstZEJrOFYxTG5jZHBfOUp2NU9FUFQ5aXRPMGZjZl96ajhQMlA0Z3JBanpPV0l5Y0hYckNYRERMaldTUXozNnFQZzRjSlktcHFjek5oQ2M1TzZFbmwtdDZaU0FYUVZGdm96T0xsMmpuODVaLW1tV0dHaW1VcUpIb0s3b0xrZ25xWXluYnZaMzF4QnhLVjdpR1NaWjRqbEpQNEVHRXdCNA?oc=5",
     "samenvatting": "",
     "datum": "2026-11-27T18:30:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Auto tegen boom Albert Joachimikade Goes",
+    "normalized": "auto tegen boom albert joachimikade goes",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZmdwQ2VwSFZIMk5hSnRld21POE1qV0ZpOC0wLU01T3BIWkZjbnN2Ykc1MWZpQmFZYllTX0VsX0FpaUVVZW9QLVZvNmtXWk1WMHJRQTcwanNwUGllNHZpSE5oTjdsa21xejNTTFBvcU1ISXRTTVR6LVZYZmFVSnVralhodmtZZw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-27T18:28:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2031,7 +2067,7 @@
     "normalized": "zeeuws jeugdorkest viert jubileum al zestig jaar strijken en blazen",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQmthdUtWbkNGTmJ0R1IwZTI5SnlqU01LYUNlVG5WOU4xZjRYUkhJalZYTHlwN3pnUW40a0NZbUo2Q1R0RGQyZDAzZWFmLXJzakwzcjJEUnRjbjdMM09jUWZsTTA3SWdJMU03cVh2aGgyVXVHeDJ1cTByRkk1bGFYeDhaX3VWNG1WXzZXcDI2NC0wVE9DLW9BOE1rdFp0T3E4RVMwUFE4dE9sTkF1VFZ1bUhn?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-27T16:50:47.000Z",
+    "datum": "2026-11-27T16:48:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2142,49 +2178,31 @@
     "datum": "2026-11-27T11:22:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
-   },
-   {
-    "titel": "'Nachtwachters' gezocht: er brandt te veel licht en dat moet anders, vindt de Zeeuwse Milieufederatie",
-    "normalized": "nachtwachters gezocht er brandt te veel licht en dat moet anders vindt de zeeuwse milieufederatie",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPazdLY1c5QWxqU1ZEN1BwYkx5ZUZHR3JRMmFzZUZRa0xUSGNjSFNjUU40X3BkOUVtQ1ZZcGpIcVl3UVA0MzhNLUxNMXRhdmRyQXRhSkRoZ0VYVDhVWHE4YXhmdWdVSWh2R203R1VFb2NVTWJpdVpRSW9VY0g1ZlpkRW54T3FOV25DcFdVeUtKRVNuc2VWNmwwTmZMVFhzc3VGRjh5cHRveE02eEwtajNSX1VvVEt2QUVUREdkRkVjZU0zTWhmMEVMRFR5a3h3eHQyTG9CWTdyNm4xdw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-27T09:35:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Fiod doorzoekt panden in Terneuzen en Oirschot in omkopingsonderzoek",
-    "normalized": "fiod doorzoekt panden in terneuzen en oirschot in omkopingsonderzoek",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHZiMUloS2N0UWxSTWZFanRYcF9mTmVsUU01WTIzQUFKdFpaQ09BOXBZYXhIOTQ1bU01bVpyWUFvaUQ4ZjBCeXRwVV9MUDQ3d281Y2otRnhkT0ltOFBJZHJwbFJPcmZRM3FObGxxYzJtM1pfSk5RVzh2ZzI2cmNVWVNndnJ0RFc4dU5NWEllU0NJZnNtVEp2OWloQUd2a093ZFhDR213WEFEX3M?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-27T08:07:18.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Na lange aanloop begint de verbouwing van Domburg: ‘We willen eigenlijk alles’",
-    "normalized": "na lange aanloop begint de verbouwing van domburg we willen eigenlijk alles",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1ZiN01PN1NESFBJTWVxaS1ja2tsTW55ZTBvMVdCVmxoM2R5NXdPRDBtQTAwdHJ6bGY5dExUcXpsN09WUndKYjQ2LW5KNkVZS3hNQW9LY0RHSXF6TVNrWWdKbjBkWnMtTEdhS2hPeFVyOFZuZHZHcDlIVTlJNVd2SEliazBTN1lWTzBNUFc0V0k1WGJ6bnUtdVpyb1dJd2s0UDFuZTJKUnZMX2ZrWkRv?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-27T06:30:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Lizo Koppejan opnieuw lijsttrekker voor ChristenUnie in Provinciale Staten, nieuw gezicht voor waterschap",
-    "normalized": "lizo koppejan opnieuw lijsttrekker voor christenunie in provinciale staten nieuw gezicht voor waterschap",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ0p6Ri1BTjllb2V0RjNuZzFIVkd2aVZjdHhTUUJtNXZINldBX0JLcUdBOW8xRmU0LTFhWnJpSFZvdGFmdjhHT3ZHOWxSa2huTDFFQTNXRlVvdi1MT0RJSjFkdXNCRldtenRKaV9XVEZET2ZZUmJfY01IeHROUXlVWnpGQzRtX0NaQVRnbk9JZzFsZkVUTndYVGdaSUVjRTVyUWI3cWxMc1pyeUFybE42bDhubVJZMlJDNDZDNW9IZUItNkc4REF6SlVIRjRWc1FJbHJ2YUdrSjZCLXJL?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-26T22:00:12.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
    }
   ],
   "brabant": [
    {
-    "titel": "Zoekactie in Etten-Leur na vluchtende automobilist op A58 levert niets op",
-    "normalized": "zoekactie in etten leur na vluchtende automobilist op a58 levert niets op",
-    "link": "https://www.omroepbrabant.nl/nieuws/6036587/zoekactie-in-etten-leur-na-vluchtende-automobilist-op-a58-levert-niets-op",
+    "titel": "Nog één dag schaatsplezier in Brabant: &#39;Zondag gaat het dooien&#39;",
+    "normalized": "nog een dag schaatsplezier in brabant 39 zondag gaat het dooien 39",
+    "link": "https://www.omroepbrabant.nl/nieuws/6036584/nog-een-dag-schaatsplezier-in-brabant-zondag-gaat-het-dooien",
+    "samenvatting": "De schaatskoorts heerst al een paar dagen en ook zaterdag kan er op verschillende plaatsen in Brabant volop worden geschaatst. De ijspret is alleen van korte duur, want zondag gaat het dooien en dan is het over met de pret.&nbsp; &#xD;&#xA; &ldquo;Het is opnieuw een koude nacht geweest, met temperat",
+    "datum": "2026-11-28T11:00:00.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.51/0.52/cmV2aXNpb25zLzUwMTY5NjctMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz05T1JVJTJGd3VGVHd5ZW4lMkZhU1JQRVolMkJDaThkRHdHQXJqU1g4WGN5ZTJXSDlBJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
+   },
+   {
+    "titel": "Stormram ingezet voor lekkend kraantje in Valkenswaard",
+    "normalized": "stormram ingezet voor lekkend kraantje in valkenswaard",
+    "link": "https://www.omroepbrabant.nl/nieuws/6036589/stormram-ingezet-voor-lekkend-kraantje-in-valkenswaard",
+    "samenvatting": "Een vastgevroren kraantje zorgde zaterdagochtend voor een hoop bombarie aan de Vogelkersstraat in Valkenswaard. Het lekkende kraantje veroorzaakte wateroverlast. De politie zette zelfs een stormram in om de achterpoort open te krijgen, maar dat lukte niet. &#xD;&#xA; Buren hadden alarm geslagen omda",
+    "datum": "2026-11-28T10:41:52.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.49/0.55/cmV2aXNpb25zLzUwMTcwNzUtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1lYnI2a0paUTB3dWNLejdWRTBmR0klMkJ0WXVSYmN3Vk15Nk9FSHlXeVZ6WGMlM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
+   },
+   {
+    "titel": "Zoekactie in Etten-Leur naar vluchtende automobilist op A58 levert niets op",
+    "normalized": "zoekactie in etten leur naar vluchtende automobilist op a58 levert niets op",
+    "link": "https://www.omroepbrabant.nl/nieuws/6036587/zoekactie-in-etten-leur-naar-vluchtende-automobilist-op-a58-levert-niets-op",
     "samenvatting": "De zoekactie van de politie in Etten-Leur heeft vrijdagavond niets opgeleverd. Een automobilist was op de A58 tijdens een verkeerscontrole van de politie gevlucht. Nadat agenten hem een stopteken hadden gegeven, zette de man zijn auto aan de kant en ging hij er te voet vandoor. &#xD;&#xA; De politie",
     "datum": "2026-11-28T10:21:18.000Z",
     "bron": "Omroep Brabant",
@@ -2371,15 +2389,6 @@
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzQ4MTg4NTctMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1WNHY3OU9iaXVWZTJpZHJmckJlJTJCJTJCYWlUaDVHSmlHU3RkSklvbHFJdHdtcyUzRCZzcD1yJnNwcj1odHRwcyZzcj1iJnN0PTIwMjUtMDEtMDFUMTAlM0E0MCUzQTAwWiZzdj0yMDI2LTEyLTA2"
    },
    {
-    "titel": "Zes dagen lang dacht de familie Van der Valk dat Toos vermoord was",
-    "normalized": "zes dagen lang dacht de familie van der valk dat toos vermoord was",
-    "link": "https://www.omroepbrabant.nl/nieuws/6036483/zes-dagen-lang-dacht-de-familie-van-der-valk-dat-toos-vermoord-was",
-    "samenvatting": "Gerrit van der Valk was een zakenman die gewend was om alles voor elkaar te krijgen. Maar toen zijn vrouw Toos in 1982 werd ontvoerd, kon hij niets doen. Hij wilde 's avonds niet eens meer zijn kostuum uittrekken, zodat hij direct in actie kon komen als dat nodig was. De grootste nachtmerrie van de ",
-    "datum": "2026-11-27T15:30:00.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzQyMjk1MjYtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1RUlNheXdBZ0xnJTJCMXZWUnBrVFRJTHdwbGlMc0s5dlYlMkJ3ZzcxeHppJTJGWXhzJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
-   },
-   {
     "titel": "BMW rijdt met 100 kilometer per uur over fietspad op de vlucht voor politie",
     "normalized": "bmw rijdt met 100 kilometer per uur over fietspad op de vlucht voor politie",
     "link": "https://www.omroepbrabant.nl/nieuws/6036539/bmw-rijdt-met-100-kilometer-per-uur-over-fietspad-op-de-vlucht-voor-politie",
@@ -2387,15 +2396,6 @@
     "datum": "2026-11-27T15:20:57.000Z",
     "bron": "Omroep Brabant",
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTY3ODgtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1uR0hXSTVIMk00TncyNlg4JTJCNTFDSUN4TUp2TlR2enRqVWM5dWw4VGdYVlElM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
-   },
-   {
-    "titel": "Medewerkers onwel door uitlaatgassen in winkel van tankstation in Oss",
-    "normalized": "medewerkers onwel door uitlaatgassen in winkel van tankstation in oss",
-    "link": "https://www.omroepbrabant.nl/nieuws/6036537/medewerkers-onwel-door-uitlaatgassen-in-winkel-van-tankstation-in-oss",
-    "samenvatting": "Twee medewerkers van een tankstation aan de Euterpelaan in Oss zijn vrijdagmiddag onwel geworden door uitlaatgassen die in de winkel hingen. De brandweer heeft in korte tijd vaker moeten uitrukken bij het tankstation. &#xD;&#xA; De brandweer kwam even na half twee naar het tankstation om metingen ui",
-    "datum": "2026-11-27T14:49:08.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTY2NzItMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1VJTJGTUx6YXlJNTRlcWVrRGFQYklsOFBCV0lTT2FWSjljSFdhVkFmbjg0REklM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
    },
    {
     "titel": "Karnaval Festival slaat dit jaar over, geen vergunning voor nieuwe plek",
@@ -3061,11 +3061,20 @@
     "foto": ""
    },
    {
-    "titel": "Ongeval met letsel op A58 in Roosendaal",
-    "normalized": "ongeval met letsel op a58 in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjZxdjdWM0s1RGxtakF4WFlMSFZpeTRaVGNLTlhSUThoa01WMWVha0RiRjJRRmpuc1ZmS0lzS2ZtTm5PdWp3LVI5VTdFaktHV1I4dkM4MExJUVJnc3FjUWZSQ0ZRLUJFT1NhNURCR09rOGlFelcwNWxFMkduTnlxblJUVmhubmxoWHo2eGxEU1N2UFBX?oc=5",
+    "titel": "Nieuwbouw Bravis officieel van start met slaan van palen",
+    "normalized": "nieuwbouw bravis officieel van start met slaan van palen",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTFLcHFkYnVXN01pTF9zUGpwcFY2aVZ3VS1FX1NobTU4Q1lZOFJUcGprT2o4OElabHZvR1dlYUE5SUlSY3I5Q0RDWnh1WDd3dXZCS3J1ZTFkTTdJTDl3Vm1IWmFEb1NlYlJ6Nk9BOHZlXzhVWEN4OXVLWVVaa1lsQXNhSTdrb2tuMGNjd3NJcTg3RjFaQUd6VHJFZTQ1NENhLTdJ?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-26T23:22:00.000Z",
+    "datum": "2026-11-27T10:33:19.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Feestelijke opening van winkel op de SDW Plataan",
+    "normalized": "feestelijke opening van winkel op de sdw plataan",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHFCVnRxMXBYNzJhb1JLWGZPMnkxSTBJOUMtT1dSVkQ3VWduV1Z2SXJSS1h5eUJGQjJodXA4Wi11T2dyd3JTNEZ4d3UzWFpHTTRRMWpLcEVTZWYxU1BhckV0RnN6Q1FaSnd0RlFwTlFOX2lWRXJfWDdGcVFzYTdScjItcmhhOTlHdnRCeg?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-27T09:38:14.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3079,9 +3088,18 @@
     "foto": ""
    },
    {
+    "titel": "Bouw nieuw Bravis ziekenhuis op De Bulkenaar officieel begonnen",
+    "normalized": "bouw nieuw bravis ziekenhuis op de bulkenaar officieel begonnen",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeURWYU15bnU5YTdTZHdaZnBFdHdfa2ZicktBaERkQTE0SnFOeUtCTk9kMXZ2cTNVQno3emZmb2p4S3lXTXNneU9IOGptZXFwcWkxMFdyZUNNSWFZQUNDS0hhUTNaaENFWi03RGxGVk5aM3NoMVVtQWFfWHpQbTJpZG5zWWZJY2Z1d0k2OU1wVl9hR2xidDlXcEtGOXU3SEN6UUE?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-26T19:45:33.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Kerststress, familiegeheimen en foute kersttruien in kerstrevue 'Diva’s op Stal' in Roosendaal",
     "normalized": "kerststress familiegeheimen en foute kersttruien in kerstrevue diva s op stal in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUEZJNWpmUDFOX1VvZ3dScExDakF5M1NXeDdIOG15RHNNakVVTW9ISFZtWFR4OEZSNkQ1OVpINXk0b3VPalVKZVBiUnVKRTdMQ0pVVjRBUkdpQ1RuZUM4Qk5lZHdEVERySUhELXlhaXM2Z2VGNnR2QW5JcC1BcVFwWmdJamF1c3BvZVNMZjd0NW9nb29ib1RjX1IyZkhMZFdsM1M4QkhMQmtmRW9LRXdlRkNnRHUwRkpuZGxneDNucTFKR3ZpRElEYzNVNzd6WXV5?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDhON3BpRFV2ODFMMW5zRTRVODJJNWQ3RzBScjd3S0N0UVQtZ1ozME5kVjlHc19fZHBqZUtTRnVCWnV6bTFrMTJVSEt3RzIxb0RkZE44ZHhLRmxkbzhXN0F5OEhnSE42bXlOSFBIbmhsMkRONVd4ZnFWVi04Tm8xWHFvemF1Tk1sVVhFcURWRk53S2RfOGgtZTBxaGFUQ2dheHpVMC1PY3dpbHZiXzEtTkczZFhWX2p0WXg3SXNKM2V2Vzd5VFYyQ0ln?oc=5",
     "samenvatting": "",
     "datum": "2026-11-26T17:31:00.000Z",
     "bron": "Google Nieuws",
@@ -3201,24 +3219,6 @@
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ19wc01WMml3aGVyS2U2cndFNUdxQ0tfY0p2cXEtQ0E5VENyeldJektIS3FLNVhVVXNMZktsOUJrcnJ5RDk5WFRpYmU4RmtjQ2ZXbnBsSmJTODc2cnZ0S1pqYVNfbzFRQklJb0lLVUlRanJHUGowYi1rRGdha3ZWTQ?oc=5",
     "samenvatting": "",
     "datum": "2026-11-26T08:30:49.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Na ongeluk op A58 botst auto op brandweerwagen die hulp verleent, man heeft geen idee hoe lang hij al aan het rijden is",
-    "normalized": "na ongeluk op a58 botst auto op brandweerwagen die hulp verleent man heeft geen idee hoe lang hij al aan het rijden is",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWTBUSlZ6c0ctLW8xeEtINUhkdnBlamZlWVRxcEV1emx6RmdCbDVNYnJfb2l2WUVPa1QxZWdoT1pCNE9JOXBNQVc1V3BQeE1hVjNiSzRpU3ZSeTV3LXUyQ0hJNjgxV2lZRU5lanB2RjhoUWo5MU5NVVFBTWZuMk56NjJJc21JajhLd1FPZmlySmVyMkpERWdhRWs3WGtqTmVwTUdqY0VfSGlUOG5ZWTRDaXJLa1pWLTFoUnd6SzJYbGV5YWZXSzlob1lic0VEZ3VTZG1JYjNmNG0zelJndzZ3MDdqYVlZbzBnanc4ZFNTaUdQZw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-26T08:12:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Felle woningbrand aan Brugstraat in Roosendaal",
-    "normalized": "felle woningbrand aan brugstraat in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX2QxOENVLWF4b0lpVDgwS2ZTQkd3YTNyOVg3RFBDY0U3eWVrdklpMl9remF2Z2FQMThpMVNvTkQtTWZ6QzN0MHRYc3ZRYmtNcUtVQ08wdXNiUXJIOVJMSGtIRXpNYm15Z2l5TTBoRS1fMk8xTERMV2R0U3ExTk1xbmNSbU1HU0ctdVVMQw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-25T18:36:02.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
