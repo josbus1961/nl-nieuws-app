@@ -1,5 +1,5 @@
 {
- "gegenereerd": "2026-11-28T02:33:17.498Z",
+ "gegenereerd": "2026-11-28T02:58:40.037Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
@@ -265,13 +265,13 @@
     "foto": "https://screenshots.rtl.nl/system/thumb/sz=1600x900/uuid=68dc27da-854e-4c3b-85c5-9b49444ea507"
    },
    {
-    "titel": "Iranoorlog gaat tiende maand in en uitzicht op vrede ontbreekt",
-    "normalized": "iranoorlog gaat tiende maand in en uitzicht op vrede ontbreekt",
-    "link": "https://www.nu.nl/midden-oostenconflict/6418007/iranoorlog-gaat-tiende-maand-in-en-uitzicht-op-vrede-ontbreekt.html",
+    "titel": "Iranoorlog die een maand moest duren gaat tiende maand in",
+    "normalized": "iranoorlog die een maand moest duren gaat tiende maand in",
+    "link": "https://www.nu.nl/midden-oostenconflict/6418007/iranoorlog-die-een-maand-moest-duren-gaat-tiende-maand-in.html",
     "samenvatting": "De Amerikaans-Israëlische oorlog tegen Iran, die ongeveer een maand moest duren, gaat zijn tiende maand in. De onderhandelingen zitten muurvast. Washington lijkt geen doordachte exitstrategie te hebben en in Teheran maken revolutionaire hardliners de dienst uit.",
     "datum": "2026-11-27T20:18:02.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/spwxqqfay7c9_sqr256/177/0/1872/1872/iranoorlog-gaat-tiende-maand-in-en-uitzicht-op-vrede-ontbreekt.jpg"
+    "foto": "https://images.nu.nl/m/spwxqqfay7c9_sqr256/177/0/1872/1872/iranoorlog-die-een-maand-moest-duren-gaat-tiende-maand-in.jpg"
    }
   ],
   "binnenland": [
@@ -1002,13 +1002,13 @@
   ],
   "economie": [
    {
-    "titel": "OpenAI spant rechtzaak aan tegen Apple over diefstal bedrijfsgegevens",
-    "normalized": "openai spant rechtzaak aan tegen apple over diefstal bedrijfsgegevens",
-    "link": "https://www.nu.nl/tech/6418064/openai-spant-rechtzaak-aan-tegen-apple-over-diefstal-bedrijfsgegevens.html",
+    "titel": "OpenAI spant rechtszaak aan tegen Apple over diefstal bedrijfsgegevens",
+    "normalized": "openai spant rechtszaak aan tegen apple over diefstal bedrijfsgegevens",
+    "link": "https://www.nu.nl/tech/6418064/openai-spant-rechtszaak-aan-tegen-apple-over-diefstal-bedrijfsgegevens.html",
     "samenvatting": "OpenAI heeft vrijdag een rechtszaak aangespannen tegen Apple vanwege vermeende diefstal van bedrijfsgegevens. Apple stapte in juli naar de rechter met beschuldigingen tegen OpenAI vanwege diefstal van bedrijfsinformatie. Dat zou OpenAI doen door voormalig Apple-personeel in dienst te nemen.",
     "datum": "2026-11-27T20:33:08.000Z",
     "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/y2yxhj7abfe7_sqr256/1139/0/3264/3264/openai-spant-rechtzaak-aan-tegen-apple-over-diefstal-bedrijfsgegevens.jpg"
+    "foto": "https://images.nu.nl/m/y2yxhj7abfe7_sqr256/1139/0/3264/3264/openai-spant-rechtszaak-aan-tegen-apple-over-diefstal-bedrijfsgegevens.jpg"
    },
    {
     "titel": "Schaduw van Le Pen hangt boven mislukte Europese begrotingsgesprekken",
@@ -1928,15 +1928,6 @@
     "foto": ""
    },
    {
-    "titel": "Auto tegen boom Albert Joachimikade Goes",
-    "normalized": "auto tegen boom albert joachimikade goes",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZmdwQ2VwSFZIMk5hSnRld21POE1qV0ZpOC0wLU01T3BIWkZjbnN2Ykc1MWZpQmFZYllTX0VsX0FpaUVVZW9QLVZvNmtXWk1WMHJRQTcwanNwUGllNHZpSE5oTjdsa21xejNTTFBvcU1ISXRTTVR6LVZYZmFVSnVralhodmtZZw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-27T18:28:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "‘We kregen pas twee dagen geleden een brief’: inwoners Aardenburg uiten zorgen over asielopvang",
     "normalized": "we kregen pas twee dagen geleden een brief inwoners aardenburg uiten zorgen over asielopvang",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUlVDUzlyTkJ2VHlEaEQ4b1Jpa1NEb2U2akdGSjRTa01YYnlGcV9zMzNubkU2REJMaUU5a1Q0NnNJTnYySl9vcERzbklxWUdCTE9fd1lPSXFlaWVHNmdaVU1ZU01ZMFRNRGE3OTdaNlR1UmVBTnlQdmpIRXNULVNVREozOGN3alFHWUkzN1dWcTNWanNBNGVicm5hUFVrTnNYMkd2Mkc1d25rR0k5ajYwVEZnQzljX2FBdVdLMTlOMU5RMm11LWc?oc=5",
@@ -1966,7 +1957,7 @@
    {
     "titel": "Zeeland krijgt komende jaren vijf doorfietsroutes; dit zijn ze",
     "normalized": "zeeland krijgt komende jaren vijf doorfietsroutes dit zijn ze",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQUhqRVVSS0FqbzJGcHVzWEJkMXV0Vk9YaTN4b09XeXV0MEU3Uzl5Y3dBNXhGQjM5eGhMcEVsWkZPMFFiTlJoYTFkeGNXc0RHUG51eG9SOUlHMF92SDBQSDRXV1B4NFhNcGJuUW80aE5KUHVTZFpFWEQzdHBnVG1OLTFDM3d4R2dvelJTSE1PYk8wSDhaeFpfbW42b3JEdWZBZWFj?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR09PWWhwcjBWZFpLTkg5TlUxRlJaVk51dnVEcnhXNzJvb250Vmt6VldhTk9oZWNYeDdseWxMUVo3MGtEcjZYd3hHdnBnM1lOaFBMMVpMWDVUN1dfVUxQUm1fVFk4UWlHSnljSjh1M1hhazVZWU0zaU9EazdzNm5wOWN1VWFxakoyY05tbmQwal82S2dkZW9fekZn?oc=5",
     "samenvatting": "",
     "datum": "2026-11-27T17:00:00.000Z",
     "bron": "Google Nieuws",
@@ -2126,24 +2117,6 @@
     "foto": ""
    },
    {
-    "titel": "Belgische lijnbus rijdt door na aanrijding in Sluis",
-    "normalized": "belgische lijnbus rijdt door na aanrijding in sluis",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd1AySC1KM0dVNUp3Y0NHeW1JM2xFWmpleXYzemZZLURYa2pIQlVZZnRvOHRuOW96dWR1bkppdGt2Wk1BcTB2aUZ0dWd5ekk3bjNXT1pLX0ZXLTJFcmJMT0pmaXhZTWdlSGdKSW5McGFWRFhYQUp5UVNzVmNGT0xWcDhhZ1FWM3A2RGxiX3hVYkVESWJw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-27T10:56:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Na lange aanloop begint de verbouwing van Domburg: ‘We willen eigenlijk alles’",
-    "normalized": "na lange aanloop begint de verbouwing van domburg we willen eigenlijk alles",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1ZiN01PN1NESFBJTWVxaS1ja2tsTW55ZTBvMVdCVmxoM2R5NXdPRDBtQTAwdHJ6bGY5dExUcXpsN09WUndKYjQ2LW5KNkVZS3hNQW9LY0RHSXF6TVNrWWdKbjBkWnMtTEdhS2hPeFVyOFZuZHZHcDlIVTlJNVd2SEliazBTN1lWTzBNUFc0V0k1WGJ6bnUtdVpyb1dJd2s0UDFuZTJKUnZMX2ZrWkRv?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-27T06:30:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Na wekenlang stemmen tellen pakt verkiezingsuitslag Nieuw-Zeeland ineens anders uit",
     "normalized": "na wekenlang stemmen tellen pakt verkiezingsuitslag nieuw zeeland ineens anders uit",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGJDNUxGak9DTDN5cVZfaWdydENQUWRBSEJKeFBHRk1hUDdQWHZJQ0RmRWQxM2hmeUVZc202WlFuX0Q5OHdsRlN5bXZwYjJoWHFCRjVKYWlaeUpFMWNNVkZSeEtObzZjQnB5RjJYX1FiaHMtbDgxR3NUeTdRM20yc0FHdWkyTTg2di1NdHZGRnRmdnRKb0pVT29RX2pOc3N3VkpNeEMtMEhKZ0Zu?oc=5",
@@ -2176,6 +2149,33 @@
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTZuc0FLZUdIVFpBdzluYzZGUmprV0p0Qnl0ZElrNW9KSkhycnMwWXdwMl9aMExHZFc5RTZDQXBmZEVsTzAyT3BNTTBQRmZNVExVbXRCblFwODBLSndaSGpxRklqSGNwUmlEQThXRXFnYWJHdFVBUGdVbW1weWpSU1R5TWlQVDlLS0psRGpvQ3lmZW5r?oc=5",
     "samenvatting": "",
     "datum": "2026-11-26T17:30:15.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Fatbiker nagekeken na aanrijding in Goes",
+    "normalized": "fatbiker nagekeken na aanrijding in goes",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSGRuYVFSVmZ1MUZZMllqWmM3NDRjM0wwdGU4WDlQcTl5V0wyeHJGXzF2M2E5Y3lBSENQTzlsWXJZQVZCTWY5dXdkanhnTlJwM29oeFRwMVYxQnRxeHpITkViRDNhcFV2RVEwTVlQS0dVcHJXWHlJOGlRdWh1dlZtVGh2UThFZw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-26T16:49:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Borstkankeronderzoek: nergens in de provincie Zeeland is de opkomst lager dan in Sluis",
+    "normalized": "borstkankeronderzoek nergens in de provincie zeeland is de opkomst lager dan in sluis",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeGtRZDloa3pfa1RCTHpkT2IzUHBLME9rd083RURmUk1USHJGbHEzYTU5ZFlIRENONTRlb21JT0FXRmk4UXFTd0drYUlzd1lDZC1iRHEzNFNwZ21UbExmTTVVSWJBT1JwSUlqQlQyY3ZNdzJxYU5xV2w1X29zZ0J6cm9md1NQYTN3aXJwdUFyY2ZvdllqX05ibXRvVDJqeDltVkd4clRqdEdyUk82YUJraDhTZXowUUYzNmdjQw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-26T16:30:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Borstkankeronderzoek: Tholen hoort bij de gemeenten met de hoogste opkomst in de provincie Zeeland",
+    "normalized": "borstkankeronderzoek tholen hoort bij de gemeenten met de hoogste opkomst in de provincie zeeland",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcHFzbXl6N3l4QUR2Y1ZudlRzbEw5bXNfRDBMWUM1eDBHZlU5NGdQT0k3VmtkOEVJdmNfVDlLdUNpUE82WGt5NmpJTlVHUk9LQkhRdGduLVE4elBMYUtwOFlnNU9hRVF6bUczMmlKOEtPcU5JT2F4cF9Ibi1OUjY2Zk1nQVpnaVF4WEVIMlJWWEtqRjlmTzM3M29FdDBwOWwzd3Zxa0V0aDhKRWRLOTZVRXlRQjh2N0JkbHNkWG5SdERFSEVLZjlfcjZEZ2I2Zw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-26T16:30:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
@@ -2411,7 +2411,7 @@
    {
     "titel": "Eintjeszand en Kwedamme: Borselse plaatsnaamborden worden voorzien van dialect",
     "normalized": "eintjeszand en kwedamme borselse plaatsnaamborden worden voorzien van dialect",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkMyN2ZtdjluakxwVE81N3pHdmFqODM4bG52U19zUnZRRjVyYl9rakMzakllRlh1U2xYcElfTHhVX1o5Z2xLTXh4NlRHUXd3S293YXhfMk95UlFJak50dGRZaHp4bXNfLWxHeFVoNUlHcTJlRllWNUE4aGZ1Ti1FNmRiSVpnQ2VMenFQZEJtcGFHb0s3VXp0ek9jSXNNQjRmbk1TUVlnTVhtUng1YWRqM2FVTTA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeURLTDZEZ29sTHF4cTNZRVFTWTJ2LWpVV25XanA1TlVzSHZ2QXNJS04zS05SdnV4WERFd1FON2M5OWc2TDhCclFIOUVuSGd6ekh3TTdhSHNqOWlZSi11YlVnTlZ3OVFqY2NUSTBYWnJPNUJhZllTNHpLY0xRQVVHakRhQ09ZWUJBQ1FYOWZzczRlTUs4QVNDYUNDcUl1Ukc2NlhaNFgtUW9JYnhQaHVzUEVCMA?oc=5",
     "samenvatting": "",
     "datum": "2026-11-27T17:30:10.000Z",
     "bron": "Google Nieuws",
@@ -2991,9 +2991,18 @@
    {
     "titel": "Man uit Roosendaal belt politie voor discussie over beschimmeld brood: ‘Bel ons niet voor dit soort kinderachtige ruzies’",
     "normalized": "man uit roosendaal belt politie voor discussie over beschimmeld brood bel ons niet voor dit soort kinderachtige ruzies",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUHNzb2YxaGJJR2ZyUVcxaU5xSmRWTTE2QnZuMlA3SGZBZ19GbFZEdERXaGFDbnp6alpzdkx3REstVWFJYldfbW5TM3ZiU2E0UlU2b0d3Y1NwOGxaakJsbFBEZFdmQk16Y05fQUFxaVBOb2pveXgwSHlNeU1BT0g1LVVrRnk1LUhuekVYZThhSjA5VUdaeXozS2dDQ3AwRlE0YjZhMFE3VU1vMFpfMUpuOWwyYnRQM3JpNEctRWQyNDFfRkJFV2pCRWVqSjBDOVJYRkU3RVBMY21TVEZLRlpuek53N1Y2Y1pBSUFxWmpKSDRwX0ZzZ0E?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUFd1OEdUZUNDNVhJZHdMY3Y2RXlSdW5vOU11MG1nYlowYUwxbnVRMU80WW5GS2FPd3BPbUkyZ2NvTGN1aUp1UGd5RG1RM1p0eWZkQ0JYSE1KMld4TjBBejNKamZZckFvMlpqRm9TOVM1NFJWa2lLNWx2VzdMWXdOa3dYbXdyVjRhWUN5amo2WFFYd2ZlNHlreWtPdEljX0NRdWc1U3l1WHRhUkhoNWgwbGx4aEhoZ3Q1amV2S2ExbFlpOGYtT2Q3aUJ0djhfOTBzalE3WUMxaWJhTGMxeUZZODZ3TXpCSF9aZFU3UWpn?oc=5",
     "samenvatting": "",
     "datum": "2026-11-27T17:50:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Woordvoerder Jeroen Steenmeijer trekt de deur van het Huis van Roosendaal achter zich dicht",
+    "normalized": "woordvoerder jeroen steenmeijer trekt de deur van het huis van roosendaal achter zich dicht",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelpkN1N6QXMyVUVCd3BLM2VrbkEzdmd2MHpycXRmM05xUnB5bjczczlyZWV6TkNNOERrQ09oNUtYZElUcVV5UzBwXy1xQ29PS0VBUnEtN1lCQlpOLUdvRGVfQXdIRzhFaVUtaXhPYTJKRFpvUmhxZksxaEpSV2htc2gxYkw1SS13Y21lMGZOMTNuWlRuclh3UVA2QVFPYUpPTll3V1VPUUk0VThpVlp4RGd5TDVsUXozV3lpdDBhejg5eGxuYkNySQ?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-27T16:01:14.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3036,7 +3045,7 @@
    {
     "titel": "Ongeval met letsel op A58 in Roosendaal",
     "normalized": "ongeval met letsel op a58 in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFMxdEFRemE2WUxRV2Eyc1NROGlselFfOHYxV0lpbHotejF6XzNWQ0NRUUw1YUdSSktVSlBHN2thVEhXakU1OUVSSVRfUDUxZ3dTSXV6eDEwU1J1WVFOUVRRaE9aMFBsZnp2czZTYXhhYThkX1dmZkZIN2YzaUNUUU9sVy0xazVrVEVST3FZcG9lNGM?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjZxdjdWM0s1RGxtakF4WFlMSFZpeTRaVGNLTlhSUThoa01WMWVha0RiRjJRRmpuc1ZmS0lzS2ZtTm5PdWp3LVI5VTdFaktHV1I4dkM4MExJUVJnc3FjUWZSQ0ZRLUJFT1NhNURCR09rOGlFelcwNWxFMkduTnlxblJUVmhubmxoWHo2eGxEU1N2UFBX?oc=5",
     "samenvatting": "",
     "datum": "2026-11-26T23:22:00.000Z",
     "bron": "Google Nieuws",
@@ -3054,7 +3063,7 @@
    {
     "titel": "Kerststress, familiegeheimen en foute kersttruien in kerstrevue 'Diva’s op Stal' in Roosendaal",
     "normalized": "kerststress familiegeheimen en foute kersttruien in kerstrevue diva s op stal in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDhON3BpRFV2ODFMMW5zRTRVODJJNWQ3RzBScjd3S0N0UVQtZ1ozME5kVjlHc19fZHBqZUtTRnVCWnV6bTFrMTJVSEt3RzIxb0RkZE44ZHhLRmxkbzhXN0F5OEhnSE42bXlOSFBIbmhsMkRONVd4ZnFWVi04Tm8xWHFvemF1Tk1sVVhFcURWRk53S2RfOGgtZTBxaGFUQ2dheHpVMC1PY3dpbHZiXzEtTkczZFhWX2p0WXg3SXNKM2V2Vzd5VFYyQ0ln?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUEZJNWpmUDFOX1VvZ3dScExDakF5M1NXeDdIOG15RHNNakVVTW9ISFZtWFR4OEZSNkQ1OVpINXk0b3VPalVKZVBiUnVKRTdMQ0pVVjRBUkdpQ1RuZUM4Qk5lZHdEVERySUhELXlhaXM2Z2VGNnR2QW5JcC1BcVFwWmdJamF1c3BvZVNMZjd0NW9nb29ib1RjX1IyZkhMZFdsM1M4QkhMQmtmRW9LRXdlRkNnRHUwRkpuZGxneDNucTFKR3ZpRElEYzNVNzd6WXV5?oc=5",
     "samenvatting": "",
     "datum": "2026-11-26T17:31:00.000Z",
     "bron": "Google Nieuws",
@@ -3189,7 +3198,7 @@
    {
     "titel": "Roosendaal kiest niet zomaar aan welke themadagen en -weken het aandacht schenkt, maar PRO wil in debat over die keuzes",
     "normalized": "roosendaal kiest niet zomaar aan welke themadagen en weken het aandacht schenkt maar pro wil in debat over die keuzes",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRExCNmhlNXZFOWlaSWZCbFZSNWNCOXF5QjBJUTdzSWozODFyaHNzbUJhNHAtNFpVamNUN2JGWnpMOU9SQ3dORzJRMDBUeG5MWm9ldzc4US1VNVAyYWdDMm5lNUhVTzI0RXRvWXdvSmxobFNZOWlITWZxa2FNUmU4UG4wb0JON1JSUEVHUEJ4YW9IM0Z1QWdiWThseTJyU3NwUG56MjIxLWRWMnJmeTljaFBVNUFhcnM5dVdxM3VXZHBua1pZX2NzWTZZWUZlblFTaTVDRUJISTZhQk41VTNaNTRqS2pKNVk3MzNnWEZ3?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMVpvU0FrZ2dzSWl5SVYtb05PZGdvTnhVeEQ4TVRoVmk0ZWVFaGpZSkVLRDdISUhsd0VkTFM0bEZvdU5nN0RiaUkyRWNxU0ZxajRzd3Q2LWY0OTZIbkJhWWZJZXdFaWhxeHRQRzJvQWh0anh3dEVZaEdQdUtyWXlxWVdlMXpYaFI2RFRrS1psQ0ppb3hyQVNkRkp6ODNIRkNxaHVSVElLbmc1bHNaSkgyaU1mWkxJeFRRZVBKVlRaZ3FNR2F0OWZxT2hqS2tsZ0dhV25VMmFiWURiWjlWeDZIRlBFUV9fd2Y3OXc?oc=5",
     "samenvatting": "",
     "datum": "2026-11-25T14:04:25.000Z",
     "bron": "Google Nieuws",
@@ -3210,15 +3219,6 @@
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS1lZYU1wWTVEUV8zenNGdXFoVnpZT1FXV0Y0Ny02QnB0MW9ZeVNIbHFLQ291Y1RNZ0lob2RhMkZFSk5pVkUwdEFKdVVnVjRsS2ctd1ZHU2xHdGF4dHJwd0JONHZkdm9sbHpLbmV2MEpPaW03WVozSVpyMUJTYk5BUjFoMk1vVVJfNUVSRmFUNXdYelRWTC1HcnhVd2kySjFhZ1lKdXB4WjA?oc=5",
     "samenvatting": "",
     "datum": "2026-11-25T12:03:40.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Mark Buijs terug als burgemeester: 'Door het oog van de naald gekropen'",
-    "normalized": "mark buijs terug als burgemeester door het oog van de naald gekropen",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTjJLeGFPMzZac0txa0lhdGZpZE5SSTQxMFNXUi1Da1NDMEVFaVdZUkppOU5ZLURwaHdfbTdOaEhqWGk5NGk3cFM4UXJUa0Z3VjRHSWRyazY2VnBCXzhIOVlhbllvNUZGNHdUV1FBdnBoOXV5alNLdlVqOUMwVkNibzdPamctVE1TX0FqNWxKaEtNVDRTeGZIWVluOVZjNHZoV0JyYnFqU0FsWjdudExfRHF3?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-25T10:12:33.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
