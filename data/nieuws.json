@@ -1,8 +1,35 @@
 {
- "gegenereerd": "2026-11-28T05:56:04.696Z",
+ "gegenereerd": "2026-11-28T06:21:22.298Z",
  "bron": "diverse (NOS, NU.nl, RTL Nieuws, Omroep Brabant, Google Nieuws)",
  "feeds": {
   "algemeen": [
+   {
+    "titel": "Acht militairen omgekomen bij helikoptercrash in Peru, piloot zwaargewond",
+    "normalized": "acht militairen omgekomen bij helikoptercrash in peru piloot zwaargewond",
+    "link": "https://www.rtl.nl/nieuws/buitenland/artikel/5667665/acht-militairen-omgekomen-bij-helikoptercrash-peru",
+    "samenvatting": "Bij een crash van een helikopter van de Peruaanse luchtmacht zijn acht militairen omgekomen. De piloot is de enige overlevende. Hij raakte zwaargewond en is naar de hoofdstad Lima gebracht voor behandeling, meldde het Peruaanse ministerie van Defensie vrijdag.",
+    "datum": "2026-11-28T06:04:11.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/content/images/2026/11/28/GettyImages-2298549703.jpg?itok=2bLSbSPV&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Total Touch overweldigd door reacties op reünie",
+    "normalized": "total touch overweldigd door reacties op reunie",
+    "link": "https://www.rtl.nl/boulevard/artikel/5667664/total-touch-overweldigd-door-reacties-op-reunie",
+    "samenvatting": "Tjeerd en Trijntje Oosterhuis zijn overweldigd door de reacties op hun aangekondigde reünie van Total Touch. De broer en zus, die in de jaren 90 succes boekten met de band, kondigden deze week een reünieconcert in AFAS Live aan en inmiddels is een extra show aangekondigd. \"Dit hadden we ook weer nie",
+    "datum": "2026-11-28T06:00:00.000Z",
+    "bron": "RTL Nieuws",
+    "foto": "https://redactie.rtl.nl/sites/default/files/ANP271126163-1.jpg?itok=Nd8QDkc3&amp;width=1024&amp;height=576&amp;impolicy=semi_dynamic"
+   },
+   {
+    "titel": "Aanklagers eisen 25 jaar cel voor Canadees die zelfdodingspakketten verstuurde",
+    "normalized": "aanklagers eisen 25 jaar cel voor canadees die zelfdodingspakketten verstuurde",
+    "link": "https://www.nu.nl/buitenland/6418072/aanklagers-eisen-25-jaar-cel-voor-canadees-die-zelfdodingspakketten-verstuurde.html",
+    "samenvatting": "Aanklagers in Canada eisen een gevangenisstraf van 25 jaar voor Kenneth Law, die verdacht is van het versturen van 'suïcidepakketten' naar mensen in meer dan veertig landen. In deze zaak draait het om veertien gevallen in de Canadese provincie Ontario.",
+    "datum": "2026-11-28T05:56:48.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/ogxxc1bafbei_sqr256/0/0/3247/3247/aanklagers-eisen-25-jaar-cel-voor-canadees-die-zelfdodingspakketten-verstuurde.jpg"
+   },
    {
     "titel": "Wekdienst 28/11: Partijcongres VVD • World Tour shorttrack in Shanghai",
     "normalized": "wekdienst 28 11 partijcongres vvd world tour shorttrack in shanghai",
@@ -74,15 +101,6 @@
     "datum": "2026-11-28T04:13:14.000Z",
     "bron": "NU.nl",
     "foto": "https://images.nu.nl/m/rkpxfd5af57r_sqr256/263/0/4195/4195/vechten-of-vertrekken-spannende-congresdag-voor-vvd-leider-yesilgoz.jpg"
-   },
-   {
-    "titel": "Acht Peruaanse militairen omgekomen bij helikoptercrash",
-    "normalized": "acht peruaanse militairen omgekomen bij helikoptercrash",
-    "link": "https://nos.nl/l/2641335",
-    "samenvatting": "Bij een ongeluk met een helikoper van de luchtmacht van Peru zijn acht militairen om het leven gekomen. Alleen de piloot heeft de crash overleefd. Hij is met onbekende verwondingen naar een ziekenhuis in de hoofdstad Lima gebracht. Het toestel, een Mi-17 van Russische makelij, stortte donderdagavond",
-    "datum": "2026-11-28T03:10:50.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/8/E/S/D/K/q/te8SKB7dYGFPu8rhPrfRU3qWRRagwJHPx8BdkcJ/241x101x3344x1881-1024x576.webp"
    },
    {
     "titel": "Brandweer begint voorzichtig met blussen van broei in silo Drachten",
@@ -254,24 +272,6 @@
     "datum": "2026-11-27T21:06:50.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/5/A/T/Y/a/W/sVVHmtVD8AhvgqsMo6Vqn4Pgb24BGshZagNyCyQ/58x404x3808x2142-1024x576.webp"
-   },
-   {
-    "titel": "Nederlander die als Hitler in het openbaar verschijnt veroordeeld in Duitsland",
-    "normalized": "nederlander die als hitler in het openbaar verschijnt veroordeeld in duitsland",
-    "link": "https://www.nu.nl/buitenland/6418065/nederlander-die-als-hitler-in-het-openbaar-verschijnt-veroordeeld-in-duitsland.html",
-    "samenvatting": "Stefan Wijkamp, een Nederlandse neonazi die regelmatig als Adolf Hitler in het openbaar verschijnt, is in Duitsland veroordeeld tot een voorwaardelijke celstraf van acht maanden en een geldboete. De rechter bevond Wijkamp schuldig aan Hitler-verheerlijking, melden Duitse media.",
-    "datum": "2026-11-27T20:52:24.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/beix7hdagp8x_sqr256/831/0/2224/2224/nederlander-die-als-hitler-in-het-openbaar-verschijnt-veroordeeld-in-duitsland.jpg"
-   },
-   {
-    "titel": "Na commotie eert Margraten zwarte bevrijders opnieuw: 'Nu nog op begraafplaats zelf'",
-    "normalized": "na commotie eert margraten zwarte bevrijders opnieuw nu nog op begraafplaats zelf",
-    "link": "https://nos.nl/l/2641314",
-    "samenvatting": "In Margraten is vandaag een nieuw informatiepaneel onthuld voor zwarte Amerikaanse militairen die Nederland hebben bevrijd in de Tweede Wereldoorlog. Het paneel werd niet geplaatst in het bezoekerscentrum van de Amerikaanse begraafplaats, waar vorig jaar twee panelen verdwenen, maar vlak bij het gem",
-    "datum": "2026-11-27T20:49:26.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/1/G/f/M/Q/i/Bwns8UifXMwEQV9RPt8uKgnQXbYcXsN9EWFNSqA/257x131x1328x747-1024x576.webp"
    }
   ],
   "binnenland": [
@@ -327,7 +327,7 @@
     "samenvatting": "In Margraten is vandaag een nieuw informatiepaneel onthuld voor zwarte Amerikaanse militairen die Nederland hebben bevrijd in de Tweede Wereldoorlog. Het paneel werd niet geplaatst in het bezoekerscentrum van de Amerikaanse begraafplaats, waar vorig jaar twee panelen verdwenen, maar vlak bij het gem",
     "datum": "2026-11-27T20:49:26.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/1/G/f/M/Q/i/Bwns8UifXMwEQV9RPt8uKgnQXbYcXsN9EWFNSqA/257x131x1328x747-1024x576.webp"
+    "foto": "https://images.cdn.nos.nl/2/6/U/u/K/b/c82isYPpCE49Hfiatn5youjj4pzBdugehaTzTjJ/8x218x3984x2241-1024x576.webp"
    },
    {
     "titel": "Explosiegevaar door al dagen woedende silobrand in Drachten, bedrijf ontruimd",
@@ -548,6 +548,24 @@
   ],
   "buitenland": [
    {
+    "titel": "'Als de Chinese geheime dienst aanklopt, is nee zeggen geen optie'",
+    "normalized": "als de chinese geheime dienst aanklopt is nee zeggen geen optie",
+    "link": "https://nos.nl/l/2641338",
+    "samenvatting": "Weken na de onthullingen over de affaire van Nvidia-topman Jensen Huang met een vermeende Chinese spion, houdt de zaak de gemoederen nog altijd bezig. Onderzoeken moeten uitwijzen of er daadwerkelijk bedrijfsgeheimen in handen van de Chinese autoriteiten zijn beland. Hoe dan ook: de Nvidia-affaire i",
+    "datum": "2026-11-28T06:00:01.000Z",
+    "bron": "NOS",
+    "foto": "https://images.cdn.nos.nl/3/3/L/7/S/Y/fi3ymH9QeVnXvNCMMVw81iGvpvzVydZcbs4ydrQ/151x1x2576x1449-1024x576.webp"
+   },
+   {
+    "titel": "Aanklagers eisen 25 jaar cel voor Canadees die zelfdodingspakketten verstuurde",
+    "normalized": "aanklagers eisen 25 jaar cel voor canadees die zelfdodingspakketten verstuurde",
+    "link": "https://www.nu.nl/buitenland/6418072/aanklagers-eisen-25-jaar-cel-voor-canadees-die-zelfdodingspakketten-verstuurde.html",
+    "samenvatting": "Aanklagers in Canada eisen een gevangenisstraf van 25 jaar voor Kenneth Law, die verdacht is van het versturen van 'suïcidepakketten' naar mensen in meer dan veertig landen. In deze zaak draait het om veertien gevallen in de Canadese provincie Ontario.",
+    "datum": "2026-11-28T05:56:48.000Z",
+    "bron": "NU.nl",
+    "foto": "https://images.nu.nl/m/ogxxc1bafbei_sqr256/0/0/3247/3247/aanklagers-eisen-25-jaar-cel-voor-canadees-die-zelfdodingspakketten-verstuurde.jpg"
+   },
+   {
     "titel": "Wekdienst 28/11: Partijcongres VVD • World Tour shorttrack in Shanghai",
     "normalized": "wekdienst 28 11 partijcongres vvd world tour shorttrack in shanghai",
     "link": "https://nos.nl/l/2641337",
@@ -635,7 +653,7 @@
     "samenvatting": "In Margraten is vandaag een nieuw informatiepaneel onthuld voor zwarte Amerikaanse militairen die Nederland hebben bevrijd in de Tweede Wereldoorlog. Het paneel werd niet geplaatst in het bezoekerscentrum van de Amerikaanse begraafplaats, waar vorig jaar twee panelen verdwenen, maar vlak bij het gem",
     "datum": "2026-11-27T20:49:26.000Z",
     "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/1/G/f/M/Q/i/Bwns8UifXMwEQV9RPt8uKgnQXbYcXsN9EWFNSqA/257x131x1328x747-1024x576.webp"
+    "foto": "https://images.cdn.nos.nl/2/6/U/u/K/b/c82isYPpCE49Hfiatn5youjj4pzBdugehaTzTjJ/8x218x3984x2241-1024x576.webp"
    },
    {
     "titel": "Iranoorlog die een maand moest duren gaat tiende maand in",
@@ -798,24 +816,6 @@
     "datum": "2026-11-27T12:34:48.000Z",
     "bron": "NOS",
     "foto": "https://images.cdn.nos.nl/2/D/U/B/7/i/kpMBtFKVeJBH1Pn9yrmzcKk9TAtX18dGkDFXZjD/0x2x4000x2250-1024x576.webp"
-   },
-   {
-    "titel": "AI-video met premier in Marokkaans shirt zet Spaanse verkiezingsstrijd op scherp",
-    "normalized": "ai video met premier in marokkaans shirt zet spaanse verkiezingsstrijd op scherp",
-    "link": "https://www.nu.nl/buitenland/6417997/ai-video-met-premier-in-marokkaans-shirt-zet-spaanse-verkiezingsstrijd-op-scherp.html",
-    "samenvatting": "De Spaanse oppositiepartij Partido Popular (PP) heeft vlak voor de verkiezingen voor ophef gezorgd. De partij deelde een met AI bewerkte video waarin premier Pedro Sánchez een Marokkaans voetbalshirt draagt. In de oorspronkelijke video had hij een Spaans voetbalshirt aan.",
-    "datum": "2026-11-27T12:12:02.000Z",
-    "bron": "NU.nl",
-    "foto": "https://images.nu.nl/m/zn8xtj8awz4w_sqr256/423/0/1080/1080/ai-video-met-premier-in-marokkaans-shirt-zet-spaanse-verkiezingsstrijd-op-scherp.jpg"
-   },
-   {
-    "titel": "'Meer Russische sabotage in Europa, brandstichting en explosieven vaker ingezet'",
-    "normalized": "meer russische sabotage in europa brandstichting en explosieven vaker ingezet",
-    "link": "https://nos.nl/l/2641236",
-    "samenvatting": "Het aantal Russische sabotageacties in Europa is in een jaar tijd met 16 procent gestegen, schrijft het International Institute for Strategic Studies (IISS) in een rapport . Die Britse denktank turfde het aantal meldingen over mogelijke Russische acties in de periode van september 2025 tot september",
-    "datum": "2026-11-27T12:05:16.000Z",
-    "bron": "NOS",
-    "foto": "https://images.cdn.nos.nl/8/H/8/e/7/b/DZscY8y8Lt849sXePPTCUsmASo4hqGxxvFY3aF6/8x179x3984x2241-1024x576.webp"
    }
   ],
   "politiek": [
@@ -1910,15 +1910,6 @@
   ],
   "zeeland": [
    {
-    "titel": "Zeeuwse bevolking blijft de komende jaren fors groeien, aantal 80-plussers verdubbelt bijna",
-    "normalized": "zeeuwse bevolking blijft de komende jaren fors groeien aantal 80 plussers verdubbelt bijna",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeS01alo4VGx1SDZEX0EtMWM1WkhWTWJUR2MtVVVoMFhEdlBpTFNhRG9QVkcyNVUtTkhSZmgxUlY4ZXVDb3F2X1B5eFUwU0d1bzNad080aWxQcHVlMnh1eTFTZmcyZnAwTkw2ck5JWUloUnNkTjJ5VVZaODdHMHlUZUh4WW9sUVJhVEZOT3VoQ3VXNWNBdS1mN0tQdGZVbXNmRHFob2tBQ1lyZVhBTEtETG8xd2k2WmR2YVU4VEE2dmNicmktVjd2YzY0OA?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-28T05:15:02.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Letsel bij botsing auto's op N253 Sluis",
     "normalized": "letsel bij botsing auto s op n253 sluis",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTkljMHM2MVBtUTVqVjlBcjJNRUlzMkEyQjloZGVSYUtEZElESzhzbnpsZktETWNGQUo4Q3A1ckxwdmFKYkxST3cwYldWTEVLamtydDdscE92NnhiTTFzZ3NaRGxUa1VXcEdNYVg1YmctM3hoYVBxVnVDOTBIYUtOMVdkZw?oc=5",
@@ -1993,7 +1984,7 @@
    {
     "titel": "Nieuwe 'Nachtwachters' gezocht tegen lichtvervuiling in Zeeland",
     "normalized": "nieuwe nachtwachters gezocht tegen lichtvervuiling in zeeland",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbG9aS3hCM0Z1ZHhPWFhkdnVEVEV5cnh2bnA2S2ZsSHQ0Y0NQWmluRm9UbDZ6ckNMcVhOamllbFZybE0xRmRLZjRsMHJtNmYxcG5RRTkweDdIazloRUc2VXhmaWpVXzNMR1Y0TmZTU1V0YUtKMGV1WmlvUGFsaDUwT3ZWWnlmNk1XdndSNjJuSlRmRnFWTlp0Y0hSZnhtWVVxblpaZg?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWQycWtDaGhEQ1dKNEZjMlVoUFZtZHhZN0dCZmJjUl9DS3RqYnc2S2VPUy1telN3THJ0aDhfLVZHdDhTemN0T2hKanZScXFrZTFwV3VlTU9LNTktNG9FZjJBd1VCaGwwSmhrMlF3QVF6RVhLWEZsQlVxNnV2TWN6NEhNcC1Wa1hOSU5kUWxydVdLREh2Mk10ODU3dUlXbVlTNnVmUGNfMA?oc=5",
     "samenvatting": "",
     "datum": "2026-11-27T16:37:00.000Z",
     "bron": "Google Nieuws",
@@ -2081,15 +2072,6 @@
     "foto": ""
    },
    {
-    "titel": "SP en chauffeurs kritisch op onlogische hub-paaltjes flexvervoer in Zeeland",
-    "normalized": "sp en chauffeurs kritisch op onlogische hub paaltjes flexvervoer in zeeland",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTkt5a0p4b0t1eGJ0UThNZXBLM2RNc0tfeExQelk0UjZ2Rm1nSEZaUXU2RGlFSm9lQU5ZSVVYRWFCNzdEYUFtYzVfMXJkSWxIRi16bTlfSzJuRjkyd2Q1dUV2WkgxZDBLYkJDR0dxY1MwOVFzSlAxTzlBbHMtdXJVTWxvOTJtWTk4UnhuV2dla0hLMmJjaGdn?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-27T13:25:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Man gewond bij steekincident in Vlissingen, politie zoekt drie mannen",
     "normalized": "man gewond bij steekincident in vlissingen politie zoekt drie mannen",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVXJzX0pPSDhYR0ZNN0RZVTRIbllIcGlVX2xLSW5qWERsbUZjRmNPdl9oeGtyNUlkZUwzT1Zjc19pM0xVVXVOcnlQcncwQm41NmdMM0t1YVl0SUxnektBaUwzclVJbkc0UHl3UVVsT3FoTE1SVDFyRUloZzFIbVlpcXRIM21XcEpKYzRsdjFyZ2hueDB6cW9WelhkZkNlU0s0dDh0dHFhX2NsSV9H?oc=5",
@@ -2113,15 +2095,6 @@
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdG9GVWhaYXlmREtJRVJveEp2bnNISW9WUy1QSmhhOXFkdXJIQlJURENHZVBJakF6RWw4VTAzdFJKdERiRUlvR2xtVHFjNHhiZUR4N0hDX1VUcmVGSDlqMlRlYmFGdUozZWt1REo0ZlN0VUVRaHZjcWlHcGw3c19PZmRBa1RWc3pJdUE?oc=5",
     "samenvatting": "",
     "datum": "2026-11-27T12:48:57.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Gerrit Overmans voorzitter Senioren Brabant-Zeeland: ‘Ouderen als pijler belangrijk’",
-    "normalized": "gerrit overmans voorzitter senioren brabant zeeland ouderen als pijler belangrijk",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWVg4ejc1NUNRR1FNakY0d3ZPaUFxWGRPQ3pXbnROYmtXT3FTUjdXczRGR05wTExJbFN4ay1aalJwZnBBV1lnTndRM1pHT0NqOWl0QlpYUWF2S2ZaZFJEQ2JxRXFTZkpDdGJGTlV3bFZKS2RaX1Y4NmxocWVkaEgwN1NuZU1vcTZUSmxzT0pFbW1HOGtidU5jaURmbzhCMm12NG4zWWE5ZXFkZEt5d0pmRWllajdQWVpxXzE4M1JOaw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-27T12:41:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2153,15 +2126,6 @@
     "foto": ""
    },
    {
-    "titel": "'De groene hub-paaltjes staan op onlogische plekken; het lijkt op ezeltje prik'",
-    "normalized": "de groene hub paaltjes staan op onlogische plekken het lijkt op ezeltje prik",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzdBODk3STBtVmZ1NWRBaTIwQncyYl8wWXlpSGdmNlRhM1R4SW9Sd0d6YnNQWndlNHpUeWRQUTF0c3pzTG9Pc3IzcXBqTlZpWm5XMEhnQmJmaUVWcDBlSkFwOXlHZEtBSm5zckVPb0FKbFJtTjhDR1JoUm9nc2RMemtYY3ZEWDNzT1U3eXdjVnpTcWo0WHdNTXFyY29QdGRuRWEwQXhuajMxX09VUm1fUWY5TldoTzJfN3hOSF9R?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-27T11:18:33.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Commotie na fietsongeluk met kind in Middelburg",
     "normalized": "commotie na fietsongeluk met kind in middelburg",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa1lJdGtKT0luem5RRlN0SlQyY1hZVjVqemtfYmVUdFUwckdXVEZpSnNyWG9icUl6d3JfdmlDdHJTUDY5VDhOYUtLY2ZxZDVDQ2FMd1JCeXpUdmNvaVNuNldTRUtCZklLQXB3cDIxb1NFNDBIS3E4X1VfcEdJVF84RUU0NXRNU3RDTm1XNWdaTQ?oc=5",
@@ -2178,9 +2142,54 @@
     "datum": "2026-11-27T10:56:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
+   },
+   {
+    "titel": "Na lange aanloop begint de verbouwing van Domburg: ‘We willen eigenlijk alles’",
+    "normalized": "na lange aanloop begint de verbouwing van domburg we willen eigenlijk alles",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1ZiN01PN1NESFBJTWVxaS1ja2tsTW55ZTBvMVdCVmxoM2R5NXdPRDBtQTAwdHJ6bGY5dExUcXpsN09WUndKYjQ2LW5KNkVZS3hNQW9LY0RHSXF6TVNrWWdKbjBkWnMtTEdhS2hPeFVyOFZuZHZHcDlIVTlJNVd2SEliazBTN1lWTzBNUFc0V0k1WGJ6bnUtdVpyb1dJd2s0UDFuZTJKUnZMX2ZrWkRv?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-27T06:30:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Definitieve uitslag verkiezingen Nieuw-Zeeland: geen meerderheid voor links of rechts",
+    "normalized": "definitieve uitslag verkiezingen nieuw zeeland geen meerderheid voor links of rechts",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTBCVlVxZDFELUVHMENveS1Ib01NVFBuMl9sb1BCUkZMbG9uVUdDWHM3WVhyZ0NfdmpIb2VOYWJFUTRKMFZSTUFPRXEzNjhGNDJwbG84dF8yYTg3dE1IRWFNUHFvWk1uQVNtTlNxdEVMUUZia201TmNaWk01THpleEgyeG1SQ1VzNzJsaGRTYWFVM0taNnhzM3F4aVBnMlNkNTVYaWpTRXN1X1JtZzNjNTRTSDBjdw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-27T03:31:07.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Lizo Koppejan opnieuw lijsttrekker voor ChristenUnie in Provinciale Staten, nieuw gezicht voor waterschap",
+    "normalized": "lizo koppejan opnieuw lijsttrekker voor christenunie in provinciale staten nieuw gezicht voor waterschap",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ0p6Ri1BTjllb2V0RjNuZzFIVkd2aVZjdHhTUUJtNXZINldBX0JLcUdBOW8xRmU0LTFhWnJpSFZvdGFmdjhHT3ZHOWxSa2huTDFFQTNXRlVvdi1MT0RJSjFkdXNCRldtenRKaV9XVEZET2ZZUmJfY01IeHROUXlVWnpGQzRtX0NaQVRnbk9JZzFsZkVUTndYVGdaSUVjRTVyUWI3cWxMc1pyeUFybE42bDhubVJZMlJDNDZDNW9IZUItNkc4REF6SlVIRjRWc1FJbHJ2YUdrSjZCLXJL?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-26T22:00:12.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Sterkste man van Nederland trekt 21.000 kilo aan vrachtwagen bij opening eerste Zeeuwse Winterfair",
+    "normalized": "sterkste man van nederland trekt 21 000 kilo aan vrachtwagen bij opening eerste zeeuwse winterfair",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVEowdGVHZ21yb0RNNnZUUmtUX21fdkctVUNwdE5USmg0cEJpR0RBWGc5WEJGYXNaYzVHb2l4bU1vZldjcUV4dlBFRWhpQ3dKQ0hTRVh3SVdmN3BpR0VpQXoxNEl0cWVpTjdaR0JPTHh4bkVTczR6UTB2OVRnZEY3YXZqOVdVc0FUckpoWG1uU2ZGeFFUckgzODZIcndDU2FneWY4VGhQanFwZl9YeTlmUjZZNGdnUllLMlVmRkdMcmd6R2duQ0JTNm9UMlExdHBxdHZLZjQ2aW1Rdw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-26T20:16:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
    }
   ],
   "brabant": [
+   {
+    "titel": "Onzichtbaar licht en radars: deze Brabantse bedrijven helpen defensie",
+    "normalized": "onzichtbaar licht en radars deze brabantse bedrijven helpen defensie",
+    "link": "https://www.omroepbrabant.nl/nieuws/6036520/onzichtbaar-licht-en-radars-deze-brabantse-bedrijven-helpen-defensie",
+    "samenvatting": "Eindhoven is deze week verzamelplek voor defensiebedrijven en experts uit heel Europa. Slimme startups die handzame radars bouwen die drones opsporen, antennes die vijandelijke signalen opvangen en onzichtbare lichtbundels waarmee je supersnel berichten verstuurt. Met een oorlog aan de grens van Eur",
+    "datum": "2026-11-28T06:00:00.000Z",
+    "bron": "Omroep Brabant",
+    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTY0ODQtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1ES2ZtNlhvOUVZRjhwRmh2NmVIOWl3ZGpVSzR4T2pVMng5RGUzbHB3UmdBJTNEJnNwPXImc3ByPWh0dHBzJnNyPWImc3Q9MjAyNS0wMS0wMVQxMCUzQTQwJTNBMDBaJnN2PTIwMjYtMTItMDY="
+   },
    {
     "titel": "Opnieuw brand in wijk Heuvel in Breda: ondergrondse container in brand&#xA;",
     "normalized": "opnieuw brand in wijk heuvel in breda ondergrondse container in brand xa",
@@ -2389,15 +2398,6 @@
     "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.50/0.50/cmV2aXNpb25zLzUwMTY0MzEtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz12U3ZDQVJxcTFXZXZzekh0aXV6b0dYRm0lMkJmTVBkTkZ4UHdraEhGOWhKckklM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
    },
    {
-    "titel": "Arriva haalt bushalte weg, bewoners teleurgesteld: &#39;Dit betekent isolatie&#39;",
-    "normalized": "arriva haalt bushalte weg bewoners teleurgesteld 39 dit betekent isolatie 39",
-    "link": "https://www.omroepbrabant.nl/nieuws/6036349/arriva-haalt-bushalte-weg-bewoners-teleurgesteld-dit-betekent-isolatie",
-    "samenvatting": "Voor veel oudere bewoners in de Tilburgse wijk Witbrant Oost in Tilburg is de bus een dankbaar vervoermiddel om boodschappen te doen, te genieten van een theateravond in de binnenstad of een bezoekje te brengen aan een van de kinderen. Meer dan de helft van de mensen die er wonen, is 65 jaar en oude",
-    "datum": "2026-11-27T10:30:00.000Z",
-    "bron": "Omroep Brabant",
-    "foto": "https://api.omroepbrabant.nl/img/f/1280/720/0.54/0.45/cmV2aXNpb25zLzUwMTYyNTMtMS5qcGc_c2U9MjA0NS0wMS0wMVQxMCUzQTQwJTNBMDBaJnNpZz1PTUR3YXBvYU9iaHVzQXRoR3YzTnBWRkU0bVM5V1V6ZmVLcndsJTJCeGplMTglM0Qmc3A9ciZzcHI9aHR0cHMmc3I9YiZzdD0yMDI1LTAxLTAxVDEwJTNBNDAlM0EwMFomc3Y9MjAyNi0xMi0wNg=="
-   },
-   {
     "titel": "Affakkelen bij Shell kan nog dagen duren: metershoge vlammen boven fabriek",
     "normalized": "affakkelen bij shell kan nog dagen duren metershoge vlammen boven fabriek",
     "link": "https://www.omroepbrabant.nl/nieuws/6036500/affakkelen-bij-shell-kan-nog-dagen-duren-metershoge-vlammen-boven-fabriek",
@@ -2535,20 +2535,20 @@
     "foto": ""
    },
    {
-    "titel": "Defensie houdt militaire oefening in gemeente Borsele",
-    "normalized": "defensie houdt militaire oefening in gemeente borsele",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2gtRGtHQllKejRIMUdNV1Y2b0RadDFxS0ZOY3ZpcHdNandqZzFzXzhvNERVcjdSXzJUSks2VElmb3BVcVFpVzg1Zkd5QWdkYzJRbVhXMEhUUkFPYmRhdnFqLVAycU01cHpNeGhXMWpGbVljdkZnUmVIRS12R3U2OGd0ckNwV2VmTF9DWmV5SFlpTVhK?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-10T08:00:00.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
     "titel": "Busdienstregeling in Borsele verandert vanaf 13 december",
     "normalized": "busdienstregeling in borsele verandert vanaf 13 december",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWNfOW12WHBZb1VkTWZhbVhlQXJxTVdhTXZrVE5rUmY0MnV5dHlwWG1GTkxFcVlfTTA2R19mUFJJX2NvNEU1M05xSzlRLWJwbGl0NHFDQ0taQW4wSUk1QndMMHFpbEVWV2JPV3lTaEkxU0FhaDFZSjZWS2ZWbExiSjlPaWtBZ2RTT2pXSnNyWWhUWjZhc1k5Rg?oc=5",
     "samenvatting": "",
     "datum": "2026-11-06T08:00:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "Gemeente Borsele roept inwoners op mee te denken over leven in 'North Sea Port District'",
+    "normalized": "gemeente borsele roept inwoners op mee te denken over leven in north sea port district",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMjc2bElyMFZ4dFAxd004bGR3QXpTVENqN1NkWVlIZE1Pell1WXBqaWhNTVVvZldtbW5SMHJHcWtodWpzYTR1MjBDdHk3UG9BX1dwckRvci1qeGhheDlTVVdYNkJrSFREM0M0Z3BEbzBhSEVlWk5Udk9id0ZJWlY1Rmo5MEhHbk15YV83aGNGSGQ2Y2ZNSmVyLVlrbm9nNkpHR3I2dHppcFJRTzRtRFdUU2h3X3B5cHN4MkswekZDODI?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-05T08:00:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -2955,7 +2955,7 @@
    {
     "titel": "Stroomstoring op Jasmijnberg in Roosendaal opgelost",
     "normalized": "stroomstoring op jasmijnberg in roosendaal opgelost",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUnh0aVhCZVI2UzFjQmY1RFpUenlGMDVDdElhSURHWWxjWkx2V1VOcVdvMDBjbHd4VXp4UWVVMHp5R0JqSjBDNWlyYnBPYVh5VW9NR1lodG5DRjNaVmF2RTVQbnBDY0gzNGV4cXN4T2N5b1A4Y0dDd0k2VGFMMVZsdmp6UW9GT2k1aDZOMVZkRTl6bFNId2c?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb25uM3pUUkFlQVFJd21HSFZQbE5JM05NVUhEMnZ0d19LT3R0c3gyb0RPeFBBcXdVM0Zjc1hfVXlWNDg5SkpiVm9lQXVmd2JkSXh3Nmxjd3M5RmlaUGZuajBiLVNIbDEtQnB2dEdUaUJ0UnFVc1RIQ3hEV3dTSGFyeExDRGt4LWg3R1kwYldMUmRxdVFN?oc=5",
     "samenvatting": "",
     "datum": "2026-11-28T00:15:32.000Z",
     "bron": "Google Nieuws",
@@ -2991,9 +2991,18 @@
    {
     "titel": "Man uit Roosendaal belt politie voor discussie over beschimmeld brood: ‘Bel ons niet voor dit soort kinderachtige ruzies’",
     "normalized": "man uit roosendaal belt politie voor discussie over beschimmeld brood bel ons niet voor dit soort kinderachtige ruzies",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUFd1OEdUZUNDNVhJZHdMY3Y2RXlSdW5vOU11MG1nYlowYUwxbnVRMU80WW5GS2FPd3BPbUkyZ2NvTGN1aUp1UGd5RG1RM1p0eWZkQ0JYSE1KMld4TjBBejNKamZZckFvMlpqRm9TOVM1NFJWa2lLNWx2VzdMWXdOa3dYbXdyVjRhWUN5amo2WFFYd2ZlNHlreWtPdEljX0NRdWc1U3l1WHRhUkhoNWgwbGx4aEhoZ3Q1amV2S2ExbFlpOGYtT2Q3aUJ0djhfOTBzalE3WUMxaWJhTGMxeUZZODZ3TXpCSF9aZFU3UWpn?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUHNzb2YxaGJJR2ZyUVcxaU5xSmRWTTE2QnZuMlA3SGZBZ19GbFZEdERXaGFDbnp6alpzdkx3REstVWFJYldfbW5TM3ZiU2E0UlU2b0d3Y1NwOGxaakJsbFBEZFdmQk16Y05fQUFxaVBOb2pveXgwSHlNeU1BT0g1LVVrRnk1LUhuekVYZThhSjA5VUdaeXozS2dDQ3AwRlE0YjZhMFE3VU1vMFpfMUpuOWwyYnRQM3JpNEctRWQyNDFfRkJFV2pCRWVqSjBDOVJYRkU3RVBMY21TVEZLRlpuek53N1Y2Y1pBSUFxWmpKSDRwX0ZzZ0E?oc=5",
     "samenvatting": "",
     "datum": "2026-11-27T17:50:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
+    "titel": "The Pack Junior danst zich naar EK Hiphop 2027",
+    "normalized": "the pack junior danst zich naar ek hiphop 2027",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOEkzcEdWem1NTUZvNEdHQ1drc0h6dUJUbnNzNGtrbEl3RXFocU9IV2dLOEhVemQxTnlTOTFhSXVoMUtDS2hkSVVRNmk3TTI4c3pRMHZ2RnZpVXNLWDk4MTZackJrVWhtbEVkcnRYVlVmUXFMXzZ4QmhQbXF4bnVGRFlwS2xHbElkYXhRU3RDaTlvN21TWDcw?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-27T17:06:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3115,6 +3124,15 @@
     "foto": ""
    },
    {
+    "titel": "Gemeente Roosendaal roept inwoners op om vuurwerkoverlast te melden",
+    "normalized": "gemeente roosendaal roept inwoners op om vuurwerkoverlast te melden",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkJkcU1iMXByQVFUOXE4MGwxVjF4RmVKSy1RZDZmLVFEZ25mcVFMdFhocUREX09qU2tmZ0pKcjlRYVp3aklGSXFObWlDeF9JMzUxc0trbmxMN1h6MWhzRHFocmZ1b0I2N081d1dpUm1TVUdiUW1DOWNpOVoxbVJrel81ZXhjTFhkY0NmbzU0SDdfeHplc3VPTUJHUUVCSWw2S2NFT2xBV2hyc0FNaHg2RFR4NA?oc=5",
+    "samenvatting": "",
+    "datum": "2026-11-26T14:01:00.000Z",
+    "bron": "Google Nieuws",
+    "foto": ""
+   },
+   {
     "titel": "Overlast door vuurwerk? Meld het eenvoudig en veilig!",
     "normalized": "overlast door vuurwerk meld het eenvoudig en veilig",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOHY4VWJkWk1OdGdTVjd6cmNER1JyZ2RqaTUyeEJpSE9YSXdNTlVPb2dqUHhzbG5KVnpGVThlOWprOTVZQkNMV0lKTDkwdV9PSEdUTjgyaXB1QkJHZTU1dXRKbm5CMzBEZF9GZWxNVGxYaWI1OUR5WW9QSHdGWHFOWlJObllaOXZ0WmViSDB0QXlJVm9qb2hGbjl4dw?oc=5",
@@ -3162,9 +3180,9 @@
    {
     "titel": "Geen treinen van, naar en via Roosendaal in Sinterklaas weekend",
     "normalized": "geen treinen van naar en via roosendaal in sinterklaas weekend",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMkNuWWo4WjZyZVdSVVJMeHBWSkluUnhDekFFTWRjYzFnS1ByODAya0FncEc3Ny14QmZVc21ELVBCcWdEdS1nUWwxZmRSVzJBc2ltQzZ1OXNMRnR6cTZwbGhJSExwb3QzMVljWkVOUDBwaDh1UEU3bmZfVEV2cGEzWlRCR2Y3ZjBRWXdZYzcyT3ZhQ0p4eHVZcQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRXBSbTV2VmRLbWJfYkdGZW0tRHRVdW1nd0ZxN1duVVVaZEtnODd0cFlGYWV0cTZIdFNWem1wcU11NXpDTWg1QjUydkxYaUNqZ2d1ZEcyRnZGUmVhb1V6aURtN2cwYUFqNnUxTUdya01uUndJY2FPVzJrRnlVZlZzVzUyTUJ6M0Q2ZXYzYkhOU1luOVZ4WWNFYlFEcnZGcVk?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-26T10:10:26.000Z",
+    "datum": "2026-11-26T10:04:52.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3178,20 +3196,11 @@
     "foto": ""
    },
    {
-    "titel": "Werden kindermoord en verkrachting in pastorie van Kalmthout volledig verzonnen? Raadkamer beslist vandaag over lot van koster (61)",
-    "normalized": "werden kindermoord en verkrachting in pastorie van kalmthout volledig verzonnen raadkamer beslist vandaag over lot van koster 61",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONUhuNUI2RFVac1hWUTQ1Q1N3TFJCQWV5MjBfQ2NnZXF1endfTDl1RXJNeUVWYllNYlRHay13NXl5aGozN0FlZzlOTTNyRU8wNnFNWktqNkRVZm9wSEY3ZGl2RUhWcmxrbnZheUlpcXQ5M1F5eW1OMVZNOUZMWGFqM2hfeHV5ZFljNk1DU1VQTkJpQllIbDlyOWFzNHJEY0U5blBUeHRkVFhqSmx1Z1JnRXRCU1JyWDg3NjlrRzVnQkZBekhlbFZ6NHVnam9pVTlZZENWclhpNWRucENDUUFxalpLaFRkWENHaVZ0RjJvRkJCYkZMVG1ubUhQYw?oc=5",
+    "titel": "Felle woningbrand aan de Brugstraat in Roosendaal",
+    "normalized": "felle woningbrand aan de brugstraat in roosendaal",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRURueTZ2QW1zak5ZaXFuREJaR0k5b0ZZMzlwX2x2QVRFb1h3T1NWWXBXMlBwNHFwcXVxT0d1ZGp2elh3dHU0MWV4TDZ5T252Q1hMV1lYSzdsQVA3VVpsMEZLUk5kZm9VNUpvak1VTGhrQWoybVg0M1NBbWhfajhjNGg4MGdUczNMaU13cHRKVGNCUEZyYjJyNXRSSG8tYmJi?oc=5",
     "samenvatting": "",
-    "datum": "2026-11-26T04:35:22.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Felle woningbrand aan Brugstraat in Roosendaal",
-    "normalized": "felle woningbrand aan brugstraat in roosendaal",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX2QxOENVLWF4b0lpVDgwS2ZTQkd3YTNyOVg3RFBDY0U3eWVrdklpMl9remF2Z2FQMThpMVNvTkQtTWZ6QzN0MHRYc3ZRYmtNcUtVQ08wdXNiUXJIOVJMSGtIRXpNYm15Z2l5TTBoRS1fMk8xTERMV2R0U3ExTk1xbmNSbU1HU0ctdVVMQw?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-25T18:36:02.000Z",
+    "datum": "2026-11-26T07:35:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    },
@@ -3210,15 +3219,6 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdm9MNUU2M2MyWUtibi1FemU1cHdfOWdqN2YtcnNzY3AyVWcwX0ZfRThFZmx4ODQzMi10d3ZKU2NrTWZic3JqVllJSk1OTlVDS3JBUmNkUjVWeU5mQnFhYndVQ0F2eFVmSjBFaDhzVWFHTms4ODRvSnN3ay02MnAwRm5YV0Nvd0lGckplajlvOWhOX1Q3OExvVktzZ081Q3hrOGxKeHdiU3dPZF9abUprV293Ukhnc0tUa2lPdkpyZw?oc=5",
     "samenvatting": "",
     "datum": "2026-11-25T16:24:01.000Z",
-    "bron": "Google Nieuws",
-    "foto": ""
-   },
-   {
-    "titel": "Woningbrand in Roosendaal: veel rook vrijgekomen, geblust vanuit hoogwerker",
-    "normalized": "woningbrand in roosendaal veel rook vrijgekomen geblust vanuit hoogwerker",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN1FrYXhaeExOaHI1YkVXZzNBNTlPUXU4QjBBb1FFNkUyQTlUTENlelJheWg0TlppYk1IRzZsU1pLNmRwQ1hxeGsya3lyc244aFB4bWFoblk2NlYwamw3NTN1YkJna2NTZW1tZ1RkV2RkbHVteXZWRkxuLUxmUTJjVVJhTUlEelVoS19SWU9OWFp2Sy1IT1lZZkR1ZlNYbks1ajlJdHNTTmJnSV94LUllY3IzUTNveDZuSXNfenlMMHMtQThPb0xmVA?oc=5",
-    "samenvatting": "",
-    "datum": "2026-11-25T16:15:00.000Z",
     "bron": "Google Nieuws",
     "foto": ""
    }
